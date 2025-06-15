@@ -1,15 +1,16 @@
 # Cabinet Decisions 🇱🇰
 
 This repository contains sturctured data about cabinet desisions in Sri Lanka 🇱🇰 - updated in real-time.
+
 [TSV Table of Cabinet Decisions](data/cabinet_decisions.tsv)
 
 ## Summary
 
 |...|...|
 |:--|--:|
-| Total Decisions in Database   | **215**     |
+| Total Decisions in Database   | **315**     |
 | Latest decision in Database   | **2025-06-09** |
-| Earliest decision in Database | **2025-01-06** |
+| Earliest decision in Database | **2024-12-09** |
 
 ## Latest Decisions (10)
 
