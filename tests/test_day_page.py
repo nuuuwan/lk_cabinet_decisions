@@ -9,7 +9,7 @@ class TestCase(unittest.TestCase):
             ContentsPage().get_year_page("2025").get_day_page("2025-01-06")
         )
         decision_list = day_page.cabinet_decision_list
-        self.assertGreater(len(decision_list), 10)
+        self.assertEqual(len(decision_list), 17)
 
         first_decision = decision_list[0]
 
