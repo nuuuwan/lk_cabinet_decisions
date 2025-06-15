@@ -17,6 +17,7 @@ class ReadMe:
             "",
             "This repository contains sturctured data about cabinet desisions"
             + " in Sri Lanka 🇱🇰 - updated in real-time.",
+            "",
             "[TSV Table of Cabinet Decisions]"
             + f"({CabinetDecision.CABINET_DESICIONS_TABLE_PATH})",
             "",
@@ -68,9 +69,7 @@ class ReadMe:
     @cached_property
     def lines(self):
         return (
-            self.header_lines
-            + self.summary_lines
-            + self.latest_decisions_lines
+            self.header_lines + self.summary_lines + self.latest_decisions_lines
         )
 
     def write(self):
