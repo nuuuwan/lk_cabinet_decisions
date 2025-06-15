@@ -38,7 +38,7 @@ class CabinetDecisionChart:
         daily_series = series.reindex(full_index).interpolate(method="time")
         moving_avg = daily_series.rolling(window=7).mean()
 
-        plt.figure(figsize=(16, 9))
+        plt.figure(figsize=(8, 4.5))
         plt.bar(
             series.index,
             series.values,
@@ -63,6 +63,6 @@ class CabinetDecisionChart:
         plt.grid(True, axis="y")
         plt.legend()
         plt.tight_layout()
-        plt.savefig(self.IMAGE_PATH, dpi=300)
+        plt.savefig(self.IMAGE_PATH, dpi=150)
         plt.close()
         log.info(f"Wrote {self.IMAGE_PATH}")
