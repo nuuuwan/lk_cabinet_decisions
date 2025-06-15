@@ -26,9 +26,7 @@ class CabinetDecision:
 
     @cached_property
     def key(self):
-        return self.__object_key__(
-            self.date_str, self.decision_num, self.title
-        )
+        return self.__object_key__(self.date_str, self.decision_num, self.title)
 
     def to_dict(self):
         return {
@@ -43,9 +41,17 @@ class CabinetDecision:
     @staticmethod
     def __json_file_path__(date_str, decision_num, title):
 
-        return os.path.join(
+        year = date_str[:4]
+        dir_year = os.path.join(
             "data",
             "cabinet_decisions",
+            year,
+        )
+        if not os.path.exists(dir_year):
+            os.makedirs(dir_year)
+
+        return os.path.join(
+            dir_year,
             CabinetDecision.__object_key__(date_str, decision_num, title)
             + ".json",
         )

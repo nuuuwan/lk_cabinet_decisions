@@ -10,9 +10,7 @@ log = Log("Pipeline")
 
 class Pipeline:
     DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
-    CABINET_DESICIONS_TABLE_PATH = os.path.join(
-        "data", "cabinet_decisions.tsv"
-    )
+    CABINET_DESICIONS_TABLE_PATH = os.path.join("data", "cabinet_decisions.tsv")
 
     def get_cabinet_decision_list(self, limit):
         contents_page = ContentsPage()
@@ -32,12 +30,21 @@ class Pipeline:
         return decision_list
 
     @cached_property
+    def data_file_path_list(self):
+        data_file_path_list = []
+        for year in os.listdir(self.DIR_CABINET_DECISIONS):
+            dir_year = os.path.join(self.DIR_CABINET_DECISIONS, year)
+            for file_name in os.listdir(dir_year):
+                file_path = os.path.join(dir_year, file_name)
+                if not file_path.endswith(".json"):
+                    continue
+                data_file_path_list.append(file_path)
+        return data_file_path_list
+
+    @cached_property
     def data_list(self):
         data_list = []
-        for file_name in os.listdir(self.DIR_CABINET_DECISIONS):
-            file_path = os.path.join(self.DIR_CABINET_DECISIONS, file_name)
-            if not file_path.endswith(".json"):
-                continue
+        for file_path in self.data_file_path_list:
             data = JSONFile(file_path).read()
             data_list.append(data)
         data_list.sort(key=lambda x: x["key"], reverse=True)
