@@ -64,6 +64,8 @@ class ReadMe:
             f"{latest_decision.to_json()}",
             "```",
             "",
+            f"[JSON Source]({latest_decision.local_url})",
+            "",
         ]
 
     @cached_property

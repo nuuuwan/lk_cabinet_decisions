@@ -127,6 +127,8 @@ class CabinetDecision:
 
         return None
 
+    # HACK
+    # flake8: noqa: C901
     @staticmethod
     def __get_data_file_path_list__():
         data_file_path_list = []
@@ -134,6 +136,8 @@ class CabinetDecision:
             dir_year = os.path.join(
                 CabinetDecision.DIR_CABINET_DECISIONS, year
             )
+            if not os.path.isdir(dir_year):
+                continue
             for year_and_month in os.listdir(dir_year):
                 dir_year_and_month = os.path.join(dir_year, year_and_month)
                 for file_name in os.listdir(dir_year_and_month):

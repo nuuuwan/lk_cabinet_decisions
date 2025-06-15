@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 15:51:20**     |
-| nDecisions   | **720**     |
+| Last Updated   | **2025-06-15 16:04:36**     |
+| nDecisions   | **723**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-12-21** |
 
@@ -29,13 +29,15 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 }
 ```
 
+[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
+
 ## Last 3 Cabinet Decisions
 
 ### 1) An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)
 
 *2025-06-09*, *#15*
 
-*Source:* [https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230)
 
 It has been scientifically proven that physical and psychological abuse caused to a child by corporal punishment is extensive. Therefore, approval has been granted at the Cabinet meeting held on 2024-04-29 to amend the Penal Code (Chapter 19) to prohibit the corporal punishment in all spheres and to make provisions for the imposition of punishment for physical abuse. Although the Cabinet of Ministers has previously granted approval to publish the Penal Code (Amendment) Bill prepared by the Legal Draftsman for the relevant purpose, in the Government Gazette and present the same in Parliament, it has not been possible to act accordingly. The need for the expeditious enactment of the said Bill has been identified. Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament, was approved by the Cabinet.
 
@@ -43,7 +45,7 @@ It has been scientifically proven that physical and psychological abuse caused t
 
 *2025-06-09*, *#14*
 
-*Source:* [https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229)
 
 Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend the Code of Criminal Procedure Act, No. 15 of 1979 to make provisions for the prohibition of Corporal Punishment in all spheres. Accordingly, the proposal made by the Minister of Justice and National Integration to grant policy approval of the present Cabinet to prepare an amending Bill for the relevant purpose, was approved by the Cabinet.
 
@@ -51,11 +53,11 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 *2025-06-09*, *#13*
 
-*Source:* [https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228)
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (720)
+## All Cabinet Decisions (723)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -773,7 +775,10 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2024-04-25] [Vesting the Land where the Negombo Eththukala Beach Park is located with the Urban Development Authority for the development of the said Park](data/cabinet_decisions/2024/2024-04/2024-04-25-003-ca63.json)
 - [2024-04-25] [Expansion of the Mindfulness Training Programme being implemented 	for school children islandwide](data/cabinet_decisions/2024/2024-04/2024-04-25-002-60f6.json)
 - [2024-04-25] [Entering into Memoranda of Understanding/Agreements in view of Educational Collaboration](data/cabinet_decisions/2024/2024-04/2024-04-25-001-52fb.json)
+- [2022-12-19] [Establishment of the Institute of Economics and Trade, Sri Lanka](data/cabinet_decisions/2022/2022-12/2022-12-19-001-1997.json)
+- [2021-12-20] [Signing of the Treaty on the Prohibition of Nuclear Weapons  (TPNW)](data/cabinet_decisions/2021/2021-12/2021-12-20-001-322a.json)
 - [2020-12-21] [Support to Justice Sector in Sri Lanka Project](data/cabinet_decisions/2020/2020-12/2020-12-21-001-181d.json)
 - [2018-11-27] [Construction of Parallel Roads for access to the houses situated on either side of the Matara - Beliatte Railway Track](data/cabinet_decisions/2018/2018-11/2018-11-27-001-ba34.json)
+- [2017-12-19] [Amendment to the Firing Ranges and Military Training Act, No.24 of 1951](data/cabinet_decisions/2017/2017-12/2017-12-19-001-9552.json)
 - [2013-12-16] [Allocation of Land at Hulftsdorp to the Attorney General's Department](data/cabinet_decisions/2013/2013-12/2013-12-16-001-e66c.json)
 - [2011-12-21] [Re-development Programme of Colombo City and its? Surroundings](data/cabinet_decisions/2011/2011-12/2011-12-21-001-8927.json)
