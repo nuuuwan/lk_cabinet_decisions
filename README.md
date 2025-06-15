@@ -8,13 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka ğŸ
 
 | | |
 |:--|--:|
-<<<<<<< HEAD
-| Last Updated   | **2025-06-15 17:30:50**     |
+| Last Updated   | **2025-06-15 17:37:24**     |
 | nDecisions   | **1,233**     |
-=======
-| Last Updated   | **2025-06-15 17:36:02**     |
-| nDecisions   | **1,133**     |
->>>>>>> ac8c643 (Annotations)
 | Latest   | **2025-06-09** |
 | Earliest | **2011-10-19** |
 
