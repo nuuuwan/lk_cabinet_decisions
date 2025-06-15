@@ -12,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout repo branch main
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -32,6 +36,8 @@ jobs:
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/pipeline.py "10"
+    
+
 
     - name: Push 
       run: |
