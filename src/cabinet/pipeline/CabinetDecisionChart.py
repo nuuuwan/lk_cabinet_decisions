@@ -13,23 +13,27 @@ log = Log("CabinetDecisionChart")
 
 class CabinetDecisionChart:
     IMAGE_PATH = os.path.join("images", "cabinet_decision_chart.png")
+    TIME_FORMAT = "%Y-%m"
 
     @cached_property
-    def date_to_n(self):
+    def time_str_to_n(self):
         cabinet_decisions = CabinetDecision.list_all()
-        date_to_n = {}
+        time_str_to_n = {}
         for decision in cabinet_decisions:
-            date_str = decision.date_str
-            if date_str not in date_to_n:
-                date_to_n[date_str] = 0
-            date_to_n[date_str] += 1
-        return date_to_n
+            time_str = decision.date_str[:7]  # TIME_FORMAT
+            if time_str not in time_str_to_n:
+                time_str_to_n[time_str] = 0
+            time_str_to_n[time_str] += 1
+        return time_str_to_n
 
     def __prepare_data__(self):
-        date_to_n = self.date_to_n
-        date_strs = sorted(list(date_to_n.keys()))
-        dates = [datetime.strptime(d, "%Y-%m-%d") for d in date_to_n]
-        series = pd.Series(date_to_n.values(), index=dates)
+        time_str_to_n = self.time_str_to_n
+        time_strs = sorted(list(time_str_to_n.keys()))
+        dates = [
+            datetime.strptime(d, CabinetDecisionChart.TIME_FORMAT)
+            for d in time_str_to_n
+        ]
+        series = pd.Series(time_str_to_n.values(), index=dates)
 
         full_index = pd.date_range(
             start=series.index.min(), end=series.index.max(), freq="D"
@@ -37,22 +41,28 @@ class CabinetDecisionChart:
         daily_series = series.reindex(full_index).interpolate(method="time")
         moving_avg = daily_series.rolling(window=7).mean()
 
-        return series, moving_avg, date_strs
+        return series, moving_avg, time_strs
 
     def __draw_chart__(self):
-        series, _, date_strs = self.__prepare_data__()
+        series, _, time_strs = self.__prepare_data__()
         plt.figure(figsize=(8, 4.5))
         plt.bar(
             series.index,
             series.values,
-            width=3,
-            color="grey",
-            label="Event per Day",
+            width=pd.Timedelta(days=24),
+            color="red",
+            label="Decisions per Month",
         )
-
+        # plt.plot(
+        #     moving_avg.index,
+        #     moving_avg.values,
+        #     linewidth=0.5,
+        #     label="Last 7-days",
+        #     color="red",
+        # )
         plt.title(
             "Cabinet Decisions in Sri Lanka"
-            + f" ({date_strs[0]} - {date_strs[-1]})"
+            + f" ({time_strs[0]} - {time_strs[-1]})"
         )
         plt.xlabel("Date")
         plt.ylabel("Cabinet Decisions")
@@ -64,19 +74,23 @@ class CabinetDecisionChart:
     def __annotate_chart_single__(self, start_str, end_str, label, color):
         ax = plt.gca()
 
-        start_date = datetime.strptime(start_str, "%Y-%m-%d")
-        end_date = datetime.strptime(end_str, "%Y-%m-%d")
+        start_date = datetime.strptime(
+            start_str[:7], CabinetDecisionChart.TIME_FORMAT
+        )
+        end_date = datetime.strptime(
+            end_str[:7], CabinetDecisionChart.TIME_FORMAT
+        )
         mid_date = start_date + (end_date - start_date) / 2
 
         ax.axvspan(
             start_date,
             end_date,
             facecolor=color,
-            alpha=0.1,
+            alpha=0.05,
             edgecolor="white",
             linewidth=1,
         )
-        ax.text(mid_date, 20, label, ha="center", va="center", fontsize=6)
+        ax.text(mid_date, 90, label, ha="center", va="center", fontsize=6)
 
     def __annotate_chart__(self):
 
