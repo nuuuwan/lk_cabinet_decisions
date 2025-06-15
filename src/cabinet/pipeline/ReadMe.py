@@ -36,9 +36,10 @@ class ReadMe:
 
     @cached_property
     def latest_decisions_lines(self):
+        N_LATEST = 10
         cabinet_decisions = CabinetDecision.list_all()
-        latest_decisions = cabinet_decisions[:10]
-        lines = ["## Latest Decisions"]
+        latest_decisions = cabinet_decisions[:N_LATEST]
+        lines = [f"## Latest Decisions ({N_LATEST})"]
         for decision in latest_decisions:
             lines.extend(
                 [
@@ -53,9 +54,7 @@ class ReadMe:
     @cached_property
     def lines(self):
         return (
-            self.header_lines
-            + self.summary_lines
-            + self.latest_decisions_lines
+            self.header_lines + self.summary_lines + self.latest_decisions_lines
         )
 
     def write(self):
