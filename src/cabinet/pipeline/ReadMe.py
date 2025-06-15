@@ -32,13 +32,13 @@ class ReadMe:
         return [
             "## Summary",
             "",
-            "|...|...|",
+            "| | |",
             "|:--|--:|",
-            f"| Total Decisions in Database   | **{
+            f"| nDecisions   | **{
                 n_cabinet_decisions:,}**     |",
-            f"| Latest decision in Database   | **{
+            f"| Latest   | **{
                 latest_decisions.date_str}** |",
-            f"| Earliest decision in Database | **{
+            f"| Earliest | **{
                 earliest_decision.date_str}** |",
             "",
         ]
