@@ -1,7 +1,7 @@
 from functools import cached_property
 
-from cabinet.core.CabinetDecision import CabinetDecision
 from cabinet.web.CabinetWebPage import CabinetWebPage
+from cabinet.web.DecisionDetailsPage import DecisionDetailsPage
 
 
 class DayPage(CabinetWebPage):
@@ -21,18 +21,18 @@ class DayPage(CabinetWebPage):
         self.day_str = day_str
 
     @cached_property
-    def cabinet_decision_list(self):
+    def decision_details_page_list(self):
         soup = self.soup
         table = soup.find_all("table", width="95%")[1]
-        decision_list = []
+        decision_details_page_list = []
         for tr in table.find_all("tr"):
             td_list = tr.find_all("td")
             decision_num = int(td_list[0].text.strip())
             title = td_list[1].text.strip()
+            href = td_list[1].find("a")["href"]
+            params = CabinetWebPage.get_params_from_url(href)
 
-            decision = CabinetDecision(
-                decision_num=decision_num,
-                title=title,
+            decision_details_page_list.append(
+                DecisionDetailsPage(params, decision_num, title)
             )
-            decision_list.append(decision)
-        return decision_list
+        return decision_details_page_list

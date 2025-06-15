@@ -5,3 +5,4 @@ from dataclasses import dataclass
 class CabinetDecision:
     decision_num: int
     title: str
+    decision_details: str
