@@ -11,9 +11,9 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| nDecisions   | **718**     |
+| nDecisions   | **719**     |
 | Latest   | **2025-06-09** |
-| Earliest | **2013-12-16** |
+| Earliest | **2011-12-21** |
 
 ## Example JSON Data for Cabinet Decision
 
@@ -54,7 +54,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (718)
+## All Cabinet Decisions (719)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -774,3 +774,4 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2024-04-25] [Entering into Memoranda of Understanding/Agreements in view of Educational Collaboration](data/cabinet_decisions/2024/2024-04/2024-04-25-001-52fb.json)
 - [2018-11-27] [Construction of Parallel Roads for access to the houses situated on either side of the Matara - Beliatte Railway Track](data/cabinet_decisions/2018/2018-11/2018-11-27-001-ba34.json)
 - [2013-12-16] [Allocation of Land at Hulftsdorp to the Attorney General's Department](data/cabinet_decisions/2013/2013-12/2013-12-16-001-e66c.json)
+- [2011-12-21] [Re-development Programme of Colombo City and its? Surroundings](data/cabinet_decisions/2011/2011-12/2011-12-21-001-8927.json)
