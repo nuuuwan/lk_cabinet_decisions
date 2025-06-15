@@ -21,14 +21,17 @@ class Pipeline:
                 for (
                     decision_details_page
                 ) in day_page.decision_details_page_list:
+                    is_hot = False
                     if not decision_details_page.cabinet_decision_cold:
                         n_hot += 1
+                        is_hot = True
 
                     cabinet_decision = decision_details_page.cabinet_decision
                     decision_list.append(cabinet_decision)
-                    log.debug(
-                        f"🆕 {n_hot}/{max_n_hot} Added {cabinet_decision.key}"
-                    )
+                    if is_hot:
+                        log.debug(
+                            f"🆕 {n_hot}/{max_n_hot} Added {cabinet_decision.key}"
+                        )
                     if n_hot >= max_n_hot:
                         return decision_list
 
