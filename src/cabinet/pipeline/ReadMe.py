@@ -44,8 +44,7 @@ class ReadMe:
             lines.extend(
                 [
                     f"### {decision.title} ",
-                    f"({decision.date_str} - #{decision.decision_num})",
-                    f"[Source]({decision.source_url})",
+                    f"[{decision.key}]({decision.source_url})",
                     f"{decision.decision_details}",
                 ]
             )
