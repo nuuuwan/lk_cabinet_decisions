@@ -40,13 +40,17 @@ class DecisionDetailsPage(CabinetWebPage):
             decision_details=self.decision_details,
         )
 
-    @cached_property
-    def cabinet_decision(self):
-        cabinet_decision_cold = CabinetDecision.from_params(
+    @property
+    def cabinet_decision_cold(self):
+        return CabinetDecision.from_params(
             date_str=self.date_str,
             decision_num=self.decision_num,
             title=self.title,
         )
+
+    @cached_property
+    def cabinet_decision(self):
+        cabinet_decision_cold = self.cabinet_decision_cold
         if cabinet_decision_cold:
             return cabinet_decision_cold
 
