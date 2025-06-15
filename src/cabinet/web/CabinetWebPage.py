@@ -1,7 +1,7 @@
 import os
 import tempfile
 from functools import cached_property
-from urllib.parse import urlencode
+from urllib.parse import parse_qs, urlencode, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -56,3 +56,9 @@ class CabinetWebPage:
     @cached_property
     def soup(self):
         return BeautifulSoup(self.content, "html.parser")
+
+    @staticmethod
+    def from_url(url):
+        parsed = urlparse(url)
+        params = {k: v[0] for k, v in parse_qs(parsed.query).items()}
+        return CabinetWebPage(**params)
