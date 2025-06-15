@@ -4,7 +4,7 @@ from cabinet.web.CabinetWebPage import CabinetWebPage
 from cabinet.web.YearPage import YearPage
 
 
-class YearIndexPage(CabinetWebPage):
+class ContentsPage(CabinetWebPage):
     def __init__(self):
         super().__init__(
             option="com_content",

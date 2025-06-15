@@ -2,5 +2,5 @@
 # flake8: noqa: F408
 
 from cabinet.web.CabinetWebPage import CabinetWebPage
-from cabinet.web.YearIndexPage import YearIndexPage
+from cabinet.web.ContentsPage import ContentsPage
 from cabinet.web.YearPage import YearPage
