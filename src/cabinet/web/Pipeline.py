@@ -1,6 +1,7 @@
 import os
+from functools import cached_property
 
-from utils import Log, TSVFile
+from utils import JSONFile, Log, TSVFile
 
 from cabinet.web.ContentsPage import ContentsPage
 
@@ -8,6 +9,7 @@ log = Log("Pipeline")
 
 
 class Pipeline:
+    DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
     CABINET_DESICIONS_TABLE_PATH = os.path.join(
         "data", "cabinet_decisions.tsv"
     )
@@ -29,11 +31,26 @@ class Pipeline:
 
         return decision_list
 
-    def run(self, limit):
-        decision_list = self.get_cabinet_decision_list(limit)
-        d_list = [decision.to_dict() for decision in decision_list]
-        TSVFile(self.CABINET_DESICIONS_TABLE_PATH).write(d_list)
+    @cached_property
+    def data_list(self):
+        data_list = []
+        for file_name in os.listdir(self.DIR_CABINET_DECISIONS):
+            file_path = os.path.join(self.DIR_CABINET_DECISIONS, file_name)
+            if not file_path.endswith(".json"):
+                continue
+            data = JSONFile(file_path).read()
+            data_list.append(data)
+        data_list.sort(key=lambda x: x["key"], reverse=True)
+        return data_list
+
+    def build_table(self):
+        data_list = self.data_list
+        TSVFile(self.CABINET_DESICIONS_TABLE_PATH).write(data_list)
         log.info(
-            f"Saved {len(decision_list)} decisions"
+            f"Wrote {len(data_list)} decisions"
             + f" to {self.CABINET_DESICIONS_TABLE_PATH}"
         )
+
+    def run(self, limit):
+        self.get_cabinet_decision_list(limit)
+        self.build_table()

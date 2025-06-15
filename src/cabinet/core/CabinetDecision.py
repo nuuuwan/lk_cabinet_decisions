@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile, Log
+from utils import Hash, JSONFile, Log
 
 log = Log("CabinetDecision")
 
@@ -15,24 +15,39 @@ class CabinetDecision:
     source_url: str
     decision_details: str
 
+    @cached_property
+    def title_hash(self):
+        return Hash.md5(self.title)
+
+    @staticmethod
+    def __object_key__(date_str, decision_num, title):
+        title_hash = Hash.md5(title)[:4]
+        return f"{date_str}-{decision_num:03d}-{title_hash}"
+
+    @cached_property
+    def key(self):
+        return self.__object_key__(
+            self.date_str, self.decision_num, self.title
+        )
+
     def to_dict(self):
         return {
-            "date_str": self.date_str,
-            "decision_num": self.decision_num,
+            "key": self.key,
             "title": self.title,
             "source_url": self.source_url,
             "decision_details": self.decision_details,
+            "date_str": self.date_str,
+            "decision_num": self.decision_num,
         }
 
     @staticmethod
     def __json_file_path__(date_str, decision_num, title):
-        title_short = "".join(
-            c if c.isalnum() else "_" for c in title.lower()[:20]
-        )
+
         return os.path.join(
             "data",
             "cabinet_decisions",
-            f"{date_str}-{decision_num:03d}-{title_short}.json",
+            CabinetDecision.__object_key__(date_str, decision_num, title)
+            + ".json",
         )
 
     @cached_property
