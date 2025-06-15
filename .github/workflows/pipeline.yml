@@ -4,7 +4,7 @@ name: pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 */12 * * *"
+    - cron:  "0 */4 * * *"
 
 jobs:
   pipeline:
@@ -35,7 +35,7 @@ jobs:
     - name: Run workflows/pipeline.py 
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline.py "40"
+        python workflows/pipeline.py "100"
     
     - name: Push 
       run: |
