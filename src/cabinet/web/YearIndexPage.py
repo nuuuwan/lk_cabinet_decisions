@@ -1,6 +1,7 @@
 from functools import cached_property
 
 from cabinet.web.CabinetWebPage import CabinetWebPage
+from cabinet.web.YearPage import YearPage
 
 
 class YearIndexPage(CabinetWebPage):
@@ -21,7 +22,12 @@ class YearIndexPage(CabinetWebPage):
         li_list = ul.find_all("li")
         idx = {}
         for li in li_list:
-            href = li.find("a")["href"]
+            url = li.find("a")["href"]
             year = li.text.strip()
-            idx[year] = CabinetWebPage.from_url(href)
+            idx[year] = YearPage(year, url)
         return idx
+
+    def get_year_page(self, year):
+        if year not in self.year_to_year_page_list:
+            raise ValueError(f"Year {year} not found.")
+        return self.year_to_year_page_list[year]

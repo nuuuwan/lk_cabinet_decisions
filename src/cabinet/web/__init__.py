@@ -3,3 +3,4 @@
 
 from cabinet.web.CabinetWebPage import CabinetWebPage
 from cabinet.web.YearIndexPage import YearIndexPage
+from cabinet.web.YearPage import YearPage

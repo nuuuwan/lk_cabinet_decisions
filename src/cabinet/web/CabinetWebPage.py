@@ -14,6 +14,10 @@ class CabinetWebPage:
     BASE_URL = "https://www.cabinetoffice.gov.lk/cab/index.php"
 
     def __init__(self, **params):
+        if not all([params["lang"] == "en"]):
+            raise ValueError(
+                "Invalid params for CabinetWebPage: " + str(params)
+            )
         self.params = params
 
     @cached_property
@@ -58,7 +62,7 @@ class CabinetWebPage:
         return BeautifulSoup(self.content, "html.parser")
 
     @staticmethod
-    def from_url(url):
+    def get_params_from_url(url):
         parsed = urlparse(url)
         params = {k: v[0] for k, v in parse_qs(parsed.query).items()}
-        return CabinetWebPage(**params)
+        return params
