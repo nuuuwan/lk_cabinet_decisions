@@ -6,11 +6,11 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka ğŸ
 
 ## Summary
 
-|...|...|
+| | |
 |:--|--:|
-| Total Decisions in Database   | **715**     |
-| Latest decision in Database   | **2025-06-09** |
-| Earliest decision in Database | **2024-04-25** |
+| nDecisions   | **715**     |
+| Latest   | **2025-06-09** |
+| Earliest | **2024-04-25** |
 
 ## Latest Decisions (10)
 
