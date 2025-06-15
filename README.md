@@ -12,6 +12,19 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka ðŸ
 | Latest   | **2025-06-09** |
 | Earliest | **2024-04-25** |
 
+## Example JSON Data for Cabinet Decision
+
+```json
+{
+  "date_str": "2025-06-09",
+  "decision_num": 15,
+  "title": "An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230",
+  "decision_details": "- It has been scientifically proven that physical and psychological abuse caused to a child by corporal punishment is extensive. Therefore, approval has been granted at the Cabinet meeting held on 2024-04-29 to amend the Penal Code (Chapter 19) to prohibit the corporal punishment in all spheres and to make provisions for the imposition of punishment for physical abuse. Although the Cabinet of Ministers has previously granted approval to publish the Penal Code (Amendment) Bill prepared by the Legal Draftsman for the relevant purpose, in the Government Gazette and present the same in Parliament, it has not been possible to act accordingly. The need for the expeditious enactment of the said Bill has been identified. Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament, was approved by the Cabinet.",
+  "key": "2025-06-09-015-9905"
+}
+```
+
 ## Latest Decisions (10)
 
 ### 1) An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)

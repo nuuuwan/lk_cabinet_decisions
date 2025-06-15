@@ -44,6 +44,18 @@ class ReadMe:
         ]
 
     @cached_property
+    def latest_decision_lines(self):
+        latest_decision = CabinetDecision.list_all()[0]
+        return [
+            "## Example JSON Data for Cabinet Decision",
+            "",
+            "```json",
+            f"{latest_decision.to_json()}",
+            "```",
+            "",
+        ]
+
+    @cached_property
     def latest_decisions_lines(self):
         N_LATEST = 10
         cabinet_decisions = CabinetDecision.list_all()
@@ -71,6 +83,7 @@ class ReadMe:
         return (
             self.header_lines
             + self.summary_lines
+            + self.latest_decision_lines
             + self.latest_decisions_lines
         )
 

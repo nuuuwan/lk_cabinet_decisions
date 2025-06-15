@@ -1,3 +1,4 @@
+import json
 import os
 from dataclasses import dataclass
 from functools import cached_property
@@ -35,7 +36,7 @@ class CabinetDecision:
             self.date_str, self.decision_num, self.title
         )
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return {
             "date_str": self.date_str,
             "decision_num": self.decision_num,
@@ -44,6 +45,9 @@ class CabinetDecision:
             "decision_details": self.decision_details,
             "key": self.key,
         }
+
+    def to_json(self) -> str:
+        return json.dumps(self.to_dict(), ensure_ascii=False, indent=2)
 
     @staticmethod
     def __json_file_path__(date_str, decision_num, title):
