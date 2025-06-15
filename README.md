@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 17:42:58**     |
-| nDecisions   | **1,375**     |
+| Last Updated   | **2025-06-15 17:43:34**     |
+| nDecisions   | **1,400**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-10-19** |
 
@@ -56,7 +56,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (1,375)
+## All Cabinet Decisions (1,400)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1326,11 +1326,36 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2014-12-04] [Amendment to the Prevention of Crimes Ordinance](data/cabinet_decisions/2014/2014-12/2014-12-04-003-315a.json)
 - [2014-12-04] [Dutugemunu Pilgrims Rest established at Lumbini City, Nepal](data/cabinet_decisions/2014/2014-12/2014-12-04-002-7877.json)
 - [2014-12-04] [Memorandum of Understanding between the Democratic Socialist Republic of Sri Lanka and Republic of Korea on Recognition of Certificates issued to Seafarers](data/cabinet_decisions/2014/2014-12/2014-12-04-001-e2be.json)
+- [2014-11-19] [Extension of the Southern Expressway Section 1 (Matara to Beliatta) Project](data/cabinet_decisions/2014/2014-11/2014-11-19-014-63d5.json)
+- [2014-11-19] [Establishment of a South Asian Centre for Judicial Capacity Building in Environmental Rule of Law](data/cabinet_decisions/2014/2014-11/2014-11-19-013-0a1d.json)
+- [2014-11-19] [Project for the Construction of a New Bridge Over Kelani River - Procurement of Consulting Services](data/cabinet_decisions/2014/2014-11/2014-11-19-012-664c.json)
+- [2014-11-19] [Construction of buildings for Kandakadu Treatment and Rehabilitation Center](data/cabinet_decisions/2014/2014-11/2014-11-19-011-af6e.json)
+- [2014-11-19] [Southern Expressway Extension Project - Award of Contract for providing Consultancy Services for Construction Supervision](data/cabinet_decisions/2014/2014-11/2014-11-19-010-3b90.json)
+- [2014-11-19] [Amendments to the Police Ordinance No.16 of 1865](data/cabinet_decisions/2014/2014-11/2014-11-19-009-031d.json)
+- [2014-11-19] [Memorandum of Understanding  on Cooperation between the Ministry of Culture and the Arts of the Democratic Socialist Republic of Sri  Lanka and the State Administration of Press, Publication, Radio, Film and Television  of  the  People's  Republic  of China](data/cabinet_decisions/2014/2014-11/2014-11-19-008-7b25.json)
+- [2014-11-19] [Bilateral Air Services Consultations between Sri Lanka and Poland](data/cabinet_decisions/2014/2014-11/2014-11-19-007-0ce4.json)
+- [2014-11-19] [Implementation of the MoU signed in respect of Youth Development between the National Youth Services Council and the Beijing Foreign Studies University in China](data/cabinet_decisions/2014/2014-11/2014-11-19-006-18a8.json)
 - [2014-11-19] [Establishing Offices and Official Quarters for the Forest Conservation Department in the Northern and Eastern Provinces](data/cabinet_decisions/2014/2014-11/2014-11-19-005-a7b3.json)
 - [2014-11-19] [Visit of His Excellency the President to New York, USA, for the UN Climate Summit and the 69th Session of the United Nations General Assembly - September 2014](data/cabinet_decisions/2014/2014-11/2014-11-19-004-65d0.json)
 - [2014-11-19] [Amendment to Sri Lanka Buddhist and Pali University Act, No.37 of 1995](data/cabinet_decisions/2014/2014-11/2014-11-19-003-e01c.json)
 - [2014-11-19] [Bilateral Agreement between the Democratic Socialist Republic of Sri Lanka and the United Arab Emirates](data/cabinet_decisions/2014/2014-11/2014-11-19-002-983e.json)
 - [2014-11-19] [Transfer of one (01) acre of the land belonging to Sri Lanka Ports Authority at Lotus Road to the Police Department](data/cabinet_decisions/2014/2014-11/2014-11-19-001-9a3b.json)
+- [2014-11-12] [Colombo National Highways Project funded by the OPEC Fund for International Development  (OFID) - Award of Contract for providing Consultancy Services for Construction Supervision](data/cabinet_decisions/2014/2014-11/2014-11-12-016-921a.json)
+- [2014-11-12] [Northern Expressway Project - Award of Contract Packages 02 to 06 to Local Contractors](data/cabinet_decisions/2014/2014-11/2014-11-12-015-36eb.json)
+- [2014-11-12] [Obtaining 50,000 MT of Rice from the Government of Bangladesh to ensure Food Security](data/cabinet_decisions/2014/2014-11/2014-11-12-014-1b07.json)
+- [2014-11-12] [Construction of Kokilai Bridge and Approaches across Kokilai Lagoon on Mullaitivu - Kokilai - Pulmudai Road](data/cabinet_decisions/2014/2014-11/2014-11-12-013-8fc6.json)
+- [2014-11-12] [Participation at the International Monetary Fund/World Bank Annual Meetings - 2014,  held in Washington DC from 7th  to 12th  October 2014](data/cabinet_decisions/2014/2014-11/2014-11-12-012-7e4a.json)
+- [2014-11-12] [Rehabilitation of Rail track from Anuradhapura to Omantai under the Indian Line of Credit](data/cabinet_decisions/2014/2014-11/2014-11-12-011-7e87.json)
+- [2014-11-12] [Clean Energy & Network Efficiency Improvement Project - Project 2: 132kV Transmission Infrastructure - Lot - C: Procurement of Plant - Lot C-1 : From Thulhiriya to Kegalle - 22.5 km, Single Zebra, from Polpitiya to New Polpitiya - 1.5 km, Twin Zebra, from Athurugiriya to Padukka - 10 km, Twin Zebra  - Lot C-2 : From Athurugiriya to Kolonnawa 15 km](data/cabinet_decisions/2014/2014-11/2014-11-12-010-4e43.json)
+- [2014-11-12] [Implementation of Priority Water Supply Projects with funding secured from Local Banks](data/cabinet_decisions/2014/2014-11/2014-11-12-009-f66c.json)
+- [2014-11-12] [Kundasale - Haragama Water Supply Project](data/cabinet_decisions/2014/2014-11/2014-11-12-008-6a00.json)
+- [2014-11-12] [Memorandum of Understanding between the Ministry of Culture and the Arts of the Democratic Socialist Republic of Sri Lanka and the Chinese Academy of Sciences of the People's Republic of China](data/cabinet_decisions/2014/2014-11/2014-11-12-007-a534.json)
+- [2014-11-12] [Renovation of the Building Complex owned by the Teachers’ College, Maharagama for the Establishment of the New College of Education on Business Studies and Entrepreneurship Studies](data/cabinet_decisions/2014/2014-11/2014-11-12-006-5425.json)
+- [2014-11-12] [The Future Programme for the Expansion of the National Grid towards Wind Power and Solar Power Electricity Generation for the Optimum use of Traditional Renewable Energy](data/cabinet_decisions/2014/2014-11/2014-11-12-005-4e37.json)
+- [2014-11-12] [Memorandum of Understanding for the Collaboration between the Ministry of External Affairs of the Democratic Socialist Republic of Sri Lanka and the Ministry of Foreign Affairs and Co?operation of the Kingdom of Spain](data/cabinet_decisions/2014/2014-11/2014-11-12-004-bc82.json)
+- [2014-11-12] [Purchasing of  Euro - Lanka Hostel Building](data/cabinet_decisions/2014/2014-11/2014-11-12-003-85b5.json)
+- [2014-11-12] [Implementation of the Bay of Bengal Initiative for Multi?Sectoral Technical and Economic Cooperation Free Trade Area (BIMSTEC FTA)](data/cabinet_decisions/2014/2014-11/2014-11-12-002-0b82.json)
+- [2014-11-12] [Rural Development Initiatives of the Ministry of Traditional Industries and Small Enterprise Development](data/cabinet_decisions/2014/2014-11/2014-11-12-001-6590.json)
 - [2013-12-16] [Allocation of Land at Hulftsdorp to the Attorney General's Department](data/cabinet_decisions/2013/2013-12/2013-12-16-001-e66c.json)
 - [2011-12-21] [Programme for Strengthening the Samurdhi / Divineguma families in the Anuradhapura District concurrently with the 'Deyata Kirula' Exhibition](data/cabinet_decisions/2011/2011-12/2011-12-21-016-5954.json)
 - [2011-12-21] [ADB Loan for 2011 - Lot C - Second Circuit Stringing of Kotmale - New Anuradhapura 220KV, 163 Km Long Transmission Line](data/cabinet_decisions/2011/2011-12/2011-12-21-015-6822.json)
