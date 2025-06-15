@@ -11,7 +11,7 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| nDecisions   | **715**     |
+| nDecisions   | **716**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2024-04-25** |
 
@@ -54,7 +54,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (715)
+## All Cabinet Decisions (716)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -769,5 +769,6 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2024-04-29] [Kankesanthurai Harbour Rehabilitation Project](data/cabinet_decisions/2024/2024-04/2024-04-29-003-de11.json)
 - [2024-04-29] [Transforming the Mirissa Marine Zone into a Blue Flag Coastal Zone that meets international standards and a Marine Wildlife Sanctuary](data/cabinet_decisions/2024/2024-04/2024-04-29-002-a65e.json)
 - [2024-04-29] [Indonesia - Sri Lanka Preferential Trade Agreement (ISLPTA)](data/cabinet_decisions/2024/2024-04/2024-04-29-001-6fac.json)
+- [2024-04-25] [Vesting the Land where the Negombo Eththukala Beach Park is located with the Urban Development Authority for the development of the said Park](data/cabinet_decisions/2024/2024-04/2024-04-25-003-ca63.json)
 - [2024-04-25] [Expansion of the Mindfulness Training Programme being implemented 	for school children islandwide](data/cabinet_decisions/2024/2024-04/2024-04-25-002-60f6.json)
 - [2024-04-25] [Entering into Memoranda of Understanding/Agreements in view of Educational Collaboration](data/cabinet_decisions/2024/2024-04/2024-04-25-001-52fb.json)
