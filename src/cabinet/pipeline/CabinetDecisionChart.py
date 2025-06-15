@@ -28,7 +28,7 @@ class CabinetDecisionChart:
     def draw(self):
         plt.close()
         date_to_n = self.date_to_n
-
+        date_strs = sorted(list(date_to_n.keys()))
         dates = [datetime.strptime(d, "%Y-%m-%d") for d in date_to_n]
         series = pd.Series(date_to_n.values(), index=dates)
 
@@ -38,7 +38,7 @@ class CabinetDecisionChart:
         daily_series = series.reindex(full_index).interpolate(method="time")
         moving_avg = daily_series.rolling(window=7).mean()
 
-        plt.figure(figsize=(12, 6))
+        plt.figure(figsize=(16, 9))
         plt.bar(
             series.index,
             series.values,
@@ -53,16 +53,16 @@ class CabinetDecisionChart:
             label="Last 7-days",
             color="red",
         )
-
-        plt.title("Cabinet Decisions in Database")
+        plt.title(
+            "Cabinet Decisions in Sri Lanka"
+            + f" ({date_strs[0]} - {date_strs[-1]})"
+        )
         plt.xlabel("Date")
         plt.ylabel("Cabinet Decisions")
-        plt.title("7-Day Moving Sum")
         plt.xticks(rotation=45)
         plt.grid(True, axis="y")
         plt.legend()
         plt.tight_layout()
-
         plt.savefig(self.IMAGE_PATH, dpi=300)
         plt.close()
         log.info(f"Wrote {self.IMAGE_PATH}")
