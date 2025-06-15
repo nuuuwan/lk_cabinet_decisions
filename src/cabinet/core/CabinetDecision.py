@@ -74,6 +74,10 @@ class CabinetDecision:
         )
 
     @cached_property
+    def local_url(self):
+        return self.json_file_path
+
+    @cached_property
     def json_file(self):
         return JSONFile(self.json_file_path)
 

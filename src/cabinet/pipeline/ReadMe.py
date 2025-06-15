@@ -79,12 +79,25 @@ class ReadMe:
         return lines
 
     @cached_property
+    def all_decisions_lines(self):
+        cabinet_decisions = CabinetDecision.list_all()
+        n_decisions = len(cabinet_decisions)
+        lines = [f"## All Cabinet Decisions ({n_decisions:,})", ""]
+        for decision in cabinet_decisions:
+            lines.append(
+                f"- [{decision.date_str}]"
+                + f" [{decision.title}]({decision.local_url})",
+            )
+        return lines
+
+    @cached_property
     def lines(self):
         return (
             self.header_lines
             + self.summary_lines
             + self.latest_decision_lines
             + self.last_n_decisions_lines
+            + self.all_decisions_lines
         )
 
     def write(self):
