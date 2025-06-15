@@ -9,12 +9,16 @@ class TestCase(unittest.TestCase):
         content = page.content
         self.assertGreater(len(content), 30_000)
 
-    def test_year_to_url(self):
+    def test_year_page_idx(self):
         page = ContentsPage()
-        year_to_year_page_list = page.year_to_year_page_list
-        self.assertGreater(len(year_to_year_page_list), 10)
+        year_page_idx = page.year_page_idx
+        self.assertGreater(len(year_page_idx), 10)
+
+    def test_get_year_page(self):
+        page = ContentsPage()
+        year_page_idx = page.year_page_idx
         self.assertEqual(
-            year_to_year_page_list["2025"].params,
+            year_page_idx["2025"].params,
             {
                 "option": "com_content",
                 "view": "article",
@@ -23,3 +27,5 @@ class TestCase(unittest.TestCase):
                 "lang": "en",
             },
         )
+        with self.assertRaises(ValueError):
+            page.get_year_page("1215")

@@ -2,4 +2,4 @@
 # flake8: noqa: F408
 
 from cabinet.core import Decision
-from cabinet.web import CabinetWebPage, ContentsPage, YearPage
+from cabinet.web import CabinetWebPage, ContentsPage, DayPage, YearPage

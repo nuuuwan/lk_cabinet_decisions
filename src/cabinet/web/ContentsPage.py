@@ -15,7 +15,7 @@ class ContentsPage(CabinetWebPage):
         )
 
     @cached_property
-    def year_to_year_page_list(self):
+    def year_page_idx(self):
         soup = self.soup
         div = soup.find("div", class_="moduletable")
         ul = div.find("ul")
@@ -28,6 +28,6 @@ class ContentsPage(CabinetWebPage):
         return idx
 
     def get_year_page(self, year):
-        if year not in self.year_to_year_page_list:
+        if year not in self.year_page_idx:
             raise ValueError(f"Year {year} not found.")
-        return self.year_to_year_page_list[year]
+        return self.year_page_idx[year]
