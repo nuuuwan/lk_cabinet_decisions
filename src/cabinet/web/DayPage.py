@@ -13,9 +13,13 @@ class DayPage(CabinetWebPage):
                 "id" in params,
                 "Itemid" in params,
                 params.get("dDate") == day_str,
+                len(day_str) == 10,  # Format: YYYY-MM-DD
             ]
         ):
-            raise ValueError("Invalid params for DayPage: " + str(params))
+            raise ValueError(
+                "Invalid params for DayPage: "
+                + str(dict(day_str=day_str, params=params))
+            )
 
         super().__init__(**params)
         self.day_str = day_str

@@ -14,9 +14,14 @@ class YearPage(CabinetWebPage):
                 params["view"] == "article",
                 "id" in params,
                 "Itemid" in params,
+                len(year) == 4,
+                year.isdigit(),
             ]
         ):
-            raise ValueError("Invalid params for YearPage: " + str(params))
+            raise ValueError(
+                "Invalid params for YearPage: "
+                + str(dict(year=year, params=params))
+            )
 
         super().__init__(**params)
         self.year = year

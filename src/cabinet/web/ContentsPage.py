@@ -22,8 +22,11 @@ class ContentsPage(CabinetWebPage):
         li_list = ul.find_all("li")
         idx = {}
         for li in li_list:
-            url = li.find("a")["href"]
-            year = li.text.strip()
+            a = li.find("a")
+            url = a["href"]
+            year = a.text.strip()
+            if not year.isdigit() or len(year) != 4:
+                continue
             idx[year] = YearPage(year, url)
         return idx
 
