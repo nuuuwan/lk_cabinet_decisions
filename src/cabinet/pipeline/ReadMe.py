@@ -57,7 +57,7 @@ class ReadMe:
 
     @cached_property
     def last_n_decisions_lines(self):
-        N_LATEST = 10
+        N_LATEST = 3
         cabinet_decisions = CabinetDecision.list_all()
         latest_decisions = cabinet_decisions[:N_LATEST]
         lines = [f"## Last {N_LATEST} Cabiner Decisions", ""]
