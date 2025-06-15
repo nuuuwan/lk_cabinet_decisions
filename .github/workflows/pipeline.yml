@@ -40,7 +40,7 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         git pull origin main
         
-        python workflows/pipeline.py "10"
+        python workflows/pipeline.py "100"
     
     - name: Push 
       run: |
