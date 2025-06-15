@@ -69,7 +69,7 @@ class ReadMe:
         N_LATEST = 3
         cabinet_decisions = CabinetDecision.list_all()
         latest_decisions = cabinet_decisions[:N_LATEST]
-        lines = [f"## Last {N_LATEST} Cabiner Decisions", ""]
+        lines = [f"## Last {N_LATEST} Cabinet Decisions", ""]
         for i_decision, decision in enumerate(latest_decisions, start=1):
             lines.extend(
                 [
