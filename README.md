@@ -25,7 +25,7 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka ðŸ
 }
 ```
 
-## Latest Decisions (10)
+## Last 10 Cabiner Decisions
 
 ### 1) An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)
 
