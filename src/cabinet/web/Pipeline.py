@@ -34,11 +34,13 @@ class Pipeline:
         data_file_path_list = []
         for year in os.listdir(self.DIR_CABINET_DECISIONS):
             dir_year = os.path.join(self.DIR_CABINET_DECISIONS, year)
-            for file_name in os.listdir(dir_year):
-                file_path = os.path.join(dir_year, file_name)
-                if not file_path.endswith(".json"):
-                    continue
-                data_file_path_list.append(file_path)
+            for year_and_month in os.listdir(dir_year):
+                dir_year_and_month = os.path.join(dir_year, year_and_month)
+                for file_name in os.listdir(dir_year_and_month):
+                    file_path = os.path.join(dir_year_and_month, file_name)
+                    if not file_path.endswith(".json"):
+                        continue
+                    data_file_path_list.append(file_path)
         return data_file_path_list
 
     @cached_property

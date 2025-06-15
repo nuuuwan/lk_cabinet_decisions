@@ -41,17 +41,17 @@ class CabinetDecision:
     @staticmethod
     def __json_file_path__(date_str, decision_num, title):
 
-        year = date_str[:4]
-        dir_year = os.path.join(
-            "data",
-            "cabinet_decisions",
-            year,
+        year = date_str[:4]  # YYYY format
+        year_and_month = date_str[:7]  # YYYY-MM format
+        dir_year_and_month = os.path.join(
+            "data", "cabinet_decisions", year, year_and_month
         )
-        if not os.path.exists(dir_year):
-            os.makedirs(dir_year)
+
+        if not os.path.exists(dir_year_and_month):
+            os.makedirs(dir_year_and_month)
 
         return os.path.join(
-            dir_year,
+            dir_year_and_month,
             CabinetDecision.__object_key__(date_str, decision_num, title)
             + ".json",
         )
