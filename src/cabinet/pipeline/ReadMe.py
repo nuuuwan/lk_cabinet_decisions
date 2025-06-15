@@ -44,7 +44,8 @@ class ReadMe:
             lines.extend(
                 [
                     f"### {decision.title} ",
-                    f"[{decision.key}]({decision.source_url})",
+                    f"*{decision.date_str}*, *#{decision.decision_num}*",
+                    f"[{decision.source_url}]({decision.source_url})",
                     f"{decision.decision_details}",
                 ]
             )
@@ -53,7 +54,9 @@ class ReadMe:
     @cached_property
     def lines(self):
         return (
-            self.header_lines + self.summary_lines + self.latest_decisions_lines
+            self.header_lines
+            + self.summary_lines
+            + self.latest_decisions_lines
         )
 
     def write(self):
