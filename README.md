@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 16:24:59**     |
-| nDecisions   | **743**     |
+| Last Updated   | **2025-06-15 16:28:36**     |
+| nDecisions   | **763**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-12-21** |
 
@@ -57,7 +57,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (743)
+## All Cabinet Decisions (763)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -777,7 +777,27 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2024-04-25] [Entering into Memoranda of Understanding/Agreements in view of Educational Collaboration](data/cabinet_decisions/2024/2024-04/2024-04-25-001-52fb.json)
 - [2022-12-19] [Establishment of the Institute of Economics and Trade, Sri Lanka](data/cabinet_decisions/2022/2022-12/2022-12-19-001-1997.json)
 - [2021-12-20] [Signing of the Treaty on the Prohibition of Nuclear Weapons  (TPNW)](data/cabinet_decisions/2021/2021-12/2021-12-20-001-322a.json)
+- [2020-12-21] [Enticing the Airlines to the Mattala Rajapaksa International Airport and the Colombo International Airport, Ratmalana](data/cabinet_decisions/2020/2020-12/2020-12-21-018-1525.json)
+- [2020-12-21] [Procurement of Food Items for the Tri-Forces for the year 2021](data/cabinet_decisions/2020/2020-12/2020-12-21-017-6719.json)
+- [2020-12-21] [House of Justice Project](data/cabinet_decisions/2020/2020-12/2020-12-21-016-9062.json)
+- [2020-12-21] [Entering into Memoranda of Understanding on Bilateral Youth Development Programs](data/cabinet_decisions/2020/2020-12/2020-12-21-015-8ad8.json)
+- [2020-12-21] [Expansion of the Kandy Industrial Park](data/cabinet_decisions/2020/2020-12/2020-12-21-014-7d66.json)
+- [2020-12-21] [Signing of a Memorandum of Understanding (MoU) between Sri Lanka and South Africa on Cooperation in the Field of Tourism](data/cabinet_decisions/2020/2020-12/2020-12-21-013-ea7a.json)
+- [2020-12-21] [Establishment of an Inter-Ministerial Committee for Sustainable Environment Management](data/cabinet_decisions/2020/2020-12/2020-12-21-012-b4b6.json)
+- [2020-12-21] [Conducting a Feasibility Study in order to implement a Urea Fertilizer Manufacturing Project](data/cabinet_decisions/2020/2020-12/2020-12-21-011-1290.json)
+- [2020-12-21] [Protecting the local coconut oil manufacturers and the Sri Lankan coconut oil brand by developing a coconut based industrial system](data/cabinet_decisions/2020/2020-12/2020-12-21-010-6ded.json)
+- [2020-12-21] [Amendment to the Fisheries and Aquatic Resources Act No.02 of 1996](data/cabinet_decisions/2020/2020-12/2020-12-21-009-911a.json)
+- [2020-12-21] [Enforcement of Trade Remedies Laws](data/cabinet_decisions/2020/2020-12/2020-12-21-008-7131.json)
+- [2020-12-21] [Updating the Partnership Agreement on the Pilot Project conducted using Wolbachia bacteria to control Dengue in the Colombo District](data/cabinet_decisions/2020/2020-12/2020-12-21-007-a8d5.json)
+- [2020-12-21] [National Mental Health Policy 2020-2030](data/cabinet_decisions/2020/2020-12/2020-12-21-006-8ef1.json)
+- [2020-12-21] [Providing a Protective Overall Kit for the students who undergo vocational training in the workshops](data/cabinet_decisions/2020/2020-12/2020-12-21-005-bf55.json)
+- [2020-12-21] [Declaring Devagiri Rajamaha Viharaya as a Pooja Bhoomi (Sacred Place) by a Gazette Notification](data/cabinet_decisions/2020/2020-12/2020-12-21-004-f785.json)
+- [2020-12-21] [Declaring the Kolawenigama Rajamaha Viharaya as a Pooja Bhoomi (Sacred Place) by a Gazette Notification](data/cabinet_decisions/2020/2020-12/2020-12-21-003-561e.json)
+- [2020-12-21] [Alienation of a plot of land at Ratnapura New Town to the Sabaragamuwa Provincial Council to set up an Office Complex](data/cabinet_decisions/2020/2020-12/2020-12-21-002-738b.json)
 - [2020-12-21] [Support to Justice Sector in Sri Lanka Project](data/cabinet_decisions/2020/2020-12/2020-12-21-001-181d.json)
+- [2020-12-14] [Establishment of a Sri Lanka Consulate General Office in Antananarivo, Madagascar](data/cabinet_decisions/2020/2020-12/2020-12-14-003-6d86.json)
+- [2020-12-14] [Amendment of the project period and number of houses constructed under the 'Virusumithuru Housing Project'](data/cabinet_decisions/2020/2020-12/2020-12-14-002-6f63.json)
+- [2020-12-14] [Making a Free Grant for the land where the Faculty of Graduate Studies of the General Sir John Kotelawala Defence University has been located](data/cabinet_decisions/2020/2020-12/2020-12-14-001-7756.json)
 - [2018-11-27] [Construction of Parallel Roads for access to the houses situated on either side of the Matara - Beliatte Railway Track](data/cabinet_decisions/2018/2018-11/2018-11-27-001-ba34.json)
 - [2017-12-19] [Amendment to the Firing Ranges and Military Training Act, No.24 of 1951](data/cabinet_decisions/2017/2017-12/2017-12-19-001-9552.json)
 - [2014-12-23] [Moratuwa, Lunawa Urban Housing Project](data/cabinet_decisions/2014/2014-12/2014-12-23-019-2f71.json)
