@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 16:04:36**     |
-| nDecisions   | **723**     |
+| Last Updated   | **2025-06-15 16:24:59**     |
+| nDecisions   | **743**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-12-21** |
 
@@ -57,7 +57,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (723)
+## All Cabinet Decisions (743)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -780,5 +780,25 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2020-12-21] [Support to Justice Sector in Sri Lanka Project](data/cabinet_decisions/2020/2020-12/2020-12-21-001-181d.json)
 - [2018-11-27] [Construction of Parallel Roads for access to the houses situated on either side of the Matara - Beliatte Railway Track](data/cabinet_decisions/2018/2018-11/2018-11-27-001-ba34.json)
 - [2017-12-19] [Amendment to the Firing Ranges and Military Training Act, No.24 of 1951](data/cabinet_decisions/2017/2017-12/2017-12-19-001-9552.json)
+- [2014-12-23] [Moratuwa, Lunawa Urban Housing Project](data/cabinet_decisions/2014/2014-12/2014-12-23-019-2f71.json)
+- [2014-12-23] [Moratuwa, Angulana Multi-storey Housing Scheme - First Phase and Second Phase](data/cabinet_decisions/2014/2014-12/2014-12-23-018-2e6d.json)
+- [2014-12-23] [Threat of Highly Pathogenic Avian Influenza](data/cabinet_decisions/2014/2014-12/2014-12-23-017-3ec6.json)
+- [2014-12-23] [Programme to strengthen Small and Medium Scale Millers and Stockists](data/cabinet_decisions/2014/2014-12/2014-12-23-016-9c7d.json)
+- [2014-12-23] [Increase of the Monthly Allowance paid to Trainees of Traditional Handicrafts Sector under the National Crafts Council](data/cabinet_decisions/2014/2014-12/2014-12-23-015-3a98.json)
+- [2014-12-23] [Establishment of the proposed Sri Lanka State Audit Service as a Special Service independent of other Services](data/cabinet_decisions/2014/2014-12/2014-12-23-014-a7cf.json)
+- [2014-12-23] [Construction of SAARC Cultural Centre in Navimana, Matara](data/cabinet_decisions/2014/2014-12/2014-12-23-013-cf03.json)
+- [2014-12-23] [Construction of the Head Office Building for the Civil Aviation Authority of Sri Lanka](data/cabinet_decisions/2014/2014-12/2014-12-23-012-8ce7.json)
+- [2014-12-23] [Clean Energy & Network Efficiency Improvement Project - Package 1 - Lot B : Mannar Transmission Infrastructure - Lot - B : Construction of New Anuradhapura to Vavuniya 55 km, Double Circuit, 2xZebra, 132kV Transmission Line and Vavuniya to Mannar 70 km, Double Circuit, Single Zebra, 132 kV Transmission Line (Designed for 220kV operation)](data/cabinet_decisions/2014/2014-12/2014-12-23-011-347a.json)
+- [2014-12-23] [Augmentation of 132/33kV Grid Substation at Kiribathkumbura](data/cabinet_decisions/2014/2014-12/2014-12-23-010-ccda.json)
+- [2014-12-23] [Kandy City Waste Water Management Project - Award of Contract for Design & Construction of Waste Water Treatment Plant, Main Pump House, Treated Effluent Disposal System and Supply of Operation & Maintenance Equipment](data/cabinet_decisions/2014/2014-12/2014-12-23-009-49ca.json)
+- [2014-12-23] [Construction of a Flyover Across the Railway Crossing at Maho Junction](data/cabinet_decisions/2014/2014-12/2014-12-23-008-9ac4.json)
+- [2014-12-23] [Construction of a New Building for the Attorney General’s Department](data/cabinet_decisions/2014/2014-12/2014-12-23-007-a82d.json)
+- [2014-12-23] [Establishment of a Tea Promotion Unit in the Embassy of Sri Lanka in Beijing, China](data/cabinet_decisions/2014/2014-12/2014-12-23-006-290c.json)
+- [2014-12-23] [Holding the event of ‘CEYLON TEA EXPO 2015’ in Sri Lanka](data/cabinet_decisions/2014/2014-12/2014-12-23-005-75c2.json)
+- [2014-12-23] [Increase of the Monthly Allowance for Food and Service Facilities of  Student Teachers in  National Colleges of Education](data/cabinet_decisions/2014/2014-12/2014-12-23-004-6c43.json)
+- [2014-12-23] [SAARC Framework Agreement for Energy Cooperation (Electricity)](data/cabinet_decisions/2014/2014-12/2014-12-23-003-b2df.json)
+- [2014-12-23] [Establishment of a Dairy Processing Plant at Badalgama](data/cabinet_decisions/2014/2014-12/2014-12-23-002-cb97.json)
+- [2014-12-23] [Granting of Dual Citizenship](data/cabinet_decisions/2014/2014-12/2014-12-23-001-1fc0.json)
+- [2014-12-17] [Post Office Security Fund](data/cabinet_decisions/2014/2014-12/2014-12-17-001-681d.json)
 - [2013-12-16] [Allocation of Land at Hulftsdorp to the Attorney General's Department](data/cabinet_decisions/2013/2013-12/2013-12-16-001-e66c.json)
 - [2011-12-21] [Re-development Programme of Colombo City and its? Surroundings](data/cabinet_decisions/2011/2011-12/2011-12-21-001-8927.json)
