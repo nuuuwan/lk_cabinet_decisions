@@ -4,8 +4,8 @@ name: pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 */4 * * *"
-
+    # - cron:  "0 */4 * * *"
+    - cron:  "*/30 * * * *" # Temporary schedule for data loading purposes
 jobs:
   pipeline:
 
