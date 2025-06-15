@@ -38,12 +38,12 @@ jobs:
         
         git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-        git pull origin main
+        git pull --rebase origin main
         python workflows/pipeline.py "100"
         
     - name: Push 
       run: |
-        git pull origin main
+        git pull --rebase origin main
         echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
         git add .
         git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
