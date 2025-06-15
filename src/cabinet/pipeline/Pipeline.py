@@ -30,7 +30,7 @@ class Pipeline:
                     decision_list.append(cabinet_decision)
                     if is_hot:
                         log.debug(
-                            f"🆕 {n_hot}/{max_n_hot} Added {cabinet_decision.key}"
+                            f"🟢 {n_hot}/{max_n_hot} Added {cabinet_decision.key} 🆕"
                         )
                     if n_hot >= max_n_hot:
                         return decision_list
