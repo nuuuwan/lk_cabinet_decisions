@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import Hash, JSONFile, Log
+from utils import Hash, JSONFile, Log, TSVFile
 
 log = Log("CabinetDecision")
 
@@ -14,6 +14,11 @@ class CabinetDecision:
     title: str
     source_url: str
     decision_details: str
+
+    DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
+    CABINET_DESICIONS_TABLE_PATH = os.path.join(
+        "data", "cabinet_decisions.tsv"
+    )
 
     @cached_property
     def title_hash(self):
@@ -113,3 +118,50 @@ class CabinetDecision:
             )
 
         return None
+
+    @staticmethod
+    def __get_data_file_path_list__():
+        data_file_path_list = []
+        for year in os.listdir(CabinetDecision.DIR_CABINET_DECISIONS):
+            dir_year = os.path.join(
+                CabinetDecision.DIR_CABINET_DECISIONS, year
+            )
+            for year_and_month in os.listdir(dir_year):
+                dir_year_and_month = os.path.join(dir_year, year_and_month)
+                for file_name in os.listdir(dir_year_and_month):
+                    file_path = os.path.join(dir_year_and_month, file_name)
+                    if not file_path.endswith(".json"):
+                        continue
+                    data_file_path_list.append(file_path)
+        return data_file_path_list
+
+    @staticmethod
+    def __get_data_list__():
+        data_list = []
+        for file_path in CabinetDecision.__get_data_file_path_list__():
+            data = JSONFile(file_path).read()
+            data_list.append(data)
+        data_list.sort(key=lambda x: x["key"], reverse=True)
+        return data_list
+
+    @staticmethod
+    def list_all():
+        return [
+            CabinetDecision(
+                date_str=data["date_str"],
+                decision_num=data["decision_num"],
+                title=data["title"],
+                source_url=data["source_url"],
+                decision_details=data["decision_details"],
+            )
+            for data in CabinetDecision.__get_data_list__()
+        ]
+
+    @staticmethod
+    def build_table():
+        data_list = CabinetDecision.__get_data_list__()
+        TSVFile(CabinetDecision.CABINET_DESICIONS_TABLE_PATH).write(data_list)
+        log.info(
+            f"Wrote {len(data_list)} decisions"
+            + f" to {CabinetDecision.CABINET_DESICIONS_TABLE_PATH}"
+        )

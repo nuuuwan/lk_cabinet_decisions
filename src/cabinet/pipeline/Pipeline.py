@@ -1,19 +1,13 @@
-import os
-from functools import cached_property
+from utils import Log
 
-from utils import JSONFile, Log, TSVFile
-
+from cabinet.core import CabinetDecision
 from cabinet.pipeline.ReadMe import ReadMe
-from cabinet.web.ContentsPage import ContentsPage
+from cabinet.web import ContentsPage
 
 log = Log("Pipeline")
 
 
 class Pipeline:
-    DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
-    CABINET_DESICIONS_TABLE_PATH = os.path.join(
-        "data", "cabinet_decisions.tsv"
-    )
 
     def get_cabinet_decision_list(self, limit):
         contents_page = ContentsPage()
@@ -32,38 +26,7 @@ class Pipeline:
 
         return decision_list
 
-    @cached_property
-    def data_file_path_list(self):
-        data_file_path_list = []
-        for year in os.listdir(self.DIR_CABINET_DECISIONS):
-            dir_year = os.path.join(self.DIR_CABINET_DECISIONS, year)
-            for year_and_month in os.listdir(dir_year):
-                dir_year_and_month = os.path.join(dir_year, year_and_month)
-                for file_name in os.listdir(dir_year_and_month):
-                    file_path = os.path.join(dir_year_and_month, file_name)
-                    if not file_path.endswith(".json"):
-                        continue
-                    data_file_path_list.append(file_path)
-        return data_file_path_list
-
-    @cached_property
-    def data_list(self):
-        data_list = []
-        for file_path in self.data_file_path_list:
-            data = JSONFile(file_path).read()
-            data_list.append(data)
-        data_list.sort(key=lambda x: x["key"], reverse=True)
-        return data_list
-
-    def build_table(self):
-        data_list = self.data_list
-        TSVFile(self.CABINET_DESICIONS_TABLE_PATH).write(data_list)
-        log.info(
-            f"Wrote {len(data_list)} decisions"
-            + f" to {self.CABINET_DESICIONS_TABLE_PATH}"
-        )
-
     def run(self, limit):
         self.get_cabinet_decision_list(limit)
-        self.build_table()
+        CabinetDecision.build_table()
         ReadMe().write()
