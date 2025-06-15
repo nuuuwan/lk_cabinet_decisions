@@ -43,8 +43,11 @@ jobs:
         
     - name: Push 
       run: |
-        git pull --rebase origin main
         echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
+        git stash push -m "temp-stash"
+        git pull --rebase origin main
+        git stash pop
+
         git add .
         git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
         git push origin main
