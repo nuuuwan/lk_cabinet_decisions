@@ -40,10 +40,10 @@ class ReadMe:
         cabinet_decisions = CabinetDecision.list_all()
         latest_decisions = cabinet_decisions[:N_LATEST]
         lines = [f"## Latest Decisions ({N_LATEST})"]
-        for decision in latest_decisions:
+        for i_decision, decision in enumerate(latest_decisions, start=1):
             lines.extend(
                 [
-                    f"### {decision.title}",
+                    f"### {i_decision}) {decision.title}",
                     f"*{decision.date_str}*, *#{decision.decision_num}*",
                     f"Source: [{decision.source_url}]({decision.source_url})",
                     f"{decision.decision_details_cleaned}",
@@ -54,9 +54,7 @@ class ReadMe:
     @cached_property
     def lines(self):
         return (
-            self.header_lines
-            + self.summary_lines
-            + self.latest_decisions_lines
+            self.header_lines + self.summary_lines + self.latest_decisions_lines
         )
 
     def write(self):
