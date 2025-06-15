@@ -79,7 +79,7 @@ class ReadMe:
                     "",
                     f"*{decision.date_str}*, *#{decision.decision_num}*",
                     "",
-                    f"*Source:* [{
+                    f"[{
                         decision.source_url}]({
                         decision.source_url})",
                     "",
