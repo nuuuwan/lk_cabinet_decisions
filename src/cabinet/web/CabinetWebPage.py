@@ -13,7 +13,7 @@ log = Log("CabinetWebPage")
 
 class CabinetWebPage:
     BASE_URL = "https://www.cabinetoffice.gov.lk/cab/index.php"
-    T_WAIT = 1
+    T_WAIT = 0.5
 
     def __init__(self, **params):
         if not all([params["lang"] == "en"]):
