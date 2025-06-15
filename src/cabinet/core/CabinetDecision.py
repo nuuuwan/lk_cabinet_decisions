@@ -16,9 +16,7 @@ class CabinetDecision:
     decision_details: str
 
     DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
-    CABINET_DESICIONS_TABLE_PATH = os.path.join(
-        "data", "cabinet_decisions.tsv"
-    )
+    CABINET_DESICIONS_TABLE_PATH = os.path.join("data", "cabinet_decisions.tsv")
 
     @cached_property
     def title_hash(self):
@@ -31,18 +29,16 @@ class CabinetDecision:
 
     @cached_property
     def key(self):
-        return self.__object_key__(
-            self.date_str, self.decision_num, self.title
-        )
+        return self.__object_key__(self.date_str, self.decision_num, self.title)
 
     def to_dict(self):
         return {
-            "key": self.key,
+            "date_str": self.date_str,
+            "decision_num": self.decision_num,
             "title": self.title,
             "source_url": self.source_url,
             "decision_details": self.decision_details,
-            "date_str": self.date_str,
-            "decision_num": self.decision_num,
+            "key": self.key,
         }
 
     @staticmethod
@@ -123,9 +119,7 @@ class CabinetDecision:
     def __get_data_file_path_list__():
         data_file_path_list = []
         for year in os.listdir(CabinetDecision.DIR_CABINET_DECISIONS):
-            dir_year = os.path.join(
-                CabinetDecision.DIR_CABINET_DECISIONS, year
-            )
+            dir_year = os.path.join(CabinetDecision.DIR_CABINET_DECISIONS, year)
             for year_and_month in os.listdir(dir_year):
                 dir_year_and_month = os.path.join(dir_year, year_and_month)
                 for file_name in os.listdir(dir_year_and_month):
