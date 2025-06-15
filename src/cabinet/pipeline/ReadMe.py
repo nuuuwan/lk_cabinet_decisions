@@ -1,6 +1,6 @@
 from functools import cached_property
 
-from utils import File, Log
+from utils import File, Log, Time, TimeFormat
 
 from cabinet.core import CabinetDecision
 from cabinet.pipeline.CabinetDecisionChart import CabinetDecisionChart
@@ -38,11 +38,13 @@ class ReadMe:
         latest_decisions = cabinet_decisions[0]
         earliest_decision = cabinet_decisions[-1]
         n_cabinet_decisions = len(cabinet_decisions)
+        last_updated_str = TimeFormat.TIME.format(Time.now())
         return [
             "## Summary",
             "",
             "| | |",
             "|:--|--:|",
+            f"| Last Updated   | **{last_updated_str}**     |",
             f"| nDecisions   | **{
                 n_cabinet_decisions:,}**     |",
             f"| Latest   | **{
@@ -103,8 +105,8 @@ class ReadMe:
     def lines(self):
         return (
             self.header_lines
-            + self.chart_lines
             + self.summary_lines
+            + self.chart_lines
             + self.latest_decision_lines
             + self.last_n_decisions_lines
             + self.all_decisions_lines
