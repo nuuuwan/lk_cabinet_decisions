@@ -27,7 +27,6 @@ class ReadMe:
     @cached_property
     def chart_lines(self):
         return [
-            "",
             f"![Cabinet Decision Chart]({CabinetDecisionChart.IMAGE_PATH})",
             "",
         ]
