@@ -3,4 +3,4 @@
 
 from cabinet.core import CabinetDecision
 from cabinet.web import (CabinetWebPage, ContentsPage, DayPage,
-                         DecisionDetailsPage, YearPage)
+                         DecisionDetailsPage, Pipeline, YearPage)
