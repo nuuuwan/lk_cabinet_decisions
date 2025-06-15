@@ -15,9 +15,8 @@ class Pipeline:
         decision_list = []
         n_hot = 0
         for year, year_page in contents_page.year_page_idx.items():
-            log.debug(f"Processing {year}")
             for day, day_page in year_page.day_page_idx.items():
-                log.debug(f"\tProcessing {day}")
+                log.debug(f"Processing {day}")
                 for (
                     decision_details_page
                 ) in day_page.decision_details_page_list:
