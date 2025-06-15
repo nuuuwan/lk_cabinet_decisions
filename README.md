@@ -6,13 +6,21 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 ## Summary
 
-- Total Decisions in Database: **104**
+- Total Decisions in Database: **105**
 
-- Latest decision in Database: **2025-03-10**
+- Latest decision in Database: **2025-06-09**
 
 - Earliest decision in Database: **2025-01-06**
 
 ## Latest Decisions (10)
+
+### Operating the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation as separate public enterprises with their own distinct identities 
+
+(2025-06-09 - #1)
+
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13216)
+
+- The Cabinet, at its meeting held on 2023‑11‑27, granted approval in principle to  establish a single Public Company by merging the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation. Accordingly, the then State-Owned Enterprises Restructuring Unit has submitted its recommendations on how the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation should be merged to establish a Public Company under the Companies Act. However, action has not yet been pursued in that regard. Nevertheless, it has now been identified that the desired outcomes could not be accrued from merging these institutions due to reasons such as the Sri Lanka Broadcasting Corporation and Sri Lanka Rupavahini Corporation using technologies different from each other, the studios of the Sri Lanka Rupavahini Corporation requiring more space than those of the Sri Lanka Broadcasting Corporation, and the difficulty of integration due to their transmission towers being located in different locations. Accordingly, the proposal made by the Minister of  Health and Mass Media to continue operations of the Sri Lanka Broadcasting Corporation and Sri Lanka Rupavahini Corporation as separate State enterprises with their own distinct identities, by improving operational efficiency and revenue status through a formal strategic business plan, was approved by the Cabinet.
 
 ### Appointment to the Post of District Secretary/Government Agent in the 	Administrative District of Kegalle 
 
@@ -181,11 +189,3 @@ Total
 [Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13068)
 
 - The contract period of service of retired Major General, H.M.U. Herath presently serving in the Post of Director General of the Disaster Management Centre is due to expire on 2025‑03‑07. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence, to appoint retired Major General Sampath Kotuwegoda for a period of one (01) year on contract basis, to the Post of Director General of the Disaster Management Centre, which falls vacant from the said date, was approved by the Cabinet.
-
-### Ratification of UNESCO (2005) Convention on the Protection and Promotion of the Diversity of Cultural Expressions by Sri Lanka 
-
-(2025-03-03 - #8)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13067)
-
-- UNESCO has adopted a Convention on the Protection and Promotion of the Diversity of Cultural Expressions created in its Member States on 2005‑10‑20, which has come into force on 2007-03-10. The Convention has been ratified by 156 Member States as of now. Although the approval of the Cabinet at its meeting held on 2024‑09‑09, has been granted to ratify the said Convention by Sri Lanka, it has not yet been ratified. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs seeking policy approval to ratify the UNESCO (2005) Convention on the Protection and Promotion of the Diversity of Cultural Expressions by Sri Lanka, was approved by the Cabinet.

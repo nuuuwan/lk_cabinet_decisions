@@ -34,17 +34,17 @@ class YearPage(CabinetWebPage):
         table = tables[1]
         td_list = table.find_all("td")
 
-        idx = {}
+        date_str_and_params = []
         for td in td_list:
             url = td.find("a")["href"]
             date_str = td.text.strip()
             params = CabinetWebPage.get_params_from_url(url)
-            idx[date_str] = DayPage(
-                date_str=date_str,
-                params=params,
-            )
-
-        return idx
+            date_str_and_params.append((date_str, params))
+        date_str_and_params.sort(key=lambda x: x[0], reverse=True)
+        return {
+            date_str: DayPage(date_str, params)
+            for date_str, params in date_str_and_params
+        }
 
     def get_day_page(self, date_str):
         if date_str not in self.day_page_idx:

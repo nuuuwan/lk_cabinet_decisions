@@ -20,15 +20,17 @@ class ContentsPage(CabinetWebPage):
         div = soup.find("div", class_="moduletable")
         ul = div.find("ul")
         li_list = ul.find_all("li")
-        idx = {}
+        year_and_url = []
         for li in li_list:
             a = li.find("a")
             url = a["href"]
             year = a.text.strip()
             if not year.isdigit() or len(year) != 4:
                 continue
-            idx[year] = YearPage(year, url)
-        return idx
+            year_and_url.append((year, url))
+
+        year_and_url.sort(key=lambda x: x[0], reverse=True)
+        return {year: YearPage(year, url) for year, url in year_and_url}
 
     def get_year_page(self, year):
         if year not in self.year_page_idx:
