@@ -33,7 +33,7 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/pipeline.py "10"
     
-    - name: Checkout repo branch data
+    - name: Checkout repo branch main
       uses: actions/checkout@v4
       with:
         ref: 'main'
