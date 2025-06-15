@@ -4,6 +4,7 @@ from functools import cached_property
 from urllib.parse import urlencode
 
 import requests
+from bs4 import BeautifulSoup
 from utils import File, Hash, Log
 
 log = Log("CabinetWebPage")
@@ -51,3 +52,7 @@ class CabinetWebPage:
         else:
             content = self.__temp_html_file__.read()
         return content
+
+    @cached_property
+    def soup(self):
+        return BeautifulSoup(self.content, "html.parser")
