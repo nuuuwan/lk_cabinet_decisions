@@ -17,7 +17,7 @@ class Pipeline:
         contents_page = ContentsPage()
         decision_list = []
         n_hot = 0
-        year_pages = list(contents_page.year_page_idx.value())
+        year_pages = list(contents_page.year_page_idx.values())
         random.shuffle(year_pages)
         for year_page in year_pages:
             for day, day_page in year_page.day_page_idx.items():
