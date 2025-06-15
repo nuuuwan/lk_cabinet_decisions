@@ -46,7 +46,7 @@ jobs:
       run: |
         git rebase
         git pull origin main
-        echo "* $(date) pipeline" >> update.log
+        echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
         git add .
-        git commit -m "🤖 $(date) - pipeline.yml"
+        git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
         git push origin main
