@@ -31,7 +31,7 @@ class DecisionDetailsPage(CabinetWebPage):
         return content_div.text.strip()
 
     @cached_property
-    def cabinet_decision(self):
+    def __cabinet_decision_hot__(self):
         return CabinetDecision(
             date_str=self.date_str,
             decision_num=self.decision_num,
@@ -39,3 +39,17 @@ class DecisionDetailsPage(CabinetWebPage):
             source_url=self.url,
             decision_details=self.decision_details,
         )
+
+    @cached_property
+    def cabinet_decision(self):
+        cabinet_decision_cold = CabinetDecision.from_params(
+            date_str=self.date_str,
+            decision_num=self.decision_num,
+            title=self.title,
+        )
+        if cabinet_decision_cold:
+            return cabinet_decision_cold
+
+        cabinet_decision_hot = self.__cabinet_decision_hot__
+        cabinet_decision_hot.write()
+        return cabinet_decision_hot

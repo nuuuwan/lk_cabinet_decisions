@@ -9,7 +9,7 @@ log = Log("Pipeline")
 
 class Pipeline:
     CABINET_DESICIONS_TABLE_PATH = os.path.join(
-        "data", "cabinet_decision.tsv"
+        "data", "cabinet_decisions.tsv"
     )
 
     def get_cabinet_decision_list(self, limit):
