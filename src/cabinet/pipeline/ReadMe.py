@@ -54,7 +54,9 @@ class ReadMe:
     @cached_property
     def lines(self):
         return (
-            self.header_lines + self.summary_lines + self.latest_decisions_lines
+            self.header_lines
+            + self.summary_lines
+            + self.latest_decisions_lines
         )
 
     def write(self):

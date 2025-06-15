@@ -6,13 +6,107 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 ## Summary
 
-- Total Decisions in Database: **101**
+- Total Decisions in Database: **104**
 
 - Latest decision in Database: **2025-03-10**
 
 - Earliest decision in Database: **2025-01-06**
 
-## Latest Decisions
+## Latest Decisions (10)
+
+### Appointment to the Post of District Secretary/Government Agent in the 	Administrative District of Kegalle 
+
+(2025-03-10 - #7)
+
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13076)
+
+- Since Mr. J.M.R.P. Jayasinghe, who served as the District Secretary/Government Agent in the Administrative District of Kegalle, has been appointed to the Post of Chief Secretary of the North Central Province with effect from 2025‑02‑01, the Post of District Secretary/Government Agent, Kegalle has fallen vacant by now. It has been identified that it would be appropriate to appoint Mr. H.M.J.M. Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving in a Post of Additional Secretary of the Ministry of Public Administration, Provincial Councils and Local Government, to the said Post.  Accordingly, the proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr. H.M.J.M. Herath, Special Grade Officer of the Sri Lanka Administrative Service, to the Post of District Secretary/Government Agent in the Administrative District of Kegalle with immediate effect, was approved by the Cabinet.
+
+### Implementation of the recommendations of the Committee appointed to review the recruitment process and cadre management in the public service 
+
+(2025-03-10 - #6)
+
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13075)
+
+- Approval has been granted at the Cabinet meeting held on 2024‑12‑30, to appoint a Committee under the Chairmanship of the Secretary to the Prime Minister to review the recruitment process in the public service, identify the needs, priorities and timeframes and take necessary steps regarding the number of recruitments that should be essentially made. Taking into account the requests submitted to the Committee by the respective Ministries to fill the vacancies in the Departments and other institutions under the said Ministries, the Cabinet approved the proposal made by the Hon. Prime Minister to grant approval for the relevant Ministries and institutions to make the following recruitments recommended by the Committee:
+
+
+
+
+Serial No.
+Ministries/Provincial Councils
+Number of vacancies recommended for recruitment by the Committee
+
+
+
+
+1
+Ministry of Transport, Highways, Ports and Civil Aviation
+909
+
+
+2
+Ministry of Women and Child Affairs
+109
+
+
+3
+Ministry of Environment
+144
+
+
+4
+Ministry of Public Security and Parliamentary Affairs
+2500
+
+
+5
+Ministry of Education, Higher Education and Vocational Education
+22
+
+
+6
+Ministry of Science and Technology
+3
+
+
+7
+Ministry of Finance, Planning and Economic Development
+185
+
+
+8
+Ministry of Fisheries, Aquatic and Ocean Resources
+20
+
+
+9
+Ministry of Public Administration, Provincial Councils and Local Government
+1615
+
+
+10
+Central Provincial Council
+72
+
+
+11
+Uva Provincial Council
+303
+
+
+
+
+Total
+5882
+
+### Amendments to the Tea Control Act, No.51 of 1957 
+
+(2025-03-10 - #5)
+
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13074)
+
+
 
 ### Amendment to the Industrial Promotion Act No.46 of 1990 
 
@@ -95,57 +189,3 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 [Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13067)
 
 - UNESCO has adopted a Convention on the Protection and Promotion of the Diversity of Cultural Expressions created in its Member States on 2005‑10‑20, which has come into force on 2007-03-10. The Convention has been ratified by 156 Member States as of now. Although the approval of the Cabinet at its meeting held on 2024‑09‑09, has been granted to ratify the said Convention by Sri Lanka, it has not yet been ratified. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs seeking policy approval to ratify the UNESCO (2005) Convention on the Protection and Promotion of the Diversity of Cultural Expressions by Sri Lanka, was approved by the Cabinet.
-
-### Legislation Programme of the Government 
-
-(2025-03-03 - #7)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13066)
-
-- The proposal made by the Minister of Urban Development, Construction and Housing to incorporate the following new laws and amendments to the existing laws to be introduced by the Ministry of Urban Development, Construction and Housing in the year 2025, to the Legislation Programme of the Government - 2025, was approved by the Cabinet.
-
-New laws to be introduced:
-
-* 	National Drinking Community Water Development Act
-
-* 	Institute of Real Estate Professionals, Sri Lanka Act
-
-* 	Act for legalizing China-Sri Lanka Joint Research and Demonstration Center
-
-* 	Act to facilitate condominium properties, also incorporating the provisions of the Apartment Ownership (Special Provisions) Act, No.23 of 2018
-
-Existing laws to which the amendments to be introduced:
-
-* 	Construction Industry Development Act, No.33 of 2014
-
-* 	National Water Supply and Drainage Board Act, No.2 of 1974
-
-* 	Town and Country Planning Ordinance No.13 of 1946
-
-*  	National Housing Development Authority Act, No.17 of 1979
-
-*  	Urban Settlement Development Authority Act, No.36 of 2008
-
-*  	Urban Development Authority Act, No.41 of 1978
-
-* 	Sri Lanka Land Development Corporation (Amendment) Act, No.13 of 2021
-
-*   Apartment Ownership Act, No.11 of 1973
-
-*   Common Amenities Board Law, No.10 of 1973
-
-### Extension of the validity period of the Asian Development Bank Loan and Grant for the Health System Enhancement Project 
-
-(2025-03-03 - #6)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13065)
-
-- The Health System Enhancement Project has been implemented in two (02) phases with the Asian Development Bank funding, aiming to improve the efficiency, equity and responsiveness of the Primary Healthcare System in the Central, North Central, Uva and Sabaragamuwa Provinces. The original financing for the project consists of a loan of US$ 37.5 million and a grant of US$ 12.5 million. In addition, a loan of US$ 110 million and a grant of US$ 3 million have been obtained as additional financing of the project. The need to extend the validity period of the loan and grant obtained under the original financing for the project by another year has been identified in order to fully utilize the said loan and the grant. Accordingly, the proposal made by the Minister of Health and Mass Media to extend the validity period of the original loan and grant of the Health System Enhancement Project up to 2025‑11‑30 and the date of closure of the loan up to 2026‑05‑31, was approved by the Cabinet.
-
-### Allocating lands required for the Siyabalanduwa 100MW Solar Power Project, to the Sustainable Energy Authority of Sri Lanka on Grant Basis 
-
-(2025-03-03 - #5)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13064)
-
-- The Government expects to meet 70% of the country's electricity demand from renewable energy sources by 2030. In accordance with the said policy, the Siyambalanduwa 100 MW Solar Power Park facility has been identified as one of the key projects. A land area of 219.7233 hectares not used for farming or other cultivations, has been identified for the implementation of the project. Considering the strategic importance of the proposed project and enabling to expeditiously implement the project, the proposal made by the Minister of Energy to allocate the land in extent of 219.7233 hectares as a Grant to the Sustainable Energy Authority of Sri Lanka, was approved by the Cabinet.
