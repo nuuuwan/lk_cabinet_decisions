@@ -1,3 +1,5 @@
+import random
+
 from utils import Log
 
 from cabinet.core import CabinetDecision
@@ -15,7 +17,9 @@ class Pipeline:
         contents_page = ContentsPage()
         decision_list = []
         n_hot = 0
-        for year, year_page in contents_page.year_page_idx.items():
+        year_pages = list(contents_page.year_page_idx.value())
+        random.shuffle(year_pages)
+        for year_page in year_pages:
             for day, day_page in year_page.day_page_idx.items():
                 log.debug(f"Processing {day}")
                 for (
