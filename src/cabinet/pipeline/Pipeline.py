@@ -26,9 +26,13 @@ class Pipeline:
 
                     cabinet_decision = decision_details_page.cabinet_decision
                     decision_list.append(cabinet_decision)
+                    log.debug(
+                        f"🆕 {n_hot}/{max_n_hot} Added {cabinet_decision.key}"
+                    )
                     if n_hot >= max_n_hot:
                         return decision_list
 
+        log.info("✅ Add decisions added to database!")
         return decision_list
 
     def run(self, max_n_hot):
