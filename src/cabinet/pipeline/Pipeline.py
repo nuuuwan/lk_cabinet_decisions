@@ -3,6 +3,7 @@ from functools import cached_property
 
 from utils import JSONFile, Log, TSVFile
 
+from cabinet.pipeline.ReadMe import ReadMe
 from cabinet.web.ContentsPage import ContentsPage
 
 log = Log("Pipeline")
@@ -65,3 +66,4 @@ class Pipeline:
     def run(self, limit):
         self.get_cabinet_decision_list(limit)
         self.build_table()
+        ReadMe().write()

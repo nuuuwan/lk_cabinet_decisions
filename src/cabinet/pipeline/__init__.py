@@ -2,3 +2,4 @@
 # flake8: noqa: F408
 
 from cabinet.pipeline.Pipeline import Pipeline
+from cabinet.pipeline.ReadMe import ReadMe
