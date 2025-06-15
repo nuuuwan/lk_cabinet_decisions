@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 16:28:36**     |
-| nDecisions   | **763**     |
+| Last Updated   | **2025-06-15 16:38:48**     |
+| nDecisions   | **783**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-12-21** |
 
@@ -57,7 +57,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (763)
+## All Cabinet Decisions (783)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -819,6 +819,26 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2014-12-23] [SAARC Framework Agreement for Energy Cooperation (Electricity)](data/cabinet_decisions/2014/2014-12/2014-12-23-003-b2df.json)
 - [2014-12-23] [Establishment of a Dairy Processing Plant at Badalgama](data/cabinet_decisions/2014/2014-12/2014-12-23-002-cb97.json)
 - [2014-12-23] [Granting of Dual Citizenship](data/cabinet_decisions/2014/2014-12/2014-12-23-001-1fc0.json)
+- [2014-12-17] [Memorandum of Understanding between the Lakshman Kadirgamar Institute for International  Relations and Strategic Studies (LKIIRSS), Colombo and the China Institute for Contemporary International Relations (CICIR), Beijing](data/cabinet_decisions/2014/2014-12/2014-12-17-021-1043.json)
+- [2014-12-17] [Clean Energy & Network Efficiency Improvement Project - Package 3 - 220 kv Transmission Infrastructure Project - Lot-A: Construction of New Grid Substations at Polpitiya and Padukka and Augmentation of Existing 220/132/33 kv Grid Substation at Pannipitiya](data/cabinet_decisions/2014/2014-12/2014-12-17-020-d01d.json)
+- [2014-12-17] [Extension of the term of office of the National Delimitation Committee on Demarcation of Wards for Local Authorities](data/cabinet_decisions/2014/2014-12/2014-12-17-019-9c53.json)
+- [2014-12-17] [Awarding Contract for Remedial works of Victoria Dam](data/cabinet_decisions/2014/2014-12/2014-12-17-018-11ea.json)
+- [2014-12-17] [Major Bridges Construction Project of the National Road Network funded by Japan International Cooperation Agency (JICA)](data/cabinet_decisions/2014/2014-12/2014-12-17-017-c676.json)
+- [2014-12-17] [Implementation of Priority Water Supply Projects with funding secured from Local Banks - Award of contract for Uragasmanhandiya,  Gonapinuwala, Dikkumbura and Weligama Water Supply Projects](data/cabinet_decisions/2014/2014-12/2014-12-17-016-4535.json)
+- [2014-12-17] [Hatton - Nuwara Eliya Road Improvement Project](data/cabinet_decisions/2014/2014-12/2014-12-17-015-eb99.json)
+- [2014-12-17] [Construction of Outer Circular Highway Project Phase III](data/cabinet_decisions/2014/2014-12/2014-12-17-014-3e59.json)
+- [2014-12-17] [Implementation of Medirigiriya Water Supply Project with Funding Secured from Local Banks with a Treasury Guarantee](data/cabinet_decisions/2014/2014-12/2014-12-17-013-6883.json)
+- [2014-12-17] [Implementation of 22 Water Supply Projects with funding secured from Local Banks for the Enhancement of Pipe Borne Water Supply Service coverage by the National Water Supply and Drainage Board (NWSDB) on Priority Basis](data/cabinet_decisions/2014/2014-12/2014-12-17-012-af02.json)
+- [2014-12-17] [Construction of the Head Office Building for the Excise Department of Sri Lanka](data/cabinet_decisions/2014/2014-12/2014-12-17-011-3786.json)
+- [2014-12-17] [Submission of the Gazette Notification issued under the Import and Export Control Act, No.1 of 1969 to Parliament to meet the Legal Requirement](data/cabinet_decisions/2014/2014-12/2014-12-17-010-1172.json)
+- [2014-12-17] [Construction of a New Building for Mullaithivu Police Station](data/cabinet_decisions/2014/2014-12/2014-12-17-009-868e.json)
+- [2014-12-17] [Construction of a two storied building for Dining Hall and a Multi Purpose Student Centre under the Relocation of the Buddhasravaka Bhikhu University of Sri Lanka](data/cabinet_decisions/2014/2014-12/2014-12-17-008-07cd.json)
+- [2014-12-17] [Supply and Installation of 10 Nos. Solar Universal Pumps and Drinking Water Treatment Plants](data/cabinet_decisions/2014/2014-12/2014-12-17-007-4fe5.json)
+- [2014-12-17] [Construction of a Five Storied Office Building at the National Water Supply and Drainage Board (NWS&DB) Head Office Premises, Ratmalana](data/cabinet_decisions/2014/2014-12/2014-12-17-006-95f6.json)
+- [2014-12-17] [Reduction of Landslide Risk of Vulnerable Communities](data/cabinet_decisions/2014/2014-12/2014-12-17-005-4f1f.json)
+- [2014-12-17] [Meeriyabedda Landslide - Financial assistance for funeral expenses to the  Next?of?Kin of deceased persons and, to meet medical expenses of those who were injured](data/cabinet_decisions/2014/2014-12/2014-12-17-004-5652.json)
+- [2014-12-17] [Awarding the Bachelor of Education Degree to prospective Teachers of National Colleges of Education](data/cabinet_decisions/2014/2014-12/2014-12-17-003-91db.json)
+- [2014-12-17] [Amendment to Employees’ Provident Fund Act, No.15 of 1958 - Introduction of Provisions on Payment of Dividend to Members and Enhancement of Employers’ Contribution](data/cabinet_decisions/2014/2014-12/2014-12-17-002-1bf1.json)
 - [2014-12-17] [Post Office Security Fund](data/cabinet_decisions/2014/2014-12/2014-12-17-001-681d.json)
 - [2013-12-16] [Allocation of Land at Hulftsdorp to the Attorney General's Department](data/cabinet_decisions/2013/2013-12/2013-12-16-001-e66c.json)
 - [2011-12-21] [Re-development Programme of Colombo City and its? Surroundings](data/cabinet_decisions/2011/2011-12/2011-12-21-001-8927.json)
