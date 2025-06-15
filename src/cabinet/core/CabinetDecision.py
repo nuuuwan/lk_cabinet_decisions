@@ -165,3 +165,7 @@ class CabinetDecision:
             f"Wrote {len(data_list)} decisions"
             + f" to {CabinetDecision.CABINET_DESICIONS_TABLE_PATH}"
         )
+
+    @cached_property
+    def decision_details_cleaned(self):
+        return self.decision_details.lstrip("- ")
