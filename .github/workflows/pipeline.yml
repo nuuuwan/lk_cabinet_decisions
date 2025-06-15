@@ -44,6 +44,7 @@ jobs:
     
     - name: Push 
       run: |
+        git pull origin main
         echo "* $(date) pipeline" >> update.log
         git add .
         git commit -m "🤖 $(date) - pipeline.yml"
