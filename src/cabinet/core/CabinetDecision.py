@@ -168,4 +168,6 @@ class CabinetDecision:
 
     @cached_property
     def decision_details_cleaned(self):
-        return self.decision_details.lstrip("- ")
+        x = self.decision_details
+        x = x.replace("*", "\n\n*")
+        return x.lstrip("- ")
