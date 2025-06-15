@@ -1,0 +1,8 @@
+{
+  "date_str": "2024-01-01",
+  "decision_num": 15,
+  "title": "Implementation of an International Application to Person (A2P) SMS Digital Hub",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=12344",
+  "decision_details": "- A2P is a communication model and an application, typically a computer programme or software that sends messages or notifications to individuals or end\u2011users. Short Message Service (SMS) is a critical communication medium for citizens, businesses and government agencies and is widely used for a various purposes, including business and transaction evaluations. These messages are delivered to a mobile device by an individual through an application or system, such as text messages (SMS), multimedia messages (MMS) or other forms of messaging. It has been observed that the widespread use of SMS services leads to fraud, spam and unauthorized activities. In order to face such challenges, it has been found the necessity of having a centralized SMS Firewall solution for the regulation of SMS exchanges. Accordingly, Infobip, a private company based in the United Kingdom, has submitted a proposal for the implementation of an international A2P digital SMS hub and the proposal made by the Hon. President to appoint a Technical Committee comprising of representatives from the Ministry of Finance, Economic Stabilization and National Policy, Ministry of Technology and the Telecommunications Regulatory Commission of Sri Lanka to evaluate the said proposal and submit recommendations, was approved by the Cabinet.",
+  "key": "2024-01-01-015-c16f"
+}
