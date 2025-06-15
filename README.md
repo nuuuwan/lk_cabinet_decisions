@@ -6,7 +6,7 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 ## Summary
 
-- Total Decisions in Database: **105**
+- Total Decisions in Database: **205**
 
 - Latest decision in Database: **2025-06-09**
 
@@ -14,178 +14,82 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 ## Latest Decisions (10)
 
-### Operating the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation as separate public enterprises with their own distinct identities 
+### An Act to amend the Penal Code (Corporal Punishment) (Chapter 19) 
 
-(2025-06-09 - #1)
+(2025-06-09 - #15)
 
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13216)
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230)
 
-- The Cabinet, at its meeting held on 2023‑11‑27, granted approval in principle to  establish a single Public Company by merging the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation. Accordingly, the then State-Owned Enterprises Restructuring Unit has submitted its recommendations on how the Sri Lanka Broadcasting Corporation and the Sri Lanka Rupavahini Corporation should be merged to establish a Public Company under the Companies Act. However, action has not yet been pursued in that regard. Nevertheless, it has now been identified that the desired outcomes could not be accrued from merging these institutions due to reasons such as the Sri Lanka Broadcasting Corporation and Sri Lanka Rupavahini Corporation using technologies different from each other, the studios of the Sri Lanka Rupavahini Corporation requiring more space than those of the Sri Lanka Broadcasting Corporation, and the difficulty of integration due to their transmission towers being located in different locations. Accordingly, the proposal made by the Minister of  Health and Mass Media to continue operations of the Sri Lanka Broadcasting Corporation and Sri Lanka Rupavahini Corporation as separate State enterprises with their own distinct identities, by improving operational efficiency and revenue status through a formal strategic business plan, was approved by the Cabinet.
+- It has been scientifically proven that physical and psychological abuse caused to a child by corporal punishment is extensive. Therefore, approval has been granted at the Cabinet meeting held on 2024-04-29 to amend the Penal Code (Chapter 19) to prohibit the corporal punishment in all spheres and to make provisions for the imposition of punishment for physical abuse. Although the Cabinet of Ministers has previously granted approval to publish the Penal Code (Amendment) Bill prepared by the Legal Draftsman for the relevant purpose, in the Government Gazette and present the same in Parliament, it has not been possible to act accordingly. The need for the expeditious enactment of the said Bill has been identified. Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament, was approved by the Cabinet.
 
-### Appointment to the Post of District Secretary/Government Agent in the 	Administrative District of Kegalle 
+### Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment) 
 
-(2025-03-10 - #7)
+(2025-06-09 - #14)
 
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13076)
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229)
 
-- Since Mr. J.M.R.P. Jayasinghe, who served as the District Secretary/Government Agent in the Administrative District of Kegalle, has been appointed to the Post of Chief Secretary of the North Central Province with effect from 2025‑02‑01, the Post of District Secretary/Government Agent, Kegalle has fallen vacant by now. It has been identified that it would be appropriate to appoint Mr. H.M.J.M. Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving in a Post of Additional Secretary of the Ministry of Public Administration, Provincial Councils and Local Government, to the said Post.  Accordingly, the proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr. H.M.J.M. Herath, Special Grade Officer of the Sri Lanka Administrative Service, to the Post of District Secretary/Government Agent in the Administrative District of Kegalle with immediate effect, was approved by the Cabinet.
+- Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend the Code of Criminal Procedure Act, No. 15 of 1979 to make provisions for the prohibition of Corporal Punishment in all spheres. Accordingly, the proposal made by the Minister of Justice and National Integration to grant policy approval of the present Cabinet to prepare an amending Bill for the relevant purpose, was approved by the Cabinet.
 
-### Implementation of the recommendations of the Committee appointed to review the recruitment process and cadre management in the public service 
+### Preparation of the 'Promotion of Breastfeeding' Bill 
 
-(2025-03-10 - #6)
+(2025-06-09 - #13)
 
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13075)
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228)
 
-- Approval has been granted at the Cabinet meeting held on 2024‑12‑30, to appoint a Committee under the Chairmanship of the Secretary to the Prime Minister to review the recruitment process in the public service, identify the needs, priorities and timeframes and take necessary steps regarding the number of recruitments that should be essentially made. Taking into account the requests submitted to the Committee by the respective Ministries to fill the vacancies in the Departments and other institutions under the said Ministries, the Cabinet approved the proposal made by the Hon. Prime Minister to grant approval for the relevant Ministries and institutions to make the following recruitments recommended by the Committee:
+- Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
+### Formulation of an Act for the establishment of the Matara Cultural and Development Board 
 
+(2025-06-09 - #12)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13227)
 
-Serial No.
-Ministries/Provincial Councils
-Number of vacancies recommended for recruitment by the Committee
+- Matara has been identified as a city with significant historical, cultural and natural and tourist potential which needs to be conserved and developed for economic and employment benefits of Sri Lankan citizens. Nevertheless, it is observed that these potentials remain underutilized. Accordingly, it has been identified that it is essential to formulate an Act pertaining to the Matara heritage  and development to achieve the expectations of developing the Matara City, sustainably conserving its heritage and modernizing the city. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism; Minister of Urban Development, Construction and Housing; and the Minister of Buddhasasana, Religious and Cultural Affairs, to prepare a Bill related to Matara Heritage and Development for Matara city, was approved by the Cabinet.
 
+### Amendment of the Sri Lanka Institute of Architects (SLIA) Law No.1 of 1976 
 
+(2025-06-09 - #11)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13226)
 
-1
-Ministry of Transport, Highways, Ports and Civil Aviation
-909
+- The Sri Lanka Institute of Architects, the sole body established in Sri Lanka for the profession of Architecture, its practice and education of Architecture has been incorporated by the provisions of the Sri Lanka Institute of Architects Law, No. 1 of 1976, amended by the Sri Lanka Institute of Architects (Amendment) Act, No. 14 of 1996. In order to cope with the current context of professional practices, the Sri Lanka Institute of Architects has proposed to amend the relevant sections of the Principal Act, “Practice in Architecture and Membership and Use of Titles”. Accordingly, approval has been granted by the Cabinet of Ministers on 2023-04-17 to prepare a Bill for the relevant purpose. As per the said approval, the proposal made by the Minister of Urban Development, Construction and Housing to grant policy approval of the present Cabinet of Ministers to complete the preparation of the Sri Lanka Institute of Architects (Amendment) Bill, was approved by the Cabinet.
 
+### Construction of a new residential building at the Treatment and Rehabilitation Centre for young people with drug addiction 
 
-2
-Ministry of Women and Child Affairs
-109
+(2025-06-09 - #10)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13225)
 
-3
-Ministry of Environment
-144
+- The National Dangerous Drugs Control Board conducts treatment and rehabilitation services for people with drug addiction, under residential and    non-residential community-based models. Under this, a dedicated treatment centre for children and young people below 21 years of age with disabilities arising from drug use disorders is being maintained at Mampitiya Watta, Handessa, Peradeniya. It has been identified that separate treatment services and adequate separate space are essential for the treatment of the relevant persons, paying attention to the psycho-social characteristics of the persons belonging to that age group and their drug use related behaviors. Since the current residential capacity of the relevant Centre is only for 35 persons, it is necessary to maintain a waiting list for admissions. Therefore, the  proposal made by the Minister of Public Security and Parliamentary Affairs to construct a new residential building in the premises of the Peradeniya Treatment Centre, spending Rs.110 million from the provisions allocated under the Clean Sri Lanka Programme, enabling to expand and expedite treatment opportunities for children and young people with drug addiction, was approved by the Cabinet.
 
+### Purchase of Waste Compactor Vehicles for regularizing transport of Waste in Local Authorities 
 
-4
-Ministry of Public Security and Parliamentary Affairs
-2500
+(2025-06-09 - #9)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13224)
 
-5
-Ministry of Education, Higher Education and Vocational Education
-22
+- Like many developing countries, solid waste management in Sri Lanka is currently facing many challenges and difficulties. Accordingly, the need to improve the infrastructure required for municipal waste management has been identified. The existing garbage compactors and tractors are used to transport the collected municipal waste in an environmental friendly manner to the treatment sites so as to minimize public impact, and 100 compactors were purchased in the year 2017 using domestic funds for the said purpose. However, it has been observed that the number of such vehicles and the number of vehicles including tractors owned by the Local Authorities are not adequate to manage the amount of waste currently generated. Accordingly, the proposal made by the Minister of Public Administration, Provincial Councils and Local Government to purchase 16 waste compactor vehicles to streamline the collection and transportation of waste in the selected Local Authorities, utilizing the budgetary provisions of Rs. 500 million allocated for the year 2025 under the Clean Sri Lanka Programme, was approved by the Cabinet.
 
+### Improving and maintaining the broadcasting activities of the Independent Television Network 
 
-6
-Ministry of Science and Technology
-3
+(2025-06-09 - #8)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13223)
 
-7
-Ministry of Finance, Planning and Economic Development
-185
+- The Independent Television Network, which was started as the first television channel in the country, operates as a company with 100% share rights owned by the General Treasury. However, due to the fact that programmes have to be produced using computer accessories and outdated software that are several years old, it has become problematic to broadcast high-quality, attractive programmes while competing in the field. Therefore, taking into account a proposal made by the Minister of Health and Mass Media, the Cabinet decided to allocate the required provisions through the 2026 Budget on a priority basis to secure several essential  accessories for the Independent Television Network, enabling to enhance subscriber attraction and continue telecasting activities without interruption.
 
+### Allocation of provisions for the projects identified in the industrial and enterprise development sectors 
 
-8
-Ministry of Fisheries, Aquatic and Ocean Resources
-20
+(2025-06-09 - #7)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13222)
 
-9
-Ministry of Public Administration, Provincial Councils and Local Government
-1615
+- Policy and other decisions required to uplift the existing status of the Small Enterprises Development Division, Industrial Development Board, Lanka Salusala Ltd, Ceylon Ceramics Corporation and the Export Development Board are being implemented with the intervention of those Institutions/divisions and the Ministry of Industry and Entrepreneurship Development utilizing the staff, natural resources, machinery and other physical resources of those institutions/divisions. Accordingly, the proposal made by the Minister of Industry and Entrepreneurship Development to allocate Rs. 100 million from the provisions allocated for the year 2025 under the Sectoral Development Programme of the Ministry of Industry and Entrepreneurship Development for the following projects was approved by the Cabinet.* Reality Show Programme organized by the Small Enterprises Development Division.* Industry Expo Exhibition organized by Industrial Development Board.* Pilot project to establish a revolving fund to provide raw materials required for local textile production at subsidized prices.* Providing working capital to the Ceylon Ceramics Corporation.* Purchase of scanners to introduce Advanced Scanner Technology to the inspection yard (Security Checkpoint at Cargo Village) maintained  by the Industrial Development Board at the premises of Bandaranaike International Airport, Katunayake.
 
+### Preparation of the Master Plan for the Bandaranaike International Airport 
 
-10
-Central Provincial Council
-72
+(2025-06-09 - #6)
 
+[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13221)
 
-11
-Uva Provincial Council
-303
-
-
-
-
-Total
-5882
-
-### Amendments to the Tea Control Act, No.51 of 1957 
-
-(2025-03-10 - #5)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13074)
-
-
-
-### Amendment to the Industrial Promotion Act No.46 of 1990 
-
-(2025-03-10 - #4)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13073)
-
-- It has been observed that the provisions of the existing Industrial Promotion Act No. 46 of 1990 are inadequate for the formulation of industrial policies to meet the timely requirements in the industry sector in relation to the fields of technology, trade, skills and environment etc. Therefore, approval has been granted at the Cabinet meeting held on 2021‑03‑08 to amend the said Act. The Legal Draftsman is making amendments to the said Act at present and the need of obtaining policy concurrence of the present Cabinet for amending the said Act has been pointed out by the Legal Draftsman. Accordingly, taking into consideration the proposal made by the Minister of Industry and Entrepreneurship Development, it was decided to grant policy approval of the Cabinet to expedite the preparation of the said Bill.
-
-### Payment of annual contributions to the International Solar Alliance (ISA) and signing of the Country Partnership Framework (CPF) between Sri Lanka and ISA 
-
-(2025-03-10 - #3)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13072)
-
-- The International Solar Alliance has been established with the aim of supporting the member nations pathway to promote the use of solar energy. At present, 75 countries, including Sri Lanka, have become its members and 54 countries have ratified the Partnership Framework Agreement. Sri Lanka is required to pay a voluntary contribution of US$ 25,000 annually based on the category to which it belongs. As a member State, Sri Lanka has the opportunity to accrue benefits such as capacity building relating to solar energy sector through Solar Technology Application Resource Centres (STAR-C), Policy Development, Access to Funding, Global Networking, Knowledge Exchange, from the International Solar Alliance. Accordingly, the following proposals made by the Minister of Energy, were approved by the Cabinet:
-
-*	to continue the payment of an annual contribution of US$ 25,000 from the financial year 2024/25 onwards.
-
-*	to establish a Solar Technology Application Resource Centre (STAR-C) in Sri Lanka.
-
-*	to sign the 'Country Partnership Framework' between Sri Lanka and the International Solar Alliance.
-
-### Construction of a Lawyers' Office Complex acquired adjacent to the New Galle Courts Complex 
-
-(2025-03-10 - #2)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13071)
-
-- Proposal pertaining to the construction of a Lawyers' Office Complex at the expense of the Galle Bar Association on a plot of land in extent of 130 perches adjacent to the New Galle Courts Complex acquired for the use of the Ministry in charge of the subject of Justice, was taken up for discussion at the Cabinet meeting held on 2025‑02‑03. At this meeting, an Officials' Committee headed by the Secretary, Ministry of Justice and National Integration, comprising of representatives from the Ministry of Finance Planning and Economic Development, Land Commissioner General's Department including other relevant institutions, has been appointed to examine the existing legal and other matters pertaining to the implementation of the said proposal and submit a Report with recommendations to the Cabinet. The proposal made by the Minister of Justice and National Integration to sign a Memorandum of Understanding between the Ministry of Justice and National Integration and the Galle Bar Association to pursue action as follows, based on the recommendations submitted by the said Officials' Committee, was approved by the Cabinet.
-
-*	Construction of a Lawyers' Office Complex through the funds of the Galle Bar Association on the above plot of land in extent of 130 perches, having the ownership of the land with the Government.
-
-*	Handing over the tenure of the said building to the Galle Bar Association to use the same for a period of 30 years, attending to its maintenance, in a manner that the total amount invested by the said Association for the construction of the building is covered by the lease rental.
-
-*	Not to use the building for any commercial purpose other than providing servìces to the public in relation to the legal profession.
-
-*	Handover of the tenure of the building to the Ministry in charge of the subject of Justice after a period of 30 years.
-
-*	If the said building is further required thereafter, to provide the opportunity to use the said building, having entered into a fresh Memorandum of Understanding with the Galle Bar Association, based on the valuation of the Chief Government Valuer.
-
-### Legal status regarding changing the design and modification of buses 
-
-(2025-03-10 - #1)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13070)
-
-- In keeping with the Regulations issued under the provisions of the Motor Traffic Act, changes in the design of vehicles and their modifications could be made with the prior approval of the Commissioner General of Motor Traffic. Accordingly, by amending the Motor Traffic (Construction of Vehicles) Regulations published in 1983, from time to time, Regulations regarding the manner in which such modifications can be made, have been published through Gazette Notifications. In addition to the installation of vehicle accessories and changes in the design published through such Regulations in the past, the Department of Motor Traffic has also prepared a set of guidelines for decoration of buses and modification of components through different internal procedures and an internal circular too has been issued thereon. However, no Regulations related thereto have been published in accordance with the provisions of the Motor Traffic Act. Therefore, Cabinet decided to grant its concurrence for the proposal made by the Minister of Transport, Highways, Ports and Civil Aviation to appoint a Committee representing the Ministry of Transport, Highways, Ports and Civil Aviation including other relevant parties, to examine the possible impact of bus decorations and accessories on the safety of passengers travelling in buses, taking all these circumstances into account and submit a Report with recommendations for taking appropriate measures in this regard.
-
-### Acceptance of the Manifesto 'A Thriving Nation - A Beautiful Life ' as the National Policy Framework of the Government 
-
-(2025-03-03 - #10)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13069)
-
-- The manifesto ' A Thriving Nation - A Beautiful Life ' has been put forward with a view to attaining sustainable economic growth and development through a robust production economy with a target of reaching a real Gross Domestic Production of US$ 120 billion by 2030. It has been structured under four main sectors stated below encompassing all sectors including economic, social, environmental, political:
-
-*	A fulfilling life - A comfortable country
-
-*	An honorable life - A safer country
-
-*	A modern life - A wealthy nation
-
-*	A dignified life - A strong country
-
-	Forty (40) sub-sectors have been identified under those 04 main sectors, and the policy principles and actions to be taken pertaining to the said areas have been identified separately. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to accept the manifesto "A Thriving Nation - A Beautiful Life" as the National Policy Framework of the Government and to direct the Ministries, Departments, State Institutions, Provincial Councils and Local Authorities to plan and implement their functions accordingly, was approved by the Cabinet.
-
-### Appointment to the Post of Director General of the Disaster Management Centre 
-
-(2025-03-03 - #9)
-
-[Source](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13068)
-
-- The contract period of service of retired Major General, H.M.U. Herath presently serving in the Post of Director General of the Disaster Management Centre is due to expire on 2025‑03‑07. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence, to appoint retired Major General Sampath Kotuwegoda for a period of one (01) year on contract basis, to the Post of Director General of the Disaster Management Centre, which falls vacant from the said date, was approved by the Cabinet.
+- Proposals have been invited through the International Competitive Bidding Procedure to select a consultancy firm to prepare the master plan for the Bandaranaike International Airport. After evaluating the said proposals,  Airport and Aviation Services (Sri Lanka) (Private) Limited has cancelled the relevant contract due to non-adherence to the conditions of the contract by the company that was awarded the contract and resumed the procurement process on the approval of the Cabinet. For the procurement newly invited, only M/s Haskoning DHV Netherland B.V., operating as Netherlands Airport Consultants, has submitted a single proposal. The Cabinet Appointed Consultants Procurement Committee, having evaluated the said proposal has recommended that the relevant consultancy contract be awarded to the above firm. Accordingly, the proposal made by the Minister of Transport, Highways, Ports and Civil Aviation to award the said procurement, was approved by the Cabinet.
