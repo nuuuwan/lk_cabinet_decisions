@@ -11,6 +11,10 @@ log = Log("Pipeline")
 
 
 class Pipeline:
+    def __init__(self, do_shuffle=True):
+        log.debug(f"{do_shuffle=}")
+        self.do_shuffle = do_shuffle
+
     # HACK!
     # flake8: noqa: F401
     def get_cabinet_decision_list(self, max_n_hot):
@@ -18,7 +22,9 @@ class Pipeline:
         decision_list = []
         n_hot = 0
         year_pages = list(contents_page.year_page_idx.values())
-        random.shuffle(year_pages)
+        if self.do_shuffle:
+            log.debug("Shuffling year pages")
+            random.shuffle(year_pages)
         for year_page in year_pages:
             for day, day_page in year_page.day_page_idx.items():
                 log.debug(f"Processing {day}")
