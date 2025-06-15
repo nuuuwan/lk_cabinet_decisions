@@ -4,7 +4,7 @@ from functools import cached_property
 from urllib.parse import urlencode
 
 import requests
-from utils import Hash, Log
+from utils import File, Hash, Log
 
 log = Log("CabinetWebPage")
 
@@ -25,7 +25,6 @@ class CabinetWebPage:
 
     @cached_property
     def __content_hot__(self):
-
         response = requests.get(self.url)
         response.raise_for_status()
         return response.text
@@ -35,24 +34,20 @@ class CabinetWebPage:
         return os.path.join(tempfile.gettempdir(), f"{self.hash}")
 
     @cached_property
+    def __temp_html_file__(self):
+        return File(self.__temp_htmp_file_path__)
+
+    @cached_property
     def content(self):
         if not os.path.exists(self.__temp_htmp_file_path__):
             content = self.__content_hot__
-            with open(
-                self.__temp_htmp_file_path__, "w", encoding="utf-8"
-            ) as file:
-                file.write(content)
-                n_content = len(content.encode("utf-8"))
-                log.info(
-                    f"Downloaded {
-                        self.url} to {
-                        self.__temp_htmp_file_path__} ({
-                        n_content:,}B)"
-                )
+            self.__temp_html_file__.write(content)
+            n_content = len(content.encode("utf-8"))
+            log.info(
+                f"Downloaded {self.url} to"
+                + f" {self.__temp_htmp_file_path__} ({n_content:,}B)"
+            )
 
         else:
-            with open(
-                self.__temp_htmp_file_path__, "r", encoding="utf-8"
-            ) as file:
-                content = file.read()
+            content = self.__temp_html_file__.read()
         return content
