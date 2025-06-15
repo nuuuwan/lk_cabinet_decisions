@@ -1,5 +1,6 @@
 import os
 import tempfile
+import time
 from functools import cached_property
 from urllib.parse import parse_qs, urlencode, urlparse
 
@@ -12,6 +13,7 @@ log = Log("CabinetWebPage")
 
 class CabinetWebPage:
     BASE_URL = "https://www.cabinetoffice.gov.lk/cab/index.php"
+    T_WAIT = 1
 
     def __init__(self, **params):
         if not all([params["lang"] == "en"]):
@@ -30,6 +32,7 @@ class CabinetWebPage:
 
     @cached_property
     def __content_hot__(self):
+        time.sleep(CabinetWebPage.T_WAIT)
         response = requests.get(self.url)
         response.raise_for_status()
         return response.text
