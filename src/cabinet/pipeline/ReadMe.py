@@ -43,8 +43,9 @@ class ReadMe:
         for decision in latest_decisions:
             lines.extend(
                 [
-                    f"### {decision.title} ",
-                    f"[{decision.key}]({decision.source_url})",
+                    "### "
+                    + f"[{decision.key}]({decision.source_url}) "
+                    + f"{decision.title}",
                     f"{decision.decision_details}",
                 ]
             )
