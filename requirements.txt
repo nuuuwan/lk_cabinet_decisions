@@ -1,2 +1,4 @@
 utils-nuuuwan
 bs4
+matplotlib
+pandas

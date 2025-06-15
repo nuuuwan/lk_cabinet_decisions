@@ -1,6 +1,7 @@
 from utils import Log
 
 from cabinet.core import CabinetDecision
+from cabinet.pipeline.CabinetDecisionChart import CabinetDecisionChart
 from cabinet.pipeline.ReadMe import ReadMe
 from cabinet.web import ContentsPage
 
@@ -40,4 +41,5 @@ class Pipeline:
     def run(self, max_n_hot):
         self.get_cabinet_decision_list(max_n_hot)
         CabinetDecision.build_table()
+        CabinetDecisionChart().draw()
         ReadMe().write()

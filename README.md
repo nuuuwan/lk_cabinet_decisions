@@ -4,6 +4,9 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka ğŸ
 
 [TSV Table of Cabinet Decisions](data/cabinet_decisions.tsv)
 
+
+![Cabinet Decision Chart](images/cabinet_decision_chart.png)
+
 ## Summary
 
 | | |

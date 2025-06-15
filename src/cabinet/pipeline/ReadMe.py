@@ -3,6 +3,7 @@ from functools import cached_property
 from utils import File, Log
 
 from cabinet.core import CabinetDecision
+from cabinet.pipeline.CabinetDecisionChart import CabinetDecisionChart
 
 log = Log("ReadMe")
 
@@ -20,6 +21,14 @@ class ReadMe:
             "",
             "[TSV Table of Cabinet Decisions]"
             + f"({CabinetDecision.CABINET_DESICIONS_TABLE_PATH})",
+            "",
+        ]
+
+    @cached_property
+    def chart_lines(self):
+        return [
+            "",
+            f"![Cabinet Decision Chart]({CabinetDecisionChart.IMAGE_PATH})",
             "",
         ]
 
@@ -94,6 +103,7 @@ class ReadMe:
     def lines(self):
         return (
             self.header_lines
+            + self.chart_lines
             + self.summary_lines
             + self.latest_decision_lines
             + self.last_n_decisions_lines
