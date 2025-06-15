@@ -5,24 +5,24 @@ from cabinet.web.DecisionDetailsPage import DecisionDetailsPage
 
 
 class DayPage(CabinetWebPage):
-    def __init__(self, day_str, params):
+    def __init__(self, date_str, params):
         if not all(
             [
                 params.get("option") == "com_content",
                 params.get("view") == "article",
                 "id" in params,
                 "Itemid" in params,
-                params.get("dDate") == day_str,
-                len(day_str) == 10,  # Format: YYYY-MM-DD
+                params.get("dDate") == date_str,
+                len(date_str) == 10,  # Format: YYYY-MM-DD
             ]
         ):
             raise ValueError(
                 "Invalid params for DayPage: "
-                + str(dict(day_str=day_str, params=params))
+                + str(dict(date_str=date_str, params=params))
             )
 
         super().__init__(**params)
-        self.day_str = day_str
+        self.date_str = date_str
 
     @cached_property
     def decision_details_page_list(self):
@@ -37,6 +37,11 @@ class DayPage(CabinetWebPage):
             params = CabinetWebPage.get_params_from_url(href)
 
             decision_details_page_list.append(
-                DecisionDetailsPage(params, decision_num, title)
+                DecisionDetailsPage(
+                    params,
+                    self.date_str,
+                    decision_num,
+                    title,
+                )
             )
         return decision_details_page_list

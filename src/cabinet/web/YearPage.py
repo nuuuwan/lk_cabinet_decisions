@@ -37,16 +37,16 @@ class YearPage(CabinetWebPage):
         idx = {}
         for td in td_list:
             url = td.find("a")["href"]
-            day_str = td.text.strip()
+            date_str = td.text.strip()
             params = CabinetWebPage.get_params_from_url(url)
-            idx[day_str] = DayPage(
-                day_str=day_str,
+            idx[date_str] = DayPage(
+                date_str=date_str,
                 params=params,
             )
 
         return idx
 
-    def get_day_page(self, day_str):
-        if day_str not in self.day_page_idx:
-            raise ValueError(f"Day {day_str} not found .")
-        return self.day_page_idx[day_str]
+    def get_day_page(self, date_str):
+        if date_str not in self.day_page_idx:
+            raise ValueError(f"Day {date_str} not found .")
+        return self.day_page_idx[date_str]

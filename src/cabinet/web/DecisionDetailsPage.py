@@ -6,7 +6,7 @@ from cabinet.web.CabinetWebPage import CabinetWebPage
 
 class DecisionDetailsPage(CabinetWebPage):
 
-    def __init__(self, params, decision_num, title):
+    def __init__(self, params, date_str, decision_num, title):
         if not all(
             [
                 params.get("option") == "com_content",
@@ -20,6 +20,7 @@ class DecisionDetailsPage(CabinetWebPage):
                 "Invalid params for DecisionDetailsPage: " + str(params)
             )
         super().__init__(**params)
+        self.date_str = date_str
         self.decision_num = decision_num
         self.title = title
 
@@ -32,7 +33,9 @@ class DecisionDetailsPage(CabinetWebPage):
     @cached_property
     def cabinet_decision(self):
         return CabinetDecision(
+            date_str=self.date_str,
             decision_num=self.decision_num,
             title=self.title,
+            source_url=self.url,
             decision_details=self.decision_details,
         )
