@@ -32,12 +32,6 @@ jobs:
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/pipeline.py "10"
-    
-    - name: Checkout repo branch main
-      uses: actions/checkout@v4
-      with:
-        ref: 'main'
-        token: "${{ secrets.REPO_DATA_TOKEN }}"
 
     - name: Push 
       run: |
