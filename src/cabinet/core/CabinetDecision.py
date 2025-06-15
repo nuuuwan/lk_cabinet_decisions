@@ -26,7 +26,9 @@ class CabinetDecision:
 
     @cached_property
     def key(self):
-        return self.__object_key__(self.date_str, self.decision_num, self.title)
+        return self.__object_key__(
+            self.date_str, self.decision_num, self.title
+        )
 
     def to_dict(self):
         return {

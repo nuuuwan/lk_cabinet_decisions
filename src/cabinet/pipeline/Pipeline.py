@@ -10,7 +10,9 @@ log = Log("Pipeline")
 
 class Pipeline:
     DIR_CABINET_DECISIONS = os.path.join("data", "cabinet_decisions")
-    CABINET_DESICIONS_TABLE_PATH = os.path.join("data", "cabinet_decisions.tsv")
+    CABINET_DESICIONS_TABLE_PATH = os.path.join(
+        "data", "cabinet_decisions.tsv"
+    )
 
     def get_cabinet_decision_list(self, limit):
         contents_page = ContentsPage()
