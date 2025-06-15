@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-15 16:41:23**     |
-| nDecisions   | **783**     |
+| Last Updated   | **2025-06-15 16:52:52**     |
+| nDecisions   | **833**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2011-12-21** |
 
@@ -56,7 +56,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (783)
+## All Cabinet Decisions (833)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -774,6 +774,56 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2024-04-25] [Vesting the Land where the Negombo Eththukala Beach Park is located with the Urban Development Authority for the development of the said Park](data/cabinet_decisions/2024/2024-04/2024-04-25-003-ca63.json)
 - [2024-04-25] [Expansion of the Mindfulness Training Programme being implemented 	for school children islandwide](data/cabinet_decisions/2024/2024-04/2024-04-25-002-60f6.json)
 - [2024-04-25] [Entering into Memoranda of Understanding/Agreements in view of Educational Collaboration](data/cabinet_decisions/2024/2024-04/2024-04-25-001-52fb.json)
+- [2023-12-18] [Terms of Reference for the Anti-money Laundering and Countering the Financing of Terrorism (AML/CFT) National Coordinating Committee and Establishment of a Task Force](data/cabinet_decisions/2023/2023-12/2023-12-18-018-cbc6.json)
+- [2023-12-18] [Importation of eggs from farms recommended by the Department of Animal Production and Health to stabilize the price of eggs in the domestic market](data/cabinet_decisions/2023/2023-12/2023-12-18-017-74e9.json)
+- [2023-12-18] [Allowing the Private Sector to import 50,000 MT of GR 11 variety of Rice, similar to Keeri Samba Rice](data/cabinet_decisions/2023/2023-12/2023-12-18-016-d7d6.json)
+- [2023-12-18] [Institutional Reforms for Digital Transformation](data/cabinet_decisions/2023/2023-12/2023-12-18-015-3bca.json)
+- [2023-12-18] [Amendments to the National Savings Bank Act, No.30 of 1971](data/cabinet_decisions/2023/2023-12/2023-12-18-014-ffb9.json)
+- [2023-12-18] [Amendment to the Social Security Contribution Levy Act, No.25 of 2022](data/cabinet_decisions/2023/2023-12/2023-12-18-013-9981.json)
+- [2023-12-18] [Commission for Truth, Unity and Reconciliation in Sri Lanka Bill](data/cabinet_decisions/2023/2023-12/2023-12-18-012-ccbe.json)
+- [2023-12-18] [Providing a relief for Public Officers who are entitled to Political Rights and contested at the Local Government Election](data/cabinet_decisions/2023/2023-12/2023-12-18-011-0ef5.json)
+- [2023-12-18] [Submission of Sri Lanka National Commission for UNESCO Bill to Parliament](data/cabinet_decisions/2023/2023-12/2023-12-18-010-206a.json)
+- [2023-12-18] [Approval for the National Aeronautical Search and Rescue Plan](data/cabinet_decisions/2023/2023-12/2023-12-18-009-d692.json)
+- [2023-12-18] [Project for the establishment of 60 Smart Classrooms for Advanced Level Students in the selected Plantation Schools in the Nuwara Eliya, Kandy and Badulla Districts](data/cabinet_decisions/2023/2023-12/2023-12-18-008-3acd.json)
+- [2023-12-18] [Establishing Training/Migration Resource Centres in Jaffna, Homagama and Ampara areas for Overseas Job Seekers](data/cabinet_decisions/2023/2023-12/2023-12-18-007-4acd.json)
+- [2023-12-18] [Granting compensation to the selected families who were deprived of lands owing to construction of Yan Oya Reservoir and the Left Bank Canal, in place of alternative paddy lands to be granted](data/cabinet_decisions/2023/2023-12/2023-12-18-006-0449.json)
+- [2023-12-18] [Importation of Maize and Essential Food Commodities by Sri Lanka State Trading (General) Corporation Limited](data/cabinet_decisions/2023/2023-12/2023-12-18-005-492a.json)
+- [2023-12-18] [Extension of the periods of the Governance for Growth Programme and the Market Development Facility Programme, implemented under the Grant Assistance of the Government of Australia](data/cabinet_decisions/2023/2023-12/2023-12-18-004-a3cc.json)
+- [2023-12-18] [Importation and processing of selected spices and re-exportation in the forms of oil extracts, oleoresins and spent](data/cabinet_decisions/2023/2023-12/2023-12-18-003-c85c.json)
+- [2023-12-18] [Segregation of Insurance Business of the Sri Lanka Insurance Corporation](data/cabinet_decisions/2023/2023-12/2023-12-18-002-d071.json)
+- [2023-12-18] [Entering into an Agreement with the British Council for a Pilot Project of training English Teachers in the Sabaragamuwa Province](data/cabinet_decisions/2023/2023-12/2023-12-18-001-c1bb.json)
+- [2023-12-11] [Issuance of a New Order under section 22 of the Foreign Exchange Act,	No.12 of 2017](data/cabinet_decisions/2023/2023-12/2023-12-11-021-1f12.json)
+- [2023-12-11] [Awarding the Contracts for Supplying aviation fuel for SriLankan	Airlines Limited at 09 Airports worldwide](data/cabinet_decisions/2023/2023-12/2023-12-11-020-4be7.json)
+- [2023-12-11] [Awarding the contract for the supply of Aviation Fuel for SriLankan 	Airlines Limited at Dammam (DMM) Airport](data/cabinet_decisions/2023/2023-12/2023-12-11-019-6202.json)
+- [2023-12-11] [Amendments to the Value Added Tax Act, No.14 of 2002](data/cabinet_decisions/2023/2023-12/2023-12-11-018-c240.json)
+- [2023-12-11] [700MW Solar Power Project proposed to be installed on the surface of the Poonakary Tank](data/cabinet_decisions/2023/2023-12/2023-12-11-017-49a4.json)
+- [2023-12-11] [Construction of Hybrid Renewable Energy Systems in Jaffna Small Islands](data/cabinet_decisions/2023/2023-12/2023-12-11-016-123c.json)
+- [2023-12-11] [The 'Urumaya Programme' which endows Land Permit and Grant Holders the Absolute Ownership of State Lands](data/cabinet_decisions/2023/2023-12/2023-12-11-015-79a5.json)
+- [2023-12-11] [Submission of the Order published in the Gazette under the Special Commodity Levy Act No.48 of 2007 to Parliament for approval](data/cabinet_decisions/2023/2023-12/2023-12-11-014-3fae.json)
+- [2023-12-11] [Introducing legal provisions to house arrest as an alternative to remand](data/cabinet_decisions/2023/2023-12/2023-12-11-013-b865.json)
+- [2023-12-11] [Amendments to the Partition Act](data/cabinet_decisions/2023/2023-12/2023-12-11-012-dc1e.json)
+- [2023-12-11] [Amending the Schedule VIII of the Fauna and Flora Protection Ordinance No.2 of 1937](data/cabinet_decisions/2023/2023-12/2023-12-11-011-f3b1.json)
+- [2023-12-11] [Conducting an investigation over the assassination of Mr. Edward Henry	Pedris 108 years ago by a judgment of the Colonial Military Court](data/cabinet_decisions/2023/2023-12/2023-12-11-010-fec2.json)
+- [2023-12-11] [Procurement for the purchase of oil and lubricant for the Sri Lanka	Transport Board](data/cabinet_decisions/2023/2023-12/2023-12-11-009-fc5b.json)
+- [2023-12-11] [Awarding the contract for the design and construction of Railway Diesel	Multiple Units (DMU) Workshop at Ratmalana under the Railway	Efficiency Improvement Project (REIP)](data/cabinet_decisions/2023/2023-12/2023-12-11-008-e2a5.json)
+- [2023-12-11] [Acquisition of a land plot to the Sri Lanka Police for the establishment of 	the Rangala Police Station](data/cabinet_decisions/2023/2023-12/2023-12-11-007-6df5.json)
+- [2023-12-11] [Appointment of an Authorized Representative to submit online Visa	applications of foreigners who visit Sri Lanka](data/cabinet_decisions/2023/2023-12/2023-12-11-006-49ce.json)
+- [2023-12-11] [Establishment of a mechanism for expeditious decision making for the	implementation of Renewable Energy Projects](data/cabinet_decisions/2023/2023-12/2023-12-11-005-329d.json)
+- [2023-12-11] [Establishment of an Inter-Ministerial Standing Committee on Human	Rights](data/cabinet_decisions/2023/2023-12/2023-12-11-004-3848.json)
+- [2023-12-11] [Signing a Record of Discussion (RoD) for the full implementation of the	Community-Based Tourism Development Project focusing on the Central,	Northern and Eastern Provinces](data/cabinet_decisions/2023/2023-12/2023-12-11-003-fcd2.json)
+- [2023-12-11] [Entering into a Treaty on Mutual Legal Assistance in Criminal Matters 	between the Republic of Korea and Sri Lanka](data/cabinet_decisions/2023/2023-12/2023-12-11-002-ddb9.json)
+- [2023-12-11] [Delegation of powers to District Secretaries to carry out the functions of the National Disaster Relief Services Centre more effectively and efficiently](data/cabinet_decisions/2023/2023-12/2023-12-11-001-32e3.json)
+- [2023-12-05] [Implementation of the National Evaluation Policy in the Public Sector from 2024](data/cabinet_decisions/2023/2023-12/2023-12-05-010-c886.json)
+- [2023-12-05] [Negotiations of the 12th Round of the Proposed India - Sri Lanka Economic	and Technology Cooperation Agreement (ETCA)](data/cabinet_decisions/2023/2023-12/2023-12-05-009-6ba4.json)
+- [2023-12-05] [Amendment to the Penal Code (Chapter 19) - Increase of Fines](data/cabinet_decisions/2023/2023-12/2023-12-05-008-32db.json)
+- [2023-12-05] [Amendments to the Code of Criminal Procedure Act, No.15 of 1979](data/cabinet_decisions/2023/2023-12/2023-12-05-007-3d60.json)
+- [2023-12-05] [Procurements for securing 1,450,000 of Enoxaparin Sodium used to treat 	for patients with heart diseases](data/cabinet_decisions/2023/2023-12/2023-12-05-006-a172.json)
+- [2023-12-05] [Implementation of High Impact Sustainable Educational Programme for	Transfusion Medicine Professionals and Clinical Staff](data/cabinet_decisions/2023/2023-12/2023-12-05-005-6395.json)
+- [2023-12-05] [The Agreement entered into between Sri Lanka and the Republic of Latvia	pertaining to the Transfer of Sentenced Persons](data/cabinet_decisions/2023/2023-12/2023-12-05-004-ace1.json)
+- [2023-12-05] [Treaty on Mutual Legal Assistance in Criminal Matters between Sri Lanka 	and Maldives](data/cabinet_decisions/2023/2023-12/2023-12-05-003-0693.json)
+- [2023-12-05] [Financial Sector Safety Net Strengthening Project funded by the World	Bank](data/cabinet_decisions/2023/2023-12/2023-12-05-002-144b.json)
+- [2023-12-05] [Signing of Colombo Security Conclave (CSC), Memorandum of Understanding (MoU) and Agreement of Headquarters](data/cabinet_decisions/2023/2023-12/2023-12-05-001-c59a.json)
+- [2023-11-27] [Securing funds from the Asian Development Bank to wrap-up the Integrated Road Investment Programme (iRoad Programme)](data/cabinet_decisions/2023/2023-11/2023-11-27-001-8bf6.json)
 - [2022-12-19] [Establishment of the Institute of Economics and Trade, Sri Lanka](data/cabinet_decisions/2022/2022-12/2022-12-19-001-1997.json)
 - [2021-12-20] [Signing of the Treaty on the Prohibition of Nuclear Weapons  (TPNW)](data/cabinet_decisions/2021/2021-12/2021-12-20-001-322a.json)
 - [2020-12-21] [Enticing the Airlines to the Mattala Rajapaksa International Airport and the Colombo International Airport, Ratmalana](data/cabinet_decisions/2020/2020-12/2020-12-21-018-1525.json)
