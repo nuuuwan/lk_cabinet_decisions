@@ -58,7 +58,7 @@ class CabinetDecisionChart:
 
         plt.title(
             f"{n_decisions} Cabinet Decisions in Sri Lanka"
-            + f" ({time_strs[0]} - {time_strs[-1]})"
+            + f" ({time_strs[0]} to {time_strs[-1]})"
         )
         plt.xlabel("Date")
         plt.ylabel("Cabinet Decisions")
