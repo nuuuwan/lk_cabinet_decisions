@@ -1,21 +1,29 @@
-# Cabinet Decisions 🇱🇰
+# 🇱🇰 Cabinet Decisions – Sri Lanka
 
-This repository contains sturctured data about cabinet desisions in Sri Lanka 🇱🇰 - updated in real-time.
+A structured, real-time feed of official cabinet
+decisions from Sri Lanka.
 
-[TSV Table of Cabinet Decisions](data/cabinet_decisions.tsv)
+Data is available in TSV and JSON formats.
 
-## Summary
+This is **public data** — free to use, share, and
+build on.
+
+Perfect for researchers, journalists, civic tech
+projects, or anyone curious about governance in
+Sri Lanka.
+
+## Data Summary
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-16 09:40:46**     |
-| nDecisions   | **6,524**     |
+| Last Updated   | **2025-06-16 09:43:08**     |
+| nDecisions   | **6,427**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
 
-## Example JSON Data for Cabinet Decision
+## Example JSON Data for a single Cabinet Decision
 
 ```json
 {
@@ -29,6 +37,10 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 ```
 
 [JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
+
+## Example TSV Data
+
+[Complete TSV](data/cabinet_decisions.tsv) (6.45 MB)
 
 ## Last 3 Cabinet Decisions
 
@@ -56,7 +68,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (6,524)
+## All Cabinet Decisions (6,427)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1851,6 +1863,9 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2021-10-11] [Legalizing the Minimum Age of Retirement for the Private Sector Employees](data/cabinet_decisions/2021/2021-10/2021-10-11-003-2c8f.json)
 - [2021-10-11] [Formulation of legislation on Cyber Security](data/cabinet_decisions/2021/2021-10/2021-10-11-002-1c3d.json)
 - [2021-10-11] [Submission of a suitable methodology for the specific determination and identification of National Heritage in Sri Lanka](data/cabinet_decisions/2021/2021-10/2021-10-11-001-26fc.json)
+- [2021-10-05] [Smart Sri Lanka Initiative - Digitalization, Blockchain Technology, Cryptocurrency mining and providing required services to Sri Lanka](data/cabinet_decisions/2021/2021-10/2021-10-05-011-f100.json)
+- [2021-10-05] [Prohibition of Obscene Publication Bill](data/cabinet_decisions/2021/2021-10/2021-10-05-010-0826.json)
+- [2021-10-05] [Amendment to the Partition Act Law](data/cabinet_decisions/2021/2021-10/2021-10-05-009-3932.json)
 - [2021-10-05] [Entry of the Ceylon Petroleum Corporation into Liquefied Petroleum Gas (LPG) Business](data/cabinet_decisions/2021/2021-10/2021-10-05-008-9937.json)
 - [2021-10-05] [Establishment of a Higher Education Research and Training Institute as “Sri Lanka Charted Institute of Journalists”](data/cabinet_decisions/2021/2021-10/2021-10-05-007-c8dc.json)
 - [2021-10-05] [Constructing Smart Class Rooms and Modern Computer Labs for 200 Schools in Galle District with the assistance of the Republic of India](data/cabinet_decisions/2021/2021-10/2021-10-05-006-9b06.json)
@@ -2360,6 +2375,7 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2020-01-08] [Re commencement of the construction of the Court Complex at Beligaha Junction in Galle](data/cabinet_decisions/2020/2020-01/2020-01-08-003-d211.json)
 - [2020-01-08] ['Gamata Geyak - Ratata Hetak' - A comfortable house for every family](data/cabinet_decisions/2020/2020-01/2020-01-08-002-612a.json)
 - [2020-01-08] [Memorandum of Understanding between the General Sir John Kotelawala Defence University and the Indonesia Defense University](data/cabinet_decisions/2020/2020-01/2020-01-08-001-a8cc.json)
+- [2020-01-02] [Withdrawal of the proposed Bill on Counter Terrorism](data/cabinet_decisions/2020/2020-01/2020-01-02-009-887f.json)
 - [2020-01-02] [Redress to Government and Semi Government employees who were subject to political victimization](data/cabinet_decisions/2020/2020-01/2020-01-02-008-25d5.json)
 - [2020-01-02] [Awarding of the Contract for the Rehabilitation and Improvement of the Road Section from Kirulapona to Godagama and the Road Section from Pamankada to Pokunuvita under Southern Road Connectivity Project](data/cabinet_decisions/2020/2020-01/2020-01-02-007-b584.json)
 - [2020-01-02] [Tea Sector Revival and Modernization Programme](data/cabinet_decisions/2020/2020-01/2020-01-02-006-3d08.json)
@@ -4297,6 +4313,19 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2016-09-13] [National Occupational Safety Week 2016](data/cabinet_decisions/2016/2016-09/2016-09-13-003-195a.json)
 - [2016-09-13] [Increasing the compensation paid for damages to human lives and property caused by wild elephants](data/cabinet_decisions/2016/2016-09/2016-09-13-002-b00e.json)
 - [2016-09-13] [Creating an Accelerated Economic Transformation in Sri Lanka - Setting up a Central Programme Management Unit](data/cabinet_decisions/2016/2016-09/2016-09-13-001-fbd4.json)
+- [2016-09-06] [Financial Assistance from the Asian Development Bank for the Proposed Capital Market Development Programme](data/cabinet_decisions/2016/2016-09/2016-09-06-013-ea03.json)
+- [2016-09-06] [Construction of Section 4 of the Central Expressway from Kurunegala to Dambulla (60 km)](data/cabinet_decisions/2016/2016-09/2016-09-06-012-5467.json)
+- [2016-09-06] [Maduru Oya Right Bank Development Project](data/cabinet_decisions/2016/2016-09/2016-09-06-011-c1a1.json)
+- [2016-09-06] [Completion of the Construction Work of Polpithigama Police Station](data/cabinet_decisions/2016/2016-09/2016-09-06-010-ad2f.json)
+- [2016-09-06] [Project for the Construction of Thambalagamuwa Police Station](data/cabinet_decisions/2016/2016-09/2016-09-06-009-2a76.json)
+- [2016-09-06] [Implementation of a new Inland Water Transport System through Private-Public Partnership](data/cabinet_decisions/2016/2016-09/2016-09-06-008-799b.json)
+- [2016-09-06] ['Let's Awaken Polonnaruwa' District Development Programme -  Implementation of Priority Water Supply Projects](data/cabinet_decisions/2016/2016-09/2016-09-06-007-b7d2.json)
+- [2016-09-06] [Memorandum of Understanding on the Establishment of a Political Consultation Mechanism between Slovenia and Sri Lanka](data/cabinet_decisions/2016/2016-09/2016-09-06-006-42db.json)
+- [2016-09-06] [Relocation of the Ministry of Foreign Affairs](data/cabinet_decisions/2016/2016-09/2016-09-06-005-6e2e.json)
+- [2016-09-06] [Enforcement and Regulation of the activities related to the International Conventions pertaining to Wildlife Conservation, in Sri Lanka](data/cabinet_decisions/2016/2016-09/2016-09-06-004-cd61.json)
+- [2016-09-06] [Declaration of 'The National Marine Resources Conservation Week'](data/cabinet_decisions/2016/2016-09/2016-09-06-003-cbee.json)
+- [2016-09-06] [Proper Management of the use of Polythene to minimize environmental issues caused by Polythene](data/cabinet_decisions/2016/2016-09/2016-09-06-002-39dd.json)
+- [2016-09-06] [Controlling the Importation and the use of non-eco-friendly Asbestos in Sri Lanka](data/cabinet_decisions/2016/2016-09/2016-09-06-001-7fb6.json)
 - [2015-12-23] [The Law to Introduce National Minimum Wage for Employees of the Private Sector](data/cabinet_decisions/2015/2015-12/2015-12-23-011-0a62.json)
 - [2015-12-23] [Increase of Wages of Private Sector Employees](data/cabinet_decisions/2015/2015-12/2015-12-23-010-95f5.json)
 - [2015-12-23] [Award of Contract for upgrading Tissamaharama Water Supply Scheme](data/cabinet_decisions/2015/2015-12/2015-12-23-009-e4a2.json)

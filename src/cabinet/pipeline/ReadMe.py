@@ -1,3 +1,4 @@
+import os
 from functools import cached_property
 
 from utils import File, Log, Time, TimeFormat
@@ -45,7 +46,7 @@ class ReadMe:
         n_cabinet_decisions = len(cabinet_decisions)
         last_updated_str = TimeFormat.TIME.format(Time.now())
         return [
-            "## Summary",
+            "## Data Summary",
             "",
             "| | |",
             "|:--|--:|",
@@ -60,16 +61,29 @@ class ReadMe:
         ]
 
     @cached_property
-    def latest_decision_lines(self):
+    def example_json_lines(self):
         latest_decision = CabinetDecision.list_all()[0]
         return [
-            "## Example JSON Data for Cabinet Decision",
+            "## Example JSON Data for a single Cabinet Decision",
             "",
             "```json",
             f"{latest_decision.to_json()}",
             "```",
             "",
             f"[JSON Source]({latest_decision.local_url})",
+            "",
+        ]
+
+    @cached_property
+    def example_tsv_lines(self):
+        file_size_m = os.path.getsize(
+            CabinetDecision.CABINET_DESICIONS_TABLE_PATH
+        ) / (1000 * 1000)
+        return [
+            "## Example TSV Data",
+            "",
+            f"[Complete TSV]({CabinetDecision.CABINET_DESICIONS_TABLE_PATH})"
+            + f" ({file_size_m:.2f} MB)",
             "",
         ]
 
@@ -114,7 +128,8 @@ class ReadMe:
             self.header_lines
             + self.summary_lines
             + self.chart_lines
-            + self.latest_decision_lines
+            + self.example_json_lines
+            + self.example_tsv_lines
             + self.last_n_decisions_lines
             + self.all_decisions_lines
         )
