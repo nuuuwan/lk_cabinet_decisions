@@ -14,13 +14,19 @@ class ReadMe:
     @cached_property
     def header_lines(self):
         return [
-            "# Cabinet Decisions 🇱🇰",
+            "# 🇱🇰 Cabinet Decisions – Sri Lanka",
             "",
-            "This repository contains sturctured data about cabinet desisions"
-            + " in Sri Lanka 🇱🇰 - updated in real-time.",
+            "A structured, real-time feed of official cabinet",
+            "decisions from Sri Lanka.",
             "",
-            "[TSV Table of Cabinet Decisions]"
-            + f"({CabinetDecision.CABINET_DESICIONS_TABLE_PATH})",
+            "Data is available in TSV and JSON formats.",
+            "",
+            "This is **public data** — free to use, share, and",
+            "build on.",
+            "",
+            "Perfect for researchers, journalists, civic tech",
+            "projects, or anyone curious about governance in",
+            "Sri Lanka.",
             "",
         ]
 
