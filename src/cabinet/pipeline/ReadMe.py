@@ -76,14 +76,17 @@ class ReadMe:
 
     @cached_property
     def example_tsv_table_lines(self):
-        n_rows = 3
-        cabinet_decisions = CabinetDecision.list_all()[:n_rows]
+        n_rows_display = 3
+        cabinet_decisions = CabinetDecision.list_all()
+        n_rows_total = len(cabinet_decisions)
+        cabinet_decisions_display = cabinet_decisions[:n_rows_display]
+
         lines = [
             "| date_str | decision_num | title | source_url | "
             "decision_details | key |",
             "|:--|--:|:--|:--|:--|:--|",
         ]
-        for decision in cabinet_decisions:
+        for decision in cabinet_decisions_display:
             lines.append(
                 f"| {decision.date_str} | "
                 f"{decision.decision_num} | "
@@ -95,8 +98,9 @@ class ReadMe:
         lines.extend(
             [
                 "",
-                f"(These are the first {n_rows} "
-                "rows of the full TSV data)",
+                f"(These are the first {n_rows_display}"
+                f" of **{n_rows_total:,}**"
+                " rows of the full TSV data)",
                 "",
             ]
         )
