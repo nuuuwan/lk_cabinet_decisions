@@ -8,8 +8,8 @@ This repository contains sturctured data about cabinet desisions in Sri Lanka �
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-16 09:29:16**     |
-| nDecisions   | **6,400**     |
+| Last Updated   | **2025-06-16 09:30:37**     |
+| nDecisions   | **6,410**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -56,7 +56,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (6,400)
+## All Cabinet Decisions (6,410)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -4167,6 +4167,16 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2016-09-27] [Filling of the Existing Teacher Vacancies](data/cabinet_decisions/2016/2016-09/2016-09-27-003-e5b5.json)
 - [2016-09-27] [Construction and maintenance of Government and Semi-government buildings widely as eco-friendly green buildings](data/cabinet_decisions/2016/2016-09/2016-09-27-002-3e94.json)
 - [2016-09-27] [Construction of a Quay at Naval Dockyard - Trincomalee](data/cabinet_decisions/2016/2016-09/2016-09-27-001-632e.json)
+- [2016-09-13] [Extending the service period of Experienced Clinical Consultants up to 63 Years of Age](data/cabinet_decisions/2016/2016-09/2016-09-13-016-8436.json)
+- [2016-09-13] [Conducting the Cremation Ceremony of Late Most Venerable Nauyane Ariyadhamma Thero, the Venerable Sub-Chief Incumbent of the Ramanna Chapter, under State Sponsorship](data/cabinet_decisions/2016/2016-09/2016-09-13-015-8d6b.json)
+- [2016-09-13] [Organizing the 69th  Independence Day falling on 04th  February 2017](data/cabinet_decisions/2016/2016-09/2016-09-13-014-941c.json)
+- [2016-09-13] [Amendments to the Act on Value Added Tax](data/cabinet_decisions/2016/2016-09/2016-09-13-013-0358.json)
+- [2016-09-13] [Construction of a Three Storied New Building for the Divisional Secretariat, Panadura](data/cabinet_decisions/2016/2016-09/2016-09-13-012-f506.json)
+- [2016-09-13] [Projects implemented by the Ministry of Telecommunication and Digital Infrastructure  for the improvement of the Information  Technology Literacy](data/cabinet_decisions/2016/2016-09/2016-09-13-011-9051.json)
+- [2016-09-13] [Acquisition of Soranawatta land in Horana, to the Department of Prisons, to relocate the Welikada Prison and its supportive units](data/cabinet_decisions/2016/2016-09/2016-09-13-010-4f5e.json)
+- [2016-09-13] [Memorandum of Understanding on Cooperation in the Fields of Radio, Television and Film between Sri Lanka and   Bangladesh](data/cabinet_decisions/2016/2016-09/2016-09-13-009-5fd3.json)
+- [2016-09-13] [Mihintale Town Centre Re-development Project at Mihintale](data/cabinet_decisions/2016/2016-09/2016-09-13-008-be61.json)
+- [2016-09-13] [Vesting of Lands required for the Development of the Angunakolapelassa Town](data/cabinet_decisions/2016/2016-09/2016-09-13-007-695f.json)
 - [2016-09-13] [Construction of a New Building for the National Design Centre](data/cabinet_decisions/2016/2016-09/2016-09-13-006-c6ec.json)
 - [2016-09-13] [Introduction of Contributory Pension Scheme for Artists](data/cabinet_decisions/2016/2016-09/2016-09-13-005-6230.json)
 - [2016-09-13] [Amendment of the Sri Lanka Disaster Management Act, No.13 of 2005](data/cabinet_decisions/2016/2016-09/2016-09-13-004-6852.json)

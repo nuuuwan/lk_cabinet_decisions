@@ -36,7 +36,9 @@ class Pipeline:
         cabinet_decision = decision_details_page.cabinet_decision
         decision_list.append(cabinet_decision)
         if is_hot:
-            log.debug(f"🟢 {n_hot}/{max_n_hot} Added {cabinet_decision.key} 🆕")
+            log.debug(
+                f"🟢 {n_hot}/{max_n_hot} Added {cabinet_decision.key} 🆕"
+            )
         return decision_list, n_hot
 
     def get_cabinet_decision_list(self, max_n_hot):
