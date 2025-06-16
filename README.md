@@ -16,8 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-16 09:43:08**     |
-| nDecisions   | **6,427**     |
+| Last Updated   | **2025-06-16 09:45:15**     |
+| nDecisions   | **6,546**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -40,7 +40,7 @@ Sri Lanka.
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (6.45 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (6.56 MB)
 
 ## Last 3 Cabinet Decisions
 
@@ -68,7 +68,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (6,427)
+## All Cabinet Decisions (6,546)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -3982,6 +3982,11 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2017-04-25] [Entering into a Memorandum of Understanding between the Lakshman Kadirgamar Institute for International Relations and Strategic Studies  of Sri Lanka and the Nepal Council of World Affairs](data/cabinet_decisions/2017/2017-04/2017-04-25-003-b10f.json)
 - [2017-04-25] [Development of the Matara Riverside Park](data/cabinet_decisions/2017/2017-04/2017-04-25-002-ac7d.json)
 - [2017-04-25] [Issuance of passenger transport permits for deployment of Buses in the Southern Expressway](data/cabinet_decisions/2017/2017-04/2017-04-25-001-208b.json)
+- [2017-04-04] [Provision of relief for the farmer families affected due to the drought in the Maha Season 2016/2017](data/cabinet_decisions/2017/2017-04/2017-04-04-026-03a0.json)
+- [2017-04-04] [Providing of Income Tax relief for the inducement of Investor](data/cabinet_decisions/2017/2017-04/2017-04-04-025-9b0f.json)
+- [2017-04-04] [Providing further relief measures for the persons affected due to Landslides in the Kegalle District](data/cabinet_decisions/2017/2017-04/2017-04-04-024-37a7.json)
+- [2017-04-04] [Interest Free Loans to students to follow the Degree Programmes in the  Non-Governmental Degree Awarding Institutions](data/cabinet_decisions/2017/2017-04/2017-04-04-023-4142.json)
+- [2017-04-04] [Smallholder Agribusiness Partnership Programme (SAPP) to encourage the rural agri-producers](data/cabinet_decisions/2017/2017-04/2017-04-04-022-e8f6.json)
 - [2017-04-04] [Implementation of the  'Virusumithuru Housing Project' for the families of the war heroes](data/cabinet_decisions/2017/2017-04/2017-04-04-021-d1e3.json)
 - [2017-04-04] [Revision of Scope of the Mannar Grid Sub-station Construction](data/cabinet_decisions/2017/2017-04/2017-04-04-020-e1cb.json)
 - [2017-04-04] [Construction of a Corporate Office Building Complex for the Distribution Division    No.4 of the Ceylon Electricity Board](data/cabinet_decisions/2017/2017-04/2017-04-04-019-e040.json)
