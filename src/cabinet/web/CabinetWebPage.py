@@ -14,6 +14,7 @@ log = Log("CabinetWebPage")
 class CabinetWebPage:
     BASE_URL = "https://www.cabinetoffice.gov.lk/cab/index.php"
     T_WAIT = 0.1
+    T_TIMEOUT = 10
 
     def __init__(self, **params):
         if not all([params["lang"] == "en"]):
@@ -33,7 +34,7 @@ class CabinetWebPage:
     @cached_property
     def __content_hot__(self):
         time.sleep(CabinetWebPage.T_WAIT)
-        response = requests.get(self.url)
+        response = requests.get(self.url, timeout=self.T_TIMEOUT)
         response.raise_for_status()
         return response.text
 
