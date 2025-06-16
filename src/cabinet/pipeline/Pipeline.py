@@ -56,9 +56,9 @@ class Pipeline:
                             n_hot,
                         )
                     )
-                    if n_hot >= max_n_hot:
-                        log.info(f"🛑 Reached max hot decisions: {max_n_hot}")
-                        return decision_list
+                if n_hot >= max_n_hot:
+                    log.info(f"🛑 Reached max hot decisions: {max_n_hot}")
+                    return decision_list
 
         log.info("✅ Add decisions added to database!")
         return decision_list
