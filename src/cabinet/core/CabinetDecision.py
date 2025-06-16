@@ -127,23 +127,13 @@ class CabinetDecision:
 
         return None
 
-    # HACK
-    # flake8: noqa: C901
     @staticmethod
     def __get_data_file_path_list__():
         data_file_path_list = []
-        for year in os.listdir(CabinetDecision.DIR_CABINET_DECISIONS):
-            dir_year = os.path.join(
-                CabinetDecision.DIR_CABINET_DECISIONS, year
-            )
-            if not os.path.isdir(dir_year):
-                continue
-            for year_and_month in os.listdir(dir_year):
-                dir_year_and_month = os.path.join(dir_year, year_and_month)
-                for file_name in os.listdir(dir_year_and_month):
-                    file_path = os.path.join(dir_year_and_month, file_name)
-                    if not file_path.endswith(".json"):
-                        continue
+        for root, _, files in os.walk(CabinetDecision.DIR_CABINET_DECISIONS):
+            for file_name in files:
+                if file_name.endswith(".json"):
+                    file_path = os.path.join(root, file_name)
                     data_file_path_list.append(file_path)
         return data_file_path_list
 
