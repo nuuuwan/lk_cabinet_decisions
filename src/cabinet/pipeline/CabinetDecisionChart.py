@@ -37,31 +37,25 @@ class CabinetDecisionChart:
         ]
         series = pd.Series(time_str_to_n.values(), index=dates)
 
-        full_index = pd.date_range(
-            start=series.index.min(), end=series.index.max(), freq="D"
-        )
-        daily_series = series.reindex(full_index).interpolate(method="time")
-        moving_avg = daily_series.rolling(window=7).mean()
-
-        return series, moving_avg, time_strs, n_decisions
+        return series, time_strs, n_decisions
 
     def __draw_chart__(self):
-        series, _, time_strs, n_decisions = self.__prepare_data__()
+        series, time_strs, n_decisions = self.__prepare_data__()
         plt.figure(figsize=(8, 4.5))
         plt.bar(
             series.index,
             series.values,
             width=pd.Timedelta(days=24),
-            color="red",
+            color="grey",
             label="Decisions per Month",
         )
-        # plt.plot(
-        #     moving_avg.index,
-        #     moving_avg.values,
-        #     linewidth=0.5,
-        #     label="Last 7-days",
-        #     color="red",
-        # )
+        plt.plot(
+            series.rolling(window=12, min_periods=1).mean(),
+            label="12-Month Moving Avg",
+            linewidth=2,
+            color="black",
+        )
+
         plt.title(
             f"{n_decisions} Cabinet Decisions in Sri Lanka"
             + f" ({time_strs[0]} - {time_strs[-1]})"
@@ -70,7 +64,7 @@ class CabinetDecisionChart:
         plt.ylabel("Cabinet Decisions")
         plt.xticks(rotation=45)
         plt.grid(True, axis="y")
-        plt.legend()
+        plt.legend(loc="best")
         plt.tight_layout()
 
     def __annotate_chart_single__(self, start_str, end_str, label, color):
@@ -88,11 +82,11 @@ class CabinetDecisionChart:
             start_date,
             end_date,
             facecolor=color,
-            alpha=0.05,
+            alpha=0.2,
             edgecolor="white",
             linewidth=1,
         )
-        ax.text(mid_date, 90, label, ha="center", va="center", fontsize=6)
+        ax.text(mid_date, 110, label, ha="center", va="center", fontsize=6)
 
     def __annotate_chart__(self):
 
