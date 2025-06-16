@@ -16,8 +16,13 @@ Sri Lanka.
 
 | | |
 |:--|--:|
+<<<<<<< HEAD
 | Last Updated   | **2025-06-16 10:34:39**     |
 | nDecisions   | **6,819**     |
+=======
+| Last Updated   | **2025-06-16 10:15:40**     |
+| nDecisions   | **6,722**     |
+>>>>>>> 210d659 (pipeline)
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -40,7 +45,11 @@ Sri Lanka.
 
 ## Example TSV Data
 
+<<<<<<< HEAD
 [Complete TSV](data/cabinet_decisions.tsv) (6.84 MB)
+=======
+[Complete TSV](data/cabinet_decisions.tsv) (6.73 MB)
+>>>>>>> 210d659 (pipeline)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
@@ -48,7 +57,11 @@ Sri Lanka.
 | 2025-06-09 | 14 | Amendment to the Cod... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229) | - Approval has been ... | 2025-06-09-014-f943 |
 | 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
 
+<<<<<<< HEAD
 (These are the first 3 of **6,819** rows of the full TSV data)
+=======
+(These are the first 3 of **6,722** rows of the full TSV data)
+>>>>>>> 210d659 (pipeline)
 
 ## Last 3 Cabinet Decisions
 
@@ -76,7 +89,11 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
+<<<<<<< HEAD
 ## All Cabinet Decisions (6,819)
+=======
+## All Cabinet Decisions (6,722)
+>>>>>>> 210d659 (pipeline)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1898,6 +1915,23 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2021-10-05] [The 'Gamata Sanniwedanaya' (Connect Sri Lanka) National Project](data/cabinet_decisions/2021/2021-10/2021-10-05-003-6a76.json)
 - [2021-10-05] [Memorandum of Understanding between the General Sir John Kotelawala Defence University and the Massey University of New Zealand](data/cabinet_decisions/2021/2021-10/2021-10-05-002-ee82.json)
 - [2021-10-05] [Exploitation of Geological Resources for Development Priorities](data/cabinet_decisions/2021/2021-10/2021-10-05-001-5666.json)
+- [2021-09-27] [Amendment to the Civil Procedure Code (Chapter 101)](data/cabinet_decisions/2021/2021-09/2021-09-27-017-e9dd.json)
+- [2021-09-27] [Shortage of Rice in the Market](data/cabinet_decisions/2021/2021-09/2021-09-27-016-4c9d.json)
+- [2021-09-27] [Amendment to the Rent Act No.7 of 1972](data/cabinet_decisions/2021/2021-09/2021-09-27-015-46fb.json)
+- [2021-09-27] [The Recovery of Possession of the Premises Given on Lease (Special Provisions) Act](data/cabinet_decisions/2021/2021-09/2021-09-27-014-26fd.json)
+- [2021-09-27] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979](data/cabinet_decisions/2021/2021-09/2021-09-27-013-a470.json)
+- [2021-09-27] [Amendment to the Civil Procedure Code (Chapter 101)](data/cabinet_decisions/2021/2021-09/2021-09-27-012-e9dd.json)
+- [2021-09-27] [Amendment to the High Court of the Provinces (Special Provinces) Act, No.19 of 1990](data/cabinet_decisions/2021/2021-09/2021-09-27-011-16e3.json)
+- [2021-09-27] [Amending Hazardous Occupations Regulations under the Employment of Women, Young Persons and Children Act No.47 of 1956](data/cabinet_decisions/2021/2021-09/2021-09-27-010-0a9e.json)
+- [2021-09-27] [Production and supply of organic fertilizer and natural minerals and chelated micro-elements](data/cabinet_decisions/2021/2021-09/2021-09-27-009-aa82.json)
+- [2021-09-27] [Submission of the Appropriation Bill for the Financial Year 2022 in Parliament](data/cabinet_decisions/2021/2021-09/2021-09-27-008-383d.json)
+- [2021-09-27] [Attracting Airlines to the Mattala Rajapaksa International Airport (MRIA) to commence Scheduled Operations](data/cabinet_decisions/2021/2021-09/2021-09-27-007-07ea.json)
+- [2021-09-27] [Allocating the land called Weheragoda Watte located in Weeraketiya Divisional Secretariat Division in the Hambantota District to Sri Jinarathana Educational Institute for Agricultural Vocational Trainings, on lease basis](data/cabinet_decisions/2021/2021-09/2021-09-27-006-4cb1.json)
+- [2021-09-27] [Allocation of block of lands from Regional Industrial Estates for the establishment of Industries](data/cabinet_decisions/2021/2021-09/2021-09-27-005-ca59.json)
+- [2021-09-27] [Removing sand, soil and organic materials deposited in small/medium size tanks for the enhancement of water retention capacity](data/cabinet_decisions/2021/2021-09/2021-09-27-004-0cd2.json)
+- [2021-09-27] [Performing Cardiac Surgery for children with heart diseases 	through the Amrita Institute of Medical Sciences (Amrita 	Hospital), 	Kochi, India](data/cabinet_decisions/2021/2021-09/2021-09-27-003-40e8.json)
+- [2021-09-27] [Establishment of a Board of Trustees for the maintenance and administrative activities of Sandahiru Seya Stupa](data/cabinet_decisions/2021/2021-09/2021-09-27-002-90b1.json)
+- [2021-09-27] [The Agreement entered into between the Democratic Socialist Republic of Sri Lanka and the Government of Bahrain on Mutual Visa Exemption for holders of Diplomatic, Special and Official Passports](data/cabinet_decisions/2021/2021-09/2021-09-27-001-a860.json)
 - [2020-12-21] [Enticing the Airlines to the Mattala Rajapaksa International Airport and the Colombo International Airport, Ratmalana](data/cabinet_decisions/2020/2020-12/2020-12-21-018-1525.json)
 - [2020-12-21] [Procurement of Food Items for the Tri-Forces for the year 2021](data/cabinet_decisions/2020/2020-12/2020-12-21-017-6719.json)
 - [2020-12-21] [House of Justice Project](data/cabinet_decisions/2020/2020-12/2020-12-21-016-9062.json)
