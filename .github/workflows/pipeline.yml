@@ -48,7 +48,12 @@ jobs:
 
       - name: Push
         run: |
-          echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
           git add .
-          git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
+
+          git pull --rebase origin main
           git push origin main
