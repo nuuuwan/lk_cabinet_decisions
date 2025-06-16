@@ -40,6 +40,9 @@ class CabinetWebPage:
 
     @cached_property
     def __temp_htmp_file_path__(self):
+        dir_temp = os.path.join(tempfile.gettempdir(), "lk_cabinet_decisions")
+        if not os.path.exists(dir_temp):
+            os.makedirs(dir_temp, exist_ok=True)
         return os.path.join(tempfile.gettempdir(), f"{self.hash}")
 
     @cached_property
