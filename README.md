@@ -16,8 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-16 09:55:32**     |
-| nDecisions   | **6,658**     |
+| Last Updated   | **2025-06-16 10:13:07**     |
+| nDecisions   | **6,705**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -40,7 +40,15 @@ Sri Lanka.
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (6.67 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (6.72 MB)
+
+| date_str | decision_num | title | source_url | decision_details | key |
+|:--|--:|:--|:--|:--|:--|
+| 2025-06-09 | 15 | An Act to amend the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230) | - It has been scient... | 2025-06-09-015-9905 |
+| 2025-06-09 | 14 | Amendment to the Cod... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229) | - Approval has been ... | 2025-06-09-014-f943 |
+| 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
+
+(These are the first 3 rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
@@ -68,7 +76,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (6,658)
+## All Cabinet Decisions (6,705)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1766,10 +1774,26 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2022-03-14] [Providing a block of land from Narahenpita area to the Sri Lanka Air Force to construct a hospital](data/cabinet_decisions/2022/2022-03/2022-03-14-003-da99.json)
 - [2022-03-14] [Providing a housing unit to Mr. Herath Mudiyanselage Dinesh Priyantha Herath, the gold medalist in the Javelin Throw event at the 2020 Paralympic Games](data/cabinet_decisions/2022/2022-03/2022-03-14-002-cc02.json)
 - [2022-03-14] [Memorandum of Understanding between the General Sir John Kotelawala Defence University (KDU) and the UFA State Aviation Technical University (USATU) of the Russian Federation](data/cabinet_decisions/2022/2022-03/2022-03-14-001-f5bf.json)
+- [2022-03-07] [Implementation of an Incentive Scheme based on Progress of the Exports](data/cabinet_decisions/2022/2022-03/2022-03-07-014-07f8.json)
+- [2022-03-07] [Granting incentives for the Promotion of Remittances from Migrant Workers](data/cabinet_decisions/2022/2022-03/2022-03-07-013-a32e.json)
+- [2022-03-07] [Securing necessary equipment for the National Plant Quarantine Service under Japanese Non-Project Grant Aid](data/cabinet_decisions/2022/2022-03/2022-03-07-012-ddb7.json)
+- [2022-03-07] [Approval for submitting Orders published in the Gazette Notification to Parliament](data/cabinet_decisions/2022/2022-03/2022-03-07-011-f1e7.json)
+- [2022-03-07] [Conducting of Inquiries into Complaints made with regard to Missing Persons](data/cabinet_decisions/2022/2022-03/2022-03-07-010-c2a0.json)
+- [2022-03-07] [Amendment to the Civil Procedure Code (Chapter 101) (Repeal of Chapter XLII)](data/cabinet_decisions/2022/2022-03/2022-03-07-009-4ceb.json)
+- [2022-03-07] [Post Office Security Fund Ordinance](data/cabinet_decisions/2022/2022-03/2022-03-07-008-e06d.json)
+- [2022-03-07] [Employment of an Independent Consultant for the SPMC -Lotus Pharma Project of the State Pharmaceuticals Manufacturing Corporation](data/cabinet_decisions/2022/2022-03/2022-03-07-007-d90f.json)
+- [2022-03-07] [Acquisition of a land to establish a new police station in Nooriya in the Deraniyagala Police Division](data/cabinet_decisions/2022/2022-03/2022-03-07-006-cbf2.json)
+- [2022-03-07] [Donation of wheelchairs and other mobility aid to the Rheumatology and Rehabilitation Hospital (RRH), Ragama](data/cabinet_decisions/2022/2022-03/2022-03-07-005-4b4b.json)
 - [2022-03-07] [BIMSTEC Memorandum of Association (MoA) for the establishment of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Technology Transfer facility](data/cabinet_decisions/2022/2022-03/2022-03-07-004-a1bb.json)
 - [2022-03-07] [BIMSTEC Convention on Mutual Legal Assistance in Criminal Matters](data/cabinet_decisions/2022/2022-03/2022-03-07-003-a092.json)
 - [2022-03-07] [Leasing out a land plot belonging to the Sri Lanka Land Development Corporation, located in the Muthurajawela Industrial Zone](data/cabinet_decisions/2022/2022-03/2022-03-07-002-3134.json)
 - [2022-03-07] [Establishment of the Economic Council](data/cabinet_decisions/2022/2022-03/2022-03-07-001-7321.json)
+- [2022-02-28] [Extension of visa period for the Russian and Ukrainian tourists staying in Sri Lanka](data/cabinet_decisions/2022/2022-02/2022-02-28-006-44f2.json)
+- [2022-02-28] [Importation of 1.8 million barrels of Gasoline (92 Unl) for a period of eight (08) months from 2022-02-15 to 2022-10-14](data/cabinet_decisions/2022/2022-02/2022-02-28-005-0dc6.json)
+- [2022-02-28] [Importation of Muriate of Potash (Potassium Chloride) for Paddy Cultivation in the Yala Season](data/cabinet_decisions/2022/2022-02/2022-02-28-004-8974.json)
+- [2022-02-28] [Asian Development Bank financed Power System Reliability Strengthening Project - Package 04](data/cabinet_decisions/2022/2022-02/2022-02-28-003-1ac5.json)
+- [2022-02-28] [Methodology of paying the incentive for utilization of Green Agricultural Inputs during Maha Season - 2021/2022](data/cabinet_decisions/2022/2022-02/2022-02-28-002-f7d1.json)
+- [2022-02-28] [Resumption of Production at Embilipitiya Paper Mill under the Public-Private Partnership Scheme](data/cabinet_decisions/2022/2022-02/2022-02-28-001-49ab.json)
 - [2021-12-20] [Policies and Guidelines for the grant of reparation under the Office for Reparations Act, No. 34 of 2018](data/cabinet_decisions/2021/2021-12/2021-12-20-007-4dbf.json)
 - [2021-12-20] [Civil Aviation (Licensing of Personnel and Training Institutions) Regulation No. 01 of 2018](data/cabinet_decisions/2021/2021-12/2021-12-20-006-90ef.json)
 - [2021-12-20] [Granting a plot of land to the famous Singer Yohani Diloka de Silva](data/cabinet_decisions/2021/2021-12/2021-12-20-005-b38c.json)
@@ -2803,6 +2827,19 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2019-06-25] [The proposed New Laws on Occupational Safety, Employee Health and Welfare](data/cabinet_decisions/2019/2019-06/2019-06-25-003-563c.json)
 - [2019-06-25] [The National Strategic Road Map for the Internet of Things (IoT): 2019 - 2022](data/cabinet_decisions/2019/2019-06/2019-06-25-002-7dac.json)
 - [2019-06-25] [Implementation of the projects pertaining to the prevention of Kidney Disease by utilizing the funds of the National Kidney Fund](data/cabinet_decisions/2019/2019-06/2019-06-25-001-1a5a.json)
+- [2019-06-18] [Further extending the 'Relief Package' granted for the upliftment of the Tourism Industry adversely affected by the recent terrorist attack](data/cabinet_decisions/2019/2019-06/2019-06-18-013-c39b.json)
+- [2019-06-18] [Entering into a Collaborative Agreement to provide facilities to secure foreign employment opportunities in Japan for the skilled workers of Sri Lanka](data/cabinet_decisions/2019/2019-06/2019-06-18-012-7543.json)
+- [2019-06-18] [Annual Report of 2018 submitted in terms of the Fiscal Management (Responsibility) Act](data/cabinet_decisions/2019/2019-06/2019-06-18-011-95df.json)
+- [2019-06-18] [Construction of a building complex with Advanced Level classes and 	Laboratory facilities in the National School with multi-ethnic students 	and trilingual education in the Polonnaruwa District](data/cabinet_decisions/2019/2019-06/2019-06-18-010-0246.json)
+- [2019-06-18] [Selection of a Solution Provider for the Introduction of the Electronic Government Procurement (e-GP) into the Public Procurement System](data/cabinet_decisions/2019/2019-06/2019-06-18-009-b75c.json)
+- [2019-06-18] [Establishment of an Enterprise Resource Planning System for the Coconut Development Authority](data/cabinet_decisions/2019/2019-06/2019-06-18-008-1efb.json)
+- [2019-06-18] [Establishment of a Task Force to monitor the management of the Regional Plantation Companies](data/cabinet_decisions/2019/2019-06/2019-06-18-007-f7c9.json)
+- [2019-06-18] [Active Liability Management](data/cabinet_decisions/2019/2019-06/2019-06-18-006-b373.json)
+- [2019-06-18] [Japanese Grant Aid for Human Resources Development Scholarship Programme](data/cabinet_decisions/2019/2019-06/2019-06-18-005-1ff3.json)
+- [2019-06-18] [Amendments to the Land (Restrictions on Alienation) Act, No.38 of 2014](data/cabinet_decisions/2019/2019-06/2019-06-18-004-3641.json)
+- [2019-06-18] [Prohibition of the import of Mechanical Chain Saws with a view to preventing deforestation](data/cabinet_decisions/2019/2019-06/2019-06-18-003-3a39.json)
+- [2019-06-18] [Utilization of the lands, belonging to the Government Institutions, which cannot be used for a productive economic activity, in the expeditious programme of the Department of Forest Conservation for increasing the forest cover](data/cabinet_decisions/2019/2019-06/2019-06-18-002-0820.json)
+- [2019-06-18] [Making regulations to the Employees Provident Fund enabling the 	members of the Employees Provident Fund to obtain their benefits with 	ease and without delay](data/cabinet_decisions/2019/2019-06/2019-06-18-001-d64a.json)
 - [2018-11-27] [Appointment of professionals with competency and experience as Chairmen and Members of the Boards of Directors of Statutory Boards](data/cabinet_decisions/2018/2018-11/2018-11-27-003-4401.json)
 - [2018-11-27] [Vote on Account - 2019](data/cabinet_decisions/2018/2018-11/2018-11-27-002-6451.json)
 - [2018-11-27] [Construction of Parallel Roads for access to the houses situated on either side of the Matara - Beliatte Railway Track](data/cabinet_decisions/2018/2018-11/2018-11-27-001-ba34.json)
@@ -3154,6 +3191,10 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2018-07-31] [Granting relief to small scale Rice millers](data/cabinet_decisions/2018/2018-07/2018-07-31-003-060d.json)
 - [2018-07-31] [Establishment of a Temperature Controlled Warehouse facility in the Dambulla area](data/cabinet_decisions/2018/2018-07/2018-07-31-002-7616.json)
 - [2018-07-31] [Establishment of the Air Force Fire Extinguishing Unit](data/cabinet_decisions/2018/2018-07/2018-07-31-001-ceb1.json)
+- [2018-07-24] [Debt Relief for Micro Finance Loans Granted for women in Drought Affected Districts](data/cabinet_decisions/2018/2018-07/2018-07-24-021-10e6.json)
+- [2018-07-24] [Payment of Compensation to the damaged properties and damaged places of worship due to the disturbances that occurred at Ginthota and Ampara](data/cabinet_decisions/2018/2018-07/2018-07-24-020-135b.json)
+- [2018-07-24] [Importation of Additional Maize Quantity required for the Production of Animal Feed](data/cabinet_decisions/2018/2018-07/2018-07-24-019-c6fc.json)
+- [2018-07-24] [Hosting of the 17th General Conference of the Asia Pacific Institute for Broadcasting Development in Sri Lanka](data/cabinet_decisions/2018/2018-07/2018-07-24-018-7611.json)
 - [2018-07-24] [Exemption of  cost for the Health Care Services from the Value Added Tax (VAT)](data/cabinet_decisions/2018/2018-07/2018-07-24-017-273f.json)
 - [2018-07-24] [Construction of the Court Complexes in Ratnapura and Killinochchi](data/cabinet_decisions/2018/2018-07/2018-07-24-016-cde7.json)
 - [2018-07-24] [Modernization of the electrical cable system of the Government Factory in, Kolonnawa](data/cabinet_decisions/2018/2018-07/2018-07-24-015-4b49.json)
@@ -4331,6 +4372,20 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2016-09-06] [Declaration of 'The National Marine Resources Conservation Week'](data/cabinet_decisions/2016/2016-09/2016-09-06-003-cbee.json)
 - [2016-09-06] [Proper Management of the use of Polythene to minimize environmental issues caused by Polythene](data/cabinet_decisions/2016/2016-09/2016-09-06-002-39dd.json)
 - [2016-09-06] [Controlling the Importation and the use of non-eco-friendly Asbestos in Sri Lanka](data/cabinet_decisions/2016/2016-09/2016-09-06-001-7fb6.json)
+- [2016-08-30] [Declaration of the Year 2017 as the Year of Poverty Alleviation](data/cabinet_decisions/2016/2016-08/2016-08-30-014-0779.json)
+- [2016-08-30] [Development Policy Funds (Private Sector Development, Governance Improvement and Fiscal Consolidation)](data/cabinet_decisions/2016/2016-08/2016-08-30-013-8405.json)
+- [2016-08-30] [Ratification of Paris Agreement by Sri Lanka](data/cabinet_decisions/2016/2016-08/2016-08-30-012-f1ff.json)
+- [2016-08-30] [Establishing Japan-Sri Lanka Joint Comprehensive Partnership (JCP) Secretariat in Colombo and Tokyo](data/cabinet_decisions/2016/2016-08/2016-08-30-011-b88e.json)
+- [2016-08-30] [Using a Standardized term for the Sri Lanka 'Police' Department](data/cabinet_decisions/2016/2016-08/2016-08-30-010-500b.json)
+- [2016-08-30] [Construction of the Prison Complex, Jaffna - Phase II](data/cabinet_decisions/2016/2016-08/2016-08-30-009-9301.json)
+- [2016-08-30] [Implementation of Short Term Priority Water Supply improvements for 3 BOI Zones and surroundings in Ranpokunugama, Kirindiwela and Biyagama areas of Gampaha District and Koggala area of Galle District](data/cabinet_decisions/2016/2016-08/2016-08-30-008-ae43.json)
+- [2016-08-30] [Implementation of Three Water Supply Schemes for the provision of drinking water to the people of the areas affected due to the water leakage that occurred in the main tunnel of Uma Oya Multipurpose Development Project](data/cabinet_decisions/2016/2016-08/2016-08-30-007-ab6a.json)
+- [2016-08-30] [Task Force on Legal and Judicial Causes of Prison Overcrowding](data/cabinet_decisions/2016/2016-08/2016-08-30-006-f60c.json)
+- [2016-08-30] [Prevention of Coastal Erosion that occurs in the areas of Oluvil and Ninthavur in the Ampara District](data/cabinet_decisions/2016/2016-08/2016-08-30-005-bee8.json)
+- [2016-08-30] [Development of Farms belonging to the National Livestock Development Board (NLDB) under the Public-Private Partnership Programme](data/cabinet_decisions/2016/2016-08/2016-08-30-004-255d.json)
+- [2016-08-30] [Leasing out of a block of land of 10 Acres at Muthurajawela for a Project for generating Energy out of Solid Waste](data/cabinet_decisions/2016/2016-08/2016-08-30-003-513f.json)
+- [2016-08-30] [Registration of Motor Cycles which are being driven without registration](data/cabinet_decisions/2016/2016-08/2016-08-30-002-49c3.json)
+- [2016-08-30] [Obtaining Membership of International Sustainable Tourism and Eliminating Poverty (ST-EP) Organization](data/cabinet_decisions/2016/2016-08/2016-08-30-001-3f88.json)
 - [2015-12-23] [The Law to Introduce National Minimum Wage for Employees of the Private Sector](data/cabinet_decisions/2015/2015-12/2015-12-23-011-0a62.json)
 - [2015-12-23] [Increase of Wages of Private Sector Employees](data/cabinet_decisions/2015/2015-12/2015-12-23-010-95f5.json)
 - [2015-12-23] [Award of Contract for upgrading Tissamaharama Water Supply Scheme](data/cabinet_decisions/2015/2015-12/2015-12-23-009-e4a2.json)

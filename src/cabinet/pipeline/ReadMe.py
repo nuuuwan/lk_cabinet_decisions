@@ -75,6 +75,34 @@ class ReadMe:
         ]
 
     @cached_property
+    def example_tsv_table_lines(self):
+        n_rows = 3
+        cabinet_decisions = CabinetDecision.list_all()[:n_rows]
+        lines = [
+            "| date_str | decision_num | title | source_url | "
+            "decision_details | key |",
+            "|:--|--:|:--|:--|:--|:--|",
+        ]
+        for decision in cabinet_decisions:
+            lines.append(
+                f"| {decision.date_str} | "
+                f"{decision.decision_num} | "
+                f"{decision.title[:20]}... | "
+                f"[{decision.source_url[:20]}...]({decision.source_url}) | "
+                f"{decision.decision_details[:20]}... | "
+                f"{decision.key} |"
+            )
+        lines.extend(
+            [
+                "",
+                f"(These are the first {n_rows} "
+                "rows of the full TSV data)",
+                "",
+            ]
+        )
+        return lines
+
+    @cached_property
     def example_tsv_lines(self):
         file_size_m = os.path.getsize(
             CabinetDecision.CABINET_DESICIONS_TABLE_PATH
@@ -85,7 +113,7 @@ class ReadMe:
             f"[Complete TSV]({CabinetDecision.CABINET_DESICIONS_TABLE_PATH})"
             + f" ({file_size_m:.2f} MB)",
             "",
-        ]
+        ] + self.example_tsv_table_lines
 
     @cached_property
     def last_n_decisions_lines(self):
