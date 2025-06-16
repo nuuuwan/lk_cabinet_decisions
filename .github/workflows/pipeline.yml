@@ -1,53 +1,58 @@
-
 name: pipeline
 
 on:
   workflow_dispatch:
   schedule:
     # - cron:  "0 */4 * * *"
-    - cron:  "*/10 * * * *" # Temporary schedule for data loading purposes
+    - cron: "*/10 * * * *" # Temporary schedule for data loading purposes
 jobs:
   pipeline:
-
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo branch main
-      uses: actions/checkout@v4
-      with:
-        ref: 'main'
-        token: "${{ secrets.REPO_DATA_TOKEN }}"
+      - name: Checkout repo branch main
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.13'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
 
-    - name: Install dependencies
-      run: |
-        sudo apt update
-        sudo apt install ghostscript
-        python -m pip install --upgrade pip
-        python -m pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        pip install build
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install ghostscript
+          python -m pip install --upgrade pip
+          python -m pip install flake8 pytest
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install build
 
-    - name: Run workflows/pipeline.py 
-      run: |
-        export PYTHONPATH="$PYTHONPATH:./src"
-        
-        git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
-        git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-        git pull --rebase origin main
-        python workflows/pipeline.py "100"
-        
-    - name: Push 
-      run: |
-        echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
-        git stash push -m "temp-stash"
-        git pull --rebase origin main
-        git stash pop
+      - name: Download temp folder
+        uses: actions/download-artifact@v4
+        with:
+          name: temp-folder
+          path: /tmp
 
-        git add .
-        git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
-        git push origin main
+      - name: Run workflows/pipeline.py
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          python workflows/pipeline.py "100"
+
+      - name: Upload temp folder
+        uses: actions/upload-artifact@v4
+        with:
+          name: temp-folder
+          path: /tmp
+
+      - name: Push
+        run: |
+          echo "* $(date '+%Y-%m-%d-%H%M') pipeline" >> update.log
+          git add .
+          git commit -m "🤖 $(date '+%Y%-m%-d-%H%M') - pipeline.yml"
+          git push origin main
