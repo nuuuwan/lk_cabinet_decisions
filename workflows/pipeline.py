@@ -12,5 +12,5 @@ if __name__ == "__main__":
 
     max_n_hot = int(sys.argv[1])
     log.info(f"{max_n_hot=}")
-    pipeline = Pipeline(do_shuffle=True)
+    pipeline = Pipeline(do_shuffle=False)
     pipeline.run(max_n_hot)
