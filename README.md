@@ -1,14 +1,14 @@
 # 🇱🇰 Cabinet Decisions – Sri Lanka
 
 A structured, real-time feed of official cabinet
-decisions from Sri Lanka.
+decisions from Sri Lanka, scraped from [cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk).
 
-Data is available in TSV and JSON formats.
+📁 Data is available in TSV and JSON formats.
 
-This is **public data** — free to use, share, and
+🆓 This is **public data** — free to use, share, and
 build on.
 
-Perfect for researchers, journalists, civic tech
+👩‍💻 Perfect for researchers, journalists, civic tech
 projects, or anyone curious about governance in
 Sri Lanka.
 
@@ -17,12 +17,17 @@ Sri Lanka.
 | | |
 |:--|--:|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Last Updated   | **2025-06-16 10:34:39**     |
 | nDecisions   | **6,819**     |
 =======
 | Last Updated   | **2025-06-16 10:15:40**     |
 | nDecisions   | **6,722**     |
 >>>>>>> 210d659 (pipeline)
+=======
+| Last Updated   | **2025-06-16 10:18:37**     |
+| nDecisions   | **6,732**     |
+>>>>>>> 80107ca (Add cabinet office link and emojis)
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -46,10 +51,14 @@ Sri Lanka.
 ## Example TSV Data
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Complete TSV](data/cabinet_decisions.tsv) (6.84 MB)
 =======
 [Complete TSV](data/cabinet_decisions.tsv) (6.73 MB)
 >>>>>>> 210d659 (pipeline)
+=======
+[Complete TSV](data/cabinet_decisions.tsv) (6.74 MB)
+>>>>>>> 80107ca (Add cabinet office link and emojis)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
@@ -58,10 +67,14 @@ Sri Lanka.
 | 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (These are the first 3 of **6,819** rows of the full TSV data)
 =======
 (These are the first 3 of **6,722** rows of the full TSV data)
 >>>>>>> 210d659 (pipeline)
+=======
+(These are the first 3 of **6,732** rows of the full TSV data)
+>>>>>>> 80107ca (Add cabinet office link and emojis)
 
 ## Last 3 Cabinet Decisions
 
@@ -90,10 +103,14 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## All Cabinet Decisions (6,819)
 =======
 ## All Cabinet Decisions (6,722)
 >>>>>>> 210d659 (pipeline)
+=======
+## All Cabinet Decisions (6,732)
+>>>>>>> 80107ca (Add cabinet office link and emojis)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1811,6 +1828,16 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2022-02-28] [Asian Development Bank financed Power System Reliability Strengthening Project - Package 04](data/cabinet_decisions/2022/2022-02/2022-02-28-003-1ac5.json)
 - [2022-02-28] [Methodology of paying the incentive for utilization of Green Agricultural Inputs during Maha Season - 2021/2022](data/cabinet_decisions/2022/2022-02/2022-02-28-002-f7d1.json)
 - [2022-02-28] [Resumption of Production at Embilipitiya Paper Mill under the Public-Private Partnership Scheme](data/cabinet_decisions/2022/2022-02/2022-02-28-001-49ab.json)
+- [2022-02-21] [Submission of the Regulations made by the Minister of Youth and Sports  in Parliament](data/cabinet_decisions/2022/2022-02/2022-02-21-010-3f58.json)
+- [2022-02-21] [Designing a Court Automation System for Judicial System of Sri Lanka](data/cabinet_decisions/2022/2022-02/2022-02-21-009-a98e.json)
+- [2022-02-21] [Procurement of Locally Manufactured Pharmaceuticals, Surgical Instruments and Medical Laboratory Consumables](data/cabinet_decisions/2022/2022-02/2022-02-21-008-c2f9.json)
+- [2022-02-21] [Obtaining the services of  Youths as “Community Assistants (Voluntary)” at the level of Grama Niladhari Divisions](data/cabinet_decisions/2022/2022-02/2022-02-21-007-fb00.json)
+- [2022-02-21] [Granting a monthly allowance for Athletes and Coaches under the High Performance Programme](data/cabinet_decisions/2022/2022-02/2022-02-21-006-8d03.json)
+- [2022-02-21] [Market-Oriented Dairy (MOD) Project](data/cabinet_decisions/2022/2022-02/2022-02-21-005-3421.json)
+- [2022-02-21] [Operation of the Weuda Factory owned by the Ceylon Ceramics Corporation through a private investor](data/cabinet_decisions/2022/2022-02/2022-02-21-004-3b51.json)
+- [2022-02-21] [Memorandum of Understanding (MoU) between the Sushma Swaraj Institute of Foreign Service (SSIFS), India and the Bandaranaike International Diplomatic Training Institute (BIDTI), Sri Lanka](data/cabinet_decisions/2022/2022-02/2022-02-21-003-462e.json)
+- [2022-02-21] [Project for construction of a 652 roomed luxury city hotel in Colombo 03](data/cabinet_decisions/2022/2022-02/2022-02-21-002-7924.json)
+- [2022-02-21] [Offering Scholarships to the Cadet Officers of the Republic of Seychelles in the General Sir John Kotelawala Defence University](data/cabinet_decisions/2022/2022-02/2022-02-21-001-3a44.json)
 - [2021-12-20] [Policies and Guidelines for the grant of reparation under the Office for Reparations Act, No. 34 of 2018](data/cabinet_decisions/2021/2021-12/2021-12-20-007-4dbf.json)
 - [2021-12-20] [Civil Aviation (Licensing of Personnel and Training Institutions) Regulation No. 01 of 2018](data/cabinet_decisions/2021/2021-12/2021-12-20-006-90ef.json)
 - [2021-12-20] [Granting a plot of land to the famous Singer Yohani Diloka de Silva](data/cabinet_decisions/2021/2021-12/2021-12-20-005-b38c.json)
