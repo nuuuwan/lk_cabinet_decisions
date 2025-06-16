@@ -16,18 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-<<<<<<< HEAD
-<<<<<<< HEAD
-| Last Updated   | **2025-06-16 10:34:39**     |
-| nDecisions   | **6,819**     |
-=======
-| Last Updated   | **2025-06-16 10:15:40**     |
-| nDecisions   | **6,722**     |
->>>>>>> 210d659 (pipeline)
-=======
-| Last Updated   | **2025-06-16 10:18:37**     |
-| nDecisions   | **6,732**     |
->>>>>>> 80107ca (Add cabinet office link and emojis)
+| Last Updated   | **2025-06-16 10:38:46**     |
+| nDecisions   | **6,873**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-29** |
 
@@ -50,15 +40,7 @@ Sri Lanka.
 
 ## Example TSV Data
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Complete TSV](data/cabinet_decisions.tsv) (6.84 MB)
-=======
-[Complete TSV](data/cabinet_decisions.tsv) (6.73 MB)
->>>>>>> 210d659 (pipeline)
-=======
-[Complete TSV](data/cabinet_decisions.tsv) (6.74 MB)
->>>>>>> 80107ca (Add cabinet office link and emojis)
+[Complete TSV](data/cabinet_decisions.tsv) (6.90 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
@@ -66,15 +48,7 @@ Sri Lanka.
 | 2025-06-09 | 14 | Amendment to the Cod... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229) | - Approval has been ... | 2025-06-09-014-f943 |
 | 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-(These are the first 3 of **6,819** rows of the full TSV data)
-=======
-(These are the first 3 of **6,722** rows of the full TSV data)
->>>>>>> 210d659 (pipeline)
-=======
-(These are the first 3 of **6,732** rows of the full TSV data)
->>>>>>> 80107ca (Add cabinet office link and emojis)
+(These are the first 3 of **6,873** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
@@ -102,15 +76,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## All Cabinet Decisions (6,819)
-=======
-## All Cabinet Decisions (6,722)
->>>>>>> 210d659 (pipeline)
-=======
-## All Cabinet Decisions (6,732)
->>>>>>> 80107ca (Add cabinet office link and emojis)
+## All Cabinet Decisions (6,873)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -3273,6 +3239,33 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2018-07-24] [Project on Climate Smart Irrigated Agriculture (2018 - 2024)](data/cabinet_decisions/2018/2018-07/2018-07-24-003-8dc5.json)
 - [2018-07-24] [Construction of the Kandy Multimodel Transport Terminal](data/cabinet_decisions/2018/2018-07/2018-07-24-002-1e98.json)
 - [2018-07-24] [Bilateral Air Services Agreements with Hellenic Republic (Greece) and Italy](data/cabinet_decisions/2018/2018-07/2018-07-24-001-a68c.json)
+- [2018-07-10] [Creation of awareness among the public  on the massive investments being made in the field of Irrigation Works under the Mahaweli Water Security Investment Programme](data/cabinet_decisions/2018/2018-07/2018-07-10-027-def5.json)
+- [2018-07-10] [Mid - Year Fiscal Position Report - 2018](data/cabinet_decisions/2018/2018-07/2018-07-10-026-9996.json)
+- [2018-07-10] [Purchasing of 93,767nos. of Foldable Hydrophobic Intra Ocular Lenses](data/cabinet_decisions/2018/2018-07/2018-07-10-025-e571.json)
+- [2018-07-10] [Supply of 120,000 Bottles of Human Albumin Solution - 50ml](data/cabinet_decisions/2018/2018-07/2018-07-10-024-7af5.json)
+- [2018-07-10] [Printing of School Textbooks to be distributed free of charge among the 	school children for the year 2019](data/cabinet_decisions/2018/2018-07/2018-07-10-023-5de1.json)
+- [2018-07-10] [Construction of  the Kokilai Bridge](data/cabinet_decisions/2018/2018-07/2018-07-10-022-258d.json)
+- [2018-07-10] [Supply of LED Lamps (Light Emitting Diode Lamps) for a concessionary price to  electricity consumers who consume less electricity](data/cabinet_decisions/2018/2018-07/2018-07-10-021-8ae2.json)
+- [2018-07-10] [Construction of the Ambathale Water Pumping Station](data/cabinet_decisions/2018/2018-07/2018-07-10-020-e9a0.json)
+- [2018-07-10] [Implementation of the Light Rail Transit Project](data/cabinet_decisions/2018/2018-07/2018-07-10-019-beea.json)
+- [2018-07-10] [Construction of a Ten Storey Building at the Provincial General Hospital in Badulla](data/cabinet_decisions/2018/2018-07/2018-07-10-018-4cd3.json)
+- [2018-07-10] [Construction of the Stage II of the Accident and Emergency Treatment Unit at the Teaching Hospital in Jaffna](data/cabinet_decisions/2018/2018-07/2018-07-10-017-380e.json)
+- [2018-07-10] [Purchasing of Gas Cylinders used by the Litro Gas Lanka Ltd., for the distribution of Gas](data/cabinet_decisions/2018/2018-07/2018-07-10-016-68a6.json)
+- [2018-07-10] [Establishment of an Elephant Retention Centre to retain the two elephants living in the Sinharaja Reserve](data/cabinet_decisions/2018/2018-07/2018-07-10-015-35af.json)
+- [2018-07-10] [Development of the Deniyaya Weekly Fair](data/cabinet_decisions/2018/2018-07/2018-07-10-014-2b37.json)
+- [2018-07-10] [Facilitating newly constituted Local Authorities](data/cabinet_decisions/2018/2018-07/2018-07-10-013-e955.json)
+- [2018-07-10] [Programme for the construction of new houses for the displaced families in the Welioya  Area](data/cabinet_decisions/2018/2018-07/2018-07-10-012-bd6e.json)
+- [2018-07-10] [Obtaining the active contribution of the Tri Forces for Control of Drugs](data/cabinet_decisions/2018/2018-07/2018-07-10-011-d059.json)
+- [2018-07-10] [Obtaining of Technical Consultancy Services for the successful implementation of the Empowerment of Programmes for the Samurdhi Beneficiaries](data/cabinet_decisions/2018/2018-07/2018-07-10-010-c6a2.json)
+- [2018-07-10] [Reserving of lands to Establish the Natural Gas Power Plant at  Kerawalapitiya](data/cabinet_decisions/2018/2018-07/2018-07-10-009-bff8.json)
+- [2018-07-10] [Introduction of a Fixed Rate of CESS on Bulk Tea Exports](data/cabinet_decisions/2018/2018-07/2018-07-10-008-39a5.json)
+- [2018-07-10] [Amendments to the National Institute of Plantation Management Act, No.45 of 1979](data/cabinet_decisions/2018/2018-07/2018-07-10-007-10bc.json)
+- [2018-07-10] [Entering into a Memorandum of Understanding between Sri Lanka and 	Finland for cooperation in the field of Health](data/cabinet_decisions/2018/2018-07/2018-07-10-006-c57c.json)
+- [2018-07-10] [Memorandum of Understanding between Sri Lanka and Bangladesh for cooperation in the fields of Health and Medical Sciences](data/cabinet_decisions/2018/2018-07/2018-07-10-005-29f8.json)
+- [2018-07-10] [Macro - Fiscal Framework for the preparation of the Budget - 2019](data/cabinet_decisions/2018/2018-07/2018-07-10-004-71e5.json)
+- [2018-07-10] [Construction of the Colombo Train Control Centre (CTCC) and the Railway Operation Headquarters (ROHQ)](data/cabinet_decisions/2018/2018-07/2018-07-10-003-8991.json)
+- [2018-07-10] [Accelerated Programme for the issuance of Land Grants for state lands - (Agenda Item No.11)](data/cabinet_decisions/2018/2018-07/2018-07-10-002-1e24.json)
+- [2018-07-10] [Grant and Implementation Agreement between the Millennium Challenge Corporation and the Government of Sri Lanka - (Agenda Item No.09)](data/cabinet_decisions/2018/2018-07/2018-07-10-001-95e5.json)
 - [2017-12-19] [The manufacture of asbestos, the usage and the import of raw material required for the manufacture of asbestos.](data/cabinet_decisions/2017/2017-12/2017-12-19-034-6b2c.json)
 - [2017-12-19] [Suspension of Sri Lanka Tea Imports by the Russian Federation](data/cabinet_decisions/2017/2017-12/2017-12-19-033-3b30.json)
 - [2017-12-19] [Metro Colombo Solid Waste Management Project - Signing of the Grant Agreement for the Project Preparation Special Fund](data/cabinet_decisions/2017/2017-12/2017-12-19-032-8c9f.json)
