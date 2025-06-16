@@ -43,7 +43,7 @@ class CabinetWebPage:
         dir_temp = os.path.join(tempfile.gettempdir(), "lk_cabinet_decisions")
         if not os.path.exists(dir_temp):
             os.makedirs(dir_temp, exist_ok=True)
-        return os.path.join(tempfile.gettempdir(), f"{self.hash}")
+        return os.path.join(dir_temp, f"{self.hash}")
 
     @cached_property
     def __temp_html_file__(self):
