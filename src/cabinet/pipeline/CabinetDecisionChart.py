@@ -27,7 +27,9 @@ class CabinetDecisionChart:
         return time_str_to_n
 
     def __prepare_data__(self):
+
         time_str_to_n = self.time_str_to_n
+        n_decisions = sum(time_str_to_n.values())
         time_strs = sorted(list(time_str_to_n.keys()))
         dates = [
             datetime.strptime(d, CabinetDecisionChart.TIME_FORMAT)
@@ -41,10 +43,10 @@ class CabinetDecisionChart:
         daily_series = series.reindex(full_index).interpolate(method="time")
         moving_avg = daily_series.rolling(window=7).mean()
 
-        return series, moving_avg, time_strs
+        return series, moving_avg, time_strs, n_decisions
 
     def __draw_chart__(self):
-        series, _, time_strs = self.__prepare_data__()
+        series, _, time_strs, n_decisions = self.__prepare_data__()
         plt.figure(figsize=(8, 4.5))
         plt.bar(
             series.index,
@@ -61,7 +63,7 @@ class CabinetDecisionChart:
         #     color="red",
         # )
         plt.title(
-            "Cabinet Decisions in Sri Lanka"
+            f"{n_decisions} Cabinet Decisions in Sri Lanka"
             + f" ({time_strs[0]} - {time_strs[-1]})"
         )
         plt.xlabel("Date")
