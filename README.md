@@ -16,8 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-16 11:04:47**     |
-| nDecisions   | **7,050**     |
+| Last Updated   | **2025-06-16 11:26:59**     |
+| nDecisions   | **7,160**     |
 | Latest   | **2025-06-09** |
 | Earliest | **2010-12-15** |
 
@@ -40,7 +40,7 @@ Sri Lanka.
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (7.08 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (7.19 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
@@ -48,7 +48,7 @@ Sri Lanka.
 | 2025-06-09 | 14 | Amendment to the Cod... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229) | - Approval has been ... | 2025-06-09-014-f943 |
 | 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
 
-(These are the first 3 of **7,050** rows of the full TSV data)
+(These are the first 3 of **7,160** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
@@ -76,7 +76,7 @@ Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend t
 
 Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
 
-## All Cabinet Decisions (7,050)
+## All Cabinet Decisions (7,160)
 
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
@@ -1956,6 +1956,56 @@ Sri Lanka ranks among the highest in the world in terms of breastfeeding indicat
 - [2021-09-27] [Performing Cardiac Surgery for children with heart diseases 	through the Amrita Institute of Medical Sciences (Amrita 	Hospital), 	Kochi, India](data/cabinet_decisions/2021/2021-09/2021-09-27-003-40e8.json)
 - [2021-09-27] [Establishment of a Board of Trustees for the maintenance and administrative activities of Sandahiru Seya Stupa](data/cabinet_decisions/2021/2021-09/2021-09-27-002-90b1.json)
 - [2021-09-27] [The Agreement entered into between the Democratic Socialist Republic of Sri Lanka and the Government of Bahrain on Mutual Visa Exemption for holders of Diplomatic, Special and Official Passports](data/cabinet_decisions/2021/2021-09/2021-09-27-001-a860.json)
+- [2021-09-21] [Amendments to the Appropriation Act No. 07 of 2020](data/cabinet_decisions/2021/2021-09/2021-09-21-011-d78e.json)
+- [2021-09-21] [''Hope for Youth'' - National Youth Development Programme](data/cabinet_decisions/2021/2021-09/2021-09-21-010-e1a0.json)
+- [2021-09-21] [Transfer of the ownership of the land belonging to the Sri Lanka Ports Authority located at Aluth Mawatha, Colombo 15 to the Ceylon Shipping Corporation Limited (CSC)](data/cabinet_decisions/2021/2021-09/2021-09-21-009-cb16.json)
+- [2021-09-21] [Galle Port Development Project](data/cabinet_decisions/2021/2021-09/2021-09-21-008-5168.json)
+- [2021-09-21] [Implementation of an Action Plan for the years 2022-2024 under the Memorandum of Understanding for the Agricultural Development Cooperation between Sri Lanka and Vietnam](data/cabinet_decisions/2021/2021-09/2021-09-21-007-910b.json)
+- [2021-09-21] [Management of recyclable waste generated from agricultural inputs in the North Central Province](data/cabinet_decisions/2021/2021-09/2021-09-21-006-349f.json)
+- [2021-09-21] [Implementing Four (04) Projects on Pollution Control](data/cabinet_decisions/2021/2021-09/2021-09-21-005-60fe.json)
+- [2021-09-21] [Obtaining an Additional Loan of US$ 100 million under the COVID - 19 Strategic Preparedness and Response Programme](data/cabinet_decisions/2021/2021-09/2021-09-21-004-0f7c.json)
+- [2021-09-21] [Programme for stabilizing prices of essential consumer goods by creating competitiveness in the market through the Forward 	Exchange Agreement](data/cabinet_decisions/2021/2021-09/2021-09-21-003-4d7d.json)
+- [2021-09-21] [Implementation of ''Colombo Bird Park'' Project, Madiwela, Sri 	Jayawadenepura](data/cabinet_decisions/2021/2021-09/2021-09-21-002-855f.json)
+- [2021-09-21] [74th Independence Day Ceremony falling on 04th February, 2022](data/cabinet_decisions/2021/2021-09/2021-09-21-001-ffa1.json)
+- [2021-09-13] [Paddy Purchasing Programme in the Yala Season - 2021](data/cabinet_decisions/2021/2021-09/2021-09-13-008-f6a8.json)
+- [2021-09-13] [Establishment of Diplomatic Relations with Timor-Leste (East Timor)](data/cabinet_decisions/2021/2021-09/2021-09-13-007-bfa0.json)
+- [2021-09-13] [Construction of Elevated Expressway from New Kelani Bridge to Athurugiriy Interchange of Outer Circular Expressway Via Rajagiriya - Obtaining Consultancy Services for Monitoring the Construction and Maintenance](data/cabinet_decisions/2021/2021-09/2021-09-13-006-93b7.json)
+- [2021-09-13] [Amendment to the Civil Procedure Code (Chapter 101)](data/cabinet_decisions/2021/2021-09/2021-09-13-005-e9dd.json)
+- [2021-09-13] [Amendment to Section 88(2) of the Civil Procedure Code](data/cabinet_decisions/2021/2021-09/2021-09-13-004-7f36.json)
+- [2021-09-13] [Development of a mechanism for the utilization of currently identified and untapped minerals](data/cabinet_decisions/2021/2021-09/2021-09-13-003-ceec.json)
+- [2021-09-13] [Declaration of the Policy Objective of Renewable Energy Development](data/cabinet_decisions/2021/2021-09/2021-09-13-002-7f2d.json)
+- [2021-09-13] [Measuring and Developing the Character Strengths of Wisdom:
+Research Project on new approaches in Sri Lanka and Philippines](data/cabinet_decisions/2021/2021-09/2021-09-13-001-c902.json)
+- [2021-09-06] [Increasing the number of “Nenasa” Educational TV Channels for continuation of the Learning - Teaching Process in the Education System during the COVID-19 Pandemic](data/cabinet_decisions/2021/2021-09/2021-09-06-008-ca86.json)
+- [2021-09-06] [Establishment of Techno Parks](data/cabinet_decisions/2021/2021-09/2021-09-06-007-a176.json)
+- [2021-09-06] [Providing financial sponsorship for the Athletes who won Gold and Bronze Medals at the Tokyo 2020 Paralympic Games](data/cabinet_decisions/2021/2021-09/2021-09-06-006-ea2a.json)
+- [2021-09-06] [Prohibition of Anti-Personnel Mines Bill](data/cabinet_decisions/2021/2021-09/2021-09-06-005-19a5.json)
+- [2021-09-06] [Alienation of lands to Private Sector Investors on Long Term Lease basis to establish large scale Commercial Dairy farms](data/cabinet_decisions/2021/2021-09/2021-09-06-004-6557.json)
+- [2021-09-06] [Providing relief for the difficulties faced by the Small and Medium Scale Enterprises](data/cabinet_decisions/2021/2021-09/2021-09-06-003-8d64.json)
+- [2021-09-06] [Declaration of the lands under the Wayamba Maha Ela and Deduru Oya Irrigation Development Projects as a Mahaweli Special Economic Zone](data/cabinet_decisions/2021/2021-09/2021-09-06-002-814b.json)
+- [2021-09-06] [Relocation of the Foreign Ministry in One House Building](data/cabinet_decisions/2021/2021-09/2021-09-06-001-deb6.json)
+- [2021-08-30] [Calling for Expression of Interest (EOI) to implement Renewable Energy Projects under Private Sector Investments](data/cabinet_decisions/2021/2021-08/2021-08-30-011-f803.json)
+- [2021-08-30] [Project to provide Indigenous Medicine to the public to control COVID-19 Pandemic](data/cabinet_decisions/2021/2021-08/2021-08-30-010-47e8.json)
+- [2021-08-30] [Alienation of lands to Aura Lanka Herbals Private Limited, on Long Term Lease Basis, to implement a Project to manufacture Herbal Products from Aloe vera plant for export purpose](data/cabinet_decisions/2021/2021-08/2021-08-30-009-a83b.json)
+- [2021-08-30] [Climate Resilience Multi-Phase Programmatic Approach (CresMPA)](data/cabinet_decisions/2021/2021-08/2021-08-30-008-930c.json)
+- [2021-08-30] [Implementation of the recommendations of the Cabinet Sub-Committee on ''Removal of Salary Anomalies in the Teachers' and Principals' Services'' appointed by the Cabinet of Ministers](data/cabinet_decisions/2021/2021-08/2021-08-30-007-73db.json)
+- [2021-08-30] [Further extension of the benefits under the Agrahara Insurance Scheme, which is being implemented for the retired Public Officers](data/cabinet_decisions/2021/2021-08/2021-08-30-006-acf4.json)
+- [2021-08-30] [Amending the Employees' Provident Fund Act, No. 15 of 1958 to enter into a Bilateral Social Security Agreement between Sri Lanka and India](data/cabinet_decisions/2021/2021-08/2021-08-30-005-cee3.json)
+- [2021-08-30] [Obtaining the service of a Self-Propelled Barges (SPBS) supplier for lightering (Barging) Coal from the ships to the Jetty of the Lakvijaya Power Station](data/cabinet_decisions/2021/2021-08/2021-08-30-004-9be7.json)
+- [2021-08-30] [Updating the Memorandum of Understanding (MoU) between Sri Lanka and the United Kingdom on Certificate of Recognition issued to the Seafarers](data/cabinet_decisions/2021/2021-08/2021-08-30-003-894b.json)
+- [2021-08-30] [Provision of additional allocations for the payment of Widows, Widowers and Orphans Pension](data/cabinet_decisions/2021/2021-08/2021-08-30-002-85ce.json)
+- [2021-08-30] [Entering into an Agreement between the Democratic Socialist Republic of Sri Lanka and the Kingdom of Cambodia on the exemption of Visa requirement for holders of Diplomatic and Service & Official Passports](data/cabinet_decisions/2021/2021-08/2021-08-30-001-ec7e.json)
+- [2021-08-23] [11.	Importation of 300,000 litres of Liquid Medical Oxygen required for the treatment of COVID 19 patients](data/cabinet_decisions/2021/2021-08/2021-08-23-011-4038.json)
+- [2021-08-23] [Payment of an allowance of Rs.2,000/- to the families whose livelihoods have been lost due to temporary lockdown of the country to control the outbreak of COVID 19](data/cabinet_decisions/2021/2021-08/2021-08-23-010-d7db.json)
+- [2021-08-23] [Presenting the Regulations promulgated for the revision of fees as per the provisions of the Civil Procedure Code, in Parliament for approval](data/cabinet_decisions/2021/2021-08/2021-08-23-009-3d48.json)
+- [2021-08-23] [Presenting the Regulations promulgated under the National Gem and Jewellery Authority Act, No.50 of 1993, in Parliament](data/cabinet_decisions/2021/2021-08/2021-08-23-008-4806.json)
+- [2021-08-23] [Purchasing of Local Organic Fertilizer - Maha Season 2021/2022](data/cabinet_decisions/2021/2021-08/2021-08-23-007-5ea4.json)
+- [2021-08-23] [Renovation of the Samanalawewa Tank Bund](data/cabinet_decisions/2021/2021-08/2021-08-23-006-ef5e.json)
+- [2021-08-23] [Progress of the Mega Scale Development Projects by the end of Second Quarter  2021](data/cabinet_decisions/2021/2021-08/2021-08-23-005-775e.json)
+- [2021-08-23] [Obtaining an additional Financing from the Asian Development Bank (ADB) under the 'Health System Enhancement Project' (AF-HSEP)](data/cabinet_decisions/2021/2021-08/2021-08-23-004-bac7.json)
+- [2021-08-23] [Motor Vehicle Fleet of the Government](data/cabinet_decisions/2021/2021-08/2021-08-23-003-8e31.json)
+- [2021-08-23] [Issuance of one-time tourist visa up to 180 days for travelers arriving via Electronic Travel Authorization (ETA)](data/cabinet_decisions/2021/2021-08/2021-08-23-002-a9a4.json)
+- [2021-08-23] [Donation of August salary of the Cabinet Ministers to the COVID 19 Fund](data/cabinet_decisions/2021/2021-08/2021-08-23-001-c0f2.json)
 - [2020-12-21] [Enticing the Airlines to the Mattala Rajapaksa International Airport and the Colombo International Airport, Ratmalana](data/cabinet_decisions/2020/2020-12/2020-12-21-018-1525.json)
 - [2020-12-21] [Procurement of Food Items for the Tri-Forces for the year 2021](data/cabinet_decisions/2020/2020-12/2020-12-21-017-6719.json)
 - [2020-12-21] [House of Justice Project](data/cabinet_decisions/2020/2020-12/2020-12-21-016-9062.json)
@@ -4381,6 +4431,67 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2017-01-24] [Transfer of the Railways Department Stores at Matale to the Municipal Council, Matale, on Lease Basis for constructing a Public Market](data/cabinet_decisions/2017/2017-01/2017-01-24-003-320c.json)
 - [2017-01-24] [Construction of Luxury Tourist Camp Sites adjoining the Yala National Park](data/cabinet_decisions/2017/2017-01/2017-01-24-002-e570.json)
 - [2017-01-24] [Procurement of Equipment necessary for the Sri Lanka Army Contingent Deployed for Peace Keeping Operations in Mali](data/cabinet_decisions/2017/2017-01/2017-01-24-001-7595.json)
+- [2017-01-17] [Hosting the International Forum of the Independent Audit Regulators (IFIAR) Annual Workshop](data/cabinet_decisions/2017/2017-01/2017-01-17-018-ca0a.json)
+- [2017-01-17] [National Human Rights Action Plan (2017-2021)](data/cabinet_decisions/2017/2017-01/2017-01-17-017-b6f9.json)
+- [2017-01-17] [Awarding the Contract for the Design and Building of St. Sebestian North Lock Gates and Pumping Station](data/cabinet_decisions/2017/2017-01/2017-01-17-016-5b4f.json)
+- [2017-01-17] [Construction of a Pre-fabricated Structured Building for Storing Medical Supplies in the Medical Supplies Division at Welisara Hospital Premises](data/cabinet_decisions/2017/2017-01/2017-01-17-015-d22f.json)
+- [2017-01-17] [Awarding of the Contracts for buildings to be constructed at the University of the Visual & Performing Arts and the Sri Lanka Institute of Advanced Technological Education](data/cabinet_decisions/2017/2017-01/2017-01-17-014-cae7.json)
+- [2017-01-17] [Memoranda of Understanding between Sri Lanka and Ukraine and Denmark on the Recognition of Certificates issued to seafarers](data/cabinet_decisions/2017/2017-01/2017-01-17-013-ed60.json)
+- [2017-01-17] [Regulations made under the Merchant Shipping Act, No. 52 of 1971 to regularize Small Commercial Vessels](data/cabinet_decisions/2017/2017-01/2017-01-17-012-8af3.json)
+- [2017-01-17] [Providing relief to persons adversely affected due to the acquisition of land for the Yan Oya Reservoir Development Project](data/cabinet_decisions/2017/2017-01/2017-01-17-011-768d.json)
+- [2017-01-17] [Prohibition of trawl fishing operation using mechanized boats within Sri Lankan waters](data/cabinet_decisions/2017/2017-01/2017-01-17-010-b4f4.json)
+- [2017-01-17] [Economic Empowerment of Women through Apparel Based Mini Factories](data/cabinet_decisions/2017/2017-01/2017-01-17-009-f5f9.json)
+- [2017-01-17] [Construction of Quarters/Housing facilities for the Medical Officers,  and the rest of the Health Services Staff in all Government Hospitals](data/cabinet_decisions/2017/2017-01/2017-01-17-008-9fd9.json)
+- [2017-01-17] [Seeking the consent of drivers to donate organs and tissues for transplantation](data/cabinet_decisions/2017/2017-01/2017-01-17-007-d1a2.json)
+- [2017-01-17] [Management of the Water Supply Facilities during the Drought situation](data/cabinet_decisions/2017/2017-01/2017-01-17-006-e7a0.json)
+- [2017-01-17] [Implementation  of the National Human Resources and Employment Policy (NHREP)](data/cabinet_decisions/2017/2017-01/2017-01-17-005-9ec8.json)
+- [2017-01-17] [Upgrading the quality of service of the passenger transportation in the three-wheelers and the student transportation in the school vans](data/cabinet_decisions/2017/2017-01/2017-01-17-004-62e5.json)
+- [2017-01-17] [Taking over of the Land leased to the US Embassy at Iranawila](data/cabinet_decisions/2017/2017-01/2017-01-17-003-f7e7.json)
+- [2017-01-17] [Implementation of an Integrated Municipal Solid Waste Management System  for the Kandy District](data/cabinet_decisions/2017/2017-01/2017-01-17-002-0c8b.json)
+- [2017-01-17] [Amendment of the Firearms Ordinance](data/cabinet_decisions/2017/2017-01/2017-01-17-001-c22f.json)
+- [2017-01-10] [Policy and Legal Framework relating to the Counter Terrorism Act](data/cabinet_decisions/2017/2017-01/2017-01-10-026-57f5.json)
+- [2017-01-10] [Amendment of the Code of Criminal Procedure (Special Provisions) Act, No.2 of 2013](data/cabinet_decisions/2017/2017-01/2017-01-10-025-4363.json)
+- [2017-01-10] [Implementation of the Government Borrowing Programme for 2017](data/cabinet_decisions/2017/2017-01/2017-01-10-024-3000.json)
+- [2017-01-10] [Providing Relief under Emergency Disaster Conditions to House Holders Adversely Affected by the Water Leaks of the Main Tunnel of the Uma Oya Multi Purpose Development Project](data/cabinet_decisions/2017/2017-01/2017-01-10-023-c794.json)
+- [2017-01-10] [Procurement of 60 MW of Supplementary Power for a 06 month period to ensure uninterrupted power supply](data/cabinet_decisions/2017/2017-01/2017-01-10-022-44e3.json)
+- [2017-01-10] [Extension of the Expired Agreements of Furnace Oil Power Plants by 06 months](data/cabinet_decisions/2017/2017-01/2017-01-10-021-7c92.json)
+- [2017-01-10] [Amendment of the Irrigation Ordinance No. 32 of 1946 to suit the timely needs](data/cabinet_decisions/2017/2017-01/2017-01-10-020-4eff.json)
+- [2017-01-10] [Development and Improvement of Godigamuwa Tank in the Matale District](data/cabinet_decisions/2017/2017-01/2017-01-10-019-9e09.json)
+- [2017-01-10] [Implementation of the projects for Municipal Solid Waste Management, at Karadiyana and Muthurajawela areas](data/cabinet_decisions/2017/2017-01/2017-01-10-018-deec.json)
+- [2017-01-10] [Allocation of a land at Denzil Kobbekaduwa Mawatha, Battaramulla to the Department of Divineguma Development](data/cabinet_decisions/2017/2017-01/2017-01-10-017-36f0.json)
+- [2017-01-10] [Allocation of a land to the National Institute of Business Management (NIBM) for the construction of a new building](data/cabinet_decisions/2017/2017-01/2017-01-10-016-66fe.json)
+- [2017-01-10] [Establishment of the Public Private Partnership Division](data/cabinet_decisions/2017/2017-01/2017-01-10-015-34f5.json)
+- [2017-01-10] [Amendment to the Prevention of Mosquito Breeding Act, No. 11 of 2007](data/cabinet_decisions/2017/2017-01/2017-01-10-014-ada8.json)
+- [2017-01-10] [Increase of the Annual Grant to the Sri Lanka Cancer Society](data/cabinet_decisions/2017/2017-01/2017-01-10-013-3c1a.json)
+- [2017-01-10] [Agreement between Sri Lanka and Iran on Science, Technology and Innovation Cooperation](data/cabinet_decisions/2017/2017-01/2017-01-10-012-7812.json)
+- [2017-01-10] [Memorandum of Understanding between the United Arab Emirates and Sri Lanka on Cooperation in the field of Higher Education](data/cabinet_decisions/2017/2017-01/2017-01-10-011-a1c2.json)
+- [2017-01-10] [Memorandum of Understanding between the Academy of Labour and Social Relations of the Russian Federation and the National Institute of Labour Studies (NILS), Sri Lanka](data/cabinet_decisions/2017/2017-01/2017-01-10-010-3e69.json)
+- [2017-01-10] [Allocation of a plot of land to the Embassy of the State of Palestine](data/cabinet_decisions/2017/2017-01/2017-01-10-009-3d83.json)
+- [2017-01-10] [Hosting the 10th Air Services Negotiation Event of the International Civil Aviation Organization in Sri Lanka](data/cabinet_decisions/2017/2017-01/2017-01-10-008-5298.json)
+- [2017-01-10] [Puttalam District Integrated Tourism Development Plan](data/cabinet_decisions/2017/2017-01/2017-01-10-007-112c.json)
+- [2017-01-10] [Marketing Facility Development Project of the Tourism Industry](data/cabinet_decisions/2017/2017-01/2017-01-10-006-a41e.json)
+- [2017-01-10] [Additional Financing for Kaluganga Development Project](data/cabinet_decisions/2017/2017-01/2017-01-10-005-dd2d.json)
+- [2017-01-10] [Memorandum of Understanding for Development Cooperation Partnership between the Governments of Sri Lanka and Australia](data/cabinet_decisions/2017/2017-01/2017-01-10-004-aee3.json)
+- [2017-01-10] [Provision of the required facilities for the Medical Faculties of Rajarata and Eastern Universities and the Faculty of Allied Health Sciences of the University of Peradeniya](data/cabinet_decisions/2017/2017-01/2017-01-10-003-6b96.json)
+- [2017-01-10] [Creating Awareness on Environment Education of the Teachers in accordance with the New Syllabus introduced](data/cabinet_decisions/2017/2017-01/2017-01-10-002-ec72.json)
+- [2017-01-10] [Implementation of the Guidelines for the Construction and Maintenance of State Buildings as widely Environment friendly Green Buildings](data/cabinet_decisions/2017/2017-01/2017-01-10-001-08cf.json)
+- [2017-01-03] ['Balagathu Sri Lankavak' - the Government Development Plan](data/cabinet_decisions/2017/2017-01/2017-01-03-017-9b42.json)
+- [2017-01-03] ['Let's Protect Children' National Programme - 2017-2019](data/cabinet_decisions/2017/2017-01/2017-01-03-016-33cd.json)
+- [2017-01-03] [Construction of the Siyabalanduwa Water Supply Scheme](data/cabinet_decisions/2017/2017-01/2017-01-03-015-2516.json)
+- [2017-01-03] [Greater Colombo Water and Wastewater Management Improvement Investment Programme - Project 2](data/cabinet_decisions/2017/2017-01/2017-01-03-014-2a16.json)
+- [2017-01-03] [Establishment of value addition centers in Sri Lanka for Vegetables and Fruits](data/cabinet_decisions/2017/2017-01/2017-01-03-013-71c2.json)
+- [2017-01-03] [Rehabilitation of the Elphinstone Theatre](data/cabinet_decisions/2017/2017-01/2017-01-03-012-8f77.json)
+- [2017-01-03] [Recommendations of the Cabinet Sub-Committee on the proposed Registration of Electors (Special Provisions Bill)](data/cabinet_decisions/2017/2017-01/2017-01-03-011-b338.json)
+- [2017-01-03] [Development of the Vattarama Sri Arahantha Maliyadewa Raja Maha Vihara sacred area](data/cabinet_decisions/2017/2017-01/2017-01-03-010-3f47.json)
+- [2017-01-03] [Upgrading of the Sri Lanka Institute of Textile & Apparel as a Degree awarding Institution](data/cabinet_decisions/2017/2017-01/2017-01-03-009-ae59.json)
+- [2017-01-03] [Establishment of the Ceylon German Technical Training Institute](data/cabinet_decisions/2017/2017-01/2017-01-03-008-8745.json)
+- [2017-01-03] [Development of the infrastructure facilities of the University of Vocational Technology (UNIVOTEC), Ratmalana](data/cabinet_decisions/2017/2017-01/2017-01-03-007-47f9.json)
+- [2017-01-03] [The National Policy on Health Information](data/cabinet_decisions/2017/2017-01/2017-01-03-006-be5a.json)
+- [2017-01-03] [The Proposed National Elderly Health Policy of Sri Lanka and the Strategies](data/cabinet_decisions/2017/2017-01/2017-01-03-005-1b12.json)
+- [2017-01-03] [Establishment of the National Science Technology and Innovation Coordinating Authority (NASTICA)](data/cabinet_decisions/2017/2017-01/2017-01-03-004-0dad.json)
+- [2017-01-03] [Declaration of National Parks and New Wildlife Sanctuaries and the Revision of Boundaries of Sanctuaries so declared](data/cabinet_decisions/2017/2017-01/2017-01-03-003-43df.json)
+- [2017-01-03] [Regulation of Tourist Hotels](data/cabinet_decisions/2017/2017-01/2017-01-03-002-9644.json)
+- [2017-01-03] [Implementation of the National Biodiversity Strategic Action Plan](data/cabinet_decisions/2017/2017-01/2017-01-03-001-fe4b.json)
 - [2016-12-20] [Import of Rice to maintain a buffer stock for the prevention of a price hike in the Domestic Market](data/cabinet_decisions/2016/2016-12/2016-12-20-015-2f7d.json)
 - [2016-12-20] [Expansion of the facilities in the Vocational Training Centre, Moneragala of the National Youth Services Council](data/cabinet_decisions/2016/2016-12/2016-12-20-014-8a9c.json)
 - [2016-12-20] [Awarding four Contracts for the Development of Roads under the Let's Awaken Polonnaruwa District Development Programme of the Presidential Programme for 'Awakening Rajarata'](data/cabinet_decisions/2016/2016-12/2016-12-20-013-c423.json)
