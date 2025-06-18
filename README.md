@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-18 06:03:33**     |
-| nDecisions   | **9,061**     |
-| Latest   | **2025-06-09** |
+| Last Updated   | **2025-06-18 17:53:59**     |
+| nDecisions   | **9,080**     |
+| Latest   | **2025-06-16** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,84 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-06-09",
-  "decision_num": 15,
-  "title": "An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230",
-  "decision_details": "- It has been scientifically proven that physical and psychological abuse caused to a child by corporal punishment is extensive. Therefore, approval has been granted at the Cabinet meeting held on 2024-04-29 to amend the Penal Code (Chapter 19) to prohibit the corporal punishment in all spheres and to make provisions for the imposition of punishment for physical abuse. Although the Cabinet of Ministers has previously granted approval to publish the Penal Code (Amendment) Bill prepared by the Legal Draftsman for the relevant purpose, in the Government Gazette and present the same in Parliament, it has not been possible to act accordingly. The need for the expeditious enactment of the said Bill has been identified. Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament, was approved by the Cabinet.",
-  "key": "2025-06-09-015-9905"
+  "date_str": "2025-06-16",
+  "decision_num": 19,
+  "title": "The Special Fixed Deposit Scheme for Senior Citizens",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249",
+  "decision_details": "- The Government has decided to implement a Special Fixed Deposit Scheme for Senior Citizens as proposed in the Budget Speech for the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the proposed Special Fixed Deposit Scheme as follows, was approved by the Cabinet:* Implementation of this scheme for fixed deposits opened by Sri Lankan citizens aged 60 years or above during the period from 2025‑07‑01 to 2025‑12‑31.* The tenure of the fixed deposit should be 12 months (one year) and the maximum deposit value is one million rupees.* Payment of interest at the rate of 3% per annum plus the Average Weighted Fixed Deposit Interest Rate (AWFDR) or the rate of interest at the fixed deposit rate of the relevant bank plus 3%, whichever is higher.* Allocation of Rs.30 billion for the payment of interest subsidy for the entire programme.",
+  "key": "2025-06-16-019-df04"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
+[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-16-019-df04.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.24 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.26 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-06-09 | 15 | An Act to amend the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230) | - It has been scient... | 2025-06-09-015-9905 |
-| 2025-06-09 | 14 | Amendment to the Cod... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229) | - Approval has been ... | 2025-06-09-014-f943 |
-| 2025-06-09 | 13 | Preparation of the '... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228) | - Sri Lanka ranks am... | 2025-06-09-013-d36e |
+| 2025-06-16 | 19 | The Special Fixed De... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249) | - The Government has... | 2025-06-16-019-df04 |
+| 2025-06-16 | 18 | Repealing of the Pre... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248) | - In accordance with... | 2025-06-16-018-bcba |
+| 2025-06-16 | 17 | Obtaining additional... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247) | - A plot of land wit... | 2025-06-16-017-b911 |
 
-(These are the first 3 of **9,061** rows of the full TSV data)
+(These are the first 3 of **9,080** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)
+### 1) The Special Fixed Deposit Scheme for Senior Citizens
 
-*2025-06-09*, *#15*
+*2025-06-16*, *#19*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13230)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249)
 
-It has been scientifically proven that physical and psychological abuse caused to a child by corporal punishment is extensive. Therefore, approval has been granted at the Cabinet meeting held on 2024-04-29 to amend the Penal Code (Chapter 19) to prohibit the corporal punishment in all spheres and to make provisions for the imposition of punishment for physical abuse. Although the Cabinet of Ministers has previously granted approval to publish the Penal Code (Amendment) Bill prepared by the Legal Draftsman for the relevant purpose, in the Government Gazette and present the same in Parliament, it has not been possible to act accordingly. The need for the expeditious enactment of the said Bill has been identified. Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament, was approved by the Cabinet.
+The Government has decided to implement a Special Fixed Deposit Scheme for Senior Citizens as proposed in the Budget Speech for the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the proposed Special Fixed Deposit Scheme as follows, was approved by the Cabinet:
 
-### 2) Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)
+* Implementation of this scheme for fixed deposits opened by Sri Lankan citizens aged 60 years or above during the period from 2025‑07‑01 to 2025‑12‑31.
 
-*2025-06-09*, *#14*
+* The tenure of the fixed deposit should be 12 months (one year) and the maximum deposit value is one million rupees.
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13229)
+* Payment of interest at the rate of 3% per annum plus the Average Weighted Fixed Deposit Interest Rate (AWFDR) or the rate of interest at the fixed deposit rate of the relevant bank plus 3%, whichever is higher.
 
-Approval has been granted at the Cabinet meeting held on 2024-04-29 to  amend the Code of Criminal Procedure Act, No. 15 of 1979 to make provisions for the prohibition of Corporal Punishment in all spheres. Accordingly, the proposal made by the Minister of Justice and National Integration to grant policy approval of the present Cabinet to prepare an amending Bill for the relevant purpose, was approved by the Cabinet.
+* Allocation of Rs.30 billion for the payment of interest subsidy for the entire programme.
 
-### 3) Preparation of the 'Promotion of Breastfeeding' Bill
+### 2) Repealing of the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977
 
-*2025-06-09*, *#13*
+*2025-06-16*, *#18*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13228)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248)
 
-Sri Lanka ranks among the highest in the world in terms of breastfeeding indicators and has become the first country to be awarded ‘Green Status’ by the World Breastfeeding Trends initiative (WBTi). Approval has been granted by the Cabinet of Ministers on 2018-10-16 to introduce legal provisions through an Act to promote breastfeeding, with the aim of protecting the health and nutrition of children by protecting children from the unethical and harmful effects of the milk powder industry on children for commercial purposes,, protecting breastfeeding as a key intervention that is scientifically proven, and ensuring that the country continues to be recognized as a global leader in breastfeeding. Accordingly, the proposal made by the Minister of Health and Mass Media to grant policy approval of the present Cabinet for the preparation of the relevant Bill, was approved by the Cabinet.
+In accordance with the policy statement "A thriving nation - A beautiful life" presented to the public by the current Government, the people have given the Government a mandate to abolish the special privileges granted to former Presidents and their families and to abolish the pension granted to Members of Parliament after 05 years. Accordingly, the proposals made by the Minister of Justice and National Integration to instruct the Legal Draftsman to prepare 02 Bills to repeal the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977 enabling to abolish the special privileges granted to former Presidents and their families and to abolish the pension of Members of Parliament, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,061)
+### 3) Obtaining additional provisions for the future construction work of Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa)
 
+*2025-06-16*, *#17*
+
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247)
+
+A plot of land with an extent of 100-perches has been allocated in the Battaramulla Apegama premises for the construction of the Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa). The Central Engineering Consultancy Bureau, the consultancy firm, has estimated that Rs.21.745 million is required to complete the remaining works of the second phase of the Amaradeva Asapuwa and another Rs.179.436 million is required to complete the final phase. It has also been indicated that another Rs.20 million is required to purchase essential items to maintain office operations after the completion of the work. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to allocate the necessary provisions to complete the construction work of the Amaradeva Asapuwa and maintain the office operations thereon, was approved by the Cabinet.
+
+## All Cabinet Decisions (9,080)
+
+- [2025-06-16] [The Special Fixed Deposit Scheme for Senior Citizens](data/cabinet_decisions/2025/2025-06/2025-06-16-019-df04.json)
+- [2025-06-16] [Repealing of the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977](data/cabinet_decisions/2025/2025-06/2025-06-16-018-bcba.json)
+- [2025-06-16] [Obtaining additional provisions for the future construction work of Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa)](data/cabinet_decisions/2025/2025-06/2025-06-16-017-b911.json)
+- [2025-06-16] [Amendment of the Universities Act, No. 16 of 1978](data/cabinet_decisions/2025/2025-06/2025-06-16-016-63b3.json)
+- [2025-06-16] [Amendment of the Protection of Rights of Elders Act, No. 9 of 2000](data/cabinet_decisions/2025/2025-06/2025-06-16-015-78fd.json)
+- [2025-06-16] [Establishment of the Aircraft Accident Investigation Bureau of Sri Lanka (AAIBSL)](data/cabinet_decisions/2025/2025-06/2025-06-16-014-6a22.json)
+- [2025-06-16] [Public Commercial Business Management Bill](data/cabinet_decisions/2025/2025-06/2025-06-16-013-5787.json)
+- [2025-06-16] [Establishment of a Trusted Digital Repository at the National Archives (Phase 01)](data/cabinet_decisions/2025/2025-06/2025-06-16-012-69a2.json)
+- [2025-06-16] [Concrete Waste Recycling Project to be implemented by the State Engineering Corporation of Sri Lanka](data/cabinet_decisions/2025/2025-06/2025-06-16-011-2166.json)
+- [2025-06-16] [26th Session of the Intergovernmental Group (IGG) on Tea of the Food and Agriculture Organization (FAO) of the United Nations, 4th Annual Meeting of the Asian Tea Alliance (ATA) and the Centenary Celebration of the Tea Research Institute](data/cabinet_decisions/2025/2025-06/2025-06-16-010-618e.json)
+- [2025-06-16] [Procurement of 20 Prime Movers for the Sri Lanka Ports Authority](data/cabinet_decisions/2025/2025-06/2025-06-16-009-4900.json)
+- [2025-06-16] [Procurement of 07 Nos. of Gantry cranes for Container Handling at the East Container Terminal and the Jaya Container Terminal](data/cabinet_decisions/2025/2025-06/2025-06-16-008-7b6e.json)
+- [2025-06-16] [The programme to protect the boundaries and conservation areas of selected major tanks](data/cabinet_decisions/2025/2025-06/2025-06-16-007-d241.json)
+- [2025-06-16] [Modernization of the services of the Department of Meteorology under the Climate Resilience Multi-Phase Programmatic Approach (CResMPA)](data/cabinet_decisions/2025/2025-06/2025-06-16-006-14ee.json)
+- [2025-06-16] [Preparation of the Watershed Management Plan for the Kelani River Basin](data/cabinet_decisions/2025/2025-06/2025-06-16-005-7b86.json)
+- [2025-06-16] [Obtaining additional finance from the World Bank for the General Education 	and Modernization Project](data/cabinet_decisions/2025/2025-06/2025-06-16-004-2c61.json)
+- [2025-06-16] [Programme for providing a cost of living allowance for children in institutional care or guardianship and street children](data/cabinet_decisions/2025/2025-06/2025-06-16-003-6388.json)
+- [2025-06-16] [Formulation of a National Policy for the Rehabilitation of Child Offenders](data/cabinet_decisions/2025/2025-06/2025-06-16-002-98c7.json)
+- [2025-06-16] [Calling for Investment Proposals for a plot of land owned by the Urban Development Authority](data/cabinet_decisions/2025/2025-06/2025-06-16-001-b56c.json)
 - [2025-06-09] [An Act to amend the Penal Code (Corporal Punishment) (Chapter 19)](data/cabinet_decisions/2025/2025-06/2025-06-09-015-9905.json)
 - [2025-06-09] [Amendment to the Code of Criminal Procedure Act, No.15 of 1979 (Corporal Punishment)](data/cabinet_decisions/2025/2025-06/2025-06-09-014-f943.json)
 - [2025-06-09] [Preparation of the 'Promotion of Breastfeeding' Bill](data/cabinet_decisions/2025/2025-06/2025-06-09-013-d36e.json)
