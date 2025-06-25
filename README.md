@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-25 06:03:51**     |
-| nDecisions   | **9,080**     |
-| Latest   | **2025-06-16** |
+| Last Updated   | **2025-06-25 17:55:31**     |
+| nDecisions   | **9,098**     |
+| Latest   | **2025-06-23** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,65 +27,83 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-06-16",
-  "decision_num": 19,
-  "title": "The Special Fixed Deposit Scheme for Senior Citizens",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249",
-  "decision_details": "- The Government has decided to implement a Special Fixed Deposit Scheme for Senior Citizens as proposed in the Budget Speech for the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the proposed Special Fixed Deposit Scheme as follows, was approved by the Cabinet:* Implementation of this scheme for fixed deposits opened by Sri Lankan citizens aged 60 years or above during the period from 2025‑07‑01 to 2025‑12‑31.* The tenure of the fixed deposit should be 12 months (one year) and the maximum deposit value is one million rupees.* Payment of interest at the rate of 3% per annum plus the Average Weighted Fixed Deposit Interest Rate (AWFDR) or the rate of interest at the fixed deposit rate of the relevant bank plus 3%, whichever is higher.* Allocation of Rs.30 billion for the payment of interest subsidy for the entire programme.",
-  "key": "2025-06-16-019-df04"
+  "date_str": "2025-06-23",
+  "decision_num": 18,
+  "title": "Situation which has arisen in the Middle East Region",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267",
+  "decision_details": "- The Cabinet drew its attention regarding the necessity of having a prior preparedness pertaining to the challenges Sri Lanka would have to face in the future due to the intense war situation which has broken out by now in the Middle East Region. Accordingly, Cabinet decided to appoint a Cabinet Sub‑Committee with the following composition to closely observe the war situation in the Middle East and conduct a review on all the likely impact sectors, the scale of such impact and the expeditious measures to be taken in that regard and submit recommendations where found necessary and to appoint a Committee comprising of the Secretaries to the relevant Ministries to assist the said Cabinet Sub‑Committee:* Hon. Vijitha Herath,  Minister of Foreign Affairs, Foreign Employment and Tourism- (Chairman).* Hon. Samantha Viddyarathna,  Minister of Plantation and Community Infrastructure.* Hon. Wasantha Samarasinghe,  Minister of Trade, Commerce, Food Security and Cooperative Development.* Hon. (Eng.) Kumara Jayakody,  Minister of Energy.",
+  "key": "2025-06-23-018-b7a9"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-16-019-df04.json)
+[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-23-018-b7a9.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.26 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.29 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-06-16 | 19 | The Special Fixed De... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249) | - The Government has... | 2025-06-16-019-df04 |
-| 2025-06-16 | 18 | Repealing of the Pre... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248) | - In accordance with... | 2025-06-16-018-bcba |
-| 2025-06-16 | 17 | Obtaining additional... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247) | - A plot of land wit... | 2025-06-16-017-b911 |
+| 2025-06-23 | 18 | Situation which has ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267) | - The Cabinet drew i... | 2025-06-23-018-b7a9 |
+| 2025-06-23 | 17 | Further strengthenin... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266) | - The policy concurr... | 2025-06-23-017-ada1 |
+| 2025-06-23 | 16 | The Standard Operati... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265) | - Child trafficking ... | 2025-06-23-016-e890 |
 
-(These are the first 3 of **9,080** rows of the full TSV data)
+(These are the first 3 of **9,098** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) The Special Fixed Deposit Scheme for Senior Citizens
+### 1) Situation which has arisen in the Middle East Region
 
-*2025-06-16*, *#19*
+*2025-06-23*, *#18*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13249)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267)
 
-The Government has decided to implement a Special Fixed Deposit Scheme for Senior Citizens as proposed in the Budget Speech for the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the proposed Special Fixed Deposit Scheme as follows, was approved by the Cabinet:
+The Cabinet drew its attention regarding the necessity of having a prior preparedness pertaining to the challenges Sri Lanka would have to face in the future due to the intense war situation which has broken out by now in the Middle East Region. Accordingly, Cabinet decided to appoint a Cabinet Sub‑Committee with the following composition to closely observe the war situation in the Middle East and conduct a review on all the likely impact sectors, the scale of such impact and the expeditious measures to be taken in that regard and submit recommendations where found necessary and to appoint a Committee comprising of the Secretaries to the relevant Ministries to assist the said Cabinet Sub‑Committee:
 
-* Implementation of this scheme for fixed deposits opened by Sri Lankan citizens aged 60 years or above during the period from 2025‑07‑01 to 2025‑12‑31.
+* Hon. Vijitha Herath,  Minister of Foreign Affairs, Foreign Employment and Tourism- (Chairman).
 
-* The tenure of the fixed deposit should be 12 months (one year) and the maximum deposit value is one million rupees.
+* Hon. Samantha Viddyarathna,  Minister of Plantation and Community Infrastructure.
 
-* Payment of interest at the rate of 3% per annum plus the Average Weighted Fixed Deposit Interest Rate (AWFDR) or the rate of interest at the fixed deposit rate of the relevant bank plus 3%, whichever is higher.
+* Hon. Wasantha Samarasinghe,  Minister of Trade, Commerce, Food Security and Cooperative Development.
 
-* Allocation of Rs.30 billion for the payment of interest subsidy for the entire programme.
+* Hon. (Eng.) Kumara Jayakody,  Minister of Energy.
 
-### 2) Repealing of the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977
+### 2) Further strengthening the Administrative Structure of the Tourism Industry in Sri Lanka
 
-*2025-06-16*, *#18*
+*2025-06-23*, *#17*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13248)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266)
 
-In accordance with the policy statement "A thriving nation - A beautiful life" presented to the public by the current Government, the people have given the Government a mandate to abolish the special privileges granted to former Presidents and their families and to abolish the pension granted to Members of Parliament after 05 years. Accordingly, the proposals made by the Minister of Justice and National Integration to instruct the Legal Draftsman to prepare 02 Bills to repeal the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977 enabling to abolish the special privileges granted to former Presidents and their families and to abolish the pension of Members of Parliament, was approved by the Cabinet.
+The policy concurrence of the Cabinet of Ministers has been granted at the Cabinet meeting held on 2025-01-20 to introduce a new Act to replace the Tourism Act, No.38 of 2005. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to instruct the Legal Draftsman to prepare a Bill based on the Concept Paper prepared by an Expert Committee appointed under the Chairmanship of the Secretary, Ministry of Foreign Affairs, Foreign Employment and Tourism, was approved by the Cabinet.
 
-### 3) Obtaining additional provisions for the future construction work of Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa)
+### 3) The Standard Operating Procedure for Law Enforcement Authorities on detection, investigation and prosecution of trafficking-related organized crimes against children
 
-*2025-06-16*, *#17*
+*2025-06-23*, *#16*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13247)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265)
 
-A plot of land with an extent of 100-perches has been allocated in the Battaramulla Apegama premises for the construction of the Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa). The Central Engineering Consultancy Bureau, the consultancy firm, has estimated that Rs.21.745 million is required to complete the remaining works of the second phase of the Amaradeva Asapuwa and another Rs.179.436 million is required to complete the final phase. It has also been indicated that another Rs.20 million is required to purchase essential items to maintain office operations after the completion of the work. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to allocate the necessary provisions to complete the construction work of the Amaradeva Asapuwa and maintain the office operations thereon, was approved by the Cabinet.
+Child trafficking for exploitation is considered a grave human rights violation as well as a serious organized international crime. Accordingly, Sri Lanka is committed to strengthening its national response through legal institutions and a procedural mechanism adhering to its obligations under the United Nations Convention on the Rights of the Child and other international policy frameworks. The Ministry of Public Security and Parliamentary Affairs, in collaboration with the Women and Children's Bureau, various units of the Criminal Investigation Department of the Sri Lanka Police, the National Child Protection Authority, the Attorney General’s Department and other relevant stakeholders, has developed a comprehensive Standard Operating Procedure titled “Standard Operating Procedures for Law Enforcement Authorities on Detection, Investigation and Prosecution of Trafficking-Related Organized Crimes Against Children”. The said Standard Operating Procedure has received the clearance of the Attorney General. Accordingly, the proposal made by the Minister of Public Security and Parliamentary Affairs to publish the Standard Operating Procedure for law enforcement authorities on the detection, investigation and prosecution of trafficking-related organized crimes against children, in the Government Gazette, enabling the relevant stakeholders to properly implement the said Standard Operating Procedure, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,080)
+## All Cabinet Decisions (9,098)
 
+- [2025-06-23] [Situation which has arisen in the Middle East Region](data/cabinet_decisions/2025/2025-06/2025-06-23-018-b7a9.json)
+- [2025-06-23] [Further strengthening the Administrative Structure of the Tourism Industry in Sri Lanka](data/cabinet_decisions/2025/2025-06/2025-06-23-017-ada1.json)
+- [2025-06-23] [The Standard Operating Procedure for Law Enforcement Authorities on detection, investigation and prosecution of trafficking-related organized crimes against children](data/cabinet_decisions/2025/2025-06/2025-06-23-016-e890.json)
+- [2025-06-23] [Amendment to the Poisons, Opium and Dangerous Drugs Ordinance and the Judicature Act, No.2 of 1978 (Prohibition against trafficking of dangerous drugs on high seas)](data/cabinet_decisions/2025/2025-06/2025-06-23-015-217a.json)
+- [2025-06-23] [Drafting the Public Procurement Law](data/cabinet_decisions/2025/2025-06/2025-06-23-014-410d.json)
+- [2025-06-23] [Procurement for the supply of 500,000 pre-filled syringe of Enoxaparin Sodium Injection, 6,000IU in 0.6ml](data/cabinet_decisions/2025/2025-06/2025-06-23-013-d756.json)
+- [2025-06-23] [Procurement of 03 CT Scanners for Nawalapitiya, Dambulla and Kuliyapitiya District Hospitals](data/cabinet_decisions/2025/2025-06/2025-06-23-012-9787.json)
+- [2025-06-23] [Proposed Development Project for the Nuwara Eliya Post Office Building](data/cabinet_decisions/2025/2025-06/2025-06-23-011-fe9a.json)
+- [2025-06-23] [Implementation of TB Component and HIV Component under the Global Fund to Fight Aids, Tuberculosis and Malaria (GFATM) Project](data/cabinet_decisions/2025/2025-06/2025-06-23-010-9f17.json)
+- [2025-06-23] [Procurement for paving works of Jaya Container Terminal - V Yard in the Port of Colombo](data/cabinet_decisions/2025/2025-06/2025-06-23-009-1e9e.json)
+- [2025-06-23] [Procurement of 200 New Super Luxury Buses for Expressway Operations](data/cabinet_decisions/2025/2025-06/2025-06-23-008-9cba.json)
+- [2025-06-23] [Programme proposed to be implemented by the Department of Export Agriculture to meet the export agricultural crop production targets](data/cabinet_decisions/2025/2025-06/2025-06-23-007-2d87.json)
+- [2025-06-23] [Project for the rehabilitation of Minneriya, Giritale, Galoya, Huruluwewa and Rajanganaya Irrigation Systems](data/cabinet_decisions/2025/2025-06/2025-06-23-006-a410.json)
+- [2025-06-23] [Construction of a New Three Storied Building for the Thurstan College, Colombo](data/cabinet_decisions/2025/2025-06/2025-06-23-005-ffae.json)
+- [2025-06-23] [The project for the Digital transformation of the General Education in Sri Lanka](data/cabinet_decisions/2025/2025-06/2025-06-23-004-9dad.json)
+- [2025-06-23] [Ending the use of children in street begging, hawking, and in hazardous occupations including domestic work](data/cabinet_decisions/2025/2025-06/2025-06-23-003-cdc5.json)
+- [2025-06-23] [Mobile Public Service Programme operated by the Ministry of Urban Development, Construction and Housing](data/cabinet_decisions/2025/2025-06/2025-06-23-002-ebd0.json)
+- [2025-06-23] [Revision of the new National Water Resources Policy](data/cabinet_decisions/2025/2025-06/2025-06-23-001-9ea0.json)
 - [2025-06-16] [The Special Fixed Deposit Scheme for Senior Citizens](data/cabinet_decisions/2025/2025-06/2025-06-16-019-df04.json)
 - [2025-06-16] [Repealing of the Presidents' Entitlements Act, No.4 of 1986 and the Parliamentary Pensions Law, No.1 of 1977](data/cabinet_decisions/2025/2025-06/2025-06-16-018-bcba.json)
 - [2025-06-16] [Obtaining additional provisions for the future construction work of Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa)](data/cabinet_decisions/2025/2025-06/2025-06-16-017-b911.json)
