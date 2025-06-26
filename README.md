@@ -16,8 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-06-26 06:02:33**     |
-| nDecisions   | **9,098**     |
+| Last Updated   | **2025-06-26 14:30:49**     |
+| nDecisions   | **9,099**     |
 | Latest   | **2025-06-23** |
 | Earliest | **2010-09-27** |
 
@@ -48,7 +48,7 @@ Sri Lanka.
 | 2025-06-23 | 17 | Further strengthenin... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266) | - The policy concurr... | 2025-06-23-017-ada1 |
 | 2025-06-23 | 16 | The Standard Operati... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265) | - Child trafficking ... | 2025-06-23-016-e890 |
 
-(These are the first 3 of **9,098** rows of the full TSV data)
+(These are the first 3 of **9,099** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
@@ -84,7 +84,7 @@ The policy concurrence of the Cabinet of Ministers has been granted at the Cabin
 
 Child trafficking for exploitation is considered a grave human rights violation as well as a serious organized international crime. Accordingly, Sri Lanka is committed to strengthening its national response through legal institutions and a procedural mechanism adhering to its obligations under the United Nations Convention on the Rights of the Child and other international policy frameworks. The Ministry of Public Security and Parliamentary Affairs, in collaboration with the Women and Children's Bureau, various units of the Criminal Investigation Department of the Sri Lanka Police, the National Child Protection Authority, the Attorney General’s Department and other relevant stakeholders, has developed a comprehensive Standard Operating Procedure titled “Standard Operating Procedures for Law Enforcement Authorities on Detection, Investigation and Prosecution of Trafficking-Related Organized Crimes Against Children”. The said Standard Operating Procedure has received the clearance of the Attorney General. Accordingly, the proposal made by the Minister of Public Security and Parliamentary Affairs to publish the Standard Operating Procedure for law enforcement authorities on the detection, investigation and prosecution of trafficking-related organized crimes against children, in the Government Gazette, enabling the relevant stakeholders to properly implement the said Standard Operating Procedure, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,098)
+## All Cabinet Decisions (9,099)
 
 - [2025-06-23] [Situation which has arisen in the Middle East Region](data/cabinet_decisions/2025/2025-06/2025-06-23-018-b7a9.json)
 - [2025-06-23] [Further strengthening the Administrative Structure of the Tourism Industry in Sri Lanka](data/cabinet_decisions/2025/2025-06/2025-06-23-017-ada1.json)
@@ -8152,6 +8152,8 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2012-11-28] [Health Laboratory Services in the Country](data/cabinet_decisions/2012/2012-11/2012-11-28-001-e62c.json)
 - [2012-11-14] [Cabinet Paper No.12/1534/558/041-I (2012-11-14) 
 Appeals made against the Disciplinary Orders issued by the Cabinet of Ministers on behalf of the Public Service Commission during the period between 2009?04?09 and 2011?05?12 when the Commission was non-functional](data/cabinet_decisions/2012/2012-11/2012-11-14-015-a9af.json)
+- [2012-11-14] [Cabinet Paper No.12/1534/558/041-I (2012-11-14) 
+Appeals made against the Disciplinary Orders issued by the Cabinet of Ministers on behalf of the Public Service Commission during the period between 2009?04?09 and 2011?05?12 when the Commission was non-functional](data/cabinet_decisions/2012/2012-11/2012-11-14-015-077b.json)
 - [2012-11-14] [Implementing a mechanism to protect the river bank of Mahaweli, which is facing erosion at present, with the view to ensuring the safety of Mahinda Rajapaksa ICT Centre, the Provincial Library and surrounding buildings at Gatambe](data/cabinet_decisions/2012/2012-11/2012-11-14-014-01e0.json)
 - [2012-11-14] [Provision of grant assistance of US $1.5 Million to the Government of Uganda for Establishment of Sri Lanka - Uganda Friendship Vocational and Technical Training Centre in Uganda](data/cabinet_decisions/2012/2012-11/2012-11-14-013-f670.json)
 - [2012-11-14] [Agreement between Government of the Republic of Kazakhstan and the Government of the Democratic Socialist Republic of Sri Lanka on Cooperation in the field of Tourism](data/cabinet_decisions/2012/2012-11/2012-11-14-012-33b4.json)

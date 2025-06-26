@@ -112,6 +112,6 @@ class CabinetDecisionChart:
         plt.close()
         self.__draw_chart__()
         self.__annotate_chart__()
-        plt.savefig(self.IMAGE_PATH, dpi=150)
+        plt.savefig(self.IMAGE_PATH, dpi=300)
         plt.close()
         log.info(f"Wrote {self.IMAGE_PATH}")
