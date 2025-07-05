@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-07-04 17:54:26**     |
-| nDecisions   | **9,099**     |
-| Latest   | **2025-06-23** |
+| Last Updated   | **2025-07-05 06:03:44**     |
+| nDecisions   | **9,113**     |
+| Latest   | **2025-07-01** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,65 +27,75 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-06-23",
-  "decision_num": 18,
-  "title": "Situation which has arisen in the Middle East Region",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267",
-  "decision_details": "- The Cabinet drew its attention regarding the necessity of having a prior preparedness pertaining to the challenges Sri Lanka would have to face in the future due to the intense war situation which has broken out by now in the Middle East Region. Accordingly, Cabinet decided to appoint a Cabinet Sub‑Committee with the following composition to closely observe the war situation in the Middle East and conduct a review on all the likely impact sectors, the scale of such impact and the expeditious measures to be taken in that regard and submit recommendations where found necessary and to appoint a Committee comprising of the Secretaries to the relevant Ministries to assist the said Cabinet Sub‑Committee:* Hon. Vijitha Herath,  Minister of Foreign Affairs, Foreign Employment and Tourism- (Chairman).* Hon. Samantha Viddyarathna,  Minister of Plantation and Community Infrastructure.* Hon. Wasantha Samarasinghe,  Minister of Trade, Commerce, Food Security and Cooperative Development.* Hon. (Eng.) Kumara Jayakody,  Minister of Energy.",
-  "key": "2025-06-23-018-b7a9"
+  "date_str": "2025-07-01",
+  "decision_num": 14,
+  "title": "Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281",
+  "decision_details": "- Although Sri Lankan Airlines Limited has contributed towards the economic prosperity of the country, the Government has to bear excessive burden to maintain it, and the heavy annual loss incurred by the company is difficult for the country's economy to bear. It is the desire of the public to transform this Company into an economically beneficial, efficient and productive state-owned institution and to successfully maintain it using modern technology. For this purpose, a formal study and evaluation on the transactions and incidents that have taken place in the past period which led to the current situation of SriLankan Airlines Limited should be carried out.  Similarly, the need to investigate the activities of Airport and Aviation Services (Sri Lanka) (Private) Ltd, which is responsible for airport operations, has been brought to the attention of the Government by various parties. Accordingly, the proposal made by the Hon. President to appoint a Presidential Special Committee of Inquiry, chaired by the former Auditor General, Mr. H.M. Gamini Wijesinghe, to inquire into the frauds, corruptions and irregularities alleged to have occurred in the above institutions during the period of 2010-2025 and submit a comprehensive Report with recommendations, was approved by the Cabinet.",
+  "key": "2025-07-01-014-2b69"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-06/2025-06-23-018-b7a9.json)
+[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-01-014-2b69.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.29 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.31 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-06-23 | 18 | Situation which has ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267) | - The Cabinet drew i... | 2025-06-23-018-b7a9 |
-| 2025-06-23 | 17 | Further strengthenin... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266) | - The policy concurr... | 2025-06-23-017-ada1 |
-| 2025-06-23 | 16 | The Standard Operati... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265) | - Child trafficking ... | 2025-06-23-016-e890 |
+| 2025-07-01 | 14 | Establishment of a P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281) | - Although Sri Lanka... | 2025-07-01-014-2b69 |
+| 2025-07-01 | 13 | Amendment to the Jus... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280) | - Provisions of the ... | 2025-07-01-013-a4fa |
+| 2025-07-01 | 12 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279) | - Bids have been inv... | 2025-07-01-012-1c30 |
 
-(These are the first 3 of **9,099** rows of the full TSV data)
+(These are the first 3 of **9,113** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Situation which has arisen in the Middle East Region
+### 1) Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period
 
-*2025-06-23*, *#18*
+*2025-07-01*, *#14*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13267)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281)
 
-The Cabinet drew its attention regarding the necessity of having a prior preparedness pertaining to the challenges Sri Lanka would have to face in the future due to the intense war situation which has broken out by now in the Middle East Region. Accordingly, Cabinet decided to appoint a Cabinet Sub‑Committee with the following composition to closely observe the war situation in the Middle East and conduct a review on all the likely impact sectors, the scale of such impact and the expeditious measures to be taken in that regard and submit recommendations where found necessary and to appoint a Committee comprising of the Secretaries to the relevant Ministries to assist the said Cabinet Sub‑Committee:
+Although Sri Lankan Airlines Limited has contributed towards the economic prosperity of the country, the Government has to bear excessive burden to maintain it, and the heavy annual loss incurred by the company is difficult for the country's economy to bear. It is the desire of the public to transform this Company into an economically beneficial, efficient and productive state-owned institution and to successfully maintain it using modern technology. For this purpose, a formal study and evaluation on the transactions and incidents that have taken place in the past period which led to the current situation of SriLankan Airlines Limited should be carried out.  Similarly, the need to investigate the activities of Airport and Aviation Services (Sri Lanka) (Private) Ltd, which is responsible for airport operations, has been brought to the attention of the Government by various parties. Accordingly, the proposal made by the Hon. President to appoint a Presidential Special Committee of Inquiry, chaired by the former Auditor General, Mr. H.M. Gamini Wijesinghe, to inquire into the frauds, corruptions and irregularities alleged to have occurred in the above institutions during the period of 2010-2025 and submit a comprehensive Report with recommendations, was approved by the Cabinet.
 
-* Hon. Vijitha Herath,  Minister of Foreign Affairs, Foreign Employment and Tourism- (Chairman).
+### 2) Amendment to the Justices of the Peace (Appointment, Suspension, Cancellation and Code of Conduct) Regulations
 
-* Hon. Samantha Viddyarathna,  Minister of Plantation and Community Infrastructure.
+*2025-07-01*, *#13*
 
-* Hon. Wasantha Samarasinghe,  Minister of Trade, Commerce, Food Security and Cooperative Development.
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280)
 
-* Hon. (Eng.) Kumara Jayakody,  Minister of Energy.
+Provisions of the Judicature Act, No.2 of 1978 have empowered the Minister to make regulations for the appointment, suspension, cancellation and termination of the office of a Justice of the Peace. Accordingly, the Justices of the Peace (Appointment, Suspension, Cancellation, and Code of Conduct) Regulations No.3 of 2023 has been published through the Gazette Extraordinary Notification No.2360/22 dated 2023 11 27. Amended Regulations by amending the said Regulations have been published through the Gazette Extraordinary Notification No.2439/34 dated 2025 06 04. The proposal made by the Minister of Justice and National Integration to submit the said Regulations to Parliament for approval, was approved by the Cabinet.
 
-### 2) Further strengthening the Administrative Structure of the Tourism Industry in Sri Lanka
+### 3) Procurement for the Supply of Intra Ocular Lens
 
-*2025-06-23*, *#17*
+*2025-07-01*, *#12*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13266)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279)
 
-The policy concurrence of the Cabinet of Ministers has been granted at the Cabinet meeting held on 2025-01-20 to introduce a new Act to replace the Tourism Act, No.38 of 2005. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to instruct the Legal Draftsman to prepare a Bill based on the Concept Paper prepared by an Expert Committee appointed under the Chairmanship of the Secretary, Ministry of Foreign Affairs, Foreign Employment and Tourism, was approved by the Cabinet.
+Bids have been invited under the International Competitive Bidding Procedure for the supply of 05 categories of Intra Ocular Lens which are used to implant in the eye for cataract or myopia treatments. 05 bidders have submitted bids for the same. Accordingly, the proposal made by the Minister of Health and Mass media to procure the relevant 05  Intra Ocular Lens from the following suppliers, based on the recommendations of the Standing High-Level Procurement Committee, was approved by the Cabinet.
 
-### 3) The Standard Operating Procedure for Law Enforcement Authorities on detection, investigation and prosecution of trafficking-related organized crimes against children
+•	supplying  Intra Ocular Lens from M/s Elshaddai Enterprises (Pvt) Ltd., the lowest evaluated substantially responsive bidder pertaining to procurements of SR No.13005029 and 13005032.
 
-*2025-06-23*, *#16*
+•	supplying  Intra Ocular Lens from M/s Jayasuriya Associates, the lowest evaluated substantially responsive bidder pertaining to procurements of SR No.13005026, 13005031 and 13005030.
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13265)
+## All Cabinet Decisions (9,113)
 
-Child trafficking for exploitation is considered a grave human rights violation as well as a serious organized international crime. Accordingly, Sri Lanka is committed to strengthening its national response through legal institutions and a procedural mechanism adhering to its obligations under the United Nations Convention on the Rights of the Child and other international policy frameworks. The Ministry of Public Security and Parliamentary Affairs, in collaboration with the Women and Children's Bureau, various units of the Criminal Investigation Department of the Sri Lanka Police, the National Child Protection Authority, the Attorney General’s Department and other relevant stakeholders, has developed a comprehensive Standard Operating Procedure titled “Standard Operating Procedures for Law Enforcement Authorities on Detection, Investigation and Prosecution of Trafficking-Related Organized Crimes Against Children”. The said Standard Operating Procedure has received the clearance of the Attorney General. Accordingly, the proposal made by the Minister of Public Security and Parliamentary Affairs to publish the Standard Operating Procedure for law enforcement authorities on the detection, investigation and prosecution of trafficking-related organized crimes against children, in the Government Gazette, enabling the relevant stakeholders to properly implement the said Standard Operating Procedure, was approved by the Cabinet.
-
-## All Cabinet Decisions (9,099)
-
+- [2025-07-01] [Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period](data/cabinet_decisions/2025/2025-07/2025-07-01-014-2b69.json)
+- [2025-07-01] [Amendment to the Justices of the Peace (Appointment, Suspension, Cancellation and Code of Conduct) Regulations](data/cabinet_decisions/2025/2025-07/2025-07-01-013-a4fa.json)
+- [2025-07-01] [Procurement for the Supply of Intra Ocular Lens](data/cabinet_decisions/2025/2025-07/2025-07-01-012-1c30.json)
+- [2025-07-01] [The Methodology of Purchasing medicines and medicinal equipment 	under Government to Government basis, where found necessary](data/cabinet_decisions/2025/2025-07/2025-07-01-011-8fab.json)
+- [2025-07-01] [Selection of Consultancy Firms for the supervision activities of the Housing Programme implemented for low-income families under Government of China Assistance Programme](data/cabinet_decisions/2025/2025-07/2025-07-01-010-5e31.json)
+- [2025-07-01] [Improving sanitation facilities in the urban areas throughout the 	island](data/cabinet_decisions/2025/2025-07/2025-07-01-009-8390.json)
+- [2025-07-01] [Sri Lanka Expo - 2026](data/cabinet_decisions/2025/2025-07/2025-07-01-008-d59c.json)
+- [2025-07-01] [Installation of a Public Debt Management Software System](data/cabinet_decisions/2025/2025-07/2025-07-01-007-d7cd.json)
+- [2025-07-01] [Implementation of Research Projects on Palm Leaf Manuscript collections with Sri Lankan origin in Netherlands](data/cabinet_decisions/2025/2025-07/2025-07-01-006-f52f.json)
+- [2025-07-01] [Five Year National Action Plan on National Policy on Child Protection](data/cabinet_decisions/2025/2025-07/2025-07-01-005-9f21.json)
+- [2025-07-01] [Community Productive Model Villages programme](data/cabinet_decisions/2025/2025-07/2025-07-01-004-e603.json)
+- [2025-07-01] [Seasonal Worker Programme for Agriculture and Fisheries in Republic of Korea](data/cabinet_decisions/2025/2025-07/2025-07-01-003-c911.json)
+- [2025-07-01] [Preparation of the Budget for the year 2026](data/cabinet_decisions/2025/2025-07/2025-07-01-002-2828.json)
+- [2025-07-01] [Scholarship programme to provide opportunities for top-performers  of the G.C.E.(Advanced Level) Examination to pursue their Bachelor's degree in foreign universities](data/cabinet_decisions/2025/2025-07/2025-07-01-001-a1a5.json)
 - [2025-06-23] [Situation which has arisen in the Middle East Region](data/cabinet_decisions/2025/2025-06/2025-06-23-018-b7a9.json)
 - [2025-06-23] [Further strengthening the Administrative Structure of the Tourism Industry in Sri Lanka](data/cabinet_decisions/2025/2025-06/2025-06-23-017-ada1.json)
 - [2025-06-23] [The Standard Operating Procedure for Law Enforcement Authorities on detection, investigation and prosecution of trafficking-related organized crimes against children](data/cabinet_decisions/2025/2025-06/2025-06-23-016-e890.json)
