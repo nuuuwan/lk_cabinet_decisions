@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-07-10 06:04:18**     |
-| nDecisions   | **9,113**     |
-| Latest   | **2025-07-01** |
+| Last Updated   | **2025-07-10 17:54:24**     |
+| nDecisions   | **9,130**     |
+| Latest   | **2025-07-07** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,61 +27,74 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-07-01",
-  "decision_num": 14,
-  "title": "Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281",
-  "decision_details": "- Although Sri Lankan Airlines Limited has contributed towards the economic prosperity of the country, the Government has to bear excessive burden to maintain it, and the heavy annual loss incurred by the company is difficult for the country's economy to bear. It is the desire of the public to transform this Company into an economically beneficial, efficient and productive state-owned institution and to successfully maintain it using modern technology. For this purpose, a formal study and evaluation on the transactions and incidents that have taken place in the past period which led to the current situation of SriLankan Airlines Limited should be carried out.  Similarly, the need to investigate the activities of Airport and Aviation Services (Sri Lanka) (Private) Ltd, which is responsible for airport operations, has been brought to the attention of the Government by various parties. Accordingly, the proposal made by the Hon. President to appoint a Presidential Special Committee of Inquiry, chaired by the former Auditor General, Mr. H.M. Gamini Wijesinghe, to inquire into the frauds, corruptions and irregularities alleged to have occurred in the above institutions during the period of 2010-2025 and submit a comprehensive Report with recommendations, was approved by the Cabinet.",
-  "key": "2025-07-01-014-2b69"
+  "date_str": "2025-07-07",
+  "decision_num": 17,
+  "title": "Appointment to the post of Commissioner General of Excise",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298",
+  "decision_details": "- Mr. U.L. Udaya Kumara Perera, Special Grade Officer of the Sri Lanka Inland Revenue Service, presently serving as the Commissioner General of Excise, is due to retire from the Public Service upon completion of the age of 60 years on 2025-07-10. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. M.B.N.A. Pemarathna, retired Commodore of the Sri Lanka Navy, to the post of Commissioner General of Excise falling vacant accordingly, was approved by the Cabinet.",
+  "key": "2025-07-07-017-2628"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-01-014-2b69.json)
+[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-07-017-2628.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.31 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.33 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-07-01 | 14 | Establishment of a P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281) | - Although Sri Lanka... | 2025-07-01-014-2b69 |
-| 2025-07-01 | 13 | Amendment to the Jus... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280) | - Provisions of the ... | 2025-07-01-013-a4fa |
-| 2025-07-01 | 12 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279) | - Bids have been inv... | 2025-07-01-012-1c30 |
+| 2025-07-07 | 17 | Appointment to the p... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298) | - Mr. U.L. Udaya Kum... | 2025-07-07-017-2628 |
+| 2025-07-07 | 16 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297) | - Limited National C... | 2025-07-07-016-a682 |
+| 2025-07-07 | 15 | Justices of the Peac... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296) | - The Mediation Boar... | 2025-07-07-015-c3e6 |
 
-(These are the first 3 of **9,113** rows of the full TSV data)
+(These are the first 3 of **9,130** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period
+### 1) Appointment to the post of Commissioner General of Excise
 
-*2025-07-01*, *#14*
+*2025-07-07*, *#17*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13281)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298)
 
-Although Sri Lankan Airlines Limited has contributed towards the economic prosperity of the country, the Government has to bear excessive burden to maintain it, and the heavy annual loss incurred by the company is difficult for the country's economy to bear. It is the desire of the public to transform this Company into an economically beneficial, efficient and productive state-owned institution and to successfully maintain it using modern technology. For this purpose, a formal study and evaluation on the transactions and incidents that have taken place in the past period which led to the current situation of SriLankan Airlines Limited should be carried out.  Similarly, the need to investigate the activities of Airport and Aviation Services (Sri Lanka) (Private) Ltd, which is responsible for airport operations, has been brought to the attention of the Government by various parties. Accordingly, the proposal made by the Hon. President to appoint a Presidential Special Committee of Inquiry, chaired by the former Auditor General, Mr. H.M. Gamini Wijesinghe, to inquire into the frauds, corruptions and irregularities alleged to have occurred in the above institutions during the period of 2010-2025 and submit a comprehensive Report with recommendations, was approved by the Cabinet.
+Mr. U.L. Udaya Kumara Perera, Special Grade Officer of the Sri Lanka Inland Revenue Service, presently serving as the Commissioner General of Excise, is due to retire from the Public Service upon completion of the age of 60 years on 2025-07-10. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. M.B.N.A. Pemarathna, retired Commodore of the Sri Lanka Navy, to the post of Commissioner General of Excise falling vacant accordingly, was approved by the Cabinet.
 
-### 2) Amendment to the Justices of the Peace (Appointment, Suspension, Cancellation and Code of Conduct) Regulations
+### 2) Procurement for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection (Human) 30% soluble 70% Isophane
 
-*2025-07-01*, *#13*
+*2025-07-07*, *#16*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13280)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297)
 
-Provisions of the Judicature Act, No.2 of 1978 have empowered the Minister to make regulations for the appointment, suspension, cancellation and termination of the office of a Justice of the Peace. Accordingly, the Justices of the Peace (Appointment, Suspension, Cancellation, and Code of Conduct) Regulations No.3 of 2023 has been published through the Gazette Extraordinary Notification No.2360/22 dated 2023 11 27. Amended Regulations by amending the said Regulations have been published through the Gazette Extraordinary Notification No.2439/34 dated 2025 06 04. The proposal made by the Minister of Justice and National Integration to submit the said Regulations to Parliament for approval, was approved by the Cabinet.
+Limited National Competitive Bids have been invited for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection which is used for the treatment of diabetic patients. Only M/s M.J. Biopharma Private Limited, India has submitted a bid for the same. Accordingly, the proposal made by the Minister of Health and Mass Media to award the relevant procurement to the said company, based on the recommendations of the Technical Evaluation Committee and the Standing High Level Procurement Committee, was approved by the Cabinet.
 
-### 3) Procurement for the Supply of Intra Ocular Lens
+### 3) Justices of the Peace Regulations No.1 of 2025
 
-*2025-07-01*, *#12*
+*2025-07-07*, *#15*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13279)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296)
 
-Bids have been invited under the International Competitive Bidding Procedure for the supply of 05 categories of Intra Ocular Lens which are used to implant in the eye for cataract or myopia treatments. 05 bidders have submitted bids for the same. Accordingly, the proposal made by the Minister of Health and Mass media to procure the relevant 05  Intra Ocular Lens from the following suppliers, based on the recommendations of the Standing High-Level Procurement Committee, was approved by the Cabinet.
+The Mediation Boards Commission has submitted a request to grant recognition as ex-officio Justice of the Peace to the mediators of the Mediation Boards Commission, in accordance with the provisions of the Judicature Act, No.2 of 1978. Accordingly, the proposal made by the Minister of Justice and National Integration to submit the Justices of the Peace Regulations No.1 of 2025, published by the Gazette Extraordinary Notification No.2440/27 dated 2025‑06‑23,  to appoint every mediator as an ex‑officio Justice of the Peace for the respective Mediation Board area during his tenure, to Parliament for approval,was approved by the Cabinet.
 
-•	supplying  Intra Ocular Lens from M/s Elshaddai Enterprises (Pvt) Ltd., the lowest evaluated substantially responsive bidder pertaining to procurements of SR No.13005029 and 13005032.
+## All Cabinet Decisions (9,130)
 
-•	supplying  Intra Ocular Lens from M/s Jayasuriya Associates, the lowest evaluated substantially responsive bidder pertaining to procurements of SR No.13005026, 13005031 and 13005030.
-
-## All Cabinet Decisions (9,113)
-
+- [2025-07-07] [Appointment to the post of Commissioner General of Excise](data/cabinet_decisions/2025/2025-07/2025-07-07-017-2628.json)
+- [2025-07-07] [Procurement for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection (Human) 30% soluble 70% Isophane](data/cabinet_decisions/2025/2025-07/2025-07-07-016-a682.json)
+- [2025-07-07] [Justices of the Peace Regulations No.1 of 2025](data/cabinet_decisions/2025/2025-07/2025-07-07-015-c3e6.json)
+- [2025-07-07] [Amendment of the Construction Industry Development (Registration of Adjudicators) Regulation of 2019 and the Construction Industry Development (Registration of Contractors) Regulations, No.1 of 2017](data/cabinet_decisions/2025/2025-07/2025-07-07-014-fac1.json)
+- [2025-07-07] [Repealing the Fisheries and Aquatic Resources Act, No.2 of 1996 and introducing a new Act](data/cabinet_decisions/2025/2025-07/2025-07-07-013-b462.json)
+- [2025-07-07] [Providing an allowance for Dhamma school teachers](data/cabinet_decisions/2025/2025-07/2025-07-07-012-8b3f.json)
+- [2025-07-07] [Project of Proper and Clean Maintenance of Reservoirs and Waterways in the Western Province under the “Clean Sri Lanka - 2025 programme”](data/cabinet_decisions/2025/2025-07/2025-07-07-011-0128.json)
+- [2025-07-07] [Implementing an integrated programme for the future advancement of the Sri Lankan Youth](data/cabinet_decisions/2025/2025-07/2025-07-07-010-a306.json)
+- [2025-07-07] [Entering into a Memorandum of Understanding between the Royal Canadian Mounted Police and the Sri Lanka Police](data/cabinet_decisions/2025/2025-07/2025-07-07-009-1f55.json)
+- [2025-07-07] [Treaty between Sri Lanka and Maldives on Mutual Legal Assistance in Criminal Matters](data/cabinet_decisions/2025/2025-07/2025-07-07-008-7d9e.json)
+- [2025-07-07] [Granting a plot of land to the Ceylon College of Physicians on long term lease basis](data/cabinet_decisions/2025/2025-07/2025-07-07-007-76fe.json)
+- [2025-07-07] [Vesting of lands where the Rest Houses are located with the Urban Development Authority for the development by investors for management and operational activities](data/cabinet_decisions/2025/2025-07/2025-07-07-006-92f4.json)
+- [2025-07-07] [Incorporation of a limited liability company to manage and operate the East Container Terminal](data/cabinet_decisions/2025/2025-07/2025-07-07-005-93f3.json)
+- [2025-07-07] [The Convention between Sri Lanka and Austria for Elimination of Double Taxation and Prevention of Fiscal Evasion and Avoidance](data/cabinet_decisions/2025/2025-07/2025-07-07-004-acac.json)
+- [2025-07-07] [Progress of the Mega Scale Development Projects by the end of the First Quarter of the year 2025](data/cabinet_decisions/2025/2025-07/2025-07-07-003-84d9.json)
+- [2025-07-07] [Granting approval to the Sri Lanka Navy to conduct Maritime Security Operations](data/cabinet_decisions/2025/2025-07/2025-07-07-002-5430.json)
+- [2025-07-07] [Appointment of a Three-Member Committee to inquire into the activities of the Central Cultural Fund during the period from the year 2017 to 2020](data/cabinet_decisions/2025/2025-07/2025-07-07-001-e25a.json)
 - [2025-07-01] [Establishment of a Presidential Special Committee of Inquiry to inquire into the Fraud, Corruptions and Irregularities which have occurred in Sri Lankan Airlines Ltd, and Airport and Aviation Services (Sri Lanka) (Private) Ltd, during the past period](data/cabinet_decisions/2025/2025-07/2025-07-01-014-2b69.json)
 - [2025-07-01] [Amendment to the Justices of the Peace (Appointment, Suspension, Cancellation and Code of Conduct) Regulations](data/cabinet_decisions/2025/2025-07/2025-07-01-013-a4fa.json)
 - [2025-07-01] [Procurement for the Supply of Intra Ocular Lens](data/cabinet_decisions/2025/2025-07/2025-07-01-012-1c30.json)
