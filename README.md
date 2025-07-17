@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-07-16 17:54:58**     |
-| nDecisions   | **9,130**     |
-| Latest   | **2025-07-07** |
+| Last Updated   | **2025-07-17 06:04:18**     |
+| nDecisions   | **9,138**     |
+| Latest   | **2025-07-14** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,65 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-07-07",
-  "decision_num": 17,
-  "title": "Appointment to the post of Commissioner General of Excise",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298",
-  "decision_details": "- Mr. U.L. Udaya Kumara Perera, Special Grade Officer of the Sri Lanka Inland Revenue Service, presently serving as the Commissioner General of Excise, is due to retire from the Public Service upon completion of the age of 60 years on 2025-07-10. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. M.B.N.A. Pemarathna, retired Commodore of the Sri Lanka Navy, to the post of Commissioner General of Excise falling vacant accordingly, was approved by the Cabinet.",
-  "key": "2025-07-07-017-2628"
+  "date_str": "2025-07-14",
+  "decision_num": 8,
+  "title": "Taxation on Cross Border E-Commerce",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306",
+  "decision_details": "- It has been observed that the volume of imports into Sri Lanka through cross border e-commerce has also increased significantly with the rapid growth of e-commerce. The Government should organize the collection of tax revenue from e-commerce to improve e-commerce, which brings significant economic benefits by creating a supportive regulatory environment. Sri Lanka Customs has recently revised its Customs Clearance Procedure identifying certain lapses in the Customs Clearance Procedure followed regarding imports made through e-commerce platforms. The delays, increased transaction costs, eroded public trust, and reduced transparency and predictability of prices resulting from its implementation have led to dissatisfaction among users of e-commerce platforms. In particular, individual consumers and small-scale importers who rely heavily on e-commerce have been affected. The proposal made by the President in his capacity as the Minister of Finance, Planning and Economic Development to appoint a Committee comprising officials from relevant institutions to provide transitional operational relief for e-commerce and to introduce a long-term regulatory framework in this regard, in view of this situation, was approved by the Cabinet.",
+  "key": "2025-07-14-008-985c"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-07-017-2628.json)
+[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-14-008-985c.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.33 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.34 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-07-07 | 17 | Appointment to the p... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298) | - Mr. U.L. Udaya Kum... | 2025-07-07-017-2628 |
-| 2025-07-07 | 16 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297) | - Limited National C... | 2025-07-07-016-a682 |
-| 2025-07-07 | 15 | Justices of the Peac... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296) | - The Mediation Boar... | 2025-07-07-015-c3e6 |
+| 2025-07-14 | 8 | Taxation on Cross Bo... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306) | - It has been observ... | 2025-07-14-008-985c |
+| 2025-07-14 | 7 | Amending the Regulat... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305) | - The Shop and Offic... | 2025-07-14-007-cec9 |
+| 2025-07-14 | 6 | The Project of impro... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304) | The Asian Developmen... | 2025-07-14-006-68b7 |
 
-(These are the first 3 of **9,130** rows of the full TSV data)
+(These are the first 3 of **9,138** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Appointment to the post of Commissioner General of Excise
+### 1) Taxation on Cross Border E-Commerce
 
-*2025-07-07*, *#17*
+*2025-07-14*, *#8*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13298)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306)
 
-Mr. U.L. Udaya Kumara Perera, Special Grade Officer of the Sri Lanka Inland Revenue Service, presently serving as the Commissioner General of Excise, is due to retire from the Public Service upon completion of the age of 60 years on 2025-07-10. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. M.B.N.A. Pemarathna, retired Commodore of the Sri Lanka Navy, to the post of Commissioner General of Excise falling vacant accordingly, was approved by the Cabinet.
+It has been observed that the volume of imports into Sri Lanka through cross border e-commerce has also increased significantly with the rapid growth of e-commerce. The Government should organize the collection of tax revenue from e-commerce to improve e-commerce, which brings significant economic benefits by creating a supportive regulatory environment. Sri Lanka Customs has recently revised its Customs Clearance Procedure identifying certain lapses in the Customs Clearance Procedure followed regarding imports made through e-commerce platforms. The delays, increased transaction costs, eroded public trust, and reduced transparency and predictability of prices resulting from its implementation have led to dissatisfaction among users of e-commerce platforms. In particular, individual consumers and small-scale importers who rely heavily on e-commerce have been affected. The proposal made by the President in his capacity as the Minister of Finance, Planning and Economic Development to appoint a Committee comprising officials from relevant institutions to provide transitional operational relief for e-commerce and to introduce a long-term regulatory framework in this regard, in view of this situation, was approved by the Cabinet.
 
-### 2) Procurement for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection (Human) 30% soluble 70% Isophane
+### 2) Amending the Regulations of the Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954
 
-*2025-07-07*, *#16*
+*2025-07-14*, *#7*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13297)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305)
 
-Limited National Competitive Bids have been invited for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection which is used for the treatment of diabetic patients. Only M/s M.J. Biopharma Private Limited, India has submitted a bid for the same. Accordingly, the proposal made by the Minister of Health and Mass Media to award the relevant procurement to the said company, based on the recommendations of the Technical Evaluation Committee and the Standing High Level Procurement Committee, was approved by the Cabinet.
+The Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954, has prescribed provisions relating to service facilities, working hours, overtime allowances and leave for shop and office employees, and the Minister in charge of the subject of Labour has been vested the power to make relevant regulations in accordance with the said Act. Under the existing Regulations, a female employee who has completed the age of 18 years may be employed in a residential hotel in the duty of a female receptionist, ladies linen room attendant, ladies cloak-room attendant, or ladies lavatory attendant after 6.00 pm and before 6.00 am. However, since Food and Beverage Stewardesses serving in residential hotels and restaurants could be employed only until 10.00 pm, it has been reported that various problematic situations arise in carrying out their operations. Accordingly, the proposal made by the Minister of Labour to amend the Regulation No.3 issued under the Shop and Office Employees (Regulation of Employment and Remuneration) Act, No.19 of 1954, enabling to allow female employees above the age of 18 years engaged in the duties of Food and Beverage Stewardesses in residential hotels and restaurants to be employed after 6.00 pm and before 6.00 am, was approved by the Cabinet.
 
-### 3) Justices of the Peace Regulations No.1 of 2025
+### 3) The Project of improving the capacity of secondary healthcare hospitals
 
-*2025-07-07*, *#15*
+*2025-07-14*, *#6*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13296)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304)
 
-The Mediation Boards Commission has submitted a request to grant recognition as ex-officio Justice of the Peace to the mediators of the Mediation Boards Commission, in accordance with the provisions of the Judicature Act, No.2 of 1978. Accordingly, the proposal made by the Minister of Justice and National Integration to submit the Justices of the Peace Regulations No.1 of 2025, published by the Gazette Extraordinary Notification No.2440/27 dated 2025‑06‑23,  to appoint every mediator as an ex‑officio Justice of the Peace for the respective Mediation Board area during his tenure, to Parliament for approval,was approved by the Cabinet.
+The Asian Development Bank has agreed to provide US$ 100 million as result based budget support for the programme to enhance the quality and capacity of secondary care hospitals across the country. The proposed project aims to standardize the service capacity and quality of the secondary healthcare hospitals and strengthen the transparency and efficiency of pharmaceutical supply chain, health procurement and financing system. The proposal made by the Minister of Health and Mass Media to implement this project from 2025 to 2030, using the said funds provided through the Results-Based Lending modality, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,130)
+## All Cabinet Decisions (9,138)
 
+- [2025-07-14] [Taxation on Cross Border E-Commerce](data/cabinet_decisions/2025/2025-07/2025-07-14-008-985c.json)
+- [2025-07-14] [Amending the Regulations of the Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954](data/cabinet_decisions/2025/2025-07/2025-07-14-007-cec9.json)
+- [2025-07-14] [The Project of improving the capacity of secondary healthcare hospitals](data/cabinet_decisions/2025/2025-07/2025-07-14-006-68b7.json)
+- [2025-07-14] [Establishment of Treatment Plants for improvement of sewage 	management By Local Authorities](data/cabinet_decisions/2025/2025-07/2025-07-14-005-b7e1.json)
+- [2025-07-14] [Procurement for the supply of 400,000 vials of Desferrioxamine Mesylate for Injection BP, 500mg](data/cabinet_decisions/2025/2025-07/2025-07-14-004-35ff.json)
+- [2025-07-14] [Procurement of 05 power sets for the Department of Sri Lanka 	Railways](data/cabinet_decisions/2025/2025-07/2025-07-14-003-1fa9.json)
+- [2025-07-14] [Project for Online Application for Passports through Sri Lanka Missions/Posts Abroad](data/cabinet_decisions/2025/2025-07/2025-07-14-002-7439.json)
+- [2025-07-14] [The National Cyber Security Strategy of Sri Lanka  - 2025-2029](data/cabinet_decisions/2025/2025-07/2025-07-14-001-5214.json)
 - [2025-07-07] [Appointment to the post of Commissioner General of Excise](data/cabinet_decisions/2025/2025-07/2025-07-07-017-2628.json)
 - [2025-07-07] [Procurement for the supply of 2.2 million vials of Biphasic Isophane Insulin Injection (Human) 30% soluble 70% Isophane](data/cabinet_decisions/2025/2025-07/2025-07-07-016-a682.json)
 - [2025-07-07] [Justices of the Peace Regulations No.1 of 2025](data/cabinet_decisions/2025/2025-07/2025-07-07-015-c3e6.json)
