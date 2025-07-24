@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-07-24 06:04:59**     |
-| nDecisions   | **9,138**     |
-| Latest   | **2025-07-14** |
+| Last Updated   | **2025-07-24 17:54:57**     |
+| nDecisions   | **9,155**     |
+| Latest   | **2025-07-21** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,74 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-07-14",
-  "decision_num": 8,
-  "title": "Taxation on Cross Border E-Commerce",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306",
-  "decision_details": "- It has been observed that the volume of imports into Sri Lanka through cross border e-commerce has also increased significantly with the rapid growth of e-commerce. The Government should organize the collection of tax revenue from e-commerce to improve e-commerce, which brings significant economic benefits by creating a supportive regulatory environment. Sri Lanka Customs has recently revised its Customs Clearance Procedure identifying certain lapses in the Customs Clearance Procedure followed regarding imports made through e-commerce platforms. The delays, increased transaction costs, eroded public trust, and reduced transparency and predictability of prices resulting from its implementation have led to dissatisfaction among users of e-commerce platforms. In particular, individual consumers and small-scale importers who rely heavily on e-commerce have been affected. The proposal made by the President in his capacity as the Minister of Finance, Planning and Economic Development to appoint a Committee comprising officials from relevant institutions to provide transitional operational relief for e-commerce and to introduce a long-term regulatory framework in this regard, in view of this situation, was approved by the Cabinet.",
-  "key": "2025-07-14-008-985c"
+  "date_str": "2025-07-21",
+  "decision_num": 17,
+  "title": "Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323",
+  "decision_details": "- Approval has been granted at the Cabinet meetings held on 2025-02-19 and    2025‑07‑01, to implement a pilot project to facilitate the deployment of Sri Lankan workers under the E-8 visa category (seasonal workers) in the Republic of Korea and to hold discussions with the Korean counties who are interested for the same. Accordingly, as a result of the discussions held with the Boseong county of Korea, it has been agreed to recruit seasonal workers from Sri Lanka and enter into a Memorandum of Understanding for the same. The proposed Memorandum of Understanding will provide opportunity for Sri Lankans to work in agricultural villages in the Boseong County for a short period of time (up to a maximum of 8 months) under the Seasonal Worker Programme to earn an income and earn foreign exchange for the country. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to sign the proposed Memorandum of Understanding with the Boseong County, was approved by the Cabinet.",
+  "key": "2025-07-21-017-656a"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-14-008-985c.json)
+[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-21-017-656a.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.34 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.36 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-07-14 | 8 | Taxation on Cross Bo... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306) | - It has been observ... | 2025-07-14-008-985c |
-| 2025-07-14 | 7 | Amending the Regulat... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305) | - The Shop and Offic... | 2025-07-14-007-cec9 |
-| 2025-07-14 | 6 | The Project of impro... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304) | The Asian Developmen... | 2025-07-14-006-68b7 |
+| 2025-07-21 | 17 | Signing a Memorandum... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323) | - Approval has been ... | 2025-07-21-017-656a |
+| 2025-07-21 | 16 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322) | - Mr. E.A.P.N. Ediri... | 2025-07-21-016-46a5 |
+| 2025-07-21 | 15 | Parliamentary submis... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321) | - It has been observ... | 2025-07-21-015-ec03 |
 
-(These are the first 3 of **9,138** rows of the full TSV data)
+(These are the first 3 of **9,155** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Taxation on Cross Border E-Commerce
+### 1) Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea
 
-*2025-07-14*, *#8*
+*2025-07-21*, *#17*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13306)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323)
 
-It has been observed that the volume of imports into Sri Lanka through cross border e-commerce has also increased significantly with the rapid growth of e-commerce. The Government should organize the collection of tax revenue from e-commerce to improve e-commerce, which brings significant economic benefits by creating a supportive regulatory environment. Sri Lanka Customs has recently revised its Customs Clearance Procedure identifying certain lapses in the Customs Clearance Procedure followed regarding imports made through e-commerce platforms. The delays, increased transaction costs, eroded public trust, and reduced transparency and predictability of prices resulting from its implementation have led to dissatisfaction among users of e-commerce platforms. In particular, individual consumers and small-scale importers who rely heavily on e-commerce have been affected. The proposal made by the President in his capacity as the Minister of Finance, Planning and Economic Development to appoint a Committee comprising officials from relevant institutions to provide transitional operational relief for e-commerce and to introduce a long-term regulatory framework in this regard, in view of this situation, was approved by the Cabinet.
+Approval has been granted at the Cabinet meetings held on 2025-02-19 and    2025‑07‑01, to implement a pilot project to facilitate the deployment of Sri Lankan workers under the E-8 visa category (seasonal workers) in the Republic of Korea and to hold discussions with the Korean counties who are interested for the same. Accordingly, as a result of the discussions held with the Boseong county of Korea, it has been agreed to recruit seasonal workers from Sri Lanka and enter into a Memorandum of Understanding for the same. The proposed Memorandum of Understanding will provide opportunity for Sri Lankans to work in agricultural villages in the Boseong County for a short period of time (up to a maximum of 8 months) under the Seasonal Worker Programme to earn an income and earn foreign exchange for the country. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to sign the proposed Memorandum of Understanding with the Boseong County, was approved by the Cabinet.
 
-### 2) Amending the Regulations of the Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954
+### 2) Appointment to the Post of Conservator General of Forests
 
-*2025-07-14*, *#7*
+*2025-07-21*, *#16*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13305)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322)
 
-The Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954, has prescribed provisions relating to service facilities, working hours, overtime allowances and leave for shop and office employees, and the Minister in charge of the subject of Labour has been vested the power to make relevant regulations in accordance with the said Act. Under the existing Regulations, a female employee who has completed the age of 18 years may be employed in a residential hotel in the duty of a female receptionist, ladies linen room attendant, ladies cloak-room attendant, or ladies lavatory attendant after 6.00 pm and before 6.00 am. However, since Food and Beverage Stewardesses serving in residential hotels and restaurants could be employed only until 10.00 pm, it has been reported that various problematic situations arise in carrying out their operations. Accordingly, the proposal made by the Minister of Labour to amend the Regulation No.3 issued under the Shop and Office Employees (Regulation of Employment and Remuneration) Act, No.19 of 1954, enabling to allow female employees above the age of 18 years engaged in the duties of Food and Beverage Stewardesses in residential hotels and restaurants to be employed after 6.00 pm and before 6.00 am, was approved by the Cabinet.
+Mr. E.A.P.N. Edirisinghe, who served as the Conservator General of Forests, has retired from the Public Service from 2025-07-08, on completion of the age of 60 years. Accordingly, taking into consideration the proposal made by the Minister of Environment, the Cabinet decided to appoint Mr. W.W.M.P.S.C. Palamakumbura, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Conservator General of Forests (Forest Protection, Operations and Management) in the Department of Forest Conservation, to the vacant post of Conservator General of Forests, with immediate effect.
 
-### 3) The Project of improving the capacity of secondary healthcare hospitals
+### 3) Parliamentary submission of Regulations made under section 41, to be read with section 31 of the Sports Law, No.25 of 1973
 
-*2025-07-14*, *#6*
+*2025-07-21*, *#15*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13304)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321)
 
-The Asian Development Bank has agreed to provide US$ 100 million as result based budget support for the programme to enhance the quality and capacity of secondary care hospitals across the country. The proposed project aims to standardize the service capacity and quality of the secondary healthcare hospitals and strengthen the transparency and efficiency of pharmaceutical supply chain, health procurement and financing system. The proposal made by the Minister of Health and Mass Media to implement this project from 2025 to 2030, using the said funds provided through the Results-Based Lending modality, was approved by the Cabinet.
+It has been observed that various ambiguities have arisen due to the frequent amendment of the Sports Regulations issued in terms of the powers vested with the Minister in-charge of Sports by the provisions of the Sports Law, No. 25 of 1973 and that the independence and impartiality that should prevail in sports are undermined by the politicization of sports. Therefore, with the objective of preventing fraud and corruption in sports and carrying forward sports in an independent and impartial manner, the National Sports Associations Regulations No.01 of 2025 have been made and published in the Gazette Extraordinary Notification No.2437/24 dated 2025-05-21 regarding the administration, functions, powers, duties and general provisions of the National Sports Associations. The proposal made by the Minister of Youth Affairs and Sports to submit the said Regulations to Parliament for approval, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,138)
+## All Cabinet Decisions (9,155)
 
+- [2025-07-21] [Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea](data/cabinet_decisions/2025/2025-07/2025-07-21-017-656a.json)
+- [2025-07-21] [Appointment to the Post of Conservator General of Forests](data/cabinet_decisions/2025/2025-07/2025-07-21-016-46a5.json)
+- [2025-07-21] [Parliamentary submission of Regulations made under section 41, to be read with section 31 of the Sports Law, No.25 of 1973](data/cabinet_decisions/2025/2025-07/2025-07-21-015-ec03.json)
+- [2025-07-21] [Amendment of the Antiquities Ordinance No.9 of 1940](data/cabinet_decisions/2025/2025-07/2025-07-21-014-273a.json)
+- [2025-07-21] [Presenting the Presidents' Entitlements (Repeal) Bill in Parliament for approval](data/cabinet_decisions/2025/2025-07/2025-07-21-013-623c.json)
+- [2025-07-21] [Establishment of the Institute of Real Estate Professionals, Sri Lanka](data/cabinet_decisions/2025/2025-07/2025-07-21-012-6947.json)
+- [2025-07-21] [Civil Aviation (Imposition of Charges for Aerodrome Facilities) Regulations No.1 of 2025](data/cabinet_decisions/2025/2025-07/2025-07-21-011-4c89.json)
+- [2025-07-21] [Procurement of Coal for the Lakvijaya Power Plant, Norochcholai for the forthcoming season of 2025-2026](data/cabinet_decisions/2025/2025-07/2025-07-21-010-1261.json)
+- [2025-07-21] [Calling for Expressions of Interest to purchase medicines and other medicinal supplies from Local Manufacturers for the year 2026](data/cabinet_decisions/2025/2025-07/2025-07-21-009-48ba.json)
+- [2025-07-21] [Awarding the Contract for Ground Handling Services of SriLankan Airlines Limited at Dhaka Airport (DAC) in Bangladesh](data/cabinet_decisions/2025/2025-07/2025-07-21-008-95f0.json)
+- [2025-07-21] [Awarding the contracts for the Aviation Insurance Policies and Aviation Insurance Services of SriLankan Airlines Limited](data/cabinet_decisions/2025/2025-07/2025-07-21-007-4efd.json)
+- [2025-07-21] [Project to establish a Threat Hunting and Malware Analysis Lab](data/cabinet_decisions/2025/2025-07/2025-07-21-006-4bd9.json)
+- [2025-07-21] [Transferring the ownership of lands allocated for the establishment of the Nanotechnology Science Park and the establishment of the Faculty of Technology, University of Colombo](data/cabinet_decisions/2025/2025-07/2025-07-21-005-b9ac.json)
+- [2025-07-21] [Signing an Action Plan between the Sri Lanka Council for Agricultural Research Policy and the Malaysian Agricultural Research and Development Institute](data/cabinet_decisions/2025/2025-07/2025-07-21-004-3854.json)
+- [2025-07-21] [Entering into a Memorandum of Understanding on Diplomatic Training and Exchange of Information and Documentation with the Foreign Service Institute of the Republic of Maldives](data/cabinet_decisions/2025/2025-07/2025-07-21-003-908b.json)
+- [2025-07-21] [Entering into a Memorandum of Understanding for Higher Education Collaboration under the Stipendium Hungaricum Scholarship Programme](data/cabinet_decisions/2025/2025-07/2025-07-21-002-8dfd.json)
+- [2025-07-21] [Seeking Cooperation of AI Singapore for the Development of Artificial Intelligence](data/cabinet_decisions/2025/2025-07/2025-07-21-001-a7f5.json)
 - [2025-07-14] [Taxation on Cross Border E-Commerce](data/cabinet_decisions/2025/2025-07/2025-07-14-008-985c.json)
 - [2025-07-14] [Amending the Regulations of the Shop and Office Employees 	(Regulation of Employment and Remuneration) Act, No.19 of 1954](data/cabinet_decisions/2025/2025-07/2025-07-14-007-cec9.json)
 - [2025-07-14] [The Project of improving the capacity of secondary healthcare hospitals](data/cabinet_decisions/2025/2025-07/2025-07-14-006-68b7.json)
