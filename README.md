@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-08-11 06:05:18**     |
-| nDecisions   | **9,155**     |
-| Latest   | **2025-07-21** |
+| Last Updated   | **2025-08-11 17:55:45**     |
+| nDecisions   | **9,174**     |
+| Latest   | **2025-08-04** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,76 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-07-21",
-  "decision_num": 17,
-  "title": "Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323",
-  "decision_details": "- Approval has been granted at the Cabinet meetings held on 2025-02-19 and    2025‑07‑01, to implement a pilot project to facilitate the deployment of Sri Lankan workers under the E-8 visa category (seasonal workers) in the Republic of Korea and to hold discussions with the Korean counties who are interested for the same. Accordingly, as a result of the discussions held with the Boseong county of Korea, it has been agreed to recruit seasonal workers from Sri Lanka and enter into a Memorandum of Understanding for the same. The proposed Memorandum of Understanding will provide opportunity for Sri Lankans to work in agricultural villages in the Boseong County for a short period of time (up to a maximum of 8 months) under the Seasonal Worker Programme to earn an income and earn foreign exchange for the country. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to sign the proposed Memorandum of Understanding with the Boseong County, was approved by the Cabinet.",
-  "key": "2025-07-21-017-656a"
+  "date_str": "2025-08-04",
+  "decision_num": 19,
+  "title": "Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342",
+  "decision_details": "- International Competitive Bids have been invited for the supply of 10,000 vials of Tenecteplase Injection 40mg Vial used for people with heart diseases. Three (03) bids have been submitted for the same. The proposal made by the Minister of Health and Mass Media to award the relevant procurement for a sum of USD 3.7 million to the lowest evaluated substantially responsive bidder, M/s. Boehringer Ingelheim India Pvt. Ltd., India (Manufacturer: Boehringer Ingelheim Pharma GmbH & Co‑KG, Germany), based on the recommendation of the Standing High-Level Procurement Committee, was approved by the Cabinet.",
+  "key": "2025-08-04-019-4678"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-07/2025-07-21-017-656a.json)
+[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-04-019-4678.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.36 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.38 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-07-21 | 17 | Signing a Memorandum... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323) | - Approval has been ... | 2025-07-21-017-656a |
-| 2025-07-21 | 16 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322) | - Mr. E.A.P.N. Ediri... | 2025-07-21-016-46a5 |
-| 2025-07-21 | 15 | Parliamentary submis... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321) | - It has been observ... | 2025-07-21-015-ec03 |
+| 2025-08-04 | 19 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342) | - International Comp... | 2025-08-04-019-4678 |
+| 2025-08-04 | 18 | Establishment of a P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341) | - A primary attentio... | 2025-08-04-018-663b |
+| 2025-08-04 | 17 | Amendment to the Nat... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340) | - It has been about ... | 2025-08-04-017-4dc3 |
 
-(These are the first 3 of **9,155** rows of the full TSV data)
+(These are the first 3 of **9,174** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea
+### 1) Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials
 
-*2025-07-21*, *#17*
+*2025-08-04*, *#19*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13323)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342)
 
-Approval has been granted at the Cabinet meetings held on 2025-02-19 and    2025‑07‑01, to implement a pilot project to facilitate the deployment of Sri Lankan workers under the E-8 visa category (seasonal workers) in the Republic of Korea and to hold discussions with the Korean counties who are interested for the same. Accordingly, as a result of the discussions held with the Boseong county of Korea, it has been agreed to recruit seasonal workers from Sri Lanka and enter into a Memorandum of Understanding for the same. The proposed Memorandum of Understanding will provide opportunity for Sri Lankans to work in agricultural villages in the Boseong County for a short period of time (up to a maximum of 8 months) under the Seasonal Worker Programme to earn an income and earn foreign exchange for the country. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to sign the proposed Memorandum of Understanding with the Boseong County, was approved by the Cabinet.
+International Competitive Bids have been invited for the supply of 10,000 vials of Tenecteplase Injection 40mg Vial used for people with heart diseases. Three (03) bids have been submitted for the same. The proposal made by the Minister of Health and Mass Media to award the relevant procurement for a sum of USD 3.7 million to the lowest evaluated substantially responsive bidder, M/s. Boehringer Ingelheim India Pvt. Ltd., India (Manufacturer: Boehringer Ingelheim Pharma GmbH & Co‑KG, Germany), based on the recommendation of the Standing High-Level Procurement Committee, was approved by the Cabinet.
 
-### 2) Appointment to the Post of Conservator General of Forests
+### 2) Establishment of a Presidential Task Force for the implementation of the Sri Lanka Tourism Development Programme
 
-*2025-07-21*, *#16*
+*2025-08-04*, *#18*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13322)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341)
 
-Mr. E.A.P.N. Edirisinghe, who served as the Conservator General of Forests, has retired from the Public Service from 2025-07-08, on completion of the age of 60 years. Accordingly, taking into consideration the proposal made by the Minister of Environment, the Cabinet decided to appoint Mr. W.W.M.P.S.C. Palamakumbura, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Conservator General of Forests (Forest Protection, Operations and Management) in the Department of Forest Conservation, to the vacant post of Conservator General of Forests, with immediate effect.
+A primary attention of the Government has been focused on taking necessary measures for the development of the tourism industry in creating a prosperous country under "A Modernized Tourist Industry - An Attractive Destination", in accordance with the current Government policy statement. The need to establish a Presidential Task Force has been identified, enabling to carry out these tasks more effectively and efficiently. Accordingly, the proposal made by the Hon. President to establish a Presidential Task Force under the Chairmanship of the Minister of Foreign Affairs, Foreign Employment and Tourism, with the representations of the relevant ministries, institutions and various sectors of the tourism field in order to achieve the rapid development goals and attain a high level substantial growth in the tourism industry, was approved by the Cabinet.
 
-### 3) Parliamentary submission of Regulations made under section 41, to be read with section 31 of the Sports Law, No.25 of 1973
+### 3) Amendment to the National Child Protection Authority Act, No.50 of 1998
 
-*2025-07-21*, *#15*
+*2025-08-04*, *#17*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13321)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340)
 
-It has been observed that various ambiguities have arisen due to the frequent amendment of the Sports Regulations issued in terms of the powers vested with the Minister in-charge of Sports by the provisions of the Sports Law, No. 25 of 1973 and that the independence and impartiality that should prevail in sports are undermined by the politicization of sports. Therefore, with the objective of preventing fraud and corruption in sports and carrying forward sports in an independent and impartial manner, the National Sports Associations Regulations No.01 of 2025 have been made and published in the Gazette Extraordinary Notification No.2437/24 dated 2025-05-21 regarding the administration, functions, powers, duties and general provisions of the National Sports Associations. The proposal made by the Minister of Youth Affairs and Sports to submit the said Regulations to Parliament for approval, was approved by the Cabinet.
+It has been about 25 years since the National Child Protection Authority Act, No. 50 of 1998 was passed. Due to the social, economic, political and cultural transformations that have taken place during this period, child abuse and violence against children have become complex in nature. Therefore, the necessity of amending the existing laws in a manner that suits the current needs to prevent and respond to all forms of abuse against children has been identified. Accordingly, the proposal made by the Minister of Women and Child Affairs to instruct the Legal Draftsman to prepare a Bill to amend the National Child Protection Authority Act, No.50 of 1998, incorporating the amendments identified in order to perform the functions of the said Act in a more broad, meaningful and efficient manner, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,155)
+## All Cabinet Decisions (9,174)
 
+- [2025-08-04] [Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials](data/cabinet_decisions/2025/2025-08/2025-08-04-019-4678.json)
+- [2025-08-04] [Establishment of a Presidential Task Force for the implementation of the Sri Lanka Tourism Development Programme](data/cabinet_decisions/2025/2025-08/2025-08-04-018-663b.json)
+- [2025-08-04] [Amendment to the National Child Protection Authority Act, No.50 of 1998](data/cabinet_decisions/2025/2025-08/2025-08-04-017-4dc3.json)
+- [2025-08-04] [Implementation of the Projects on Development of Sports Infrastructure Facilities](data/cabinet_decisions/2025/2025-08/2025-08-04-016-a279.json)
+- [2025-08-04] [Procurement for the supply of 50 Polyaxial MRI compatible (Titanium/Cobolt-Chrome) Lumber pedicle screws and 20 instrument set for posterior thoracic Thoraco-lumber fusion (for scoliosis correction)](data/cabinet_decisions/2025/2025-08/2025-08-04-015-871d.json)
+- [2025-08-04] [Procurement for the supply of 450,000 prefilled Syringes/Vials of Enoxaparin Sodium Injection 6,000IU in 0.6ml](data/cabinet_decisions/2025/2025-08/2025-08-04-014-1592.json)
+- [2025-08-04] [Procurement for the supply of 900,000 prefilled Syringes/Vials of Enoxaparin Sodium Injection 4,000IU in 0.4ml](data/cabinet_decisions/2025/2025-08/2025-08-04-013-183e.json)
+- [2025-08-04] [Re-implementation of the housing projects of the Colombage Mawatha and Torrington Avenue under the Urban Regeneration Project](data/cabinet_decisions/2025/2025-08/2025-08-04-012-3662.json)
+- [2025-08-04] [Purchasing a Dredger for the Ceylon Fishery Harbours Corporation](data/cabinet_decisions/2025/2025-08/2025-08-04-011-8840.json)
+- [2025-08-04] [Development of the Pettah Central Bus Stand under the 'Clean Sri Lanka' Programme](data/cabinet_decisions/2025/2025-08/2025-08-04-010-f144.json)
+- [2025-08-04] [Signing of a Memorandum of Understanding between Sri Lanka Institute of Biotechnology (Pvt) Ltd. and the University of Illinois of the United States of America](data/cabinet_decisions/2025/2025-08/2025-08-04-009-db1d.json)
+- [2025-08-04] [Revising the coverage limit of Group Insurance policy for the Hon. Members of Parliament](data/cabinet_decisions/2025/2025-08/2025-08-04-008-3932.json)
+- [2025-08-04] [Establishment of an Inter-Ministerial Standing Committee under the Convention on the Elimination of All Forms of Discrimination against Women](data/cabinet_decisions/2025/2025-08/2025-08-04-007-2b6a.json)
+- [2025-08-04] [Formulating a National Policy and Action Plan on Reconciliation and Coexistence](data/cabinet_decisions/2025/2025-08/2025-08-04-006-5972.json)
+- [2025-08-04] [Appointment of a new Delimitation Committee to review the recommendations of the Delimitation Committee held in the years 2012 and 2021 and submit recommendations](data/cabinet_decisions/2025/2025-08/2025-08-04-005-5f1c.json)
+- [2025-08-04] [Calling for Investments Proposals for the land called Chalmer's Granary located at Olcott Mawatha, Colombo Fort owned by the Urban Development Authority](data/cabinet_decisions/2025/2025-08/2025-08-04-004-fae1.json)
+- [2025-08-04] [Creation of the Virtual City in Kandy under the Virtual City Creation Project](data/cabinet_decisions/2025/2025-08/2025-08-04-003-5583.json)
+- [2025-08-04] [Granting 'Approved Enterprise' status to import Companies to re-export selected Spices](data/cabinet_decisions/2025/2025-08/2025-08-04-002-583d.json)
+- [2025-08-04] [Statement on Financial Performance of the Government for the Second Quarter 2025](data/cabinet_decisions/2025/2025-08/2025-08-04-001-7aee.json)
 - [2025-07-21] [Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea](data/cabinet_decisions/2025/2025-07/2025-07-21-017-656a.json)
 - [2025-07-21] [Appointment to the Post of Conservator General of Forests](data/cabinet_decisions/2025/2025-07/2025-07-21-016-46a5.json)
 - [2025-07-21] [Parliamentary submission of Regulations made under section 41, to be read with section 31 of the Sports Law, No.25 of 1973](data/cabinet_decisions/2025/2025-07/2025-07-21-015-ec03.json)
