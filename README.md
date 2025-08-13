@@ -16,8 +16,8 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-08-13 06:03:40**     |
-| nDecisions   | **9,174**     |
+| Last Updated   | **2025-08-13 17:54:06**     |
+| nDecisions   | **9,176**     |
 | Latest   | **2025-08-04** |
 | Earliest | **2010-09-27** |
 
@@ -48,7 +48,7 @@ Sri Lanka.
 | 2025-08-04 | 18 | Establishment of a P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341) | - A primary attentio... | 2025-08-04-018-663b |
 | 2025-08-04 | 17 | Amendment to the Nat... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340) | - It has been about ... | 2025-08-04-017-4dc3 |
 
-(These are the first 3 of **9,174** rows of the full TSV data)
+(These are the first 3 of **9,176** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
@@ -76,7 +76,7 @@ A primary attention of the Government has been focused on taking necessary measu
 
 It has been about 25 years since the National Child Protection Authority Act, No. 50 of 1998 was passed. Due to the social, economic, political and cultural transformations that have taken place during this period, child abuse and violence against children have become complex in nature. Therefore, the necessity of amending the existing laws in a manner that suits the current needs to prevent and respond to all forms of abuse against children has been identified. Accordingly, the proposal made by the Minister of Women and Child Affairs to instruct the Legal Draftsman to prepare a Bill to amend the National Child Protection Authority Act, No.50 of 1998, incorporating the amendments identified in order to perform the functions of the said Act in a more broad, meaningful and efficient manner, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,174)
+## All Cabinet Decisions (9,176)
 
 - [2025-08-04] [Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials](data/cabinet_decisions/2025/2025-08/2025-08-04-019-4678.json)
 - [2025-08-04] [Establishment of a Presidential Task Force for the implementation of the Sri Lanka Tourism Development Programme](data/cabinet_decisions/2025/2025-08/2025-08-04-018-663b.json)
@@ -97,6 +97,7 @@ It has been about 25 years since the National Child Protection Authority Act, No
 - [2025-08-04] [Creation of the Virtual City in Kandy under the Virtual City Creation Project](data/cabinet_decisions/2025/2025-08/2025-08-04-003-5583.json)
 - [2025-08-04] [Granting 'Approved Enterprise' status to import Companies to re-export selected Spices](data/cabinet_decisions/2025/2025-08/2025-08-04-002-583d.json)
 - [2025-08-04] [Statement on Financial Performance of the Government for the Second Quarter 2025](data/cabinet_decisions/2025/2025-08/2025-08-04-001-7aee.json)
+- [2025-08-04] [Statement on Financial Performance of the Government for the Second Quarter 2025s](data/cabinet_decisions/2025/2025-08/2025-08-04-001-6498.json)
 - [2025-07-21] [Signing a Memorandum of Understanding under the Seasonal Worker Programme for Agriculture and Fisheries in the Republic of Korea](data/cabinet_decisions/2025/2025-07/2025-07-21-017-656a.json)
 - [2025-07-21] [Appointment to the Post of Conservator General of Forests](data/cabinet_decisions/2025/2025-07/2025-07-21-016-46a5.json)
 - [2025-07-21] [Parliamentary submission of Regulations made under section 41, to be read with section 31 of the Sports Law, No.25 of 1973](data/cabinet_decisions/2025/2025-07/2025-07-21-015-ec03.json)
@@ -7518,6 +7519,7 @@ Colombo National Highway Project](data/cabinet_decisions/2017/2017-04/2017-04-25
 - [2014-05-19] [Construction of a four storied building complex for the Department of Statistics and Computer Science of the Faculty of Science of the University of Peradeniya](data/cabinet_decisions/2014/2014-05/2014-05-19-007-fe25.json)
 - [2014-05-19] [The Project for the supply of Equipment of High Quality Radiotherapy with High Energy Radiation including the infrastructure for Cancer Patients in Sri Lanka](data/cabinet_decisions/2014/2014-05/2014-05-19-006-c0b6.json)
 - [2014-05-19] [Tender for Supply of 1,200,000 Doses of Absorbed Diptheria Tetanus, Pertussis, Hepatitis B and Haemophilus Influenza Type "B" Conjugate Liquid Vaccine BP, USP or EP, IP or WHO IP](data/cabinet_decisions/2014/2014-05/2014-05-19-005-29e4.json)
+- [2014-05-19] [Establishment of an Advisory Council on Law and Order  .s](data/cabinet_decisions/2014/2014-05/2014-05-19-004-8bad.json)
 - [2014-05-19] [Establishment of an Advisory Council on Law and Order  .](data/cabinet_decisions/2014/2014-05/2014-05-19-004-644d.json)
 - [2014-05-19] [Implementation of the Recommendations of the LLRC - Upgrading of Vavuniya Gamini Vidyalaya as a National School and providing infrastructure facilities to Vavuniya Bogaswewa Vidyalaya under the Priority Programme of the Government for the acceleration of resettlement of people who have been internally displaced in Vavuniya and Mannar Districts](data/cabinet_decisions/2014/2014-05/2014-05-19-003-795c.json)
 - [2014-05-19] [Obtaining Non Destructive Testing (NDT) Services from the National Centre for Non?destructive Testing of the Atomic Energy Authority](data/cabinet_decisions/2014/2014-05/2014-05-19-002-9151.json)
