@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-08-18 06:05:09**     |
-| nDecisions   | **9,176**     |
-| Latest   | **2025-08-04** |
+| Last Updated   | **2025-08-18 17:55:23**     |
+| nDecisions   | **9,190**     |
+| Latest   | **2025-08-11** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,87 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-08-04",
-  "decision_num": 19,
-  "title": "Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342",
-  "decision_details": "- International Competitive Bids have been invited for the supply of 10,000 vials of Tenecteplase Injection 40mg Vial used for people with heart diseases. Three (03) bids have been submitted for the same. The proposal made by the Minister of Health and Mass Media to award the relevant procurement for a sum of USD 3.7 million to the lowest evaluated substantially responsive bidder, M/s. Boehringer Ingelheim India Pvt. Ltd., India (Manufacturer: Boehringer Ingelheim Pharma GmbH & Co‑KG, Germany), based on the recommendation of the Standing High-Level Procurement Committee, was approved by the Cabinet.",
-  "key": "2025-08-04-019-4678"
+  "date_str": "2025-08-11",
+  "decision_num": 14,
+  "title": "Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356",
+  "decision_details": "- Approval has been granted at the Cabinet Meeting held on 2025‑07‑01 to designate the following entities as the 'Primary Businesses of Strategic Importance' under the provisions of the Colombo Port City Economic Commission Act No.11 of 2021: * IFC Colombo 1(Pvt) Ltd. * ICC Port City (Pvt) Ltd. * Ceylon Real Estate Holdings (Private) Limited. * Clothespin Management and Development (Private) Limited.Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the following Orders under section 53 of the  Colombo Port City Economic Commission Act No.11 of 2021 and published through the following Gazette Extraordinary Notifications, in Parliament for approval, was approved by the Cabinet: * The Order published through the Gazette Extraordinary Notification No.2445/04 dated 2025‑07‑14.  * The Order published  through the Gazette Extraordinary Notification No.2445/05 dated 2025‑07‑14. * The Order published through the Gazette Extraordinary Notification No.2445/02 dated 2025‑07‑14.  * The Order published through the Gazette Extraordinary Notification No.2445/03 dated 2025‑07‑14.",
+  "key": "2025-08-11-014-a639"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-04-019-4678.json)
+[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-11-014-a639.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.38 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.40 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-08-04 | 19 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342) | - International Comp... | 2025-08-04-019-4678 |
-| 2025-08-04 | 18 | Establishment of a P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341) | - A primary attentio... | 2025-08-04-018-663b |
-| 2025-08-04 | 17 | Amendment to the Nat... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340) | - It has been about ... | 2025-08-04-017-4dc3 |
+| 2025-08-11 | 14 | Submission of the Or... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356) | - Approval has been ... | 2025-08-11-014-a639 |
+| 2025-08-11 | 13 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355) | - The post of Commis... | 2025-08-11-013-1b9e |
+| 2025-08-11 | 12 | Drafting Microfinanc... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354) | - The Cabinet at its... | 2025-08-11-012-a0eb |
 
-(These are the first 3 of **9,176** rows of the full TSV data)
+(These are the first 3 of **9,190** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials
+### 1) Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval
 
-*2025-08-04*, *#19*
+*2025-08-11*, *#14*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13342)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356)
 
-International Competitive Bids have been invited for the supply of 10,000 vials of Tenecteplase Injection 40mg Vial used for people with heart diseases. Three (03) bids have been submitted for the same. The proposal made by the Minister of Health and Mass Media to award the relevant procurement for a sum of USD 3.7 million to the lowest evaluated substantially responsive bidder, M/s. Boehringer Ingelheim India Pvt. Ltd., India (Manufacturer: Boehringer Ingelheim Pharma GmbH & Co‑KG, Germany), based on the recommendation of the Standing High-Level Procurement Committee, was approved by the Cabinet.
+Approval has been granted at the Cabinet Meeting held on 2025‑07‑01 to designate the following entities as the 'Primary Businesses of Strategic Importance' under the provisions of the Colombo Port City Economic Commission Act No.11 of 2021: 
 
-### 2) Establishment of a Presidential Task Force for the implementation of the Sri Lanka Tourism Development Programme
+* IFC Colombo 1(Pvt) Ltd. 
 
-*2025-08-04*, *#18*
+* ICC Port City (Pvt) Ltd. 
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13341)
+* Ceylon Real Estate Holdings (Private) Limited. 
 
-A primary attention of the Government has been focused on taking necessary measures for the development of the tourism industry in creating a prosperous country under "A Modernized Tourist Industry - An Attractive Destination", in accordance with the current Government policy statement. The need to establish a Presidential Task Force has been identified, enabling to carry out these tasks more effectively and efficiently. Accordingly, the proposal made by the Hon. President to establish a Presidential Task Force under the Chairmanship of the Minister of Foreign Affairs, Foreign Employment and Tourism, with the representations of the relevant ministries, institutions and various sectors of the tourism field in order to achieve the rapid development goals and attain a high level substantial growth in the tourism industry, was approved by the Cabinet.
+* Clothespin Management and Development (Private) Limited.Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the following Orders under section 53 of the  Colombo Port City Economic Commission Act No.11 of 2021 and published through the following Gazette Extraordinary Notifications, in Parliament for approval, was approved by the Cabinet: 
 
-### 3) Amendment to the National Child Protection Authority Act, No.50 of 1998
+* The Order published through the Gazette Extraordinary Notification No.2445/04 dated 2025‑07‑14.  
 
-*2025-08-04*, *#17*
+* The Order published  through the Gazette Extraordinary Notification No.2445/05 dated 2025‑07‑14. 
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13340)
+* The Order published through the Gazette Extraordinary Notification No.2445/02 dated 2025‑07‑14.  
 
-It has been about 25 years since the National Child Protection Authority Act, No. 50 of 1998 was passed. Due to the social, economic, political and cultural transformations that have taken place during this period, child abuse and violence against children have become complex in nature. Therefore, the necessity of amending the existing laws in a manner that suits the current needs to prevent and respond to all forms of abuse against children has been identified. Accordingly, the proposal made by the Minister of Women and Child Affairs to instruct the Legal Draftsman to prepare a Bill to amend the National Child Protection Authority Act, No.50 of 1998, incorporating the amendments identified in order to perform the functions of the said Act in a more broad, meaningful and efficient manner, was approved by the Cabinet.
+* The Order published through the Gazette Extraordinary Notification No.2445/03 dated 2025‑07‑14.
 
-## All Cabinet Decisions (9,176)
+### 2) Appointment to the Post of Commissioner General of Buddhist Affairs
 
+*2025-08-11*, *#13*
+
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355)
+
+The post of Commissioner General of Buddhist Affairs is currently fallen vacant and Mr. Kasun Wellahewa, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Additional Commissioner General of the Department of Buddhist Affairs, is acting in the said post in addition to the duties of his substantive post. Mr. R.M. Gamini Senarathna, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Secretary to the Ministry of Agriculture, Agricultural Products Marketing, Animal Production and Health, Fisheries of the North Central Provincial Council, has been identified as suitable to be appointed as the Commissioner General of Buddhist Affairs. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to appoint Mr. R.M. Gamini Senarathna to the Post of the Commissioner General of Buddhist Affairs, was approved by the Cabinet.
+
+### 3) Drafting Microfinance and Credit Regulatory Authority Bill
+
+*2025-08-11*, *#12*
+
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354)
+
+The Cabinet at its meeting held on 2023‑10‑09 has granted approval to publish the Bill prepared by the Legal Draftsman to introduce the Microfinance and Credit Regulatory Authority Bill by repealing  the Microfinance Act No. 6 of 2016, in the Government Gazette and submit the same thereafter to Parliament for approval. Nevertheless, after challenging the Bill before the Supreme Court by several parties, the Supreme Court has given its determination. Further, this Bill has been forwarded to the Sectoral Oversight Committee on Mitigating the Impact of the Economic Crisis in Parliament. The said Committee has informed to appoint a Committee to study the views and alternative proposals submitted by various parties on the content therein and submit recommendations. The Policy/Steering Committee appointed accordingly has prepared its final Report incorporating the amendments as per the Supreme Court Determination and the proposals received from various parties. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to grant the policy approval of the present Cabinet with regard to introducing the Microfinance and Credit Regulatory Authority Act and to instruct the Legal Draftsman to prepare the relevant Bill based on the above Report, was approved by the Cabinet.
+
+## All Cabinet Decisions (9,190)
+
+- [2025-08-11] [Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval](data/cabinet_decisions/2025/2025-08/2025-08-11-014-a639.json)
+- [2025-08-11] [Appointment to the Post of Commissioner General of Buddhist Affairs](data/cabinet_decisions/2025/2025-08/2025-08-11-013-1b9e.json)
+- [2025-08-11] [Drafting Microfinance and Credit Regulatory Authority Bill](data/cabinet_decisions/2025/2025-08/2025-08-11-012-a0eb.json)
+- [2025-08-11] [Development of Floating Solar Power in Sri Lanka](data/cabinet_decisions/2025/2025-08/2025-08-11-011-44b2.json)
+- [2025-08-11] [Hosting the 78th Session of the WHO Regional Committee Meeting for South-East Asia](data/cabinet_decisions/2025/2025-08/2025-08-11-010-e2a8.json)
+- [2025-08-11] ['Healthy Food - Happy Life - සුවදායී දිවියකට සෞඛ්‍යවත්/සුරක්ෂිත ආහාර' -The National Media Drive](data/cabinet_decisions/2025/2025-08/2025-08-11-009-815a.json)
+- [2025-08-11] [Re-commencement of the projects related to the scope of  urban development that were temporarily suspended](data/cabinet_decisions/2025/2025-08/2025-08-11-008-43ed.json)
+- [2025-08-11] [Current status and strategic pathway in introducing the Hydrogen Economy in Sri Lanka](data/cabinet_decisions/2025/2025-08/2025-08-11-007-dbb5.json)
+- [2025-08-11] [Declaration of the Sabarimala Pilgrimage as a sacred pilgrimage recognized by the Government of Sr Lanka and provision of facilities](data/cabinet_decisions/2025/2025-08/2025-08-11-006-6447.json)
+- [2025-08-11] [50% Trade Fair Subsidy Scheme of Sri Lanka Tea Board for 'Ceylon Tea' Exporters](data/cabinet_decisions/2025/2025-08/2025-08-11-005-1d87.json)
+- [2025-08-11] [Creating a Digital Rubber Land Mapping/Registration System](data/cabinet_decisions/2025/2025-08/2025-08-11-004-f505.json)
+- [2025-08-11] [Providing underutilized lands/properties under the State institutions  to Suitable Investors for optimal utilization](data/cabinet_decisions/2025/2025-08/2025-08-11-003-8385.json)
+- [2025-08-11] [Establishment of Diplomatic Relations with Belize](data/cabinet_decisions/2025/2025-08/2025-08-11-002-53be.json)
+- [2025-08-11] [Implementation of the “District Development Programme - 2025”](data/cabinet_decisions/2025/2025-08/2025-08-11-001-d467.json)
 - [2025-08-04] [Procurement for the supply of 10,000 Vials of Tenecteplase Injection 40mg Vials](data/cabinet_decisions/2025/2025-08/2025-08-04-019-4678.json)
 - [2025-08-04] [Establishment of a Presidential Task Force for the implementation of the Sri Lanka Tourism Development Programme](data/cabinet_decisions/2025/2025-08/2025-08-04-018-663b.json)
 - [2025-08-04] [Amendment to the National Child Protection Authority Act, No.50 of 1998](data/cabinet_decisions/2025/2025-08/2025-08-04-017-4dc3.json)
