@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-08-20 17:56:21**     |
-| nDecisions   | **9,190**     |
-| Latest   | **2025-08-11** |
+| Last Updated   | **2025-08-21 06:03:10**     |
+| nDecisions   | **9,202**     |
+| Latest   | **2025-08-18** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,73 +27,69 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-08-11",
-  "decision_num": 14,
-  "title": "Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356",
-  "decision_details": "- Approval has been granted at the Cabinet Meeting held on 2025‑07‑01 to designate the following entities as the 'Primary Businesses of Strategic Importance' under the provisions of the Colombo Port City Economic Commission Act No.11 of 2021: * IFC Colombo 1(Pvt) Ltd. * ICC Port City (Pvt) Ltd. * Ceylon Real Estate Holdings (Private) Limited. * Clothespin Management and Development (Private) Limited.Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the following Orders under section 53 of the  Colombo Port City Economic Commission Act No.11 of 2021 and published through the following Gazette Extraordinary Notifications, in Parliament for approval, was approved by the Cabinet: * The Order published through the Gazette Extraordinary Notification No.2445/04 dated 2025‑07‑14.  * The Order published  through the Gazette Extraordinary Notification No.2445/05 dated 2025‑07‑14. * The Order published through the Gazette Extraordinary Notification No.2445/02 dated 2025‑07‑14.  * The Order published through the Gazette Extraordinary Notification No.2445/03 dated 2025‑07‑14.",
-  "key": "2025-08-11-014-a639"
+  "date_str": "2025-08-18",
+  "decision_num": 12,
+  "title": "Appointment to the Post of Director General of Export Agriculture",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368",
+  "decision_details": "- Ms. A.P.P. Disna, Special Grade Officer of the Sri Lanka Scientific Service, who held the Post of Director General of the Department of Export Agriculture, has retired from the Public Service by now. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Mrs. M.K.S.R.D. Samarasinghe, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Director General (Research) of the said Department, to the Post of Director General of the Department of Export Agriculture with immediate effect, was approved by the Cabinet.",
+  "key": "2025-08-18-012-d849"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-11-014-a639.json)
+[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-18-012-d849.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.40 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.41 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-08-11 | 14 | Submission of the Or... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356) | - Approval has been ... | 2025-08-11-014-a639 |
-| 2025-08-11 | 13 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355) | - The post of Commis... | 2025-08-11-013-1b9e |
-| 2025-08-11 | 12 | Drafting Microfinanc... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354) | - The Cabinet at its... | 2025-08-11-012-a0eb |
+| 2025-08-18 | 12 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368) | - Ms. A.P.P. Disna, ... | 2025-08-18-012-d849 |
+| 2025-08-18 | 11 | Amending the Nationa... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367) | - It has been found ... | 2025-08-18-011-615f |
+| 2025-08-18 | 10 | Amendment to the Ban... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366) | - Approval has been ... | 2025-08-18-010-c57f |
 
-(These are the first 3 of **9,190** rows of the full TSV data)
+(These are the first 3 of **9,202** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval
+### 1) Appointment to the Post of Director General of Export Agriculture
 
-*2025-08-11*, *#14*
+*2025-08-18*, *#12*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13356)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368)
 
-Approval has been granted at the Cabinet Meeting held on 2025‑07‑01 to designate the following entities as the 'Primary Businesses of Strategic Importance' under the provisions of the Colombo Port City Economic Commission Act No.11 of 2021: 
+Ms. A.P.P. Disna, Special Grade Officer of the Sri Lanka Scientific Service, who held the Post of Director General of the Department of Export Agriculture, has retired from the Public Service by now. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Mrs. M.K.S.R.D. Samarasinghe, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Director General (Research) of the said Department, to the Post of Director General of the Department of Export Agriculture with immediate effect, was approved by the Cabinet.
 
-* IFC Colombo 1(Pvt) Ltd. 
+### 2) Amending the National Museums Ordinance No. 31 of 1942
 
-* ICC Port City (Pvt) Ltd. 
+*2025-08-18*, *#11*
 
-* Ceylon Real Estate Holdings (Private) Limited. 
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367)
 
-* Clothespin Management and Development (Private) Limited.Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the following Orders under section 53 of the  Colombo Port City Economic Commission Act No.11 of 2021 and published through the following Gazette Extraordinary Notifications, in Parliament for approval, was approved by the Cabinet: 
+It has been found necessary to amend the National Museums Ordinance No. 31 of 1942 which is in force at present with the objectives of preservation of artefacts,  determining penalties for offences involving artefacts, introduction of criteria for categorization of objects in the process of collecting artefacts, establishment of new museums, regulation of existing museums, expansion of the scope of museums and strengthening the administration structure. Accordingly, approval of the Cabinet has previously been granted to appoint a Committee comprising of experts in the relevant field to identify necessary amendments to amend the said Ordinance and obtain technical information required thereto. As such, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to amend the said National Museums Ordinance, based on the recommendations in the Report submitted by the said Committee, was approved by the Cabinet.
 
-* The Order published through the Gazette Extraordinary Notification No.2445/04 dated 2025‑07‑14.  
+### 3) Amendment to the Bank of Ceylon Ordinance, No. 53 of 1938 (Chapter 397)
 
-* The Order published  through the Gazette Extraordinary Notification No.2445/05 dated 2025‑07‑14. 
+*2025-08-18*, *#10*
 
-* The Order published through the Gazette Extraordinary Notification No.2445/02 dated 2025‑07‑14.  
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366)
 
-* The Order published through the Gazette Extraordinary Notification No.2445/03 dated 2025‑07‑14.
+Approval has been granted at the Cabinet meeting held on 2024 07 15 to amend the Bank of Ceylon Ordinance No. 53 of 1938 (Chapter 397) to enable the Bank of Ceylon to expand its capital structure, expand its authorized functions, strengthen the overall governance structure of the Bank, etc. Accordingly, the Legal Draftsman has been instructed to prepare a Bill for the relevant purpose. The proposal made by the Hon. President, in his capacity as the Minister of Finance, Planning and Economic Development, to grant policy approval of the present Cabinet regarding the preparation of the said amending Bill, was approved by the Cabinet.
 
-### 2) Appointment to the Post of Commissioner General of Buddhist Affairs
+## All Cabinet Decisions (9,202)
 
-*2025-08-11*, *#13*
-
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13355)
-
-The post of Commissioner General of Buddhist Affairs is currently fallen vacant and Mr. Kasun Wellahewa, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Additional Commissioner General of the Department of Buddhist Affairs, is acting in the said post in addition to the duties of his substantive post. Mr. R.M. Gamini Senarathna, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Secretary to the Ministry of Agriculture, Agricultural Products Marketing, Animal Production and Health, Fisheries of the North Central Provincial Council, has been identified as suitable to be appointed as the Commissioner General of Buddhist Affairs. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to appoint Mr. R.M. Gamini Senarathna to the Post of the Commissioner General of Buddhist Affairs, was approved by the Cabinet.
-
-### 3) Drafting Microfinance and Credit Regulatory Authority Bill
-
-*2025-08-11*, *#12*
-
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13354)
-
-The Cabinet at its meeting held on 2023‑10‑09 has granted approval to publish the Bill prepared by the Legal Draftsman to introduce the Microfinance and Credit Regulatory Authority Bill by repealing  the Microfinance Act No. 6 of 2016, in the Government Gazette and submit the same thereafter to Parliament for approval. Nevertheless, after challenging the Bill before the Supreme Court by several parties, the Supreme Court has given its determination. Further, this Bill has been forwarded to the Sectoral Oversight Committee on Mitigating the Impact of the Economic Crisis in Parliament. The said Committee has informed to appoint a Committee to study the views and alternative proposals submitted by various parties on the content therein and submit recommendations. The Policy/Steering Committee appointed accordingly has prepared its final Report incorporating the amendments as per the Supreme Court Determination and the proposals received from various parties. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to grant the policy approval of the present Cabinet with regard to introducing the Microfinance and Credit Regulatory Authority Act and to instruct the Legal Draftsman to prepare the relevant Bill based on the above Report, was approved by the Cabinet.
-
-## All Cabinet Decisions (9,190)
-
+- [2025-08-18] [Appointment to the Post of Director General of Export Agriculture](data/cabinet_decisions/2025/2025-08/2025-08-18-012-d849.json)
+- [2025-08-18] [Amending the National Museums Ordinance No. 31 of 1942](data/cabinet_decisions/2025/2025-08/2025-08-18-011-615f.json)
+- [2025-08-18] [Amendment to the Bank of Ceylon Ordinance, No. 53 of 1938 (Chapter 397)](data/cabinet_decisions/2025/2025-08/2025-08-18-010-c57f.json)
+- [2025-08-18] [Urgent rehabilitation and repair of Cold Storages of the Ceylon Fisheries Corporation to ensure the food security and price stability of fish and sea food products](data/cabinet_decisions/2025/2025-08/2025-08-18-009-806f.json)
+- [2025-08-18] [Re-opening of the Kurunchative (Elephant Pass-North) Saltern](data/cabinet_decisions/2025/2025-08/2025-08-18-008-7739.json)
+- [2025-08-18] [Awarding contracts for the reconstruction of the Vadduvakal Bridge on the Paranthan-Karachchi-Mullaitivu Road (A035)](data/cabinet_decisions/2025/2025-08/2025-08-18-007-bbab.json)
+- [2025-08-18] [Awarding contracts for 03 packages of Phase 1 of the Section 3 of                    the Central Expressway Project (Pothuhera to Galagedara)](data/cabinet_decisions/2025/2025-08/2025-08-18-006-8fdc.json)
+- [2025-08-18] [Programme to provide financial assistance to secure housing facilities          for the youths reintegrated subsequent to institutional care](data/cabinet_decisions/2025/2025-08/2025-08-18-005-a187.json)
+- [2025-08-18] [Project for the development of the selected locations within the premises of the Pelwatte and Sevanagala Sugar Factories with the aim of creating tourist attraction](data/cabinet_decisions/2025/2025-08/2025-08-18-004-2f29.json)
+- [2025-08-18] [Introducing a Concessional Loan Scheme to encourage Young Entrepreneurs in the Agriculture and Industrial Sector](data/cabinet_decisions/2025/2025-08/2025-08-18-003-1ab5.json)
+- [2025-08-18] [Providing fertilizer subsidy to farmers through Digital Implementation Methodology](data/cabinet_decisions/2025/2025-08/2025-08-18-002-7f70.json)
+- [2025-08-18] [Connecting Government Institutions that maintain Critical National Information Infrastructure to the National Cyber Security Operations Centre](data/cabinet_decisions/2025/2025-08/2025-08-18-001-93c1.json)
 - [2025-08-11] [Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament for approval](data/cabinet_decisions/2025/2025-08/2025-08-11-014-a639.json)
 - [2025-08-11] [Appointment to the Post of Commissioner General of Buddhist Affairs](data/cabinet_decisions/2025/2025-08/2025-08-11-013-1b9e.json)
 - [2025-08-11] [Drafting Microfinance and Credit Regulatory Authority Bill](data/cabinet_decisions/2025/2025-08/2025-08-11-012-a0eb.json)
