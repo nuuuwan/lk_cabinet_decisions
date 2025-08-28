@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-08-28 06:03:28**     |
-| nDecisions   | **9,202**     |
-| Latest   | **2025-08-18** |
+| Last Updated   | **2025-08-28 17:55:21**     |
+| nDecisions   | **9,213**     |
+| Latest   | **2025-08-25** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,68 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-08-18",
-  "decision_num": 12,
-  "title": "Appointment to the Post of Director General of Export Agriculture",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368",
-  "decision_details": "- Ms. A.P.P. Disna, Special Grade Officer of the Sri Lanka Scientific Service, who held the Post of Director General of the Department of Export Agriculture, has retired from the Public Service by now. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Mrs. M.K.S.R.D. Samarasinghe, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Director General (Research) of the said Department, to the Post of Director General of the Department of Export Agriculture with immediate effect, was approved by the Cabinet.",
-  "key": "2025-08-18-012-d849"
+  "date_str": "2025-08-25",
+  "decision_num": 11,
+  "title": "Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379",
+  "decision_details": "The proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr.H.M.S.P Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the District Secretary/Government Agent of the Administrative District of Puttalam, to the Post of District Secretary/Government Agent of the Administrative District of Kalutara and to appoint Mr. Y.I.M Silva, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as an Additional Secretary of the Ministry of Industry and Entrepreneurship Development, to the post of District Secretary/Government Agent of the Administrative District of Puttalam which falls so vacant, was approved by the Cabinet.",
+  "key": "2025-08-25-011-7e57"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-18-012-d849.json)
+[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-25-011-7e57.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.41 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.42 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-08-18 | 12 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368) | - Ms. A.P.P. Disna, ... | 2025-08-18-012-d849 |
-| 2025-08-18 | 11 | Amending the Nationa... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367) | - It has been found ... | 2025-08-18-011-615f |
-| 2025-08-18 | 10 | Amendment to the Ban... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366) | - Approval has been ... | 2025-08-18-010-c57f |
+| 2025-08-25 | 11 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379) | The proposal made by... | 2025-08-25-011-7e57 |
+| 2025-08-25 | 10 | Pricing Mechanism of... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378) | The Medicines (Prici... | 2025-08-25-010-688a |
+| 2025-08-25 | 9 | Procurement of Stand... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377) | The auxiliary power ... | 2025-08-25-009-d87e |
 
-(These are the first 3 of **9,202** rows of the full TSV data)
+(These are the first 3 of **9,213** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Appointment to the Post of Director General of Export Agriculture
+### 1) Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam
 
-*2025-08-18*, *#12*
+*2025-08-25*, *#11*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13368)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379)
 
-Ms. A.P.P. Disna, Special Grade Officer of the Sri Lanka Scientific Service, who held the Post of Director General of the Department of Export Agriculture, has retired from the Public Service by now. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Mrs. M.K.S.R.D. Samarasinghe, Special Grade Officer of the Sri Lanka Scientific Service, presently serving as the Additional Director General (Research) of the said Department, to the Post of Director General of the Department of Export Agriculture with immediate effect, was approved by the Cabinet.
+The proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr.H.M.S.P Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the District Secretary/Government Agent of the Administrative District of Puttalam, to the Post of District Secretary/Government Agent of the Administrative District of Kalutara and to appoint Mr. Y.I.M Silva, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as an Additional Secretary of the Ministry of Industry and Entrepreneurship Development, to the post of District Secretary/Government Agent of the Administrative District of Puttalam which falls so vacant, was approved by the Cabinet.
 
-### 2) Amending the National Museums Ordinance No. 31 of 1942
+### 2) Pricing Mechanism of Medicines in accordance with the National Medicines Regulatory Authority Act No. 5 of 2015
 
-*2025-08-18*, *#11*
+*2025-08-25*, *#10*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13367)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378)
 
-It has been found necessary to amend the National Museums Ordinance No. 31 of 1942 which is in force at present with the objectives of preservation of artefacts,  determining penalties for offences involving artefacts, introduction of criteria for categorization of objects in the process of collecting artefacts, establishment of new museums, regulation of existing museums, expansion of the scope of museums and strengthening the administration structure. Accordingly, approval of the Cabinet has previously been granted to appoint a Committee comprising of experts in the relevant field to identify necessary amendments to amend the said Ordinance and obtain technical information required thereto. As such, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to amend the said National Museums Ordinance, based on the recommendations in the Report submitted by the said Committee, was approved by the Cabinet.
+The Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025, have been issued introducing pricing mechanism for the Maximum Retail Price for an individual product and the pricing mechanism for the Maximum Ceiling Price for a dosage form and strength of a particular medicine or a particular group of medicines and the said Regulations have been published through the Gazette Extraordinary Notification No. 2446/34 dated 2025 07 21. Accordingly, the proposal made by the Minister of Health and Mass Media to submit the relevant Regulations to Parliament for approval, was approved by the Cabinet.
 
-### 3) Amendment to the Bank of Ceylon Ordinance, No. 53 of 1938 (Chapter 397)
+### 3) Procurement of Standby Power Supply Systems for the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant
 
-*2025-08-18*, *#10*
+*2025-08-25*, *#9*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13366)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377)
 
-Approval has been granted at the Cabinet meeting held on 2024 07 15 to amend the Bank of Ceylon Ordinance No. 53 of 1938 (Chapter 397) to enable the Bank of Ceylon to expand its capital structure, expand its authorized functions, strengthen the overall governance structure of the Bank, etc. Accordingly, the Legal Draftsman has been instructed to prepare a Bill for the relevant purpose. The proposal made by the Hon. President, in his capacity as the Minister of Finance, Planning and Economic Development, to grant policy approval of the present Cabinet regarding the preparation of the said amending Bill, was approved by the Cabinet.
+The auxiliary power supply of the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant become inoperative during an island-wide power outage as there is no auxiliary power supply available at the Plant for safe plant shut down. The operations of the Plant have to be shut down for 4 or 5 days to allow for cooling, thereby resulting a significant financial loss. The Committee appointed to find a technically sound solution to avoid this situation, has suggested that it is appropriate to introduce a seamless standby auxiliary power supply for critical systems that can be implemented within a short period of time. Accordingly, the proposal made by the Minister of Energy to implement a project to operate an auxiliary power supply for the Condenser Cooling System and the Boiler Feed Water System using the funds of the Ceylon Electricity Board, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,202)
+## All Cabinet Decisions (9,213)
 
+- [2025-08-25] [Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam](data/cabinet_decisions/2025/2025-08/2025-08-25-011-7e57.json)
+- [2025-08-25] [Pricing Mechanism of Medicines in accordance with the National Medicines Regulatory Authority Act No. 5 of 2015](data/cabinet_decisions/2025/2025-08/2025-08-25-010-688a.json)
+- [2025-08-25] [Procurement of Standby Power Supply Systems for the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant](data/cabinet_decisions/2025/2025-08/2025-08-25-009-d87e.json)
+- [2025-08-25] [Procurement of 1,500,000 Bbls of Gasoline 92 Unl during the period from 2025 09 15 to 2026 03 14](data/cabinet_decisions/2025/2025-08/2025-08-25-008-de84.json)
+- [2025-08-25] [Protection of the Temple on Pillars (Tampita Vihare) of Bingiriya Devagiri Rajamaha Vihare](data/cabinet_decisions/2025/2025-08/2025-08-25-007-42da.json)
+- [2025-08-25] [Procurement for the supply of 20,000 of Nanocrystal Silver Dressing (20cm x 40cm in size)](data/cabinet_decisions/2025/2025-08/2025-08-25-006-aabb.json)
+- [2025-08-25] [Rehabilitation of the stretch between Kottawa and Dodangoda of the Southern Expressway from 19thkm to 34thkm](data/cabinet_decisions/2025/2025-08/2025-08-25-005-05fe.json)
+- [2025-08-25] [Implementation of Mental Health Awareness and Counseling Programme](data/cabinet_decisions/2025/2025-08/2025-08-25-004-4654.json)
+- [2025-08-25] [Bay of Bengal Regional Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing](data/cabinet_decisions/2025/2025-08/2025-08-25-003-0b8d.json)
+- [2025-08-25] [Memorandum of Understanding between the Ministry of Agriculture, Livestock, Lands and Irrigation and the Chinese Academy of Tropical Agricultural Sciences on Agricultural Cooperation](data/cabinet_decisions/2025/2025-08/2025-08-25-002-951f.json)
+- [2025-08-25] [Implementation of the Project ''Fostering Sustainable Economic Recovery through Improved Biodiversity and Sustainable Waste Management''](data/cabinet_decisions/2025/2025-08/2025-08-25-001-5cbb.json)
 - [2025-08-18] [Appointment to the Post of Director General of Export Agriculture](data/cabinet_decisions/2025/2025-08/2025-08-18-012-d849.json)
 - [2025-08-18] [Amending the National Museums Ordinance No. 31 of 1942](data/cabinet_decisions/2025/2025-08/2025-08-18-011-615f.json)
 - [2025-08-18] [Amendment to the Bank of Ceylon Ordinance, No. 53 of 1938 (Chapter 397)](data/cabinet_decisions/2025/2025-08/2025-08-18-010-c57f.json)
