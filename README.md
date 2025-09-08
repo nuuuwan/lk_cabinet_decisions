@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-09-08 06:06:19**     |
-| nDecisions   | **9,213**     |
-| Latest   | **2025-08-25** |
+| Last Updated   | **2025-09-08 17:57:47**     |
+| nDecisions   | **9,232**     |
+| Latest   | **2025-09-03** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,76 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-08-25",
-  "decision_num": 11,
-  "title": "Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379",
-  "decision_details": "The proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr.H.M.S.P Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the District Secretary/Government Agent of the Administrative District of Puttalam, to the Post of District Secretary/Government Agent of the Administrative District of Kalutara and to appoint Mr. Y.I.M Silva, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as an Additional Secretary of the Ministry of Industry and Entrepreneurship Development, to the post of District Secretary/Government Agent of the Administrative District of Puttalam which falls so vacant, was approved by the Cabinet.",
-  "key": "2025-08-25-011-7e57"
+  "date_str": "2025-09-03",
+  "decision_num": 19,
+  "title": "Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398",
+  "decision_details": "- International competitive bids have been invited for the purchase of 120,000 vials of Human Immunoglobulin BP, 5-6g, for intravenous use, which is used to treat patients with immunodeficiency. Three (03) bids have been received for the same. Based on the recommendation of the Standing High-Level Procurement Committee regarding the said bids, the proposal made by the Minister of Health and Mass Media to award the said procurement to Reliance Life Sciences (Pvt) Ltd., India, the substantially responsive lowest evaluated bidder for a sum of US$ 10.506 million, was approved by the Cabinet.",
+  "key": "2025-09-03-019-e370"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-08/2025-08-25-011-7e57.json)
+[JSON Source](data/cabinet_decisions/2025/2025-09/2025-09-03-019-e370.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.42 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.45 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-08-25 | 11 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379) | The proposal made by... | 2025-08-25-011-7e57 |
-| 2025-08-25 | 10 | Pricing Mechanism of... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378) | The Medicines (Prici... | 2025-08-25-010-688a |
-| 2025-08-25 | 9 | Procurement of Stand... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377) | The auxiliary power ... | 2025-08-25-009-d87e |
+| 2025-09-03 | 19 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398) | - International comp... | 2025-09-03-019-e370 |
+| 2025-09-03 | 18 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397) | - International Comp... | 2025-09-03-018-24b1 |
+| 2025-09-03 | 17 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396) | - International comp... | 2025-09-03-017-c639 |
 
-(These are the first 3 of **9,213** rows of the full TSV data)
+(These are the first 3 of **9,232** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam
+### 1) Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial
 
-*2025-08-25*, *#11*
+*2025-09-03*, *#19*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13379)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398)
 
-The proposal made by the Minister of Public Administration, Provincial Councils and Local Government to appoint Mr.H.M.S.P Herath, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the District Secretary/Government Agent of the Administrative District of Puttalam, to the Post of District Secretary/Government Agent of the Administrative District of Kalutara and to appoint Mr. Y.I.M Silva, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as an Additional Secretary of the Ministry of Industry and Entrepreneurship Development, to the post of District Secretary/Government Agent of the Administrative District of Puttalam which falls so vacant, was approved by the Cabinet.
+International competitive bids have been invited for the purchase of 120,000 vials of Human Immunoglobulin BP, 5-6g, for intravenous use, which is used to treat patients with immunodeficiency. Three (03) bids have been received for the same. Based on the recommendation of the Standing High-Level Procurement Committee regarding the said bids, the proposal made by the Minister of Health and Mass Media to award the said procurement to Reliance Life Sciences (Pvt) Ltd., India, the substantially responsive lowest evaluated bidder for a sum of US$ 10.506 million, was approved by the Cabinet.
 
-### 2) Pricing Mechanism of Medicines in accordance with the National Medicines Regulatory Authority Act No. 5 of 2015
+### 2) Procurement for the supply of 680,000 Nos. of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone, Low flux to medium flux 1.6m2 ‑ 1.8m2
 
-*2025-08-25*, *#10*
+*2025-09-03*, *#18*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13378)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397)
 
-The Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025, have been issued introducing pricing mechanism for the Maximum Retail Price for an individual product and the pricing mechanism for the Maximum Ceiling Price for a dosage form and strength of a particular medicine or a particular group of medicines and the said Regulations have been published through the Gazette Extraordinary Notification No. 2446/34 dated 2025 07 21. Accordingly, the proposal made by the Minister of Health and Mass Media to submit the relevant Regulations to Parliament for approval, was approved by the Cabinet.
+International Competitive Bids have been invited for the procurement of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone which are used for haemodialysis procedure. Two (02) bids have been received for the same. Accordingly, based on the recommendation of the Standing High‑Level Procurement Committee, the proposal made by the Minister of Health and Mass Media to award the said procurement to Bain Medical Equipment (Guangzhou) Co. Ltd., China, the substantially responsive lowest evaluated bidder, for a total cost of US$ 2.087 million, was approved by the Cabinet.
 
-### 3) Procurement of Standby Power Supply Systems for the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant
+### 3) Procurement for the Supply of 30,000 vials of Tenecteplase Injection 40mg Vial
 
-*2025-08-25*, *#9*
+*2025-09-03*, *#17*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13377)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396)
 
-The auxiliary power supply of the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant become inoperative during an island-wide power outage as there is no auxiliary power supply available at the Plant for safe plant shut down. The operations of the Plant have to be shut down for 4 or 5 days to allow for cooling, thereby resulting a significant financial loss. The Committee appointed to find a technically sound solution to avoid this situation, has suggested that it is appropriate to introduce a seamless standby auxiliary power supply for critical systems that can be implemented within a short period of time. Accordingly, the proposal made by the Minister of Energy to implement a project to operate an auxiliary power supply for the Condenser Cooling System and the Boiler Feed Water System using the funds of the Ceylon Electricity Board, was approved by the Cabinet.
+International competitive bids have been invited for the purchase of 30,000 vials of Tenecteplase, a vaccine used to prevent deaths in people affected with heart attacks. Three bids (03) have been received for the same. Accordingly, based on the recommendation of the Standing High-Level Procurement Committee, the proposal made by the Minister of Health and Mass Media to award the said procurement to ABC Pharma Services (Pvt) Ltd., Sri Lanka (Manufacturer: Reliance Life Sciences (Pvt) Ltd., India), the substantially responsive lowest evaluated bidder, for a total cost of Rs.2,385 million, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,213)
+## All Cabinet Decisions (9,232)
 
+- [2025-09-03] [Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial](data/cabinet_decisions/2025/2025-09/2025-09-03-019-e370.json)
+- [2025-09-03] [Procurement for the supply of 680,000 Nos. of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone, Low flux to medium flux 1.6m2 ‑ 1.8m2](data/cabinet_decisions/2025/2025-09/2025-09-03-018-24b1.json)
+- [2025-09-03] [Procurement for the Supply of 30,000 vials of Tenecteplase Injection 40mg Vial](data/cabinet_decisions/2025/2025-09/2025-09-03-017-c639.json)
+- [2025-09-03] [Procurement for the supply of Instrument Sets used for bone fixation, fracture stabilization and alignment assurance](data/cabinet_decisions/2025/2025-09/2025-09-03-016-8f05.json)
+- [2025-09-03] [Amendment of the date of imposition of Value Added Tax (VAT) on the supply of services through electronic platforms by non-resident suppliers](data/cabinet_decisions/2025/2025-09/2025-09-03-015-f143.json)
+- [2025-09-03] [Appointment to the post of Director General of the Department of Census and Statistics](data/cabinet_decisions/2025/2025-09/2025-09-03-014-ca45.json)
+- [2025-09-03] [Amendment of the fines relating to offences under the Employment of Women, Young Persons and Children Act, No.47 of 1956](data/cabinet_decisions/2025/2025-09/2025-09-03-013-f498.json)
+- [2025-09-03] [Amendment of Sri Lanka Institute of Marketing (Incorporation) Act, No.41 of 1980](data/cabinet_decisions/2025/2025-09/2025-09-03-012-e7c3.json)
+- [2025-09-03] [Rehabilitation and Modernization of the Sri Lanka Planetarium](data/cabinet_decisions/2025/2025-09/2025-09-03-011-ae0d.json)
+- [2025-09-03] [Expeditiously completing the Project for renovation and conservation of the National Art Gallery](data/cabinet_decisions/2025/2025-09/2025-09-03-010-7183.json)
+- [2025-09-03] [Conducting inquiries into complaints made with regard to missing persons](data/cabinet_decisions/2025/2025-09/2025-09-03-009-013a.json)
+- [2025-09-03] [Removal of the concessions granted in purchasing houses from the 'Viyathpura' Housing Project by the Members of Parliament](data/cabinet_decisions/2025/2025-09/2025-09-03-008-0e9c.json)
+- [2025-09-03] [Installation of Barricade Nets in selected perennial reservoirs to protect freshwater fish harvest](data/cabinet_decisions/2025/2025-09/2025-09-03-007-cc1d.json)
+- [2025-09-03] [Local assembly of a Light Train Set with three coaches](data/cabinet_decisions/2025/2025-09/2025-09-03-006-da80.json)
+- [2025-09-03] [Reconstruction Project of the Sluice Tower, Sluice Barrel and remaining parts of the Senanayake Samudraya](data/cabinet_decisions/2025/2025-09/2025-09-03-005-92ff.json)
+- [2025-09-03] [Establishment of the Customs Verification Centre at Kerawalapitiya](data/cabinet_decisions/2025/2025-09/2025-09-03-004-048b.json)
+- [2025-09-03] [Establishment of Diplomatic relations with Antigua and Barbuda](data/cabinet_decisions/2025/2025-09/2025-09-03-003-6f9a.json)
+- [2025-09-03] [Closure of Non-Functioning State-Owned Enterprises](data/cabinet_decisions/2025/2025-09/2025-09-03-002-bbe5.json)
+- [2025-09-03] [Admission of Students from Grade 2 to 11 except Grade 5 and 6 in Schools](data/cabinet_decisions/2025/2025-09/2025-09-03-001-4a03.json)
 - [2025-08-25] [Appointment to the Posts of District Secretaries/Government Agents of the Administrative Districts of Kalutara and Puttalam](data/cabinet_decisions/2025/2025-08/2025-08-25-011-7e57.json)
 - [2025-08-25] [Pricing Mechanism of Medicines in accordance with the National Medicines Regulatory Authority Act No. 5 of 2015](data/cabinet_decisions/2025/2025-08/2025-08-25-010-688a.json)
 - [2025-08-25] [Procurement of Standby Power Supply Systems for the Condenser Cooling System and the Boiler Feed Water System of the Norochcholai Lakvijaya Coal Power Plant](data/cabinet_decisions/2025/2025-08/2025-08-25-009-d87e.json)
