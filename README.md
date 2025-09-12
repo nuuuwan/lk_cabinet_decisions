@@ -16,9 +16,9 @@ Sri Lanka.
 
 | | |
 |:--|--:|
-| Last Updated   | **2025-09-12 06:05:00**     |
-| nDecisions   | **9,232**     |
-| Latest   | **2025-09-03** |
+| Last Updated   | **2025-09-12 17:59:44**     |
+| nDecisions   | **9,252**     |
+| Latest   | **2025-09-08** |
 | Earliest | **2010-09-27** |
 
 ![Cabinet Decision Chart](images/cabinet_decision_chart.png)
@@ -27,57 +27,77 @@ Sri Lanka.
 
 ```json
 {
-  "date_str": "2025-09-03",
-  "decision_num": 19,
-  "title": "Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial",
-  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398",
-  "decision_details": "- International competitive bids have been invited for the purchase of 120,000 vials of Human Immunoglobulin BP, 5-6g, for intravenous use, which is used to treat patients with immunodeficiency. Three (03) bids have been received for the same. Based on the recommendation of the Standing High-Level Procurement Committee regarding the said bids, the proposal made by the Minister of Health and Mass Media to award the said procurement to Reliance Life Sciences (Pvt) Ltd., India, the substantially responsive lowest evaluated bidder for a sum of US$ 10.506 million, was approved by the Cabinet.",
-  "key": "2025-09-03-019-e370"
+  "date_str": "2025-09-08",
+  "decision_num": 20,
+  "title": "Submission of the Appropriation Bill for the financial year 2026 to Parliament",
+  "source_url": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418",
+  "decision_details": "- Approval had been granted at the Cabinet meeting held on 2025-07-01 to prepare the Appropriation Bill for the financial year 2026. Accordingly, the clearance of the Attorney General has been received for the Appropriation Bill for the financial year 2026 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet.",
+  "key": "2025-09-08-020-5246"
 }
 ```
 
-[JSON Source](data/cabinet_decisions/2025/2025-09/2025-09-03-019-e370.json)
+[JSON Source](data/cabinet_decisions/2025/2025-09/2025-09-08-020-5246.json)
 
 ## Example TSV Data
 
-[Complete TSV](data/cabinet_decisions.tsv) (9.45 MB)
+[Complete TSV](data/cabinet_decisions.tsv) (9.47 MB)
 
 | date_str | decision_num | title | source_url | decision_details | key |
 |:--|--:|:--|:--|:--|:--|
-| 2025-09-03 | 19 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398) | - International comp... | 2025-09-03-019-e370 |
-| 2025-09-03 | 18 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397) | - International Comp... | 2025-09-03-018-24b1 |
-| 2025-09-03 | 17 | Procurement for the ... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396) | - International comp... | 2025-09-03-017-c639 |
+| 2025-09-08 | 20 | Submission of the Ap... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418) | - Approval had been ... | 2025-09-08-020-5246 |
+| 2025-09-08 | 19 | Appointment to the P... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13417) | - The term of office... | 2025-09-08-019-6001 |
+| 2025-09-08 | 18 | Amendment to the Cey... | [https://www.cabineto...](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13416) | - The Ceylon Arts Co... | 2025-09-08-018-2232 |
 
-(These are the first 3 of **9,232** rows of the full TSV data)
+(These are the first 3 of **9,252** rows of the full TSV data)
 
 ## Last 3 Cabinet Decisions
 
-### 1) Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial
+### 1) Submission of the Appropriation Bill for the financial year 2026 to Parliament
 
-*2025-09-03*, *#19*
+*2025-09-08*, *#20*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13398)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418)
 
-International competitive bids have been invited for the purchase of 120,000 vials of Human Immunoglobulin BP, 5-6g, for intravenous use, which is used to treat patients with immunodeficiency. Three (03) bids have been received for the same. Based on the recommendation of the Standing High-Level Procurement Committee regarding the said bids, the proposal made by the Minister of Health and Mass Media to award the said procurement to Reliance Life Sciences (Pvt) Ltd., India, the substantially responsive lowest evaluated bidder for a sum of US$ 10.506 million, was approved by the Cabinet.
+Approval had been granted at the Cabinet meeting held on 2025-07-01 to prepare the Appropriation Bill for the financial year 2026. Accordingly, the clearance of the Attorney General has been received for the Appropriation Bill for the financial year 2026 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet.
 
-### 2) Procurement for the supply of 680,000 Nos. of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone, Low flux to medium flux 1.6m2 ‑ 1.8m2
+### 2) Appointment to the Post of Commissioner General of Agrarian Development
 
-*2025-09-03*, *#18*
+*2025-09-08*, *#19*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13397)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13417](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13417)
 
-International Competitive Bids have been invited for the procurement of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone which are used for haemodialysis procedure. Two (02) bids have been received for the same. Accordingly, based on the recommendation of the Standing High‑Level Procurement Committee, the proposal made by the Minister of Health and Mass Media to award the said procurement to Bain Medical Equipment (Guangzhou) Co. Ltd., China, the substantially responsive lowest evaluated bidder, for a total cost of US$ 2.087 million, was approved by the Cabinet.
+The term of office of Mr. U.B. Rohana Rajapaksha, who is serving as the Commissioner General of Agrarian Development, is scheduled to end on 2025-10-08. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Mr. R.A.D.S. Ranatunga, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as an Additional Secretary to the Ministry of Fisheries, Aquatic and Ocean Resources, to the post of Commissioner General of Agrarian Development with effect from 2025-10-09, was approved by the Cabinet.
 
-### 3) Procurement for the Supply of 30,000 vials of Tenecteplase Injection 40mg Vial
+### 3) Amendment to the Ceylon Arts Council Act, No.18 of 1952 (Chapter 278)
 
-*2025-09-03*, *#17*
+*2025-09-08*, *#18*
 
-[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13396)
+[https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13416](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13416)
 
-International competitive bids have been invited for the purchase of 30,000 vials of Tenecteplase, a vaccine used to prevent deaths in people affected with heart attacks. Three bids (03) have been received for the same. Accordingly, based on the recommendation of the Standing High-Level Procurement Committee, the proposal made by the Minister of Health and Mass Media to award the said procurement to ABC Pharma Services (Pvt) Ltd., Sri Lanka (Manufacturer: Reliance Life Sciences (Pvt) Ltd., India), the substantially responsive lowest evaluated bidder, for a total cost of Rs.2,385 million, was approved by the Cabinet.
+The Ceylon Arts Council has been established through the Ceylon Arts Council Act, No.18 of 1952 (Chapter 278) with the aim of promoting the fine arts, developing and encouraging indigenous arts and crafts, and providing advise to Government Departments, Regional Authorities and Institutions on any relevant matter. It has been identified that it is essential to introduce amendments to the current Arts Council Act in a manner that will enable it to maintain financial stability, including maintaining a sponsor fund for quality art research and production projects, based on the needs and expansions that have already arisen and are arising in the fields of art. It is also expected that the amendment of this Act will provide scope for intervention to ensure the professional security, dignity and well-being of artists. The Ceylon Arts Council has recommended several amendments in this regard. Accordingly, the proposal made by the Minister of Buddhasasana, Religious and Cultural Affairs to instruct the Legal Draftsman to prepare a Bill to amend the Ceylon Arts Council Act, No.18 of 1952 (Chapter 278) in order to achieve broader objectives and goals than those set at the time of establishment of Ceylon Arts Council, was approved by the Cabinet.
 
-## All Cabinet Decisions (9,232)
+## All Cabinet Decisions (9,252)
 
+- [2025-09-08] [Submission of the Appropriation Bill for the financial year 2026 to Parliament](data/cabinet_decisions/2025/2025-09/2025-09-08-020-5246.json)
+- [2025-09-08] [Appointment to the Post of Commissioner General of Agrarian Development](data/cabinet_decisions/2025/2025-09/2025-09-08-019-6001.json)
+- [2025-09-08] [Amendment to the Ceylon Arts Council Act, No.18 of 1952 (Chapter 278)](data/cabinet_decisions/2025/2025-09/2025-09-08-018-2232.json)
+- [2025-09-08] [Formulating a new law for foster care](data/cabinet_decisions/2025/2025-09/2025-09-08-017-9709.json)
+- [2025-09-08] [Amendment of the Sri Lanka Press Council Act, No.5 of 1973](data/cabinet_decisions/2025/2025-09/2025-09-08-016-5e2b.json)
+- [2025-09-08] [Introducing a new National Statistics Act](data/cabinet_decisions/2025/2025-09/2025-09-08-015-dbf7.json)
+- [2025-09-08] [Implementation of the 'Mission Olympics' programme](data/cabinet_decisions/2025/2025-09/2025-09-08-014-2ee4.json)
+- [2025-09-08] [Re-commencement of the currently suspended Health Care Infrastructure Projects](data/cabinet_decisions/2025/2025-09/2025-09-08-013-0f54.json)
+- [2025-09-08] [Conducting the Presidential Media Awards Ceremony](data/cabinet_decisions/2025/2025-09/2025-09-08-012-7a11.json)
+- [2025-09-08] [Construction of a Water Treatment Plant with a capacity of 5000 cubic meters per day for the Avissawella Water Supply Scheme](data/cabinet_decisions/2025/2025-09/2025-09-08-011-f015.json)
+- [2025-09-08] [Establishment of the Dambulla Industrial Estate](data/cabinet_decisions/2025/2025-09/2025-09-08-010-b4d9.json)
+- [2025-09-08] [Allocation of additional provisions for Road Development Projects](data/cabinet_decisions/2025/2025-09/2025-09-08-009-c0a2.json)
+- [2025-09-08] [Procurement for Designing, Developing, Printing and Supplying of computer based draw lottery tickets, to the Development Lotteries Board for a period of one year](data/cabinet_decisions/2025/2025-09/2025-09-08-008-c111.json)
+- [2025-09-08] [Printing School Textbooks/Modules required for the year 2026](data/cabinet_decisions/2025/2025-09/2025-09-08-007-7a60.json)
+- [2025-09-08] [Appointment of a Committee to issue National Electricity Policy and Policy Guidelines](data/cabinet_decisions/2025/2025-09/2025-09-08-006-d625.json)
+- [2025-09-08] [Appointment of a Cabinet Sub Committee for organizing activities of the 78th Independence Day Ceremony](data/cabinet_decisions/2025/2025-09/2025-09-08-005-35e3.json)
+- [2025-09-08] [Allocation of land plots from Regional Industrial Estates to set up new Industries](data/cabinet_decisions/2025/2025-09/2025-09-08-004-fb02.json)
+- [2025-09-08] [Ensuring the Sustainable Operation of Cascade System](data/cabinet_decisions/2025/2025-09/2025-09-08-003-3730.json)
+- [2025-09-08] [Ratification of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction](data/cabinet_decisions/2025/2025-09/2025-09-08-002-f4f9.json)
+- [2025-09-08] [National Climate Finance Strategy of Sri Lanka (2025-2030)](data/cabinet_decisions/2025/2025-09/2025-09-08-001-6da9.json)
 - [2025-09-03] [Procurement for the Supply of 120,000 Vials of Human Immunoglobulin for Intravenous use BP 5g‑6g vial](data/cabinet_decisions/2025/2025-09/2025-09-03-019-e370.json)
 - [2025-09-03] [Procurement for the supply of 680,000 Nos. of Hollow Fiber Dialyzer, Polysulphone/Polyethersulphone/Polynephrone, Low flux to medium flux 1.6m2 ‑ 1.8m2](data/cabinet_decisions/2025/2025-09/2025-09-03-018-24b1.json)
 - [2025-09-03] [Procurement for the Supply of 30,000 vials of Tenecteplase Injection 40mg Vial](data/cabinet_decisions/2025/2025-09/2025-09-03-017-c639.json)
