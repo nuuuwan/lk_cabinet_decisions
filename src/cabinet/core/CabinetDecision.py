@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from functools import cached_property
+from typing import Generator
 
 from utils import Log
 
@@ -28,3 +29,7 @@ class CabinetDecision(AbstractDoc):
                 self.decision_details,
             ]
         )
+
+    @classmethod
+    def gen_docs(cls) -> Generator["CabinetDecision", None, None]:
+        pass
