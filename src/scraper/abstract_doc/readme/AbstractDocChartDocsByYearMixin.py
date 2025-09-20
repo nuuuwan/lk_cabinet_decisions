@@ -13,6 +13,7 @@ class AbstractDocChartDocsByYearMixin:
         "si": "#8D153A",
         "ta": "#EB7400",
         "en": "#00534E",
+        "si-ta-en": "#FFBE29",
     }
 
     @classmethod
