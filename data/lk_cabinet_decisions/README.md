@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_10:55:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_11:08:28-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**881** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**23.5 MB**), from **2016-01-06** to **2025-08-11**, scraped from **[https://www.cabinetoffice.gov.lk/cab/index.php](https://www.cabinetoffice.gov.lk/cab/index.php)**
+- [**1,070** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**33.3 MB**), from **2016-01-06** to **2025-08-11**, scraped from **[https://www.cabinetoffice.gov.lk/cab/index.php](https://www.cabinetoffice.gov.lk/cab/index.php)**
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,14 +53,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2025-08-04 | `11` | ලංකා ධීවර වරාය නීතිගත සංස්ථාව සඳහා ඩ්‍රෙජරයක් මිල දී ගැනීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-011-si)
 - 2025-08-04 | `10` | 'Clean Sri Lanka' වැඩසටහන යටතේ පිටකොටුව මධ්‍යම බස් රථ නැවතුම්පොළ සංවර්ධනය කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-010-si)
 - 2025-08-04 | `9` | ශ්‍රී ලංකා ඉන්ස්ටිටියුට් ඔෆ් බයෝටෙක්නොලොජි ප්‍රයිවට් ලිමිටඩ් සහ ඇමෙරිකා එක්සත් ජනපදයේ University of Illinois අතර අවබෝධතා ගිවිසුමකට අත්සන් තැබීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-009-si)
+- 2025-08-04 | `8` | கௌரவ பாராளுமன்ற உறுப்பினர்களுக்கான கூட்டு காப்புறுதி காப்பீட்டு எல்லையைத் திருத்துதல் | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-008-ta)
 - 2025-08-04 | `8` | පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා වූ සමූහ රක්ෂණාවරණ සීමාව සංශෝධනය කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-008-si)
+- 2025-08-04 | `7` | பெண்களுக்கு எதிரான சகல வகையிலுமான பாரபட்ச நடவடிக்கைகளை இல்லாதொழிக்கும் சமவாயத்தின் கீழ் இலங்கைக்கான கடப்பாடுகளுக்குரியதாக நடவடிக்கை எடுக்கும் பொருட்டு அமைச்சுக்களுக்கிடையிலான நிலையியல் குழுவைத் தாபித்தல் | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-007-ta)
 - 2025-08-04 | `7` | කාන්තාවන්ට එරෙහි සියලු ආකාරයේ වෙනස් කොට සැලකීම් පිටුදැකීමේ සම්මුතිය යටතේ ශ්‍රී ලංකාවේ බැඳීම්වලට අදාළව කටයුතු කිරීම පිණිස අන්තර් අමාත්‍යාංශ ස්ථාවර කමිටුවක් පිහිටුවීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-007-si)
+- 2025-08-04 | `6` | நல்லிணக்கம் மற்றும் சகவாழ்வுக்கான தேசிய கொள்கை மற்றும் செயற்திட்டத்தை (NPARC) தயாரித்தல் | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-006-ta)
 - 2025-08-04 | `6` | ප්‍රතිසන්ධානය සහ සහජීවනය පිළිබඳ ජාතික ප්‍රතිපත්තියක් සහ ක්‍රියාකාරී සැලැස්මක් සකස් කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-006-si)
+- 2025-08-04 | `5` | 2012 ஆம் 2021 ஆம் ஆண்டுகளில் மேற்கொள்ளப்பட்ட எல்லை நிர்ணய குழு சிபாரிசுகளை மீளாய்வு செய்து சிபாரிசுகளை சமர்ப்பிப்பதற்காக புதிய எல்லை நிர்ணய குழுவொன்றை நியமித்தல் | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-005-ta)
 - 2025-08-04 | `5` | 2012 හා 2021 වර්ෂයන්හි පැවති සීමා නිර්ණය කමිටු නිර්දේශයන් සමාලෝචනය කර නිර්දේශ ඉදිරිපත් කිරීම සඳහා නව සීමා නිර්ණය කමිටුවක් පත් කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-005-si)
-- 2025-08-04 | `4` | කොළඹ කොටුව, ඕල්කට් මාවතේ පිහිටි නාගරික සංවර්ධන අධිකාරියට අයත් චාමර්ස් ධාන්‍යාගාරය නමැති ඉඩම සඳහා ආයෝජන යෝජනා කැඳවීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-004-si)
-- 2025-08-04 | `3` | අතත්‍ය නගර (Virtual City) නිර්මාණය කිරීමේ ව්‍යාපෘතිය යටතේ Virtual City in Kandy නිර්මාණය කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-003-si)
-- 2025-08-04 | `2` | තෝරාගත් කුළුබඩු ප්‍රතිඅපනයනය සඳහා ආනයන සමාගම්වලට ‘අනුමත ව්‍යවසාය’ තත්ත්වය ලබා දීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-002-si)
-- 2025-08-04 | `1` | 2025 දෙවන කාර්තුව සඳහා වන රජයේ මූල්‍ය කාර්යසාධනය පිළිබඳ ප්‍රකාශය | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-08-04-001-si)
 
 ---
 
