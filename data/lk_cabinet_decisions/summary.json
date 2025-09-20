@@ -1,0 +1,27 @@
+{
+  "doc_class_label": "lk_cabinet_decisions",
+  "doc_class_emoji": "\ud83c\udfdb\ufe0f",
+  "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
+  "time_updated": "2025-09-20 08:43:47",
+  "n_docs": 28,
+  "n_docs_with_pdfs": 0,
+  "n_docs_with_text": 0,
+  "date_str_min": "2025-01-06",
+  "date_str_max": "2025-01-20",
+  "dataset_size": 215136,
+  "url_source": "https://www.cabinetoffice.gov.lk/cab/index.php",
+  "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
+  "langs": [
+    "en"
+  ],
+  "latest_doc_d": {
+    "doc_type": "lk_cabinet_decisions",
+    "doc_id": "2025-01-20-9",
+    "num": "9",
+    "date_str": "2025-01-20",
+    "description": "Appointment of the Director General of the Civil Security Department",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=12998",
+    "lang": "en",
+    "decision_details": "- The Post of Director General of the Civil Security Department has fallen vacant from 2025\u201101\u201101. Retired Major General K.H.P. Palitha Fernando of the Sri Lanka Army has been identified as suitable to be appointed as the Director General of the Civil Security Department. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence, to appoint him to the Post of Director General of the Civil Security Department, on contract basis, for a period of one (01) year, with immediate effect, was approved by the Cabinet."
+  }
+}
