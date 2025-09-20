@@ -90,7 +90,9 @@ class CabinetDecisionsWebMixin:
         tables = soup.find_all("table", attrs={"width": "85%"})
         assert len(tables) == 2
         table = tables[1]
-        for tr in table.find_all("tr"):
+        trs = table.find_all("tr")
+        random.shuffle(trs)
+        for tr in trs:
             for td in tr.find_all("td"):
                 a = td.find("a")
                 date_str = a.text.strip()
