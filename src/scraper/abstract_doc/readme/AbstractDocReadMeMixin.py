@@ -3,8 +3,9 @@ import os
 
 from utils import File, Log
 
-from scraper.abstract_doc.readme.AbstractDocChartDocsByYearMixin import \
-    AbstractDocChartDocsByYearMixin
+from scraper.abstract_doc.readme.AbstractDocChartDocsByYearMixin import (
+    AbstractDocChartDocsByYearMixin,
+)
 from utils_future import FileOrDirFuture, Format
 
 log = Log("AbstractDocReadMeMixin")
@@ -111,9 +112,7 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
         year_to_lang_to_n = summary["year_to_lang_to_n"]
         cls.build_chart_by_year_and_lang(year_to_lang_to_n)
         return [
-            "## Documents By Year & Language",
-            "",
-            f"![Documents By Year & Language]({cls.get_chart_image_name()})",
+            f"![Chart]({cls.get_raw_remote_chart_image_url()})",
             "",
         ]
 
