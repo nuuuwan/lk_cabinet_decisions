@@ -66,7 +66,8 @@ class CabinetDecisionsWebMixin:
         table = tables[1]
         for tr in table.find_all("tr"):
             tds = tr.find_all("td")
-            assert len(tds) >= 2
+            if len(tds) < 2:
+                continue
             num = tds[0].text.strip()
             a = tds[1].find("a")
             description = a.text.strip()
