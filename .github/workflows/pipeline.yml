@@ -17,7 +17,7 @@ jobs:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
 
     env:
-      REPO_MAIN: lk_cbabinet_decisions
+      REPO_MAIN: lk_cabinet_decisions
       GITHUB_USERNAME: ${{ secrets.GIT_USER_NAME }}
       HUGGING_FACE_USERNAME: ${{ secrets.GIT_USER_NAME }}
       HUGGING_FACE_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
