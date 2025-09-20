@@ -23,17 +23,18 @@ class CabinetDecisionsWebMixin:
         if not soup:
             return None
         div_title = soup.find("div", id="cab_heading_text_e")
-        title_text = div_title.text.strip()
-        assert date_str in title_text
+        decision_details_title = div_title.text.strip()
+        assert date_str in decision_details_title
         div_body = soup.find("div", id="cab_normal_text_e")
-        decision_details = div_body.text.strip()
+        decision_details_body = div_body.text.strip()
         return cls(
             num=num,
             date_str=date_str,
             description=description,
             url_metadata=url_details,
             lang="en",
-            decision_details=decision_details,
+            decision_details_title=decision_details_title,
+            decision_details_body=decision_details_body,
         )
 
     @staticmethod

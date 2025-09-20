@@ -12,7 +12,8 @@ log = Log("CabinetDecision")
 
 @dataclass
 class CabinetDecision(AbstractDoc, CabinetDecisionsWebMixin):
-    decision_details: str
+    decision_details_title: str
+    decision_details_body: str
 
     @classmethod
     def get_doc_class_description(cls) -> str:
@@ -27,7 +28,8 @@ class CabinetDecision(AbstractDoc, CabinetDecisionsWebMixin):
         return "\n\n".join(
             [
                 self.description,
-                self.decision_details,
+                self.decision_details_title,
+                self.decision_details_body,
             ]
         )
 
