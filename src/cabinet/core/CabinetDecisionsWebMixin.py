@@ -107,5 +107,5 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
-        for lang in ["si", "ta", "en"]:
+        for lang in cls.LANGS:
             yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
