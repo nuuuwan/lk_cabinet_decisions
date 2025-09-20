@@ -124,7 +124,6 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
-        langs = cls.LANGS
-        random.shuffle(langs)
-        for lang in cls.LANGS:
+        langs = ["en", "si", "ta"]  # HACK! Prioritize en first
+        for lang in langs:
             yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
