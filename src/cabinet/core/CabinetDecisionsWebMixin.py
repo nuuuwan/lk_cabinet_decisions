@@ -28,13 +28,13 @@ class CabinetDecisionsWebMixin:
         if not soup:
             log.error(f"[{www_details}] no soup.")
             return None
+        assert len(lang) == 2
         lang_short = lang[0]
         div_title = soup.find("div", id=f"cab_heading_text_{lang_short}")
         decision_details_title = div_title.text.strip()
         assert date_str in decision_details_title
         div_body = soup.find("div", id=f"cab_normal_text_{lang_short}")
         decision_details_body = div_body.text.strip()
-        # decision_details_body could be empty!
         return cls(
             num=num,
             date_str=date_str,
@@ -127,7 +127,7 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
-        langs = cls.LANGS
+        langs = ["en", "si", "ta"]
         random.shuffle(langs)
         for lang in langs:
             yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
