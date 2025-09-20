@@ -1,8 +1,12 @@
 import re
 from typing import Generator
 
+from utils import Log
+
 from scraper import AbstractDoc
 from utils_future import WWW
+
+log = Log("CabinetDecisionsWebMixin")
 
 
 class CabinetDecisionsWebMixin:
@@ -21,6 +25,7 @@ class CabinetDecisionsWebMixin:
         www_details = WWW(url_details)
         soup = www_details.soup
         if not soup:
+            log.error(f"[{www_details}] no soup.")
             return None
         lang_short = lang[0]
         div_title = soup.find("div", id=f"cab_heading_text_{lang_short}")
@@ -49,7 +54,9 @@ class CabinetDecisionsWebMixin:
     ) -> Generator["AbstractDoc", None, None]:
         www_date = WWW(url_date)
         soup = www_date.soup
-        assert soup
+        if not soup:
+            log.error(f"[{www_date}] no soup.")
+            return None
         tables = soup.find_all("table", attrs={"width": "95%"})
         assert len(tables) == 3
         table = tables[1]
@@ -73,7 +80,9 @@ class CabinetDecisionsWebMixin:
     ) -> Generator[tuple[str, str], None, None]:
         www_year = WWW(url_year)
         soup = www_year.soup
-        assert soup
+        if not soup:
+            log.error(f"[{www_year}] no soup.")
+            return None
         tables = soup.find_all("table", attrs={"width": "85%"})
         assert len(tables) == 2
         table = tables[1]
@@ -96,7 +105,9 @@ class CabinetDecisionsWebMixin:
     ) -> Generator[tuple[str, str], None, None]:
         www_home = WWW(url_decision)
         soup = www_home.soup
-        assert soup
+        if not soup:
+            log.error(f"[{www_home}] no soup.")
+            return None
         ul = soup.find("ul", class_="menu")
         for li in ul.find_all("li"):
             a = li.find("a")

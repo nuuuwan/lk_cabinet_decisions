@@ -51,6 +51,9 @@ class CabinetDecision(AbstractDoc, CabinetDecisionsWebMixin):
                 for date_str, url_date in cls.gen_url_dates_from_url_year(
                     year_str, url_year
                 ):
-                    yield from cls.gen_docs_from_url_date(
-                        date_str, url_date, lang
-                    )
+                    try:
+                        yield from cls.gen_docs_from_url_date(
+                            date_str, url_date, lang
+                        )
+                    except Exception as e:
+                        log.error(f"[{url_date}]: {e}")
