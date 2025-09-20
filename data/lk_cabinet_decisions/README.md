@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_22:12:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_23:08:18-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**3,273** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**82.5 MB**), from **2011-02-02** to **2025-09-15**, scraped from **[https://www.cabinetoffice.gov.lk/cab/index.php](https://www.cabinetoffice.gov.lk/cab/index.php)**
+- [**3,360** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**90.7 MB**), from **2011-02-02** to **2025-09-15**, scraped from **[https://www.cabinetoffice.gov.lk/cab/index.php](https://www.cabinetoffice.gov.lk/cab/index.php)**
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -57,8 +57,8 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2025-09-15 | `3` | කුරුණෑගල මලියදේව විද්‍යාලයේ ප්‍රාථමික අංශය සඳහා නව තෙමහල් ගොඩනැගිල්ලක් ඉදිකිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-003-si)
 - 2025-09-15 | `2` | කහටගහ පතලෙහි මිනිරන් සඳහා රාජ්‍ය‑පෞද්ගලික හවුල්කාරිත්වය යටතේ අගය එකතු කිරීමේ ව්‍යාපෘතියක්  ක්‍රියාත්මක කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-002-si)
 - 2025-09-15 | `1` | "සත්කාරයේ ශ්‍රම සේනා" වැඩසටහන ක්‍රියාත්මක කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-001-si)
+- 2025-09-08 | `20` | 2026 ஆம் ஆண்டிற்கான ஒதுக்கீட்டு சட்டமூலத்தை பாராளுமன்றத்தில் சமர்ப்பித்தல் | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-020-ta)
 - 2025-09-08 | `20` | 2026 මුදල් වර්ෂය සඳහා වූ විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුව වෙත ඉදිරිපත් කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-020-si)
-- 2025-09-08 | `19` | ගොවිජන සංවර්ධන කොමසාරිස් ජනරාල් තනතුර සඳහා පත් කිරීම | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-019-si)
 
 ---
 
