@@ -114,7 +114,7 @@ class CabinetDecisionsWebMixin:
             return
         ul = soup.find("ul", class_="menu")
         lis = ul.find_all("li")
-        lis = [lis[0]] + random.sample(lis[1:], len(lis) - 1)
+        random.shuffle(lis)
         for li in lis:
             a = li.find("a")
             year_str = a.text.strip()
