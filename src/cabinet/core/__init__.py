@@ -2,3 +2,4 @@
 # flake8: noqa: F408
 
 from cabinet.core.CabinetDecision import CabinetDecision
+from cabinet.core.CabinetDecisionsWebMixin import CabinetDecisionsWebMixin
