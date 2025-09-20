@@ -15,22 +15,25 @@ class CabinetDecisionsWebMixin:
     )
 
     @classmethod
-    def get_doc_from_url_details(cls, num, date_str, description, url_details):
+    def get_doc_from_url_details(
+        cls, num, date_str, description, url_details, lang
+    ):
         www_details = WWW(url_details)
         soup = www_details.soup
         if not soup:
             return None
-        div_title = soup.find("div", id="cab_heading_text_e")
+        lang_short = lang[0]
+        div_title = soup.find("div", id=f"cab_heading_text_{lang_short}")
         decision_details_title = div_title.text.strip()
         assert date_str in decision_details_title
-        div_body = soup.find("div", id="cab_normal_text_e")
+        div_body = soup.find("div", id=f"cab_normal_text_{lang_short}")
         decision_details_body = div_body.text.strip()
         return cls(
             num=num,
             date_str=date_str,
             description=description,
             url_metadata=url_details,
-            lang="en",
+            lang=lang,
             decision_details_title=decision_details_title,
             decision_details_body=decision_details_body,
         )
@@ -42,7 +45,7 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_docs_from_url_date(
-        cls, date_str, url_date
+        cls, date_str, url_date, lang
     ) -> Generator["AbstractDoc", None, None]:
         www_date = WWW(url_date)
         soup = www_date.soup
@@ -59,7 +62,7 @@ class CabinetDecisionsWebMixin:
             url_details = f'{cls.URL_BASE}/cab/{a["href"]}'
             url_details = cls.__clean_url__(url_details)
             doc = cls.get_doc_from_url_details(
-                num, date_str, description, url_details
+                num, date_str, description, url_details, lang
             )
             if doc:
                 yield doc
@@ -103,6 +106,6 @@ class CabinetDecisionsWebMixin:
             yield year_str, url_year
 
     @classmethod
-    def gen_url_decisions(cls) -> str:
-        for lang in ["si", "en", "ta"]:
-            yield f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
+    def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
+        for lang in ["ta", "si", "en"]:
+            yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"

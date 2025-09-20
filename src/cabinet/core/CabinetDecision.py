@@ -44,11 +44,13 @@ class CabinetDecision(AbstractDoc, CabinetDecisionsWebMixin):
 
     @classmethod
     def gen_docs(cls) -> Generator["CabinetDecision", None, None]:
-        for url_decision in cls.gen_url_decisions():
+        for lang, url_decision in cls.gen_url_decisions():
             for year_str, url_year in cls.gen_url_years_for_url_decision(
                 url_decision
             ):
                 for date_str, url_date in cls.gen_url_dates_from_url_year(
                     year_str, url_year
                 ):
-                    yield from cls.gen_docs_from_url_date(date_str, url_date)
+                    yield from cls.gen_docs_from_url_date(
+                        date_str, url_date, lang
+                    )
