@@ -2,19 +2,19 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-09-20 19:18:31",
-  "n_docs": 1942,
+  "time_updated": "2025-09-20 20:11:30",
+  "n_docs": 2391,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 1942,
+  "n_docs_with_text": 2391,
   "date_str_min": "2011-02-02",
   "date_str_max": "2025-09-15",
-  "dataset_size": 56448166,
+  "dataset_size": 60857028,
   "url_source": "https://www.cabinetoffice.gov.lk/cab/index.php",
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
@@ -39,6 +39,9 @@
     },
     "2016": {
       "ta": 179
+    },
+    "2014": {
+      "ta": 449
     },
     "2011": {
       "en": 29
