@@ -34,6 +34,7 @@ class CabinetDecisionsWebMixin:
         assert date_str in decision_details_title
         div_body = soup.find("div", id=f"cab_normal_text_{lang_short}")
         decision_details_body = div_body.text.strip()
+        assert len(decision_details_body) > 0
         return cls(
             num=num,
             date_str=date_str,
@@ -57,13 +58,15 @@ class CabinetDecisionsWebMixin:
         soup = www_date.soup
         if not soup:
             log.error(f"[{www_date}] no soup.")
-            return None
+            return
         tables = soup.find_all("table", attrs={"width": "95%"})
-        assert len(tables) == 3
+        if len(tables) < 2:
+            log.warning(f"[{www_date}] incorrect decision table.")
+            return
         table = tables[1]
         for tr in table.find_all("tr"):
             tds = tr.find_all("td")
-            assert len(tds) == 2
+            assert len(tds) >= 2
             num = tds[0].text.strip()
             a = tds[1].find("a")
             description = a.text.strip()
@@ -83,7 +86,7 @@ class CabinetDecisionsWebMixin:
         soup = www_year.soup
         if not soup:
             log.error(f"[{www_year}] no soup.")
-            return None
+            return
         tables = soup.find_all("table", attrs={"width": "85%"})
         assert len(tables) == 2
         table = tables[1]
@@ -108,16 +111,16 @@ class CabinetDecisionsWebMixin:
         soup = www_home.soup
         if not soup:
             log.error(f"[{www_home}] no soup.")
-            return None
+            return
         ul = soup.find("ul", class_="menu")
         lis = ul.find_all("li")
         random.shuffle(lis)
         for li in lis:
             a = li.find("a")
             year_str = a.text.strip()
-            assert len(year_str) == 4 and year_str.isdigit()
-            url_year = f'{cls.URL_BASE}/{a["href"]}'
-            yield year_str, url_year
+            if len(year_str) == 4 and year_str.isdigit():
+                url_year = f'{cls.URL_BASE}/{a["href"]}'
+                yield year_str, url_year
 
     @classmethod
     def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
