@@ -12,6 +12,14 @@ log = Log("CabinetDecision")
 class CabinetDecision(AbstractDoc):
     decision_details: str
 
+    @classmethod
+    def get_doc_class_description(cls) -> str:
+        return "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country."  # noqa: E501
+
+    @classmethod
+    def get_doc_class_emoji(cls) -> str:
+        return "🏛️"
+
     @cached_property
     def text_from_metadata(self) -> str:
         return "\n\n".join(
