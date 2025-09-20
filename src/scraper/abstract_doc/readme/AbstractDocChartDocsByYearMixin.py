@@ -28,6 +28,17 @@ class AbstractDocChartDocsByYearMixin:
         )
 
     @classmethod
+    def get_raw_remote_chart_image_url(cls) -> str:
+        # E.g. https://raw.githubusercontent.com/nuuuwan/lk_appeal_court_judgements/refs/heads/data/data/lk_appeal_court_judgements/docs_by_year_and_lang.png # noqa: E501
+        return "/".join(
+            [
+                cls.get_raw_remote_data_branch_url(),
+                cls.get_dir_docs_for_cls_relative(),
+                cls.get_chart_image_name(),
+            ]
+        )
+
+    @classmethod
     def build_chart_by_year_and_lang(cls, year_to_lang_to_n):
 
         years = sorted(year_to_lang_to_n.keys())
