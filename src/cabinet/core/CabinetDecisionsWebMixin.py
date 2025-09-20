@@ -1,3 +1,4 @@
+import random
 import re
 from typing import Generator
 
@@ -109,7 +110,9 @@ class CabinetDecisionsWebMixin:
             log.error(f"[{www_home}] no soup.")
             return None
         ul = soup.find("ul", class_="menu")
-        for li in ul.find_all("li"):
+        lis = ul.find_all("li")
+        random.shuffle(lis)
+        for li in lis:
             a = li.find("a")
             year_str = a.text.strip()
             assert len(year_str) == 4 and year_str.isdigit()
@@ -118,5 +121,7 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_url_decisions(cls) -> Generator[tuple[str, str], None, None]:
+        langs = cls.LANGS
+        random.shuffle(langs)
         for lang in cls.LANGS:
             yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
