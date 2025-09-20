@@ -8,16 +8,14 @@ from utils_future import WWW
 class CabinetDecisionsWebMixin:
 
     URL_BASE = "https://www.cabinetoffice.gov.lk"
-    URL_DECISIONS = (
+    URL_DECISION_WITHOUT_LANG = (
         URL_BASE
         + "/cab/index.php"
-        + "?option=com_content&view=article&id=63&Itemid=43&lang=en"
+        + "?option=com_content&view=article&id=63&Itemid=43"
     )
 
     @classmethod
-    def get_doc_from_url_details(
-        cls, num, date_str, description, url_details
-    ):
+    def get_doc_from_url_details(cls, num, date_str, description, url_details):
         www_details = WWW(url_details)
         soup = www_details.soup
         if not soup:
@@ -90,8 +88,10 @@ class CabinetDecisionsWebMixin:
                 yield date_str, url_date
 
     @classmethod
-    def gen_urls_years(cls) -> Generator[tuple[str, str], None, None]:
-        www_home = WWW(cls.URL_DECISIONS)
+    def gen_url_years_for_url_decision(
+        cls, url_decision
+    ) -> Generator[tuple[str, str], None, None]:
+        www_home = WWW(url_decision)
         soup = www_home.soup
         assert soup
         ul = soup.find("ul", class_="menu")
@@ -101,3 +101,8 @@ class CabinetDecisionsWebMixin:
             assert len(year_str) == 4 and year_str.isdigit()
             url_year = f'{cls.URL_BASE}/{a["href"]}'
             yield year_str, url_year
+
+    @classmethod
+    def gen_url_decisions(cls) -> str:
+        for lang in ["si", "en", "ta"]:
+            yield f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
