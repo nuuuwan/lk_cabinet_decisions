@@ -34,7 +34,7 @@ class CabinetDecisionsWebMixin:
         assert date_str in decision_details_title
         div_body = soup.find("div", id=f"cab_normal_text_{lang_short}")
         decision_details_body = div_body.text.strip()
-        assert len(decision_details_body) > 0
+        # decision_details_body could be empty!
         return cls(
             num=num,
             date_str=date_str,
