@@ -1,7 +1,7 @@
 import re
 from typing import Generator
 
-from utils import Log, Time, TimeFormat
+from utils import Log, Parallel, Time, TimeFormat
 
 from scraper import AbstractDoc
 from utils_future import WWW
@@ -50,23 +50,25 @@ class CabinetDecisionsWebMixin:
         return url
 
     @classmethod
-    def gen_docs_from_url_date(
+    def get_docs_from_url_date(
         cls, date_str, url_date, lang
-    ) -> Generator["AbstractDoc", None, None]:
+    ) -> list[AbstractDoc]:
         www_date = WWW(url_date)
         soup = www_date.soup
         if not soup:
             log.error(f"[{www_date}] no soup.")
-            return
+            return []
         tables = soup.find_all("table", attrs={"width": "95%"})
         if len(tables) < 2:
             log.warning(f"[{www_date}] incorrect decision table.")
-            return
+            return []
         table = tables[1]
-        for tr in reversed(table.find_all("tr")):
+        doc_list = []
+
+        def process_tr(tr):
             tds = tr.find_all("td")
             if len(tds) < 2:
-                continue
+                return None
             num = tds[0].text.strip()
             a = tds[1].find("a")
             description = a.text.strip()
@@ -75,8 +77,15 @@ class CabinetDecisionsWebMixin:
             doc = cls.get_doc_from_url_details(
                 num, date_str, description, url_details, lang
             )
-            if doc:
-                yield doc
+            return doc
+
+        doc_list = Parallel.run(
+            process_tr,
+            list(reversed(table.find_all("tr"))),
+            max_threads=cls.MAX_THREADS,
+        )
+        doc_list = [doc for doc in doc_list if doc]
+        return doc_list
 
     @classmethod
     def gen_url_dates_from_url_year(
@@ -143,7 +152,7 @@ class CabinetDecisionsWebMixin:
         return min_date_str
 
     @classmethod
-    def gen_docs(cls) -> Generator["AbstractDoc", None, None]:
+    def gen_docs(cls) -> Generator[AbstractDoc, None, None]:
         min_data_str = cls.get_min_date_str()
         log.debug(f"{min_data_str=}")
         for lang, url_decision in cls.gen_url_decisions():
@@ -163,6 +172,7 @@ class CabinetDecisionsWebMixin:
                             f"Skipping date {date_str} > {min_data_str}"
                         )
                         continue
-                    yield from cls.gen_docs_from_url_date(
+                    for doc in cls.get_docs_from_url_date(
                         date_str, url_date, lang
-                    )
+                    ):
+                        yield doc
