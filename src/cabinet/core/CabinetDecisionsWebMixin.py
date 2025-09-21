@@ -63,7 +63,7 @@ class CabinetDecisionsWebMixin:
             log.warning(f"[{www_date}] incorrect decision table.")
             return
         table = tables[1]
-        for tr in table.find_all("tr"):
+        for tr in reversed(table.find_all("tr")):
             tds = tr.find_all("td")
             if len(tds) < 2:
                 continue
@@ -90,7 +90,7 @@ class CabinetDecisionsWebMixin:
         tables = soup.find_all("table", attrs={"width": "85%"})
         assert len(tables) == 2
         table = tables[1]
-        for tr in table.find_all("tr"):
+        for tr in reversed(table.find_all("tr")):
             for td in tr.find_all("td"):
                 a = td.find("a")
                 date_str = a.text.strip()
