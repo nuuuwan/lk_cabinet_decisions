@@ -1,7 +1,7 @@
 import re
 from typing import Generator
 
-from utils import Log
+from utils import Log, Time, TimeFormat
 
 from scraper import AbstractDoc
 from utils_future import WWW
@@ -135,14 +135,27 @@ class CabinetDecisionsWebMixin:
             yield lang, f"{cls.URL_DECISION_WITHOUT_LANG}&lang={lang}"
 
     @classmethod
+    def get_min_date_str(cls) -> str:
+        doc_list = cls.list_all()
+        if not doc_list:
+            return TimeFormat.DATE.format(Time.now())
+        min_date_str = min(doc.date_str for doc in doc_list)
+        return min_date_str
+
+    @classmethod
     def gen_docs(cls) -> Generator["AbstractDoc", None, None]:
+        min_data_str = cls.get_min_date_str()
         for lang, url_decision in cls.gen_url_decisions():
             for year_str, url_year in cls.gen_url_years_for_url_decision(
                 url_decision
             ):
+                if year_str > min_data_str[:4]:
+                    continue
                 for date_str, url_date in cls.gen_url_dates_from_url_year(
                     year_str, url_year
                 ):
+                    if date_str > min_data_str:
+                        continue
                     yield from cls.gen_docs_from_url_date(
                         date_str, url_date, lang
                     )

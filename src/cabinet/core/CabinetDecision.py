@@ -10,7 +10,7 @@ log = Log("CabinetDecision")
 
 
 @dataclass
-class CabinetDecision(AbstractDoc, CabinetDecisionsWebMixin):
+class CabinetDecision(CabinetDecisionsWebMixin, AbstractDoc):
     decision_details_title: str
     decision_details_body: str
 
