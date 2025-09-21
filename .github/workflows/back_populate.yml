@@ -1,4 +1,4 @@
-name: pipeline
+name: back_populate
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
         default: "3600"
 
 jobs:
-  pipeline:
+  back_populate:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
