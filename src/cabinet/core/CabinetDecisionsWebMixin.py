@@ -145,6 +145,7 @@ class CabinetDecisionsWebMixin:
     @classmethod
     def gen_docs(cls) -> Generator["AbstractDoc", None, None]:
         min_data_str = cls.get_min_date_str()
+        log.debug(f"{min_data_str=}")
         for lang, url_decision in cls.gen_url_decisions():
             for year_str, url_year in cls.gen_url_years_for_url_decision(
                 url_decision
