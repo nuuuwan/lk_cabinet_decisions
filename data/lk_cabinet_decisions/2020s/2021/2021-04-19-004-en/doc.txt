@@ -1,0 +1,5 @@
+Implementation of Digitization of Terrestrial Television Broadcasting Project in Sri Lanka under the Japanese Loan
+
+Press briefing of Cabinet Decision taken on 2021-04-19
+
+- The Terrestrial Television Broadcasting is evolving from Analog to Digital and it has been found necessary to adapt this system according to the world trend. Accordingly, required decisions had been made at several occasions to move to Analog to Digital Terrestrial Television Broadcasting system, but those decisions have not been implemented so far. It has been decided to introduce ISDB-T Technology to suit Sri Lanka, subsequent to a feasibility study conducted by the Japan International Cooperation Agency (JICA). Adaption to the Digital Technology will enable to use a part of Frequency Spectrum utilized at present for wireless broadband services thus increasing  internet access in rural areas. Accordingly,  the joint proposal made by H.E the President in his capacity as the Minister of Technology and the Minister of Mass Media to implement  Digitization of Terrestrial Television Broadcasting Project utilizing modern technology, was approved by the Cabinet.
