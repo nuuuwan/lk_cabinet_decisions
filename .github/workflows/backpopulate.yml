@@ -6,9 +6,7 @@ on:
       max_dt:
         description: "max_dt"
         required: false
-        default: "1"
-  # schedule:
-  #   - cron: "20 * * * *"
+        default: "3600"
 
 jobs:
   pipeline:
