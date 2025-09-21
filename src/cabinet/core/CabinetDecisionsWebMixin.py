@@ -79,7 +79,7 @@ class CabinetDecisionsWebMixin:
             )
             return doc
 
-        doc_list = Parallel.run(
+        doc_list = Parallel.map(
             process_tr,
             list(reversed(table.find_all("tr"))),
             max_threads=cls.MAX_THREADS,
