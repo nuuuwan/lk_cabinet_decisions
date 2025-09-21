@@ -1,0 +1,34 @@
+{
+  "doc_class_label": "lk_cabinet_decisions",
+  "doc_class_emoji": "\ud83c\udfdb\ufe0f",
+  "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
+  "time_updated": "2025-09-21 07:18:05",
+  "n_docs": 29,
+  "n_docs_with_pdfs": 0,
+  "n_docs_with_text": 29,
+  "date_str_min": "2025-09-03",
+  "date_str_max": "2025-09-08",
+  "dataset_size": 147081,
+  "url_source": "https://www.cabinetoffice.gov.lk/cab/index.php",
+  "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
+  "langs": [
+    "en"
+  ],
+  "latest_doc_d": {
+    "doc_type": "lk_cabinet_decisions",
+    "doc_id": "2025-09-08-020-en",
+    "num": "20",
+    "date_str": "2025-09-08",
+    "description": "Submission of the Appropriation Bill for the financial year 2026 to Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418",
+    "lang": "en",
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-09-08 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval had been granted at the Cabinet meeting held on 2025-07-01 to prepare the Appropriation Bill for the financial year 2026. Accordingly, the clearance of the Attorney General has been received for the Appropriation Bill for the financial year 2026 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet."
+  },
+  "year_to_lang_to_n": {
+    "2025": {
+      "en": 29
+    }
+  },
+  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png"
+}
