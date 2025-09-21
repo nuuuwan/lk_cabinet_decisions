@@ -90,8 +90,9 @@ class CabinetDecisionsWebMixin:
         tables = soup.find_all("table", attrs={"width": "85%"})
         assert len(tables) == 2
         table = tables[1]
+        data_str_set = set()  # HACK to prevent duplicates
         for tr in reversed(table.find_all("tr")):
-            for td in tr.find_all("td"):
+            for td in reversed(tr.find_all("td")):
                 a = td.find("a")
                 date_str = a.text.strip()
                 assert (
@@ -100,6 +101,10 @@ class CabinetDecisionsWebMixin:
                     and date_str[7] == "-"
                 ), date_str
                 assert date_str[:4] == year_str
+                if date_str in data_str_set:
+                    continue
+                data_str_set.add(date_str)
+
                 url_date = f'{cls.URL_BASE}/cab/{a["href"]}'
                 yield date_str, url_date
 
@@ -113,10 +118,14 @@ class CabinetDecisionsWebMixin:
             log.error(f"[{www_home}] no soup.")
             return
         ul = soup.find("ul", class_="menu")
+        year_str_set = set()  # HACK to prevent duplicates
         for li in ul.find_all("li"):
             a = li.find("a")
             year_str = a.text.strip()
             if len(year_str) == 4 and year_str.isdigit():
+                if year_str in year_str_set:
+                    continue
+                year_str_set.add(year_str)
                 url_year = f'{cls.URL_BASE}/{a["href"]}'
                 yield year_str, url_year
 
