@@ -1,5 +1,0 @@
-National Backbone Network to be implemented by the Telecommunications Regulatory Commission of Sri Lanka (TRCSL)
-
-Press briefing of Cabinet Decision taken on 2011-02-09
-
-- The intention of this project is to create a network which would ensure access to reliable high speed broadband connectivity to urban as well as rural under-served areas which would enhanced the Information and Communication Technology in the country, which is targeted to be increased to 75% by 2016. The proposal made by H.E. the President for the TRCSL to negotiate with Sri Lanka Telecom PLC to provide broadband connectivity facility on equitable terms and at affordable prices, was approved by the Cabinet.
