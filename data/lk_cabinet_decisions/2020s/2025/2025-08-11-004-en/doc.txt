@@ -1,0 +1,5 @@
+Creating a Digital Rubber Land Mapping/Registration System
+
+Press briefing of Cabinet Decision taken on 2025-08-11 (Subject to Confirmation at the next Meeting)
+
+- The European Union has introduced new regulations (EUDR) that must be complied with when exporting rubber and rubber-related products to the countries of the European Union which is a major market for Sri Lankan rubber. Sri Lanka will also have to comply with the new regulations after 2025‑12‑31 to ensure that rubber supply chains do not contribute to deforestation. Accordingly, the need to create a Digital Rubber Land Mapping System has been identified to ensure that rubber supply chains do not contribute to deforestation. This project will geo-coordinate the rubber lands of small rubber plantation owners across the country and create a comprehensive and verifiable database on land ownership and use using innovative Geographic Information System (GIS) technology. Accordingly, the proposal made by the Minister of Plantation and Community Infrastructure to implement the project to create a Digital Rubber Land Mapping/Registration System, was approved by the Cabinet.
