@@ -4,7 +4,7 @@ from typing import Generator
 from utils import Log, Parallel, Time, TimeFormat
 
 from scraper import AbstractDoc
-from utils_future import WWW
+from utils import WWW
 
 log = Log("CabinetDecisionsWebMixin")
 
