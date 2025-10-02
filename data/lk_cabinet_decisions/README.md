@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_10:54:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_11:35:32-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**9,248** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**88.8 MB**), from **2010-09-27** to **2025-09-08**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**9,281** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**89.0 MB**), from **2010-09-27** to **2025-09-22**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-09-08-020-en",
-    "num": "20",
-    "date_str": "2025-09-08",
-    "description": "Submission of the Appropriation Bill for the financial year 2026 to Parliament",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13418",
+    "doc_id": "2025-09-22-015-en",
+    "num": "15",
+    "date_str": "2025-09-22",
+    "description": "New Microfinance and Credit Regulatory Authority Bill",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13451",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-09-08 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval had been granted at the Cabinet meeting held on 2025-07-01 to prepare the Appropriation Bill for the financial year 2026. Accordingly, the clearance of the Attorney General has been received for the Appropriation Bill for the financial year 2026 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-09-22 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval of the Cabinet has previously been granted to introduce a new Microfinance and Credit Regulatory Authority Act, since the provisions in the Microfinance Act No, 6 of 2016 are inadequate to establish a comprehensive regulatory framework for microfinance industry in Sri Lanka. Subsequent to the publication of the Bill prepared accordingly in the Government Gazette, 07 petitions had been filed in the Supreme Court by various parties against the said Bill. Taking into account the determination delivered by the Supreme Court on the said petitions and the guidance of the Parliamentary \u2018Sectoral Oversight Committee on Mitigating the Impact of the Economic Crisis\u2019, the Ministry of Finance, Planning and Economic Development and the Central Bank of Sri Lanka have paid their attention towards the formulation of a new Bill. Accordingly, the Cabinet, at its meeting held on 2025 08 11, granted approval to introduce a new Microfinance and Credit Regulatory Authority Act. The clearance of the Attorney General has been received for the Bill prepared by the Legal Draftsman. The Proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Microfinance and Credit Regulatory Authority Bill in the Government Gazette and submit the same thereafter to Parliament for approval, was approved by the Cabinet."
 }
 ```
 
@@ -39,26 +39,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
-- 2025-09-08 | `20` | Submission of the Appropriation Bill for the financial year 2026 to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-020-en)
-- 2025-09-08 | `19` | Appointment to the Post of Commissioner General of Agrarian Development | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-019-en)
-- 2025-09-08 | `18` | Amendment to the Ceylon Arts Council Act, No.18 of 1952 (Chapter 278) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-018-en)
-- 2025-09-08 | `17` | Formulating a new law for foster care | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-017-en)
-- 2025-09-08 | `16` | Amendment of the Sri Lanka Press Council Act, No.5 of 1973 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-016-en)
-- 2025-09-08 | `15` | Introducing a new National Statistics Act | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-015-en)
-- 2025-09-08 | `14` | Implementation of the 'Mission Olympics' programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-014-en)
-- 2025-09-08 | `13` | Re-commencement of the currently suspended Health Care Infrastructure Projects | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-013-en)
-- 2025-09-08 | `12` | Conducting the Presidential Media Awards Ceremony | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-012-en)
-- 2025-09-08 | `11` | Construction of a Water Treatment Plant with a capacity of 5000 cubic meters per day for the Avissawella Water Supply Scheme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-011-en)
-- 2025-09-08 | `10` | Establishment of the Dambulla Industrial Estate | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-010-en)
-- 2025-09-08 | `9` | Allocation of additional provisions for Road Development Projects | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-009-en)
-- 2025-09-08 | `8` | Procurement for Designing, Developing, Printing and Supplying of computer based draw lottery tickets, to the Development Lotteries Board for a period of one year | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-008-en)
-- 2025-09-08 | `7` | Printing School Textbooks/Modules required for the year 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-007-en)
-- 2025-09-08 | `6` | Appointment of a Committee to issue National Electricity Policy and Policy Guidelines | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-006-en)
-- 2025-09-08 | `5` | Appointment of a Cabinet Sub Committee for organizing activities of the 78th Independence Day Ceremony | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-005-en)
-- 2025-09-08 | `4` | Allocation of land plots from Regional Industrial Estates to set up new Industries | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-004-en)
-- 2025-09-08 | `3` | Ensuring the Sustainable Operation of Cascade System | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-003-en)
-- 2025-09-08 | `2` | Ratification of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-002-en)
-- 2025-09-08 | `1` | National Climate Finance Strategy of Sri Lanka (2025-2030) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-08-001-en)
+- 2025-09-22 | `15` | New Microfinance and Credit Regulatory Authority Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-015-en)
+- 2025-09-22 | `14` | Programme for Granting a Cost of Living Allowance for children in institutional care or guardianship and street children | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-014-en)
+- 2025-09-22 | `13` | Procurement for the supply of 2,200,000 vials of Biphasic Isophane Insulin Injection (Human) 30% Soluble 70% Isophane | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-013-en)
+- 2025-09-22 | `12` | Implementation of Phase I of the Eppawala, Giribawa, Rajanganaya and Nochchiyagama Integrated Water Supply Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-012-en)
+- 2025-09-22 | `11` | Calling for Expressions of Interest from interested investors for the Caustic Soda/Chlorine project in Paranthan | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-011-en)
+- 2025-09-22 | `10` | Rehabilitation of a section of the Southern Expressway from Kottawa to Dodangoda | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-010-en)
+- 2025-09-22 | `9` | Improvement of (B115) Embilipitiya-Panamure-Buluthota Road | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-009-en)
+- 2025-09-22 | `8` | Completion of works of stalled sub-projects implemented through the “Nearest School is the Best School” Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-008-en)
+- 2025-09-22 | `7` | Completion of all works of the unfinished construction projects of the universities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-007-en)
+- 2025-09-22 | `6` | Creating a 'Government Super App' to enable the public to obtain the Public services through a single web application | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-006-en)
+- 2025-09-22 | `5` | National Policy for Older Persons in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-005-en)
+- 2025-09-22 | `4` | Treaty on Transfer of Sentenced Persons between Sri Lanka and the Republic of the Philippines | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-004-en)
+- 2025-09-22 | `3` | Signing a Treaty on Mutual Legal Assistance in Criminal Matters between Sri Lanka and the Republic of Philippines | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-003-en)
+- 2025-09-22 | `2` | Memoranda of Understanding between Sri Lanka and the Republic of Turkey on Agricultural Cooperation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-002-en)
+- 2025-09-22 | `1` | Entering into Memoranda of Understanding on Educational Collaboration between Sri Lankan Universities and Foreign Universities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-22-001-en)
+- 2025-09-15 | `18` | Social Security Contribution Levy (Amendment) Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-018-en)
+- 2025-09-15 | `17` | Declaration of "a National Children's Day Week" | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-017-en)
+- 2025-09-15 | `16` | Providing compensation to the sugarcane farmers whose crops were damaged due to burning of sugarcane plantations at the Sevanagala Sugar Factory | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-016-en)
+- 2025-09-15 | `15` | Amendment to the Betting and Gaming Levy Act, No.40 of 1988 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-015-en)
+- 2025-09-15 | `14` | Submission of the Appropriation Bill to Parliament - 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-09-15-014-en)
 
 ---
 
