@@ -153,25 +153,13 @@ class CabinetDecisionsWebMixin:
 
     @classmethod
     def gen_docs(cls) -> Generator[AbstractDoc, None, None]:
-        min_data_str = cls.get_min_date_str()
-        log.debug(f"{min_data_str=}")
         for lang, url_decision in cls.gen_url_decisions():
             for year_str, url_year in cls.gen_url_years_for_url_decision(
                 url_decision
             ):
-                if year_str > min_data_str[:4]:
-                    log.warning(
-                        f"Skipping year {year_str} > {min_data_str[:4]}"
-                    )
-                    continue
                 for date_str, url_date in cls.gen_url_dates_from_url_year(
                     year_str, url_year
                 ):
-                    if date_str > min_data_str:
-                        log.warning(
-                            f"Skipping date {date_str} > {min_data_str}"
-                        )
-                        continue
                     for doc in cls.get_docs_from_url_date(
                         date_str, url_date, lang
                     ):
