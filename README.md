@@ -4,7 +4,7 @@
 
 ## 001 🏛️ Cabinet Decisions
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_10:07:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:05:52-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
@@ -15,6 +15,8 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
 - In **සිංහල** & **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png)
 
