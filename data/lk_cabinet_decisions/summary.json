@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-10-16 19:09:30",
-  "n_docs": 10385,
+  "time_updated": "2025-10-16 20:07:00",
+  "n_docs": 10412,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2025-10-07",
-  "dataset_size": 136444724,
+  "date_str_max": "2025-10-13",
+  "dataset_size": 136498387,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-10-07-016-en",
-    "num": "16",
-    "date_str": "2025-10-07",
-    "description": "Appointment to a Post of Deputy Secretary to the Treasury",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13476",
+    "doc_id": "2025-10-13-027-en",
+    "num": "27",
+    "date_str": "2025-10-13",
+    "description": "Importation of rice known as GR 11/Ponni Samba to address the shortage of Keeri Samba rice in the local market",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13503",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-10-07 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Mr. H.C.D.L Silva, who served as a Deputy Secretary the Treasury, retired from the Public Service with effect from 2025\u201110\u201106 upon the completion of 60 years of age. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. A.N. Hapugala, Special Grade Officer of the Sri Lanka Accountants\u2019 Service, presently serving as the Director General of the Department of Treasury Operations, to the said vacant Post of Deputy Secretary to the Treasury, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-10-13 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- According to the Household Income and Expenditure Survey Report of the Department of Census and Statistics, the estimated annual rice consumption in Sri Lanka is 2,460,000 metric tons, of which the annual consumption of Keeri Samba is 10%, i.e. about 246,000 metric tons. The joint proposal made by the Minister of Agriculture, Livestock, Land and Irrigation and the Minister of Trade, Commerce, Food Security and Cooperative Development, to bring attention to the current shortage of Kiri Samba rice in the domestic market and the sale of Kiri Samba at prices higher than the control price and to exempt from the requirement of obtaining import control licenses to import GR 11/Ponni Samba rice, which is considered a substitute for Kiri Samba rice, from 2025-10-15 to 2025-11-15, subject to a maximum of 520 metric tons per importer, based on the recommendations of the Food Policy and Security Committee, was approved by the Cabinet."
   }
 }
