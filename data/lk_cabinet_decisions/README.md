@@ -1,6 +1,6 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_23:06:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_00:08:30-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
