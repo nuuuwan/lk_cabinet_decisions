@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-11-14 10:07:44",
-  "n_docs": 10458,
+  "time_updated": "2025-11-14 11:06:57",
+  "n_docs": 10465,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2025-11-03",
-  "dataset_size": 138997879,
+  "date_str_max": "2025-11-10",
+  "dataset_size": 139020896,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-11-03-014-en",
-    "num": "14",
-    "date_str": "2025-11-03",
-    "description": "Procedure of granting provisions for selected project proposals under the \u2018National Initiative for Research and Development Commercialization\u2019",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13549",
+    "doc_id": "2025-11-10-007-en",
+    "num": "7",
+    "date_str": "2025-11-10",
+    "description": "Procurement of Buses, Vans, Gully Bowsers and Tractors for the Department of Prisons",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13556",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-03 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- In order to expedite the implementation of the production economy policy of the present government, a provision of Rs. 01 billion has been allocated in the 2025 Budget for the commercialization of processes that bring forth new ideas, methods, products, services or solutions with a significant positive impact and value through research and development. Accordingly, a dedicated unit called the \u2018National Initiative for Research and Development Commercialization' has been established under the Presidential Secretariat, enabling to evaluate the technical and economic potential of the projects and set up a proper investor friendly path for the implementation of those projects thereby contributing to the development of the country. As of now, applications worth about Rs. 2.2 billion have been submitted by local researchers and entrepreneurs to the said unit. The unit has taken steps to prepare a methodology called \u2018National Initiative for Research and Development Commercialization' to evaluate project proposals under 02 main phases namely Technical Evaluation and Administrative Evaluation in order to select the most economically, socially and environmentally effective projects from among the applications. Accordingly, measures will be taken to classify unique and essential projects through the proposed evaluation process as well as to identify projects that make a high contribution to economic progress. Based on the viability of the projects selected from the projects thus evaluated, Grants will be provided as follows:\n\n*\tThe maximum Grant amount is Rs.50 million\n\n*\tA Grant amount to a maximum of Rs.10 million will be granted from the approved Grant amount, depending on the viability of the project.\n\n*\tThe balance provided in addition to the grant amount should be settled as 25% of from the annual net profit after a grace period of one year.\n\n*\tThe relevant Grant amount will be jointly provided by the Bank of Ceylon and the Department of Development Finance of the General Treasury to the selected researchers and entrepreneurs.\n\nAccordingly, the proposal made by the Hon. President to implement the proposed methodology for providing Grants to project proposals selected under the \u2018National Initiative for Research and Development Commercialization', was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-10 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The necessity for the supply of essential vehicle facilities to the Department of Prisons has arisen in order to carry out the relevant duties efficiently in directly engaging with the courts in relation to suspects in remand custody and accused sentenced by various courts in Sri Lanka and dealing with the welfare of those detainees. Accordingly, bids have been invited under the National Competitive Procurement Procedure for the purchase of 30 buses (44 seater), 10 buses (30 seater), 10 vans, 05 gully bowsers and 03 tractors for the Department of Prisons. 08 bidders have submitted bids for the same. Accordingly, the proposal made by the Minister of Justice and National Integration to award the procurement for the purchase of vehicles for the Department of Prisons as follows, based on the recommendations submitted by the Standing High-Level Procurement Committee pertaining to the said bids, was approved by the Cabinet.\n\n\nItemQuantityName of the lowest evaluated bidder\n\n\nBuses(44 Seater)30Lanka Ashok Leyland (PLC)\nBuses(30 Seater)10Lanka Ashok Leyland (PLC)\nVans10Toyota Lanka Pvt Ltd\nGully Bowsers05Solex Technologies Pvt Ltd.\nTractors03Browns & Co. PLC"
   }
 }
