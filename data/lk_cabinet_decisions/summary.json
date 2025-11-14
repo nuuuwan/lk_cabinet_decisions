@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-11-14 11:06:57",
-  "n_docs": 10465,
+  "time_updated": "2025-11-14 12:08:23",
+  "n_docs": 10472,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
   "date_str_max": "2025-11-10",
-  "dataset_size": 139020896,
+  "dataset_size": 139054095,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-11-10-007-en",
-    "num": "7",
+    "doc_id": "2025-11-10-014-en",
+    "num": "14",
     "date_str": "2025-11-10",
-    "description": "Procurement of Buses, Vans, Gully Bowsers and Tractors for the Department of Prisons",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13556",
+    "description": "Appointment to the Post of Co-operative Development Commissioner/ Registrar of Co-operative Societies",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13563",
     "lang": "en",
     "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-10 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The necessity for the supply of essential vehicle facilities to the Department of Prisons has arisen in order to carry out the relevant duties efficiently in directly engaging with the courts in relation to suspects in remand custody and accused sentenced by various courts in Sri Lanka and dealing with the welfare of those detainees. Accordingly, bids have been invited under the National Competitive Procurement Procedure for the purchase of 30 buses (44 seater), 10 buses (30 seater), 10 vans, 05 gully bowsers and 03 tractors for the Department of Prisons. 08 bidders have submitted bids for the same. Accordingly, the proposal made by the Minister of Justice and National Integration to award the procurement for the purchase of vehicles for the Department of Prisons as follows, based on the recommendations submitted by the Standing High-Level Procurement Committee pertaining to the said bids, was approved by the Cabinet.\n\n\nItemQuantityName of the lowest evaluated bidder\n\n\nBuses(44 Seater)30Lanka Ashok Leyland (PLC)\nBuses(30 Seater)10Lanka Ashok Leyland (PLC)\nVans10Toyota Lanka Pvt Ltd\nGully Bowsers05Solex Technologies Pvt Ltd.\nTractors03Browns & Co. PLC"
+    "decision_details_body": "- A request has been made by Ms. H.A. Asha Hapuarachchi, Grade I Officer of the Sri Lanka Administrative Service, presently serving as the Co-operative Development Commissioner/Registrar of Co-operative Societies, to release her from the said Post. Accordingly, the proposal made by the Minister of Trade, Commerce, Food Security and Co-operative Development to release her from the said Post and to appoint Ms. Tharanie Kumaradasa, Grade I officer of the Sri Lanka Administrative Service, presently serving as a Senior Assistant Secretary of the Ministry of Trade, Commerce, Food Security and Co-operative Development, to the Post of Co-operative Development Commissioner/Registrar of Co-operative Societies that falls vacant, was approved by the Cabinet."
   }
 }
