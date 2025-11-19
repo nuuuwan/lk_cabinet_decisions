@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_11:07:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_12:08:26-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,472** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**139.1 MB**), from **2010-09-27** to **2025-11-10**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,485** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**139.1 MB**), from **2010-09-27** to **2025-11-17**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-11-10-014-en",
-    "num": "14",
-    "date_str": "2025-11-10",
-    "description": "Appointment to the Post of Co-operative Development Commissioner/ Registrar of Co-operative Societies",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13563",
+    "doc_id": "2025-11-17-013-en",
+    "num": "13",
+    "date_str": "2025-11-17",
+    "description": "Appointment to the Post of Director General of Irrigation",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13576",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-10 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- A request has been made by Ms. H.A. Asha Hapuarachchi, Grade I Officer of the Sri Lanka Administrative Service, presently serving as the Co-operative Development Commissioner/Registrar of Co-operative Societies, to release her from the said Post. Accordingly, the proposal made by the Minister of Trade, Commerce, Food Security and Co-operative Development to release her from the said Post and to appoint Ms. Tharanie Kumaradasa, Grade I officer of the Sri Lanka Administrative Service, presently serving as a Senior Assistant Secretary of the Ministry of Trade, Commerce, Food Security and Co-operative Development, to the Post of Co-operative Development Commissioner/Registrar of Co-operative Societies that falls vacant, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-17 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Mr. I.P.A. Gunasekara, presently serving in the Post of Director General of Irrigation, is scheduled to retire from the Public Service from 2025\u201112\u201104. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Dr. (Eng.) K. Weligepolage, the most senior officer in the Special Grade Civil Category 3 of the Sri Lanka Engineering Service, presently serving as an Additional Director General of the said Department, to the post of Director General of Irrigation falling vacant, with effect from 2025\u201112\u201104, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,19 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `13` | Appointment to the Post of Director General of Irrigation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-013-en)
+- 2025-11-17 | `12` | Submission of the Parliamentary Pensions Law (Repeal) Bill for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-012-en)
+- 2025-11-17 | `11` | Amending the National Institute of Occupational Safety and Health Act, No.38 of 2009 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-011-en)
+- 2025-11-17 | `10` | Presenting the Regulation made under section 66 of the Shop and Office Employees (Regulation of Employment and Remuneration) Act (chapter 129), in Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-010-en)
+- 2025-11-17 | `9` | Submission of Public Debt Management Regulations No.02 of 2025, to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-009-en)
+- 2025-11-17 | `8` | Pipeline Project from Kolonnawa Installation to Colombo Harbour | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-008-en)
+- 2025-11-17 | `7` | Implementation of the Ranmihitenna National Tele Cinema Park productively through a private sector investment | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-007-en)
+- 2025-11-17 | `6` | Providing residential facilities for Prison Officers | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-006-en)
+- 2025-11-17 | `5` | Completion of 74 bridges identified under the Rural Bridges Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-005-en)
+- 2025-11-17 | `4` | Awarding the Contract for the construction of the proposed seven storied residential building for the Sri Lanka Railways under the Kandy Multimodal Transport Terminal Development Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-004-en)
+- 2025-11-17 | `3` | Purchase of Green Gram Harvest of the Interim Season of 2025 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-003-en)
+- 2025-11-17 | `2` | Implementation of New Health Sector Project Proposals to enhance the health condition of the people | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-002-en)
+- 2025-11-17 | `1` | Conducting the ‘Aqua Planet – Sri Lanka, International Expo – 2025’ in parallel with the International Fisheries Day | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-001-en)
 - 2025-11-10 | `14` | Appointment to the Post of Co-operative Development Commissioner/ Registrar of Co-operative Societies | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-014-en)
 - 2025-11-10 | `13` | Implementation of Pilot Demonstration Models in order to introduce Piped Irrigation Modalities as a novel approach for Sri Lanka’s irrigation sector | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-013-en)
 - 2025-11-10 | `12` | Amending the Universities Act, No.16 of 1978 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-012-en)
@@ -48,19 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2025-11-10 | `10` | Introduction of a new Bill for Investment Protection | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-010-en)
 - 2025-11-10 | `9` | Procurement for the Replacement of Petroleum Storage Tanks No.30 and 31 at the Kolonnawa Installation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-009-en)
 - 2025-11-10 | `8` | Construction of Indoor Stadium in Jaffna | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-008-en)
-- 2025-11-10 | `7` | Procurement of Buses, Vans, Gully Bowsers and Tractors for the Department of Prisons | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-007-en)
-- 2025-11-10 | `6` | Implementation of the Project on Local Authority Small Bridges Sustainable Improvement | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-006-en)
-- 2025-11-10 | `5` | Implementation of the Strategic Plan for Vidatha Resource Centres | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-005-en)
-- 2025-11-10 | `4` | 28th Joint Asia Pacific Regional Social Work Conference | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-004-en)
-- 2025-11-10 | `3` | Establishment of Multi-Modal Transport Centres | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-003-en)
-- 2025-11-10 | `2` | Restructuring of the Housing Development Finance Corporation Bank of Sri Lanka and the Stage Mortgage and Investment Bank | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-002-en)
-- 2025-11-10 | `1` | Establishment of an Information Technology Services Subsidiary for the Bank of Ceylon | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-001-en)
-- 2025-11-03 | `14` | Procedure of granting provisions for selected project proposals under the ‘National Initiative for Research and Development Commercialization’ | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-014-en)
-- 2025-11-03 | `13` | Amendment of the National Tariff Policy | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-013-en)
-- 2025-11-03 | `12` | Entering into an Agreement with the International Finance Corporation of the World Bank Group to Finance the Secure, Affordable and Sustainable Energy for Sri Lanka Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-012-en)
-- 2025-11-03 | `11` | Entering into Loan Agreements with the Asian Development Bank for the implementation of the Sustainable Tourism Sector Development Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-011-en)
-- 2025-11-03 | `10` | Submission of Imports and Exports (Control) Regulations No.08 of 2025 for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-010-en)
-- 2025-11-03 | `9` | Recruitment of Female Officers to the Posts of Locomotive Driver, Railway Guard, Station Master, and Railway Supervisory Manager in the Department of Sri Lanka Railways | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-03-009-en)
 
 ---
 
