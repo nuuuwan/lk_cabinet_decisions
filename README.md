@@ -4,7 +4,7 @@
 
 ## 001 🏛️ Cabinet Decisions
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_08:31:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_09:17:39-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
