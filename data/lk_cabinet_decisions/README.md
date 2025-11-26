@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_10:08:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_11:07:07-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,485** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**139.2 MB**), from **2010-09-27** to **2025-11-17**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,498** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**139.2 MB**), from **2010-09-27** to **2025-11-24**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-11-17-013-en",
+    "doc_id": "2025-11-24-013-en",
     "num": "13",
-    "date_str": "2025-11-17",
-    "description": "Appointment to the Post of Director General of Irrigation",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13576",
+    "date_str": "2025-11-24",
+    "description": "Submission of the Gazette Extraordinary Notifications published in respect of Gem Industry, for approval of Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13589",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-17 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Mr. I.P.A. Gunasekara, presently serving in the Post of Director General of Irrigation, is scheduled to retire from the Public Service from 2025\u201112\u201104. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Dr. (Eng.) K. Weligepolage, the most senior officer in the Special Grade Civil Category 3 of the Sri Lanka Engineering Service, presently serving as an Additional Director General of the said Department, to the post of Director General of Irrigation falling vacant, with effect from 2025\u201112\u201104, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-24 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Cabinet approved the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit the following Regulations/Orders published through the following Gazette Notifications, making relevant provisions to promote the gem industry in Sri Lanka, to Parliament for approval:\n\nThe Regulation imposed under section 6 of the Value Added Tax Act, No.14 of 2002, published through the Gazette Extraordinary Notification No.2461/43 dated 2025\u201111\u201107, enabling to apply Value Added Tax on imported precious gems/semi-precious gems, on a weight-based value basis;\nThe Revenue Protection Order No. 04/2025 made under the provisions of the Revenue Protection Act No.19 of 1962, published through the Gazette Extraordinary Notification No.2461/40 dated 2025\u201111\u201107, to create separate new National Sub-Divisions HS Codes for precious gems/semi-precious gems, enabling to apply Value Added Tax on imported precious gems/semi-precious gems, on a weight\u2011based value basis; and\nThe Order issued under section 3 of the Ports and Airports Development Levy Act, No.18 of 2011, published through the Gazette Extraordinary Notification No.2461/44 dated 2025\u201111\u201107, enabling the existing exemptions from the Ports and Airports Development Levy to continue under the same newly created new National Sub-Divisions Customs Codes referred to at above."
 }
 ```
 
@@ -41,6 +41,19 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `13` | Submission of the Gazette Extraordinary Notifications published in respect of Gem Industry, for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-013-en)
+- 2025-11-24 | `12` | Amending the Colombo Port City Economic Commission Act, No.11 of 2021 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-012-en)
+- 2025-11-24 | `11` | Providing relief to fifteen employees of Kabool Lanka (Pvt) Ltd, Thulhiriya and to the employees at the Thulhiriya and Pugoda textile mills that were under the National Textile Corporation, who have lost their jobs and have not yet received compensation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-011-en)
+- 2025-11-24 | `10` | Submission of the Registration and Licensing of Medicines (fees) Regulations, No.02 of 2017, as amended for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-010-en)
+- 2025-11-24 | `9` | Construction of Norochcholai - Wariyapola Transmission Line and Wariyapola Switching Station | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-009-en)
+- 2025-11-24 | `8` | Conducting remaining development activities of the Kelaniya Vidyalankara International Buddhist Conference Hall | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-008-en)
+- 2025-11-24 | `7` | Procurement of 3,000,000 inactivated doses of Rabies Vaccine (Human Use) of 0.5ml/1ml | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-007-en)
+- 2025-11-24 | `6` | Awarding the Contract for Widening and Improvement of the road section from 2+900km to 3+736km of the William Gopallawa Mawatha, Kandy to 4 - Lane Standard | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-006-en)
+- 2025-11-24 | `5` | Sri Lanka’s Accession to the Regional Comprehensive Economic Partnership Agreement | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-005-en)
+- 2025-11-24 | `4` | Signing of the Agreement on the Mutual Recognition of Driving Licenses between Italy and Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-004-en)
+- 2025-11-24 | `3` | Suspension of the license issuing process for the implementation of the terrestrial analog system channels | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-003-en)
+- 2025-11-24 | `2` | Amendment to the Agreement entered into between Sri Lanka and Luxembourg for the Avoidance of Double Taxation and Prevention of Fiscal Evasion with regard to Taxes on Income | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-002-en)
+- 2025-11-24 | `1` | Submission of Recommendations of the Finance Commission to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-001-en)
 - 2025-11-17 | `13` | Appointment to the Post of Director General of Irrigation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-013-en)
 - 2025-11-17 | `12` | Submission of the Parliamentary Pensions Law (Repeal) Bill for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-012-en)
 - 2025-11-17 | `11` | Amending the National Institute of Occupational Safety and Health Act, No.38 of 2009 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-011-en)
@@ -48,19 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2025-11-17 | `9` | Submission of Public Debt Management Regulations No.02 of 2025, to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-009-en)
 - 2025-11-17 | `8` | Pipeline Project from Kolonnawa Installation to Colombo Harbour | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-008-en)
 - 2025-11-17 | `7` | Implementation of the Ranmihitenna National Tele Cinema Park productively through a private sector investment | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-007-en)
-- 2025-11-17 | `6` | Providing residential facilities for Prison Officers | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-006-en)
-- 2025-11-17 | `5` | Completion of 74 bridges identified under the Rural Bridges Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-005-en)
-- 2025-11-17 | `4` | Awarding the Contract for the construction of the proposed seven storied residential building for the Sri Lanka Railways under the Kandy Multimodal Transport Terminal Development Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-004-en)
-- 2025-11-17 | `3` | Purchase of Green Gram Harvest of the Interim Season of 2025 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-003-en)
-- 2025-11-17 | `2` | Implementation of New Health Sector Project Proposals to enhance the health condition of the people | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-002-en)
-- 2025-11-17 | `1` | Conducting the ‘Aqua Planet – Sri Lanka, International Expo – 2025’ in parallel with the International Fisheries Day | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-17-001-en)
-- 2025-11-10 | `14` | Appointment to the Post of Co-operative Development Commissioner/ Registrar of Co-operative Societies | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-014-en)
-- 2025-11-10 | `13` | Implementation of Pilot Demonstration Models in order to introduce Piped Irrigation Modalities as a novel approach for Sri Lanka’s irrigation sector | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-013-en)
-- 2025-11-10 | `12` | Amending the Universities Act, No.16 of 1978 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-012-en)
-- 2025-11-10 | `11` | Annulment of the National Film Corporation of Sri Lanka Act, No.47 of 1971 and introduction of a new Act | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-011-en)
-- 2025-11-10 | `10` | Introduction of a new Bill for Investment Protection | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-010-en)
-- 2025-11-10 | `9` | Procurement for the Replacement of Petroleum Storage Tanks No.30 and 31 at the Kolonnawa Installation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-009-en)
-- 2025-11-10 | `8` | Construction of Indoor Stadium in Jaffna | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-10-008-en)
 
 ---
 

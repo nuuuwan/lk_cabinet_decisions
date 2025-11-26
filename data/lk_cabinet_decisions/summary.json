@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-11-26 10:08:13",
-  "n_docs": 10485,
+  "time_updated": "2025-11-26 11:07:02",
+  "n_docs": 10498,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2025-11-17",
-  "dataset_size": 139153485,
+  "date_str_max": "2025-11-24",
+  "dataset_size": 139200483,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-11-17-013-en",
+    "doc_id": "2025-11-24-013-en",
     "num": "13",
-    "date_str": "2025-11-17",
-    "description": "Appointment to the Post of Director General of Irrigation",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13576",
+    "date_str": "2025-11-24",
+    "description": "Submission of the Gazette Extraordinary Notifications published in respect of Gem Industry, for approval of Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13589",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-17 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Mr. I.P.A. Gunasekara, presently serving in the Post of Director General of Irrigation, is scheduled to retire from the Public Service from 2025\u201112\u201104. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation to appoint Dr. (Eng.) K. Weligepolage, the most senior officer in the Special Grade Civil Category 3 of the Sri Lanka Engineering Service, presently serving as an Additional Director General of the said Department, to the post of Director General of Irrigation falling vacant, with effect from 2025\u201112\u201104, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-11-24 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Cabinet approved the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit the following Regulations/Orders published through the following Gazette Notifications, making relevant provisions to promote the gem industry in Sri Lanka, to Parliament for approval:\n\nThe Regulation imposed under section 6 of the Value Added Tax Act, No.14 of 2002, published through the Gazette Extraordinary Notification No.2461/43 dated 2025\u201111\u201107, enabling to apply Value Added Tax on imported precious gems/semi-precious gems, on a weight-based value basis;\nThe Revenue Protection Order No. 04/2025 made under the provisions of the Revenue Protection Act No.19 of 1962, published through the Gazette Extraordinary Notification No.2461/40 dated 2025\u201111\u201107, to create separate new National Sub-Divisions HS Codes for precious gems/semi-precious gems, enabling to apply Value Added Tax on imported precious gems/semi-precious gems, on a weight\u2011based value basis; and\nThe Order issued under section 3 of the Ports and Airports Development Levy Act, No.18 of 2011, published through the Gazette Extraordinary Notification No.2461/44 dated 2025\u201111\u201107, enabling the existing exemptions from the Ports and Airports Development Levy to continue under the same newly created new National Sub-Divisions Customs Codes referred to at above."
   }
 }
