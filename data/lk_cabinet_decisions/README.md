@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_17:07:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_18:09:25-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,513** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**137.3 MB**), from **2010-09-27** to **2025-12-01**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,516** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**137.3 MB**), from **2010-09-27** to **2025-12-10**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-12-01-015-en",
-    "num": "15",
-    "date_str": "2025-12-01",
-    "description": "Appointment to the Post of Deputy Secretary to the Treasury",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13604",
+    "doc_id": "2025-12-10-003-en",
+    "num": "3",
+    "date_str": "2025-12-10",
+    "description": "Securing funds from the Asian Development Bank for the implementation of the Mahaweli Water Security Investment Programme  - Stage 2 Project",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13607",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-01 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Mr. D.A.P. Abeysekara, a Special Grade Officer of the Sri Lanka Planning Service, who served in a Post of Deputy Secretary to the Treasury, has retired from the Public Service from 2025-11-13 upon the completion of 60 years of age. Accordingly, Mr. S.S. Mudalige, Special Grade Officer of the Sri Lanka Planning Service, presently serving as the Director General of the Department of Project Management and Monitoring, has been identified as suitable for the vacant post of Deputy Secretary to the Treasury. Accordingly, the proposal made by the Hon. President, in his capacity as the Minister of Finance, Planning and Economic Development, to appoint Mr. S.S. Mudalige, Special Grade Officer of the Sri Lanka Planning Service, to the vacant post of Deputy Secretary to the Treasury with immediate effect, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-10 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2025-05-26 to negotiate with the Asian Development Bank and co-financing institutions to secure funds for the implementation of Phase 2 of the Mahaweli Water Security Investment Program, including the activities of completion of irrigation infrastructure facilities in the North Central Province Main Canal and the establishment of a Commercial Agriculture Development Programme with improved distribution water systems in the areas adjacent to the North Central Province Main Canal. This project will support major irrigation schemes such as Hurulu Wewa, Mannakattiya Wewa, Eru Wewa, Mahakanadarawa Wewa, Nachchaduwa Wewa, Nuwara Wewa and Thisa Wewa, and will facilitate cultivation of about 17,500 hectares. Also, the drinking water provided through the project will benefit about 175,000 families. Out of the estimated cost of USD 536.5 million for the project activities of the said project, it has been proposed to finance USD 200 million through the Asian Development Bank. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to enter into a Loan Agreement with the Asian Development Bank to obtain the said loan amount, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,9 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `3` | Securing funds from the Asian Development Bank for the implementation of the Mahaweli Water Security Investment Programme  - Stage 2 Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-003-en)
+- 2025-12-10 | `2` | Entering into a Memorandum of Understanding between the University of Colombo and the Ministry of Health of the Republic of Maldives with the objective of Academic Collaboration | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-002-en)
+- 2025-12-10 | `1` | Vesting the land and the constructions of the University College, Kinniya in the Trincomalee district with the Ministry of Foreign Affairs, Foreign Employment and Tourism | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-001-en)
 - 2025-12-01 | `15` | Appointment to the Post of Deputy Secretary to the Treasury | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-015-en)
 - 2025-12-01 | `14` | Establishment of ‘Rebuilding Sri Lanka Fund’ | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-014-en)
 - 2025-12-01 | `13` | Entering into a Grant Financing Agreement with the European Union for the implementation of the ‘AgriGreen Initiative’- Green Economic Growth through Sustainable Agricultural practices | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-013-en)
@@ -58,9 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2025-12-01 | `1` | Vesting of a block of land for the construction of buildings to provide hostel facilities for students and official quarters for the academic and non‑academic staff of the Rajarata University of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-001-en)
 - 2025-11-24 | `13` | Submission of the Gazette Extraordinary Notifications published in respect of Gem Industry, for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-013-en)
 - 2025-11-24 | `12` | Amending the Colombo Port City Economic Commission Act, No.11 of 2021 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-012-en)
-- 2025-11-24 | `11` | Providing relief to fifteen employees of Kabool Lanka (Pvt) Ltd, Thulhiriya and to the employees at the Thulhiriya and Pugoda textile mills that were under the National Textile Corporation, who have lost their jobs and have not yet received compensation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-011-en)
-- 2025-11-24 | `10` | Submission of the Registration and Licensing of Medicines (fees) Regulations, No.02 of 2017, as amended for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-010-en)
-- 2025-11-24 | `9` | Construction of Norochcholai - Wariyapola Transmission Line and Wariyapola Switching Station | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-009-en)
 
 ---
 
