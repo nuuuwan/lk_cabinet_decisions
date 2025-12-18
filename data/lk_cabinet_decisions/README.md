@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_18:09:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_19:11:45-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,516** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**137.3 MB**), from **2010-09-27** to **2025-12-10**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,533** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**139.5 MB**), from **2010-09-27** to **2025-12-10**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-12-10-003-en",
-    "num": "3",
+    "doc_id": "2025-12-10-020-en",
+    "num": "20",
     "date_str": "2025-12-10",
-    "description": "Securing funds from the Asian Development Bank for the implementation of the Mahaweli Water Security Investment Programme  - Stage 2 Project",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13607",
+    "description": "Consolidating the Micro, Small and Medium Enterprises (MSME) Sector Credit Programmes under a Single Umbrella Framework and implementing Loan Schemes to assist in revival of the disaster-affected MSMEs",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13624",
     "lang": "en",
     "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-10 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2025-05-26 to negotiate with the Asian Development Bank and co-financing institutions to secure funds for the implementation of Phase 2 of the Mahaweli Water Security Investment Program, including the activities of completion of irrigation infrastructure facilities in the North Central Province Main Canal and the establishment of a Commercial Agriculture Development Programme with improved distribution water systems in the areas adjacent to the North Central Province Main Canal. This project will support major irrigation schemes such as Hurulu Wewa, Mannakattiya Wewa, Eru Wewa, Mahakanadarawa Wewa, Nachchaduwa Wewa, Nuwara Wewa and Thisa Wewa, and will facilitate cultivation of about 17,500 hectares. Also, the drinking water provided through the project will benefit about 175,000 families. Out of the estimated cost of USD 536.5 million for the project activities of the said project, it has been proposed to finance USD 200 million through the Asian Development Bank. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to enter into a Loan Agreement with the Asian Development Bank to obtain the said loan amount, was approved by the Cabinet."
+    "decision_details_body": "- Over the years, the Government has implemented various concessional credit programmes to strengthen the Micro, Small and Medium Enterprises (MSME) Sector. It has been planned to implement the RE-MSME PLUS from the year 2026 by integrating the Loan Schemes SMILE - III for investments in industrial and manufacturing sectors, E-FRIEND - II for environmentally friendly financing and the Government \u2013 funded loan scheme of re-energizing the MSME Sector (RE-MSME) for all inclusive and accessible financing for MSMEs, from among the aforesaid programmes and to implement a new loan scheme called the RE-MSME Disaster Relief Loan Scheme to revive the MSME sector affected by disaster situation. Under this, it is expected to introduce measures to provide immediate and mid-term financial support to about 130,000 entrepreneurs. Under the proposed loan scheme, action will be taken to provide the necessary funds for a period of 03 years at an interest rate of 3% per annum with a maximum grace period of 06 months, subject to a maximum of Rs. 250,000/- for micro enterprises and Rs. 1,000,000/- for small and medium enterprises. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the RE-MSME PLUS Loan Scheme and the RE-MSME Disaster Relief Loan Scheme, was approved by the Cabinet."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `20` | Consolidating the Micro, Small and Medium Enterprises (MSME) Sector Credit Programmes under a Single Umbrella Framework and implementing Loan Schemes to assist in revival of the disaster-affected MSMEs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-020-en)
+- 2025-12-10 | `19` | Providing assistance to the religious places affected by the disaster to clean and restore their activities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-019-en)
+- 2025-12-10 | `18` | Obtaining a Grant from the Asia Pacific Disaster Response Fund for  Post-Disaster Relief and Rehabilitation Work | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-018-en)
+- 2025-12-10 | `17` | Activation of Contingency Emergency Response Components included in the World Bank ongoing project portfolio to support Post-Disaster Recovery Needs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-017-en)
+- 2025-12-10 | `16` | Expansion and development of fully equipped Autism and Neurodevelopment Unit at the Lady Ridgeway Hospital for Children, Colombo | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-016-en)
+- 2025-12-10 | `15` | Awarding Contracts of Ground Handling Services for Sri Lankan Airlines at the Frankfurt Airport (FRA) in Germany | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-015-en)
+- 2025-12-10 | `14` | Revision of the monthly allowance paid to the employees of Powerloom Enterprises, which were privatized during the period of 1980-1982, owned by the Department of Textile Industries | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-014-en)
+- 2025-12-10 | `13` | Implementation of the recommendations of the Committee appointed to review the Recruitment Process and Cadre Management in the Public Service | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-013-en)
+- 2025-12-10 | `12` | Establishment of 2 x 50MW Wind Power Plants in Mullikulam area, Mannar | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-012-en)
+- 2025-12-10 | `11` | Procurement for the supply of 540,000 vials of Desferrioxamine Mesylate for injection BP, 500mg | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-011-en)
+- 2025-12-10 | `10` | Procurement for the supply of 48 Polyaxial MRI compatible (Titanium/Cobolt-Chrome) Lumber Pedicle Screws | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-010-en)
+- 2025-12-10 | `9` | Purchase of vehicles for enhancing the Primary Healthcare System across the country | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-009-en)
+- 2025-12-10 | `8` | Disposal of Scrap Metal of the Department of Sri Lanka Railways | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-008-en)
+- 2025-12-10 | `7` | Completion of the construction works of the Universities of Jaffna, Kelaniya, Colombo and Wayamba | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-007-en)
+- 2025-12-10 | `6` | Implementation of the Project on 'Natural Capital Values of Coastal and Marine Ecosystems in Sri Lanka Integrated into Sustainable Development Planning' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-006-en)
+- 2025-12-10 | `5` | Signing of a Memorandum of Understanding on Sports and Youth Development between the Maldives and Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-005-en)
+- 2025-12-10 | `4` | Disposal of a plot of land located at Perahera Mawatha, Kollupitiya, Colombo 03 belonging to the Urban Development Authority for a mixed development project on 99 year lease basis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-004-en)
 - 2025-12-10 | `3` | Securing funds from the Asian Development Bank for the implementation of the Mahaweli Water Security Investment Programme  - Stage 2 Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-003-en)
 - 2025-12-10 | `2` | Entering into a Memorandum of Understanding between the University of Colombo and the Ministry of Health of the Republic of Maldives with the objective of Academic Collaboration | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-002-en)
 - 2025-12-10 | `1` | Vesting the land and the constructions of the University College, Kinniya in the Trincomalee district with the Ministry of Foreign Affairs, Foreign Employment and Tourism | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-10-001-en)
-- 2025-12-01 | `15` | Appointment to the Post of Deputy Secretary to the Treasury | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-015-en)
-- 2025-12-01 | `14` | Establishment of ‘Rebuilding Sri Lanka Fund’ | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-014-en)
-- 2025-12-01 | `13` | Entering into a Grant Financing Agreement with the European Union for the implementation of the ‘AgriGreen Initiative’- Green Economic Growth through Sustainable Agricultural practices | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-013-en)
-- 2025-12-01 | `12` | Providing urgent relief to people affected by the emergency disaster situation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-012-en)
-- 2025-12-01 | `11` | Final draft of the National Water Supply and Drainage Board (Amendment) Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-011-en)
-- 2025-12-01 | `10` | Submission of the Regulations under section 71 of the Value Added Tax Act, No 14 of 2002 to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-010-en)
-- 2025-12-01 | `9` | Construction of an Accident and Emergency Treatment Unit at the District General Hospital, Trincomalee | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-009-en)
-- 2025-12-01 | `8` | Awarding the Contract for Ground Handling Services and Cargo Warehouse Handling Services for SriLankan Airlines Limited at the Shanghai Airport, China | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-008-en)
-- 2025-12-01 | `7` | Awarding the procurement for the supply of Liquefied Petroleum Gas (LP Gas) of Litro Gas Lanka Limited | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-007-en)
-- 2025-12-01 | `6` | Implementation of the E-Invoicing System in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-006-en)
-- 2025-12-01 | `5` | Revising the qualifications of Guarantors to be presented for obtaining loans under the Interest-Free Student Loan Scheme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-005-en)
-- 2025-12-01 | `4` | Commencement of new projects for the development of infrastructure facilities in State Universities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-004-en)
-- 2025-12-01 | `3` | Establishment of the Sri Lanka Consulate General Office in Chengdu, China | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-003-en)
-- 2025-12-01 | `2` | Signing of an Addendum to the existing Agreement with the United Nations Conference on Trade and Development (UNCTAD) for the development of the Automated System for Customs Data System (ASYCUDA System) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-002-en)
-- 2025-12-01 | `1` | Vesting of a block of land for the construction of buildings to provide hostel facilities for students and official quarters for the academic and non‑academic staff of the Rajarata University of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-12-01-001-en)
-- 2025-11-24 | `13` | Submission of the Gazette Extraordinary Notifications published in respect of Gem Industry, for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-013-en)
-- 2025-11-24 | `12` | Amending the Colombo Port City Economic Commission Act, No.11 of 2021 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2025/2025-11-24-012-en)
 
 ---
 
