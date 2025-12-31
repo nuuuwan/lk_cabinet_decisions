@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2025-12-31 19:09:41",
-  "n_docs": 10557,
+  "time_updated": "2025-12-31 20:07:03",
+  "n_docs": 10569,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2025-12-22",
-  "dataset_size": 139690915,
+  "date_str_max": "2025-12-29",
+  "dataset_size": 139726207,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-12-22-012-en",
+    "doc_id": "2025-12-29-012-en",
     "num": "12",
-    "date_str": "2025-12-22",
-    "description": "Implementation of the Agriculture Loan Scheme of \u2018Farming System Sustainability Programme\u2019",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13648",
+    "date_str": "2025-12-29",
+    "description": "Conducting the funeral of the late Kalasuri, Mrs. Latha Walpola under the full state patronage",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13660",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-22 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The 'Smallholder Agribusiness Partnership Programme' (SAPP) is being implemented with the financial support of the Government of Sri Lanka and the International Fund for Agricultural Development with the aim of uplifting living standards of the agriculture community and enhancing the contribution of the agricultural sector to the Gross Domestic Production. The said programme is being implemented by the Ministry of Agriculture, Livestock, Lands and Irrigation in collaboration with the Regional Development Department of the Central Bank of Sri Lanka. All recoveries of loans granted under the 'Smallholder Agribusiness Partnership Programme' will be directed to a Revolving Fund named the \u2018Farming System Sustainability Fund\u2019 dedicated to providing agricultural loans. It has been planned to implement an agricultural loan scheme titled \u2018Farming System Sustainability Programme' for individuals and institutions engaged in agriculture and related activities using the said Fund. It is expected to allocate an amount of Rs. 800 million from the existing funds of the Farming System Sustainability Fund for the implementation of the \u2018Farming System Sustainability Programme' in the year 2026. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the Agriculture Loan Scheme of Farming System Sustainability Programme' through participatory financial institutions as an Annual Programme from the year 2026, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-29 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The joint proposal made by the Minister Public Administration, Provincial Councils and Local Government and the Minister of Buddhasasana, Religious and Cultural Affairs to conduct the funeral of late Kalasuri, Mrs. Latha Walpola honoured with the title \u201cHelaye Geetha Kokilawiya\u2019 under full state patronage on 2025-12-31, in consideration of her contribution to Sinhala Cinema and Sinhala folk music, was approved by the cabinet."
   }
 }
