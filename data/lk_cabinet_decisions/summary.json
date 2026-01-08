@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-01-08 07:06:08",
-  "n_docs": 10569,
+  "time_updated": "2026-01-08 18:54:16",
+  "n_docs": 10585,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2025-12-29",
-  "dataset_size": 137704680,
+  "date_str_max": "2026-01-05",
+  "dataset_size": 137741406,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2025-12-29-012-en",
-    "num": "12",
-    "date_str": "2025-12-29",
-    "description": "Conducting the funeral of the late Kalasuri, Mrs. Latha Walpola under the full state patronage",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13660",
+    "doc_id": "2026-01-05-016-en",
+    "num": "16",
+    "date_str": "2026-01-05",
+    "description": "Procurement of Food Items (Fresh, Dry Rations and Others) for the Tri-Forces for the Year 2026",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13676",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2025-12-29 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The joint proposal made by the Minister Public Administration, Provincial Councils and Local Government and the Minister of Buddhasasana, Religious and Cultural Affairs to conduct the funeral of late Kalasuri, Mrs. Latha Walpola honoured with the title \u201cHelaye Geetha Kokilawiya\u2019 under full state patronage on 2025-12-31, in consideration of her contribution to Sinhala Cinema and Sinhala folk music, was approved by the cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-01-05 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Bids have been invited under the National Competitive Bidding Procedure for the procurement of food items (raw, dry rations and others) to the Tri-Forces for the year 2026. 5,274 bids have been submitted by 34 bidders for 1,219 procurement packages for the Sri Lanka Army, 454 procurement packages for the Sri Lanka Navy and 242 procurement packages for the Sri Lanka Air Force. The proposal made by the Hon. President in his capacity as the Minister of Defence to award the relevant procurements to the substantially responsive lowest bidders, based on the recommendations of the Standing High-Level Procurement Committee and the Procurement Appeal Board, was approved by the Cabinet."
   }
 }
