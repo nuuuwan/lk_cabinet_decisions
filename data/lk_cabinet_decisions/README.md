@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_07:06:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_19:02:17-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,613** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**140.0 MB**), from **2010-09-27** to **2026-01-19**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,631** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**140.1 MB**), from **2010-09-27** to **2026-01-26**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (98%) & **🤗 Hugging Face** (98%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-01-19-010-en",
-    "num": "10",
-    "date_str": "2026-01-19",
-    "description": "Submission of the Report on the Deviation of Headline Inflation from Inflation Target set out in the Monetary Policy Framework Agreement",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13704",
+    "doc_id": "2026-01-26-018-en",
+    "num": "18",
+    "date_str": "2026-01-26",
+    "description": "Submission of the Orders made under the Revenue Protection Act, No.19 of 1962 and the Special Commodity Levy Act, No.48 of 2007 for approval of Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13722",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-01-19 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- In accordance with the Monetary Policy Framework Agreement signed between the Minister of Finance and the Central Bank of Sri Lanka on 2023-10-03 under section 26(1) of the Central Bank of Sri Lanka Act, No.16 of 2023, the Central Bank of Sri Lanka is vested with the responsibility of maintaining quarterly headline inflation at a level of 5% as measured by the Colombo Consumer Price Index compiled by the Department of Census and Statistics. In accordance with the section 26(5) of the Central Bank of Sri Lanka Act, No.16 of 2023, if the Central Bank of Sri Lanka fails to meet the inflation target by a specified margin for two consecutive quarters, the Monetary Policy Board of the Central Bank shall submit a Report to Parliament through the Minister in charge of the subject of Finance. The report shall also be made available to the general public as well. The quarterly average of headline inflation based on the Colombo Consumer Price Index in the second and third quarters of 2025 was (-1.1)% and 0.8% respectively, which has remained more than 2 percentage points below the inflation target for two consecutive quarters. Therefore, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit to Parliament the Report on the Deviation of Headline Inflation, submitted to the Minister in charge of the subject of Finance under section 26(5) of the Central Bank of Sri Lanka Act, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-01-26 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Cabinet approved the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit the following Orders made under the Revenue Protection Act, No.19 of 1962 and the Special Commodity Levy Act, No.48 of 2007, published through the Gazette Extraordinary Notifications, to Parliament for approval -\n\nThe Revenue Protection Order No.05/2025 made under the provisions of the Revenue Protection Act, No.19 of 1962 published through the Gazette Extraordinary Notification No.2464/15 dated 2025-11-25 to amend the Customs Import Duty of 20%, which had been declared on the hybrid Mandarin variety, to 20% or Rs.60 per kg.\n\n\nThe Order imposed under the Special Commodity Levy Act, No.48 of 2007 and published through the Gazette Extraordinary Notification No.2464/14 dated 2025-11-25, enabling to continue the existing Special Commodity Levy for the importation of potatoes and big onions and to lift the Special Commodity Levy existed for hybrid mandarin variety.\n\n\nThe Order imposed under the provisions of the Special Commodity Levy Act, No.48 of 2007 published through the Gazette Extraordinary Notification No.2464/16 dated 2025-12-04, for not charging the Special Commodity Levy for the donations received under the Disaster Recovery Project to facilitate people affected by the cyclone Ditwah.\n\n\nThe Order imposed under the provisions of the Special Commodity Levy Act, No.48 of 2007 published through the Gazette Extraordinary Notification No.2469/12 dated 2025-12-31, to continue to maintain the tax rates applicable on 62 commodities under the Special Commodity Levy Act No.48 of 2007, which had been in effect until 2025-12-31 at the same rates up to 2026-12-31, and to grant duty concessions on dates to be received as donations for the Ramadan festive season."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-01-26 | `18` | Submission of the Orders made under the Revenue Protection Act, No.19 of 1962 and the Special Commodity Levy Act, No.48 of 2007 for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-018-en)
+- 2026-01-26 | `17` | Appointment to the Post of Director General of the Department of Technical Education and Training | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-017-en)
+- 2026-01-26 | `16` | Introduction of new Laws pertaining to the subject of Women and Child Affairs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-016-en)
+- 2026-01-26 | `15` | Submission of the Motor Traffic (Temporary Extension of the period of validity of Driving Licences) Regulations, No.04 of 2025, for approval of Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-015-en)
+- 2026-01-26 | `14` | Implementation of the Restoration plan of the Kalido Coastal Stretch, Lagoon and Kalu Ganga Estuary at Kalutara | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-014-en)
+- 2026-01-26 | `13` | Implementation of a Value Addition Project for Rock Phosphate mined by Lanka Phosphate Limited | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-013-en)
+- 2026-01-26 | `12` | Implementation of the Avarankal - Thondamanaru Road (B-033) Improvement Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-012-en)
+- 2026-01-26 | `11` | Calling for Investment Proposals for the disposal of a plot of land located adjacent to the Gregory Lake on the Dun Shortcut Road, Nuwara Eliya, to implement a Tourist-Attraction Theme Park | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-011-en)
+- 2026-01-26 | `10` | Procurement of an Automated Spectrum Management System for the Telecommunications Regulatory Commission of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-010-en)
+- 2026-01-26 | `9` | Approval and implementation mechanism of the projects within the year 2026 under the 'Prajashakthi' National Movement to Eradicate Poverty | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-009-en)
+- 2026-01-26 | `8` | Securing Funds from the Export-Import Bank of Korea to carry out a Feasibility Study with regard to the relocation of Matara General Hospital in Kamburugamuwa | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-008-en)
+- 2026-01-26 | `7` | Signing an Implementation Agreement pertaining to the Grant provided by the International Bank for Reconstruction and Development to prepare the proposed 'Sri Lanka Ports and Logistics Development Project' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-007-en)
+- 2026-01-26 | `6` | Calling for Investment Proposals for the disposal of a plot of land at Baladaksha Mawatha, Colombo 03 belonging to the Urban Development Authority on 99 year lease basis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-006-en)
+- 2026-01-26 | `5` | Disposal of 09 plots of lands located on either side of Diyawanna Oya adjacent to the Waters Edge Hotel, Battaramulla | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-005-en)
+- 2026-01-26 | `4` | Amendment of Circulars issued in terms of the provisions of the State Lands Ordinance and the Land Development Ordinance in accordance with present day needs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-004-en)
+- 2026-01-26 | `3` | Providing farms operating under the Mahaweli Authority of Sri Lanka to farmers for cultivation on lease basis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-003-en)
+- 2026-01-26 | `2` | Memorandum of Understanding between Sri Lanka and Romania on Cooperation in the Field of Labour | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-002-en)
+- 2026-01-26 | `1` | Issuance of new Circular instructions for Implementation Modality and Human Resource Utilization for Development Projects | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-26-001-en)
 - 2026-01-19 | `10` | Submission of the Report on the Deviation of Headline Inflation from Inflation Target set out in the Monetary Policy Framework Agreement | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-010-en)
 - 2026-01-19 | `9` | Appointment to the Post of District Secretary/Government Agent of the Administrative District of Galle | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-009-en)
-- 2026-01-19 | `8` | Revision of the Provision relating to the pension entitlement in the appointment letters of the Public Officers recruited after 2016-01-01 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-008-en)
-- 2026-01-19 | `7` | Sri Lanka Insurance Institute Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-007-en)
-- 2026-01-19 | `6` | Procedure for providing 2026 budget relief for uplifting the living standards of plantation workers | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-006-en)
-- 2026-01-19 | `5` | Implementation of the Project for the Construction of 300 Housing Units at Arunodaya Mawatha, Obeysekarapura, Rajagiriya | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-005-en)
-- 2026-01-19 | `4` | Implementation of the Baseline Road Extension Project Phase III | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-004-en)
-- 2026-01-19 | `3` | Resuming the Kivul Oya Development Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-003-en)
-- 2026-01-19 | `2` | Adopting guidelines introduced by the Universal Postal Union to implement postal monitoring operations for the United States of America | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-002-en)
-- 2026-01-19 | `1` | Entering into the Memorandum of Understanding to establish the Indian Ocean Coastal States Alliance | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-19-001-en)
-- 2026-01-12 | `18` | Submission of the Financial Transactions Reporting (Amendment) Bill, the Prevention of Money Laundering (Amendment) Bill and the Convention on the Suppression of Terrorist Financing (Amendment) Bill, to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-018-en)
-- 2026-01-12 | `17` | Introduction of a Digital Card System for the supply of fuel to Vehicles belonging to Government Institutions | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-017-en)
-- 2026-01-12 | `16` | Increasing the Festival Advance granted to the Public Officers | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-016-en)
-- 2026-01-12 | `15` | Implementing the recommendations of the Committee appointed for Reviewing the Recruitment Process and the Cadre Management in the Public Service | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-015-en)
-- 2026-01-12 | `14` | Settlement of outstanding payments in respect of medical supplies procured from the State Pharmaceuticals Corporation for the period of 2008 - 2023 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-014-en)
-- 2026-01-12 | `13` | Launching currency exchange counters at the Arrival Terminal of the Bandaranaike International Airport, Katunayake | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-013-en)
-- 2026-01-12 | `12` | Disposal of scrap metals available in the Department of Sri Lanka Railways | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-012-en)
-- 2026-01-12 | `11` | Selection of suitable firms to obtain consultancy services for the reconstruction of civil, railway and service infrastructure affected by the cyclone 'Ditwah' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-011-en)
-- 2026-01-12 | `10` | Implementation of the programme of providing an allowance to school students to purchase stationeries in the year 2026, as well | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-010-en)
-- 2026-01-12 | `9` | Hosting the Water Safety Conference and Exhibition 2026 of the International Water Conference | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-01-12-009-en)
 
 ---
 
