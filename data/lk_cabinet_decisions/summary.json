@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-02-11 07:07:13",
-  "n_docs": 10638,
+  "time_updated": "2026-02-11 19:05:04",
+  "n_docs": 10651,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-02-02",
-  "dataset_size": 140190652,
+  "date_str_max": "2026-02-09",
+  "dataset_size": 140212350,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-02-02-007-en",
-    "num": "7",
-    "date_str": "2026-02-02",
-    "description": "Appointment to the Post of Director General of the Department of Trade and Investment Policies",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13729",
+    "doc_id": "2026-02-09-013-en",
+    "num": "13",
+    "date_str": "2026-02-09",
+    "description": "Amending the Inland Revenue Act, No.24 of 2017",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13742",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-02-02 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Applications have been invited from qualified officers of the Special Grade of the Sri Lanka Administrative Service to identify a suitable officer for the vacant Post of Director General of the Department of Trade and Investment Policy of the General Treasury. Accordingly, the Board of Interview has recommended that Mrs. I.J. Abeyratne, Special Grade Officer of the Sri Lanka Administrative Service who obtained the highest marks at the interview conducted, be appointed to the said Post. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mrs. I.J. Abeyratne to the Post of Director General of the Department of Trade and Investment Policy with immediate effect, based on the said recommendation, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-02-09 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2025-05-19 to introduce amendments to the Inland Revenue Act, No. 24 of 2017, incorporating the proposed tax reforms, in order to enhance the tax system while paving way for the revenue-based fiscal consolidation. Accordingly, the amending Bill has been prepared by the Legal Draftsman and the clearance of the Attorney General has been received for the same. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter present the same in Parliament for approval, was approved by the Cabinet."
   }
 }
