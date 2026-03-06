@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-03-06 07:06:53",
-  "n_docs": 10679,
+  "time_updated": "2026-03-06 19:01:55",
+  "n_docs": 10697,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-02-23",
-  "dataset_size": 140453940,
+  "date_str_max": "2026-03-03",
+  "dataset_size": 140518166,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-02-23-010-en",
-    "num": "10",
-    "date_str": "2026-02-23",
-    "description": "Amendment to the Social Security Contribution Levy Act, No. 25 of 2022",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13770",
+    "doc_id": "2026-03-03-018-en",
+    "num": "18",
+    "date_str": "2026-03-03",
+    "description": "Payment of allowances to Government Officials engaged in duties during extensive disaster situations",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13788",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-02-23 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- A Bill has been prepared by the Legal Draftsman to amend the Social Security Contribution Levy Act, No.25 of 2022 as per a budget proposal 2026. The clearance of the Attorney General has been received for the said Bill. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and submit the same thereafter, to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-03 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The then Secretary to the Ministry of Public Administration, Disaster Management and Livestock Development has issued relevant instructions through the Circular dated 2019-09-01 for the payment of allowances to Government officers engaged in duties during extensive disaster situations and post-disaster periods. The need to revise the said allowances from time to time to suit the prevailing economic conditions has been identified. The Cabinet approved the proposal made by the Hon. President in his capacity as the Minister of Defence to issue Circular instructions to increase the relevant allowances currently in force by 100% and to pay the said allowances to public officers who are engaged in duties during the extensive disaster situations from 2025-11-21 to 2025-12-15 and those who will perform duties during extensive disasters from now on, based on the observations and proposals submitted by the Ministry of Public Administration, Provincial Councils and Local Government, the Department of Management Services and the Department of National Budget."
   }
 }
