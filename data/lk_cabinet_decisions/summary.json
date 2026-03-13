@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-03-13 07:06:36",
-  "n_docs": 10697,
+  "time_updated": "2026-03-13 19:03:11",
+  "n_docs": 10710,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-03-03",
-  "dataset_size": 140585936,
+  "date_str_max": "2026-03-09",
+  "dataset_size": 140617176,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-03-03-018-en",
-    "num": "18",
-    "date_str": "2026-03-03",
-    "description": "Payment of allowances to Government Officials engaged in duties during extensive disaster situations",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13788",
+    "doc_id": "2026-03-09-013-en",
+    "num": "13",
+    "date_str": "2026-03-09",
+    "description": "Establishment of the Committee on Economic Surveillance",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13801",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-03 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The then Secretary to the Ministry of Public Administration, Disaster Management and Livestock Development has issued relevant instructions through the Circular dated 2019-09-01 for the payment of allowances to Government officers engaged in duties during extensive disaster situations and post-disaster periods. The need to revise the said allowances from time to time to suit the prevailing economic conditions has been identified. The Cabinet approved the proposal made by the Hon. President in his capacity as the Minister of Defence to issue Circular instructions to increase the relevant allowances currently in force by 100% and to pay the said allowances to public officers who are engaged in duties during the extensive disaster situations from 2025-11-21 to 2025-12-15 and those who will perform duties during extensive disasters from now on, based on the observations and proposals submitted by the Ministry of Public Administration, Provincial Councils and Local Government, the Department of Management Services and the Department of National Budget."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-09 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- A volatile global environment that could adversely impact the economy emerged, owing to the prevailing war situation in the Middle East region. Sri Lanka being a small economy is exposed to external economic shocks due to its dependence on energy imports from the Middle East, remittances from expatriate workers working in the Middle East region, and trade and investment relations with that region. Under that backdrop, the Cabinet approved the proposal made by the Hon. President to appoint the Committee on Economic Surveillance, under the chairmanship of  Dr. Anil Jayantha Fernando, the Minister of Labor in his capacity as the Deputy Minister of Finance and Planning, and comprising of the heads of relevant institutions and experts in the field, to constantly monitor the possible impact on the Sri Lankan economy, assess the risks across multiple sectors and submit recommendations to the Cabinet on the necessary policy measures to be taken accordingly, constantly reviewing the current situation."
   }
 }
