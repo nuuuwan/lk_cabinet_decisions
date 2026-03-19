@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_07:07:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_19:04:22-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,710** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**140.7 MB**), from **2010-09-27** to **2026-03-09**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,728** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**140.7 MB**), from **2010-09-27** to **2026-03-16**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (97%) & **🤗 Hugging Face** (97%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-03-09-013-en",
-    "num": "13",
-    "date_str": "2026-03-09",
-    "description": "Establishment of the Committee on Economic Surveillance",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13801",
+    "doc_id": "2026-03-16-018-en",
+    "num": "18",
+    "date_str": "2026-03-16",
+    "description": "Declaring Wednesday as a public holiday as a solution to the existing fuel crisis",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13819",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-09 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- A volatile global environment that could adversely impact the economy emerged, owing to the prevailing war situation in the Middle East region. Sri Lanka being a small economy is exposed to external economic shocks due to its dependence on energy imports from the Middle East, remittances from expatriate workers working in the Middle East region, and trade and investment relations with that region. Under that backdrop, the Cabinet approved the proposal made by the Hon. President to appoint the Committee on Economic Surveillance, under the chairmanship of  Dr. Anil Jayantha Fernando, the Minister of Labor in his capacity as the Deputy Minister of Finance and Planning, and comprising of the heads of relevant institutions and experts in the field, to constantly monitor the possible impact on the Sri Lankan economy, assess the risks across multiple sectors and submit recommendations to the Cabinet on the necessary policy measures to be taken accordingly, constantly reviewing the current situation."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-16 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The attention of the Cabinet was drawn on the appropriateness of restricting the number of days the Government Offices are kept open, as a temporary solution to the issue of securing fuel which has arisen due to the war situation prevailing in the Middle East Region. After discussion, the Cabinet decided to declare every Wednesday of the week as a Holiday for Government Offices, enabling to economize the usage of the existing stocks of fuel and to face the uncertain situation in the procurement of stocks of fuel in the future and to authorize the Secretary, Ministry of Public Administration, Provincial Councils and Local Government to issue detailed Circular instructions related thereto."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-03-16 | `18` | Declaring Wednesday as a public holiday as a solution to the existing fuel crisis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-018-en)
+- 2026-03-16 | `17` | Procurement of Petroleum, Petroleum related Products, Liquefied Petroleum Gas and Coal | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-017-en)
+- 2026-03-16 | `16` | Emergency Procurement of Coal for the Lakvijaya Power Plant | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-016-en)
+- 2026-03-16 | `15` | Establishment of Oversight Committees for the restoration of Economic Affairs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-015-en)
+- 2026-03-16 | `14` | Declaration of ‘National Namal Uyana’ as a National Heritage | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-014-en)
+- 2026-03-16 | `13` | Obtaining Policy Based Lending from the Asian Development Bank | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-013-en)
+- 2026-03-16 | `12` | Amending the Central Cultural Fund Act, No.57 of 1980 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-012-en)
+- 2026-03-16 | `11` | Making Regulations under the Provisions of the Antiquities Ordinance | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-011-en)
+- 2026-03-16 | `10` | Amending the Poisons, Opium and Dangerous Drugs Ordinance (Chapter 218) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-010-en)
+- 2026-03-16 | `9` | Submission of Regulations made under the provisions of the Motor Traffic Act (Chapter 203) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-009-en)
+- 2026-03-16 | `8` | Submission of the Transfer of Passenger Service Permits Regulations published under the National Transport Commission Act, No.37 of 1991 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-008-en)
+- 2026-03-16 | `7` | Amendment of the Colombo Port City (Guidelines on the Grant of Exemptions or Incentives to Business of Strategic Importance-Duty Free Operations) Regulations, No. 01 of 2024 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-007-en)
+- 2026-03-16 | `6` | Construction of the Double Circuit Transmission Line from the Mannar Grid Substation to Mullikulam Collector Grid Substation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-006-en)
+- 2026-03-16 | `5` | Awarding of Contract for supplying Ground Handling Services for the Aircraft of Sri Lankan Airlines at the Male Airport (MLE) in Maldives | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-005-en)
+- 2026-03-16 | `4` | Development of the Physical Infrastructure available in the Provincial Education Departments, Zonal Education Offices and Divisional Education Offices and the Provision of Equipment | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-004-en)
+- 2026-03-16 | `3` | Implementation of the Project for the Establishment of a Big Data Platform for Water Environment Monitoring and Data Driven Policy Implementation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-003-en)
+- 2026-03-16 | `2` | Taking legal action against persons transferring money relating to the drug trafficking and organized crimes by using eZCash and mCash Money Transfer Methods | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-002-en)
+- 2026-03-16 | `1` | Providing Electric Motorcycles to Field Officers engaged in duties in the Fishery Sector under a Grant of India | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-16-001-en)
 - 2026-03-09 | `13` | Establishment of the Committee on Economic Surveillance | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-013-en)
 - 2026-03-09 | `12` | Procurement for the Supply and Installation of Oracle Exadata System and related Software Licenses for the Sri Lanka Customs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-012-en)
-- 2026-03-09 | `11` | Provision of relief for the replantation of disaster affected export agricultural crops- Tea, Coconut and Rubber | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-011-en)
-- 2026-03-09 | `10` | Extending the validity period of visa free of charge for the foreigners affected by the cancellation of Middle- East bound flights | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-010-en)
-- 2026-03-09 | `9` | Revising the amount paid for constructing a house under the resettlement programme for families affected by landslides and high-risk landslide zones | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-009-en)
-- 2026-03-09 | `8` | Appointment to the Post of District Secretary/Government Agent of the Administrative District of Ampara | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-008-en)
-- 2026-03-09 | `7` | Appointment to the Post of District Secretary/Government Agent of the Administrative District of Badulla | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-007-en)
-- 2026-03-09 | `6` | Construction of the Elapatha Divisional Secretariat Building and the development of Infrastructure Facilities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-006-en)
-- 2026-03-09 | `5` | Implementation of the Project for the Digitalization of the operations of the Right to Information Commission | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-005-en)
-- 2026-03-09 | `4` | Implementation of the Tourism Development Projects 2026-2028 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-004-en)
-- 2026-03-09 | `3` | Implementation of Strategic Frameworks for Science-Driven Disaster Resilience | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-003-en)
-- 2026-03-09 | `2` | Entering into an Agreement between Sri Lanka and Nepal for Exemption from Visa Requirement for Holders of Diplomatic, Official and Service Passports | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-002-en)
-- 2026-03-09 | `1` | Partnering the National Savings Bank for the Interest-Free Student Loan Scheme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-09-001-en)
-- 2026-03-03 | `18` | Payment of allowances to Government Officials engaged in duties during extensive disaster situations | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-018-en)
-- 2026-03-03 | `17` | Implementation of the recommendations of the Committee appointed to Review the Recruitment Process and Cadre Management in the Public Service | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-017-en)
-- 2026-03-03 | `16` | Submission of the Anti-Doping (Prohibited List) Regulations No.11 of 2025 to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-016-en)
-- 2026-03-03 | `15` | Repealing the Chief of Defence Staff Act No. 35 of 2009 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-015-en)
-- 2026-03-03 | `14` | Enhancing the productivity of rubber cultivation by rehabilitating abandoned, untapped mature rubber plantations | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-014-en)
-- 2026-03-03 | `13` | Construction of the Central Expressway Project Section IV (from Kurunegala to Dambulla) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-013-en)
-- 2026-03-03 | `12` | Obtaining Low Floor Buses provided as a Grant by the Government of Japan | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-03-012-en)
 
 ---
 
