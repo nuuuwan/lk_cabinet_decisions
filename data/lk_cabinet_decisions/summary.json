@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-04-04 07:06:42",
-  "n_docs": 10742,
+  "time_updated": "2026-04-04 19:01:48",
+  "n_docs": 10767,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-03-23",
-  "dataset_size": 140840729,
+  "date_str_max": "2026-03-30",
+  "dataset_size": 140904886,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-03-23-014-en",
-    "num": "14",
-    "date_str": "2026-03-23",
-    "description": "Obtaining the assistance of the Government of Japan for the establishment of an Amateur Radio Emergency Communication Network for Disaster Response",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13833",
+    "doc_id": "2026-03-30-025-en",
+    "num": "25",
+    "date_str": "2026-03-30",
+    "description": "Controlling the price of fuel with the provision of relief by the Government",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13858",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-23 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- In view of the difficulties encountered by emergency services and humanitarian agencies in making quick responses to disasters and coordinating relief operations due to the disruption of conventional communication networks in disaster situations which occurred recently, the need for an alternative communication network has been identified. Accordingly, the Telecommunications Regulatory Commission of Sri Lanka, in collaboration with the Radio Society of Sri Lanka, has taken the initiative to implement a programme to use Amateur Radio Communication Systems to support communication during emergencies where conventional communication networks are not operational. The Government of Japan has agreed to provide a Grant of US$ 181,837 through the Embassy of Japan in Sri Lanka under the programme of \u2018Grant Assistance for Grassroots Human Security Projects' for the purchase of the required amateur radio communication equipment for the said programme. Accordingly, the proposal made by the Hon. President, in his capacity as the Minister of Digital Economy, to sign a Grant Agreement with the Government of Japan to accept the said Grant, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-30 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Government is taking various measures to properly manage the impact of external shocks caused by the war situation in the Middle East Region on the day to day lives of the general public and the entire economy. Accordingly, taking into account the need for government intervention to control the increase in the prices of octane petrol and auto diesel used for public transport, which are mostly used by the public, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to provide relief to the public by controlling the increase in fuel prices by paying up to Rs.20/- per liter of 92 octane petrol and up to Rs.100/- per liter of auto diesel to the fuel importers, if the imported price exceeds the declared retail price of 92 octane petrol and auto diesel as of 2026-03-22, was approved by the Cabinet."
   }
 }
