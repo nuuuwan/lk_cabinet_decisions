@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-04-08 07:07:03",
-  "n_docs": 10767,
+  "time_updated": "2026-04-08 19:05:22",
+  "n_docs": 10780,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-03-30",
-  "dataset_size": 140987913,
+  "date_str_max": "2026-04-06",
+  "dataset_size": 138918382,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-03-30-025-en",
-    "num": "25",
-    "date_str": "2026-03-30",
-    "description": "Controlling the price of fuel with the provision of relief by the Government",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13858",
+    "doc_id": "2026-04-06-013-en",
+    "num": "13",
+    "date_str": "2026-04-06",
+    "description": "Programme for construction of houses for families living in estates whose houses were completely or partially damaged due to Cyclone Ditwah and those living in areas at high risk of landslides",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13871",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-30 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The Government is taking various measures to properly manage the impact of external shocks caused by the war situation in the Middle East Region on the day to day lives of the general public and the entire economy. Accordingly, taking into account the need for government intervention to control the increase in the prices of octane petrol and auto diesel used for public transport, which are mostly used by the public, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to provide relief to the public by controlling the increase in fuel prices by paying up to Rs.20/- per liter of 92 octane petrol and up to Rs.100/- per liter of auto diesel to the fuel importers, if the imported price exceeds the declared retail price of 92 octane petrol and auto diesel as of 2026-03-22, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-06 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Although the Circular instructions issued due to the Cyclone Ditwah have made necessary provisions for the construction and reconstruction of houses for families whose houses were damaged, the said Circular instructions have not made specific provisions for providing relief for the damages caused to the houses of estate workers. Therefore, in cases where the houses of workers employed in an estate managed by Estate Companies have been completely damaged/are at high risk of being damaged/are partially damaged and have reached the end of their lifespan due to floods, landslides and other natural disasters caused by Cyclone Ditwah, the Government has planned to implement a house construction programme for such workers by providing an amount of Rs.05 million in phases for the construction of a 650-square-foot house in accordance with the guidelines and house plans issued by the Ministry of Defence. The proposed programme will provide a plot of land of 10 perches in a secure location on the estate where the worker resides through the relevant Estate company, and in the event that the Estate company decides that the service of the worker is no longer required, to provide facilities to construct the relevant house on a plot of land owned by the worker or to purchase a plot of land by using the sum of Rs.05 million provided and construct the house thereon. Accordingly, the joint proposal made by the Hon. President and the Minister of Plantations and Community Infrastructure to take necessary steps to implement the said programme, was approved by the Cabinet."
   }
 }

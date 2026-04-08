@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--08_07:07:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--08_19:05:27-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,767** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.0 MB**), from **2010-09-27** to **2026-03-30**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,780** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**138.9 MB**), from **2010-09-27** to **2026-04-06**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (96%) & **🤗 Hugging Face** (96%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-03-30-025-en",
-    "num": "25",
-    "date_str": "2026-03-30",
-    "description": "Controlling the price of fuel with the provision of relief by the Government",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13858",
+    "doc_id": "2026-04-06-013-en",
+    "num": "13",
+    "date_str": "2026-04-06",
+    "description": "Programme for construction of houses for families living in estates whose houses were completely or partially damaged due to Cyclone Ditwah and those living in areas at high risk of landslides",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13871",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-03-30 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The Government is taking various measures to properly manage the impact of external shocks caused by the war situation in the Middle East Region on the day to day lives of the general public and the entire economy. Accordingly, taking into account the need for government intervention to control the increase in the prices of octane petrol and auto diesel used for public transport, which are mostly used by the public, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to provide relief to the public by controlling the increase in fuel prices by paying up to Rs.20/- per liter of 92 octane petrol and up to Rs.100/- per liter of auto diesel to the fuel importers, if the imported price exceeds the declared retail price of 92 octane petrol and auto diesel as of 2026-03-22, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-06 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Although the Circular instructions issued due to the Cyclone Ditwah have made necessary provisions for the construction and reconstruction of houses for families whose houses were damaged, the said Circular instructions have not made specific provisions for providing relief for the damages caused to the houses of estate workers. Therefore, in cases where the houses of workers employed in an estate managed by Estate Companies have been completely damaged/are at high risk of being damaged/are partially damaged and have reached the end of their lifespan due to floods, landslides and other natural disasters caused by Cyclone Ditwah, the Government has planned to implement a house construction programme for such workers by providing an amount of Rs.05 million in phases for the construction of a 650-square-foot house in accordance with the guidelines and house plans issued by the Ministry of Defence. The proposed programme will provide a plot of land of 10 perches in a secure location on the estate where the worker resides through the relevant Estate company, and in the event that the Estate company decides that the service of the worker is no longer required, to provide facilities to construct the relevant house on a plot of land owned by the worker or to purchase a plot of land by using the sum of Rs.05 million provided and construct the house thereon. Accordingly, the joint proposal made by the Hon. President and the Minister of Plantations and Community Infrastructure to take necessary steps to implement the said programme, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,19 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-04-06 | `13` | Programme for construction of houses for families living in estates whose houses were completely or partially damaged due to Cyclone Ditwah and those living in areas at high risk of landslides | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-013-en)
+- 2026-04-06 | `12` | Memorandum of Understanding on the Partnership Program Established for Capacity Building between the Ministry of Science and Technology of Sri Lanka and the Asian Institute of Technology of the Kingdom of Thailand | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-012-en)
+- 2026-04-06 | `11` | Providing relief to people affected by the war situation in the Middle East | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-011-en)
+- 2026-04-06 | `10` | Amendments to the Finance Act, No.35 of 2018 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-010-en)
+- 2026-04-06 | `9` | Amendments to the Value Added Tax Act, No.14 of 2002 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-009-en)
+- 2026-04-06 | `8` | Appointment to the Post of Commissioner General of Registration of Persons | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-008-en)
+- 2026-04-06 | `7` | Amendment of the Water Resources Board Act, No.29 of 1964 for strengthening the regulation of the Water Resources Board | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-007-en)
+- 2026-04-06 | `6` | Awarding the contract for laying of Distribution Mains and providing Service Connections for Kahatagasdigiliya, Horowpathana and Rambewa DS Divisions of the Anuradhapura North Water Supply Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-006-en)
+- 2026-04-06 | `5` | Procurement of Surgical Gauze from Local Manufacturers to the Medical Supplies Division for the year 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-005-en)
+- 2026-04-06 | `4` | Awarding the Contract for Maintenance, Repair and Organization (MRO) to overhaul Honeywell Auxiliary Power Units (APUs) for SriLankan Airlines | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-004-en)
+- 2026-04-06 | `3` | Design, Development, Deployment and Maintenance of Digital Public Infrastructures (DPI) & DPI-Based Gov Marketplace (Gov/Tech App/Service Marketplace) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-003-en)
+- 2026-04-06 | `2` | Providing job opportunities in the Government sector for sportspersons who excel at National Level | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-002-en)
+- 2026-04-06 | `1` | Utilizing the old Court Complex Buildings located in the Galle Fort for a Tourism Promotion Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-001-en)
 - 2026-03-30 | `25` | Controlling the price of fuel with the provision of relief by the Government | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-025-en)
 - 2026-03-30 | `24` | Management of Public Expenditure during the Energy Crisis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-024-en)
 - 2026-03-30 | `23` | Amending the Telecommunication Levy Act, No.21 of 2011 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-023-en)
@@ -48,19 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2026-03-30 | `21` | Regulations made under section 156 of the Anti-Corruption Act, No.9 of 2023 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-021-en)
 - 2026-03-30 | `20` | Prevention of Organized Crimes Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-020-en)
 - 2026-03-30 | `19` | The Chartered Institute of Media Professionals of Sri Lanka Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-019-en)
-- 2026-03-30 | `18` | Awarding the contract for laying of HDPE, DI Distribution Mains and Providing Service Connections of the Anuradhapura North Water Supply Project - Phase II | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-018-en)
-- 2026-03-30 | `17` | Implementation of the Luxury Apartment Project consisting of 120 housing units in Delkanda | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-017-en)
-- 2026-03-30 | `16` | Establishment of 50 MW Battery Energy Storage Systems | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-016-en)
-- 2026-03-30 | `15` | The Project for the Establishment of 25 numbers of 10 MW/40 MWh Standalone Battery Energy Storage Systems | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-015-en)
-- 2026-03-30 | `14` | Importation of alternative rice varieties as a remedy to the existing shortage of samba and keeri samba in the domestic market | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-014-en)
-- 2026-03-30 | `13` | Procurement for the improvement of Colombo-Galle-Hambanthota-Wellawaya (A 002) Road | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-013-en)
-- 2026-03-30 | `12` | Carrying out a feasibility study on the construction of Three Dry Dams in the Kalu Ganga Basin for Flood Mitigation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-012-en)
-- 2026-03-30 | `11` | Compensation to those who lost their farming lands in executing the Uma Oya Multipurpose Development Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-011-en)
-- 2026-03-30 | `10` | Awarding the Consultancy Service Contract to prepare the Watershed Management Plan for the Kelani River Basin | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-010-en)
-- 2026-03-30 | `9` | Implementation of the National Digital Communication and Collaboration Platform | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-009-en)
-- 2026-03-30 | `8` | Implementation of the proposed Maha Oya Pumped Storage Hydropower Plant Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-008-en)
-- 2026-03-30 | `7` | State Vesak Festival – 2026 (2570 B.E | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-007-en)
-- 2026-03-30 | `6` | Issuance of Tourist Visas free of charge for passport holders of 39 countries | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-03-30-006-en)
 
 ---
 
