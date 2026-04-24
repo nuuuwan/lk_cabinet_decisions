@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-04-23 19:05:58",
-  "n_docs": 10780,
+  "time_updated": "2026-04-24 07:07:39",
+  "n_docs": 10794,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-04-06",
-  "dataset_size": 141084979,
+  "date_str_max": "2026-04-20",
+  "dataset_size": 141128365,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-04-06-013-en",
-    "num": "13",
-    "date_str": "2026-04-06",
-    "description": "Programme for construction of houses for families living in estates whose houses were completely or partially damaged due to Cyclone Ditwah and those living in areas at high risk of landslides",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13871",
+    "doc_id": "2026-04-20-014-en",
+    "num": "14",
+    "date_str": "2026-04-20",
+    "description": "Establishment of and Staff Recruitment for Short-Term Treatment and Rehabilitation Centres under \u201cA Nation United\u201d Anti-Drug Programme",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13885",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-06 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Although the Circular instructions issued due to the Cyclone Ditwah have made necessary provisions for the construction and reconstruction of houses for families whose houses were damaged, the said Circular instructions have not made specific provisions for providing relief for the damages caused to the houses of estate workers. Therefore, in cases where the houses of workers employed in an estate managed by Estate Companies have been completely damaged/are at high risk of being damaged/are partially damaged and have reached the end of their lifespan due to floods, landslides and other natural disasters caused by Cyclone Ditwah, the Government has planned to implement a house construction programme for such workers by providing an amount of Rs.05 million in phases for the construction of a 650-square-foot house in accordance with the guidelines and house plans issued by the Ministry of Defence. The proposed programme will provide a plot of land of 10 perches in a secure location on the estate where the worker resides through the relevant Estate company, and in the event that the Estate company decides that the service of the worker is no longer required, to provide facilities to construct the relevant house on a plot of land owned by the worker or to purchase a plot of land by using the sum of Rs.05 million provided and construct the house thereon. Accordingly, the joint proposal made by the Hon. President and the Minister of Plantations and Community Infrastructure to take necessary steps to implement the said programme, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-20 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Due to the increase in the number of people voluntarily seeking treatment services with the recent implementation of the \u201cA Nation United\u201d Anti-Drug Programme, it has been identified that the existing residential facilities are not adequate to meet the increasing demand for treatment services resulting an urgent need to expand structured treatment and rehabilitation services throughout the country. As a remedy to the same, 06 underutilized Government buildings have been identified as suitable for conversion into Short-Term Treatment and Rehabilitation Centres for people voluntarily entering for treatment, and steps are being taken to publish these Centres through a Government Gazette. Accordingly, the proposal made by the Minister of Public Security and Parliamentary Affairs to establish the proposed 06 Short-Term Treatment and Rehabilitation Centres and to recruit the necessary staff for the same, was approved by the Cabinet."
   }
 }
