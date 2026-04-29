@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--29_07:10:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--29_19:07:12-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,794** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.2 MB**), from **2010-09-27** to **2026-04-20**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,806** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.2 MB**), from **2010-09-27** to **2026-04-27**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (96%) & **🤗 Hugging Face** (96%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-04-20-014-en",
-    "num": "14",
-    "date_str": "2026-04-20",
-    "description": "Establishment of and Staff Recruitment for Short-Term Treatment and Rehabilitation Centres under \u201cA Nation United\u201d Anti-Drug Programme",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13885",
+    "doc_id": "2026-04-27-012-en",
+    "num": "12",
+    "date_str": "2026-04-27",
+    "description": "Submission of the Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 to Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13897",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-20 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Due to the increase in the number of people voluntarily seeking treatment services with the recent implementation of the \u201cA Nation United\u201d Anti-Drug Programme, it has been identified that the existing residential facilities are not adequate to meet the increasing demand for treatment services resulting an urgent need to expand structured treatment and rehabilitation services throughout the country. As a remedy to the same, 06 underutilized Government buildings have been identified as suitable for conversion into Short-Term Treatment and Rehabilitation Centres for people voluntarily entering for treatment, and steps are being taken to publish these Centres through a Government Gazette. Accordingly, the proposal made by the Minister of Public Security and Parliamentary Affairs to establish the proposed 06 Short-Term Treatment and Rehabilitation Centres and to recruit the necessary staff for the same, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-27 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- In accordance with the provisions of the Central Bank of Sri Lanka Act, No.16 of 2023, the Central Bank of Sri Lanka shall submit the Financial Statements audited by the Auditor General and approved by the Board of Governors to the Minister in charge of the subject of Finance within 04 months of the end of the financial year concerned, and the Minister in charge of the subject of Finance shall submit the said Report to Parliament within 14 days of receipt. The Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 has been submitted to the Minister of Finance, Planning and Economic Development by the Governor of the Central Bank of Sri Lanka. The said Publication contains an overview of the Central Bank\u2019s institutional performance during the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit the Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 to Parliament, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,18 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-04-27 | `12` | Submission of the Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-012-en)
+- 2026-04-27 | `11` | Submission of Rules on the Collection of Statistics and Information by the Central Bank of Sri Lanka No.01 of 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-011-en)
+- 2026-04-27 | `10` | Granting permanent appointments to the employees recruited on temporary, casual (on daily wages), substitute, contract or relief basis for Government institutions | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-010-en)
+- 2026-04-27 | `9` | Project for the construction of Interim Housing for families displaced due to the disasters caused by the Cyclone Ditwah and currently residing in safety centres, tents and houses of relatives | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-009-en)
+- 2026-04-27 | `8` | Appointment to the Post of District Secretary/Government Agent of the Administrative District of Kegalle | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-008-en)
+- 2026-04-27 | `7` | Programme for the re-construction of religious places affected by the Ditwah Cyclone | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-007-en)
+- 2026-04-27 | `6` | Procurement for the supply of 6,000 syringes of Adalimumab Injection 40mg in 0.8ml pre-filled syringes | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-006-en)
+- 2026-04-27 | `5` | Establishment of a Digital Unit under the Independent Television Network | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-005-en)
+- 2026-04-27 | `4` | Taking over of the Base Hospital, Dambulla under the line Ministry of Health and Mass Media for development and upgrading | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-004-en)
+- 2026-04-27 | `3` | Calling for Investment Proposals for the disposal of a plot of Land at Maradana Road, Colombo 10, belonging to the Urban Development Authority, on 50 years lease basis | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-003-en)
+- 2026-04-27 | `2` | Preparation of Terms of Reference for Developing and Implementing a Policy and Framework on Micro-Credentials in Sri Lanka in collaboration with the Commonwealth of Learning | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-002-en)
+- 2026-04-27 | `1` | Signing of Memoranda of Understanding during the State Visit of His Excellency Dr. Mohamed Muizzu, President of the Republic of Maldives to Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-27-001-en)
 - 2026-04-20 | `14` | Establishment of and Staff Recruitment for Short-Term Treatment and Rehabilitation Centres under “A Nation United” Anti-Drug Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-014-en)
 - 2026-04-20 | `13` | Appointment to the Post of Controller General of Immigration and Emigration | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-013-en)
 - 2026-04-20 | `12` | Formulation of an Act for the establishment of the Industrial Transformation and Innovation Authority of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-012-en)
@@ -49,18 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2026-04-20 | `9` | Awarding Contracts for Ground Handling Services of SriLankan Airlines at the Dubai Airport in the United Arab Emirates | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-009-en)
 - 2026-04-20 | `8` | Obtaining Consultancy Services for conducting a feasibility study and preparing detailed plans for the extension of the Kelani Valley Railway Line beyond Avissawella up to Ratnapura | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-008-en)
 - 2026-04-20 | `7` | Establishment of Zonal Activity Based Learning Centres for Commerce Education | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-007-en)
-- 2026-04-20 | `6` | Project for the construction of a Multi-Purpose Building at the Bhiksu University of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-006-en)
-- 2026-04-20 | `5` | Appointment of an Expert Committee to obtain recommendations to solve issues which have arisen pertaining to the Housing Projects commenced by the National Housing Development Authority during the years 2015-2019 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-005-en)
-- 2026-04-20 | `4` | Amendment of the National Housing Policy | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-004-en)
-- 2026-04-20 | `3` | Conveyance, Veneration and Exposition of the Sacred Relics of Lord Buddha at the Maha Vipassana Meditation Center in Texas, America | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-003-en)
-- 2026-04-20 | `2` | Introduction of a new procedure to be followed by the National Transport Commission when issuing Inter-Provincial Passenger Service Permits | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-002-en)
-- 2026-04-20 | `1` | Implementation of Recommendations of the Report submitted by the Presidential Commission of Inquiry into the Easter Sunday Attack and the Sectorial Oversight Committee on National Security | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-20-001-en)
-- 2026-04-06 | `13` | Programme for construction of houses for families living in estates whose houses were completely or partially damaged due to Cyclone Ditwah and those living in areas at high risk of landslides | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-013-en)
-- 2026-04-06 | `12` | Memorandum of Understanding on the Partnership Program Established for Capacity Building between the Ministry of Science and Technology of Sri Lanka and the Asian Institute of Technology of the Kingdom of Thailand | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-012-en)
-- 2026-04-06 | `11` | Providing relief to people affected by the war situation in the Middle East | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-011-en)
-- 2026-04-06 | `10` | Amendments to the Finance Act, No.35 of 2018 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-010-en)
-- 2026-04-06 | `9` | Amendments to the Value Added Tax Act, No.14 of 2002 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-009-en)
-- 2026-04-06 | `8` | Appointment to the Post of Commissioner General of Registration of Persons | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-04-06-008-en)
 
 ---
 
