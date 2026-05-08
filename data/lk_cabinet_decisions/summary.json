@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-05-07 19:07:53",
-  "n_docs": 10806,
+  "time_updated": "2026-05-08 07:11:14",
+  "n_docs": 10828,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-04-27",
-  "dataset_size": 141250058,
+  "date_str_max": "2026-05-04",
+  "dataset_size": 141299015,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-04-27-012-en",
-    "num": "12",
-    "date_str": "2026-04-27",
-    "description": "Submission of the Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 to Parliament",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13897",
+    "doc_id": "2026-05-04-022-en",
+    "num": "22",
+    "date_str": "2026-05-04",
+    "description": "Appointment to the Post of Director General of Customs",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13919",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-04-27 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- In accordance with the provisions of the Central Bank of Sri Lanka Act, No.16 of 2023, the Central Bank of Sri Lanka shall submit the Financial Statements audited by the Auditor General and approved by the Board of Governors to the Minister in charge of the subject of Finance within 04 months of the end of the financial year concerned, and the Minister in charge of the subject of Finance shall submit the said Report to Parliament within 14 days of receipt. The Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 has been submitted to the Minister of Finance, Planning and Economic Development by the Governor of the Central Bank of Sri Lanka. The said Publication contains an overview of the Central Bank\u2019s institutional performance during the year 2025. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit the Publication on Financial Statements and Operations of the Central Bank of Sri Lanka for the year 2025 to Parliament, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-04 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The tenure of office of Mr. S.P. Aruggoda, presently serving in the Post of Director General of Customs, is due to expire on 2026-05-05. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. Wimal S. K. Liyanagama, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Director General of the Department of Management Services, to the vacant post of Director General of Customs, with effect from 2026-05-06, was approved by the Cabinet."
   }
 }
