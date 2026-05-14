@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--14_07:14:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--14_19:07:35-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,828** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.4 MB**), from **2010-09-27** to **2026-05-04**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,839** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.4 MB**), from **2010-09-27** to **2026-05-11**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (96%) & **🤗 Hugging Face** (96%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-05-04-022-en",
-    "num": "22",
-    "date_str": "2026-05-04",
-    "description": "Appointment to the Post of Director General of Customs",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13919",
+    "doc_id": "2026-05-11-011-en",
+    "num": "11",
+    "date_str": "2026-05-11",
+    "description": "Procurement process to select a suitable service provider for the Security Features and Security Features Management System of the Excise Department of Sri Lanka",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13930",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-04 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The tenure of office of Mr. S.P. Aruggoda, presently serving in the Post of Director General of Customs, is due to expire on 2026-05-05. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. Wimal S. K. Liyanagama, Special Grade Officer of the Sri Lanka Administrative Service, presently serving as the Director General of the Department of Management Services, to the vacant post of Director General of Customs, with effect from 2026-05-06, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-11 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Legal provisions relating to affixing security features on liquor products have been introduced by the Excise (Amendment) Act No.26 of 2018. Accordingly, by the Excise Notification No.10/2021 published in the Gazette Extraordinary Notification No.2249/50 dated 2021-10-16, it became mandatory to affix security features on imported foreign liquor, locally manufactured foreign liquor, and local liquor with effect 2021-01-03. The contract period of the company currently entrusted with the printing of security features is scheduled to expire on 2027-01-01. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the procurement process to select a suitable service provider for a period of 5 years to provide the necessary security features and system management services for the relevant data system using the single-stage two\u2011envelope bidding procedure under the international competitive bidding procedure, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,17 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-05-11 | `11` | Procurement process to select a suitable service provider for the Security Features and Security Features Management System of the Excise Department of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-011-en)
+- 2026-05-11 | `10` | Amending the financial penalties to offences specified under the Employment of Women, Young Persons and Children Act, No.47 of 1956 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-010-en)
+- 2026-05-11 | `9` | Amending the Animals Act, No.29 of 1958 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-009-en)
+- 2026-05-11 | `8` | Amendments to the State Mortgage and Investment Bank Law No.13 of 1975 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-008-en)
+- 2026-05-11 | `7` | Procurement for the supply of 865,000 Vials of Meropenem Injection 1g vial | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-007-en)
+- 2026-05-11 | `6` | Awarding contracts for Phase 2 of the Central Expressway Project -                 Section 3 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-006-en)
+- 2026-05-11 | `5` | Implementation of the ‘Wari Mahima - Ape Urumaya’ National Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-005-en)
+- 2026-05-11 | `4` | Provision of an additional compensation for 245 families who have lost their paddy lands due to the construction of the Yan Oya Reservoir in lieu of alternative paddy lands | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-004-en)
+- 2026-05-11 | `3` | Establishment of a ‘Trust’ for maintaining the management of the Jaffna Thiruvalluvar Cultural Centre | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-003-en)
+- 2026-05-11 | `2` | Entering into Memoranda of Understanding between Sri Lanka and the Republic of Belarus | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-002-en)
+- 2026-05-11 | `1` | Calling for Investment proposals to implement a Mixed Development Project in the plot of land belonging to the Urban Development Authority, located in the heart of the Kottawa town | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-001-en)
 - 2026-05-04 | `22` | Appointment to the Post of Director General of Customs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-022-en)
 - 2026-05-04 | `21` | Entering into a Memorandum of Understanding between the Democratic Socialist Republic of Sri Lanka and the Russian Federation on the Development of Cooperation in the field of Railway Transport | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-021-en)
 - 2026-05-04 | `20` | Signing of Memoranda of Understanding during the State Visit of the President of Viet Nam to Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-020-en)
@@ -50,17 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2026-05-04 | `16` | Appointment to act in the Post of Director General of Commerce | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-016-en)
 - 2026-05-04 | `15` | Amending the Consumer Affairs Authority Act, No.9 of 2003 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-015-en)
 - 2026-05-04 | `14` | Implementation of Phase II of the Ruwanwella Water Supply Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-014-en)
-- 2026-05-04 | `13` | Implementation of the Climate Resilient Sustainable Water Supply and Sanitation Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-013-en)
-- 2026-05-04 | `12` | Purchase of vehicles required for the island-wide Range Offices and Beat Offices under the Department of Wildlife Conservation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-012-en)
-- 2026-05-04 | `11` | Obtaining Transaction Advisory Services from the Asian Development Bank for the development of the 150MW Kondachchi Wind Power Plant | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-011-en)
-- 2026-05-04 | `10` | Awarding the Consultancy Service Contract for Power System Strengthening and Renewable Energy Integration Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-010-en)
-- 2026-05-04 | `9` | Awarding the Contract for Ground Handling Services of Sri Lankan Airlines at the Sydney Airport in Australia | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-009-en)
-- 2026-05-04 | `8` | Awarding the Contract for the improvement of a road section between Thalalla and Kudawella of the Colombo-Galle-Hambatota-Wellawaya Road (A002) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-008-en)
-- 2026-05-04 | `7` | Awarding the Contract for the improvement of a road section between Kamburugamuwa to Devinuwara of the Colombo-Galle-Hambatota-Wellawaya Road (A002) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-007-en)
-- 2026-05-04 | `6` | Acquisition of lands required from Maradana to Avissawella for the future development activities of the Kelani Valley Railway Line | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-006-en)
-- 2026-05-04 | `5` | Procurement of 20,000 Metric Tons of Urea (Prilled) required for paddy and other crops during the year 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-005-en)
-- 2026-05-04 | `4` | Endorsement of the Global Charter on Children’s Care Reforms | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-004-en)
-- 2026-05-04 | `3` | Allocation of Plots of Land from Regional Industrial Estates for Investors to set up Industries | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-003-en)
 
 ---
 
