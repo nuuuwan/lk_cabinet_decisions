@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_07:16:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_19:29:27-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,839** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.4 MB**), from **2010-09-27** to **2026-05-11**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,859** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.5 MB**), from **2010-09-27** to **2026-05-18**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (96%) & **🤗 Hugging Face** (96%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-05-11-011-en",
-    "num": "11",
-    "date_str": "2026-05-11",
-    "description": "Procurement process to select a suitable service provider for the Security Features and Security Features Management System of the Excise Department of Sri Lanka",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13930",
+    "doc_id": "2026-05-18-020-en",
+    "num": "20",
+    "date_str": "2026-05-18",
+    "description": "Submission of Orders regarding the imposition of a surcharge of 50% on the Customs Import Duty levied on the importation of motor vehicles",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13950",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-11 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Legal provisions relating to affixing security features on liquor products have been introduced by the Excise (Amendment) Act No.26 of 2018. Accordingly, by the Excise Notification No.10/2021 published in the Gazette Extraordinary Notification No.2249/50 dated 2021-10-16, it became mandatory to affix security features on imported foreign liquor, locally manufactured foreign liquor, and local liquor with effect 2021-01-03. The contract period of the company currently entrusted with the printing of security features is scheduled to expire on 2027-01-01. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to implement the procurement process to select a suitable service provider for a period of 5 years to provide the necessary security features and system management services for the relevant data system using the single-stage two\u2011envelope bidding procedure under the international competitive bidding procedure, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-18 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Due to the prevailing war situation in the Middle East Region, all import costs have drastically increased and immediate measures must be taken to mitigate the possible adverse impact which creates on the national economy. Accordingly, with effect from 2026-05-16, without resorting to import restrictions on vehicles, it has been decided to impose 50% surcharge, to be effective only for 3 months, on the 30% customs import duty which is presently in force as per the provisions of the Customs Ordinance. The Order related thereto was issued by the Gazette Extraordinary Notification No.2488/56 dated 2026-05-15. Accordingly, the Order dated 2026-05-15 applies only to Letters of Credit opened for the importation of vehicles after 2026-05-16, and cause no impact on Letters of Credit opened for the importation of vehicles before that date.Similarly, by Gazette Notification No. 2488/69 dated 2026-05-17, an Order was issued to make the aforesaid surcharge applicable to vehicles, if any of the following particulars pertaining to Letters of Credit opened on or before 2026-05-15 for importation of vehicles, such as the number of vehicles, vehicle identification number, description of the vehicle, or technical specifications of the vehicle, are amended after 2026-05-15. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit relevant Orders to Parliament pertaining to the imposition of the above surcharges and the regularization of vehicle imports, in a manner that would not change the prices of vehicles currently being imported into Sri Lanka and would limit the importation of vehicles for the next 03 months, was approved by the Cabinet."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
-- 2026-05-11 | `11` | Procurement process to select a suitable service provider for the Security Features and Security Features Management System of the Excise Department of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-011-en)
-- 2026-05-11 | `10` | Amending the financial penalties to offences specified under the Employment of Women, Young Persons and Children Act, No.47 of 1956 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-010-en)
-- 2026-05-11 | `9` | Amending the Animals Act, No.29 of 1958 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-009-en)
-- 2026-05-11 | `8` | Amendments to the State Mortgage and Investment Bank Law No.13 of 1975 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-008-en)
-- 2026-05-11 | `7` | Procurement for the supply of 865,000 Vials of Meropenem Injection 1g vial | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-007-en)
-- 2026-05-11 | `6` | Awarding contracts for Phase 2 of the Central Expressway Project -                 Section 3 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-006-en)
-- 2026-05-11 | `5` | Implementation of the ‘Wari Mahima - Ape Urumaya’ National Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-005-en)
-- 2026-05-11 | `4` | Provision of an additional compensation for 245 families who have lost their paddy lands due to the construction of the Yan Oya Reservoir in lieu of alternative paddy lands | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-004-en)
-- 2026-05-11 | `3` | Establishment of a ‘Trust’ for maintaining the management of the Jaffna Thiruvalluvar Cultural Centre | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-003-en)
-- 2026-05-11 | `2` | Entering into Memoranda of Understanding between Sri Lanka and the Republic of Belarus | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-002-en)
-- 2026-05-11 | `1` | Calling for Investment proposals to implement a Mixed Development Project in the plot of land belonging to the Urban Development Authority, located in the heart of the Kottawa town | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-11-001-en)
-- 2026-05-04 | `22` | Appointment to the Post of Director General of Customs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-022-en)
-- 2026-05-04 | `21` | Entering into a Memorandum of Understanding between the Democratic Socialist Republic of Sri Lanka and the Russian Federation on the Development of Cooperation in the field of Railway Transport | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-021-en)
-- 2026-05-04 | `20` | Signing of Memoranda of Understanding during the State Visit of the President of Viet Nam to Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-020-en)
-- 2026-05-04 | `19` | Designate of Businesses as a Secondary Business of Strategic Importance | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-019-en)
-- 2026-05-04 | `18` | Designation of Businesses as Primary Businesses of Strategic Importance under the Colombo Port City Economic Commission Act | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-018-en)
-- 2026-05-04 | `17` | Proposed amendments to the Finance Business Act, No.42 of 2011 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-017-en)
-- 2026-05-04 | `16` | Appointment to act in the Post of Director General of Commerce | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-016-en)
-- 2026-05-04 | `15` | Amending the Consumer Affairs Authority Act, No.9 of 2003 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-015-en)
-- 2026-05-04 | `14` | Implementation of Phase II of the Ruwanwella Water Supply Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-04-014-en)
+- 2026-05-18 | `20` | Submission of Orders regarding the imposition of a surcharge of 50% on the Customs Import Duty levied on the importation of motor vehicles | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-020-en)
+- 2026-05-18 | `19` | Finalizing the identification and provision of relief to Officers of the Sri Lanka Police (including the Special Task Force) and the Tri-Forces who died or became disabled as a result of terrorist acts and related activities during the period of war | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-019-en)
+- 2026-05-18 | `18` | Appointment to the Post of District Secretary/Government Agent of the Administrative District of Ratnapura | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-018-en)
+- 2026-05-18 | `17` | Confirmation of Director Generals appointed on acting basis to the respective Posts | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-017-en)
+- 2026-05-18 | `16` | Purchase of 181 Motorcycles for the Island-Wide Range Offices and Beat Offices under the Department of Wildlife Conservation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-016-en)
+- 2026-05-18 | `15` | Purchasing of potatoes by the M/s Co-operative Wholesale Establishment directly from local farmers and sell them to consumers through M/s Lanka Sathosa Limited | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-015-en)
+- 2026-05-18 | `14` | Implementation of the National Media Project- ‘Healthy Food - Happy Life’ | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-014-en)
+- 2026-05-18 | `13` | Implementation of the ‘Take Care-Surekemu Magathota’ Project during the period of 2026-2028 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-013-en)
+- 2026-05-18 | `12` | Awarding the Contract for renewal of Microsoft Licenses at SriLankan Airlines | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-012-en)
+- 2026-05-18 | `11` | Improvement of Malabe-Kaduwela (B 263) Road | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-011-en)
+- 2026-05-18 | `10` | Payment of compensation for damages caused to the paddy cultivation due to the construction of a salinity barrier across the Nilwala River in Matara | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-010-en)
+- 2026-05-18 | `9` | Purchase of 15,000 MT of urea fertilizer required for the Yala Season 2026 by the Agrarian Services Committees of the Department of Agrarian Development | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-009-en)
+- 2026-05-18 | `8` | Non-implementation of the First Semi-Annual Water Tariff Revision for the year 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-008-en)
+- 2026-05-18 | `7` | Formulation of a Space Policy for Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-007-en)
+- 2026-05-18 | `6` | Formulation of a National Intellectual Property Policy for Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-006-en)
+- 2026-05-18 | `5` | Development of an Inward Labour Migration Policy for Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-005-en)
+- 2026-05-18 | `4` | Establishment of the National Regulatory Reform Council to strengthen Regulatory Governance for Small and Medium Enterprises | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-004-en)
+- 2026-05-18 | `3` | Implementation of the Technical Cooperation Project to enhance the dairy production in the Dry Zone | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-003-en)
+- 2026-05-18 | `2` | Obtaining Membership of the AIA Group Supervisory College by the Insurance Regulatory Commission of Sri Lanka (IRCSL) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-002-en)
+- 2026-05-18 | `1` | Collaboration Agreement for the University of Jaffna to join the Project for Global Health Research Group on Violence against Women and Children | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-18-001-en)
 
 ---
 
