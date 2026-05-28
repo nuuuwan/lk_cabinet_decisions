@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-05-28 07:10:14",
-  "n_docs": 10859,
+  "time_updated": "2026-05-28 19:51:55",
+  "n_docs": 10868,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-05-18",
-  "dataset_size": 141576448,
+  "date_str_max": "2026-05-25",
+  "dataset_size": 141606442,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-05-18-020-en",
-    "num": "20",
-    "date_str": "2026-05-18",
-    "description": "Submission of Orders regarding the imposition of a surcharge of 50% on the Customs Import Duty levied on the importation of motor vehicles",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13950",
+    "doc_id": "2026-05-25-009-en",
+    "num": "9",
+    "date_str": "2026-05-25",
+    "description": "Appointment to the Post of Director General of the Department of Management Services",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13959",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-18 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Due to the prevailing war situation in the Middle East Region, all import costs have drastically increased and immediate measures must be taken to mitigate the possible adverse impact which creates on the national economy. Accordingly, with effect from 2026-05-16, without resorting to import restrictions on vehicles, it has been decided to impose 50% surcharge, to be effective only for 3 months, on the 30% customs import duty which is presently in force as per the provisions of the Customs Ordinance. The Order related thereto was issued by the Gazette Extraordinary Notification No.2488/56 dated 2026-05-15. Accordingly, the Order dated 2026-05-15 applies only to Letters of Credit opened for the importation of vehicles after 2026-05-16, and cause no impact on Letters of Credit opened for the importation of vehicles before that date.Similarly, by Gazette Notification No. 2488/69 dated 2026-05-17, an Order was issued to make the aforesaid surcharge applicable to vehicles, if any of the following particulars pertaining to Letters of Credit opened on or before 2026-05-15 for importation of vehicles, such as the number of vehicles, vehicle identification number, description of the vehicle, or technical specifications of the vehicle, are amended after 2026-05-15. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to submit relevant Orders to Parliament pertaining to the imposition of the above surcharges and the regularization of vehicle imports, in a manner that would not change the prices of vehicles currently being imported into Sri Lanka and would limit the importation of vehicles for the next 03 months, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-05-25 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- A committee has been appointed by the Secretary to the Ministry of Finance, Planning and Economic Development to make recommendations regarding the appointment of a suitable officer to the Post of Director General of the Department of Management Services, which fell vacant at present following the appointment of Mr. Wimal S.K. Liyanagama, the former Director General of the Department of Management Services, as the Director General of Customs. Based on the recommendations made by the said Committee, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mrs. M.K.D.N. Madampe, Special Grade Officer of the Sri Lanka Administrative Service, presently serving in a Post of Additional Director General of the Department of Management Services, to the post of Director General of the Department of Management Services with immediate effect, was approved by the Cabinet."
   }
 }
