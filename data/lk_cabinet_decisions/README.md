@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_07:24:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_19:38:19-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,886** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.8 MB**), from **2010-09-27** to **2026-06-01**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,903** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**141.7 MB**), from **2010-09-27** to **2026-06-08**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (95%) & **🤗 Hugging Face** (95%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-06-01-018-en",
-    "num": "18",
-    "date_str": "2026-06-01",
-    "description": "Signing of a Memorandum of Understanding between the Sri Lanka Institute of Tourism and Hotel Management and the Central Academy of Culture and Tourism Administration of the People\u2019s Republic of China",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13980",
+    "doc_id": "2026-06-08-017-en",
+    "num": "17",
+    "date_str": "2026-06-08",
+    "description": "Appointment to the Post of Director General of the Department of Management Audit",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=13997",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-06-01 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The Sri Lanka Institute of Tourism and Hotel Management, functioning under the Ministry of Foreign Affairs, Foreign Employment and Tourism, has initiated a collaboration with the Central Academy of Culture and Tourism Administration of the People's Republic of China with the aim of establishing a policy framework for institutional cooperation in areas including academic exchange, professional training, collaborative research, faculty development and sharing of knowledge resources. A Memorandum of Understanding has been drafted, including the observations of the Attorney General as well to regularize the said cooperation. Accordingly, the proposal made by the Minister of Foreign Affairs, Foreign Employment and Tourism to sign the proposed Memorandum of Understanding between the Sri Lanka Institute of Tourism and Hotel Management and the Central Academy of Culture and Tourism Administration of the People's Republic of China, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-06-08 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- A Committee has been appointed by the Secretary, Ministry of Finance, Planning and Economic Development to submit recommendations pertaining to the appointment of a suitable officer to the Post of Director General of the Department of Management Audit which has fallen vacant due to the retirement of Mr. A.P. Kurumbalapitiya who served in the said Post. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to appoint Mr. M.R.G.A.B. Muthukude, Special Grade Officer of the Sri Lanka Accountants\u2019 Service, presently serving as the Chief Financial Officer of the Department of Sri Lanka Customs, to the Post of Director General of the Department of Management Audit with immediate effect, was approved by the Cabinet."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-06-08 | `17` | Appointment to the Post of Director General of the Department of Management Audit | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-017-en)
+- 2026-06-08 | `16` | Appointment to the Post of Director General of the Department of Information Technology Management | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-016-en)
+- 2026-06-08 | `15` | Appointment to a Post of Additional Secretary of the Prime Minister’s Office | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-015-en)
+- 2026-06-08 | `14` | Drafting a Bill for Biosafety to minimize and avoid effects of genetically modified organisms resulting from modern biotechnology to biodiversity and human health | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-014-en)
+- 2026-06-08 | `13` | Submission of the Anti-Corruption (Declarations of Assets and Liabilities through the Centralized Electronic System) Regulations made under section 156 of the Anti-Corruption Act, No.9 of 2023 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-013-en)
+- 2026-06-08 | `12` | Amending the Customs Ordinance | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-012-en)
+- 2026-06-08 | `11` | Proclamation of Regulations/Order under the provisions of the Foreign Exchange Act, No.12 of 2017 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-011-en)
+- 2026-06-08 | `10` | Preparation of a Digital Economy Bill to accelerate Digital Transformation and Digital Economy Development | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-010-en)
+- 2026-06-08 | `9` | Project on Construction and Maintenance of Public Toilet Systems under the Local Authorities Island Wide under the Clean Sri Lanka Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-009-en)
+- 2026-06-08 | `8` | Development of the Pitipana - Thalagala Road | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-008-en)
+- 2026-06-08 | `7` | Sri Lanka Demographic and Health Survey - 2026/2027 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-007-en)
+- 2026-06-08 | `6` | National Water Tariff Policy applicable to all Water Supply and Sanitation Services | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-006-en)
+- 2026-06-08 | `5` | National Policy on Green Hydrogen in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-005-en)
+- 2026-06-08 | `4` | Implementation of the ‘Women Empowerment Targeted Programme’ as per the Budget Proposals 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-004-en)
+- 2026-06-08 | `3` | Memorandum of Cooperation between Sri Lanka and Japan on the Employment for Skills Development Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-003-en)
+- 2026-06-08 | `2` | Implementation of the Project for Integrated Systematic Approach | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-002-en)
+- 2026-06-08 | `1` | Establishment of Upper Watershed Area Management Authority | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-08-001-en)
 - 2026-06-01 | `18` | Signing of a Memorandum of Understanding between the Sri Lanka Institute of Tourism and Hotel Management and the Central Academy of Culture and Tourism Administration of the People’s Republic of China | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-018-en)
 - 2026-06-01 | `17` | Programme for empowering people affected by the disaster | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-017-en)
 - 2026-06-01 | `16` | Declaration of Elephant Corridors in Monaragala and Hambantota Districts to minimize human-elephant conflicts | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-016-en)
-- 2026-06-01 | `15` | Submission of the Imports and Exports (Control) Regulations No.04 of 2026 to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-015-en)
-- 2026-06-01 | `14` | Implementation of the Small Towns and Rural Water Supply Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-014-en)
-- 2026-06-01 | `13` | Awarding the procurement for the supply of Lubricating Oil for Sapugaskanda Power Station for a period of 2026/27 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-013-en)
-- 2026-06-01 | `12` | Awarding the Contract for the Construction of Lot A of the Mullikulam Wind Power Transmission Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-012-en)
-- 2026-06-01 | `11` | Project for the construction of the Amaradeva Aesthetic and Research Centre (Amaradeva Asapuwa) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-011-en)
-- 2026-06-01 | `10` | Development of 25 Towns under the 'Mithuru Purawara Programme' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-010-en)
-- 2026-06-01 | `9` | Rehabilitation and Improvement of the Road Lighting System of the Colombo - Katunayake Expressway, Including the Kerawalapitiya Interchange | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-009-en)
-- 2026-06-01 | `8` | Implementation of the Projects identified under the Development of 10 Cities Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-008-en)
-- 2026-06-01 | `7` | Digitalization of the plans of 3.5 million land plots available in hard copy form at the Survey Department of Sri Lanka and their integration into the Land Information System | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-007-en)
-- 2026-06-01 | `6` | Updated Guidelines for the Sri Lanka National Green Reporting System | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-006-en)
-- 2026-06-01 | `5` | Revised National Oil and Hazardous and Noxious Substance Spill Contingency Plan and its Digital Platform | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-005-en)
-- 2026-06-01 | `4` | Waste Management within the Coastal Zone including the Fishery Harbours in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-004-en)
-- 2026-06-01 | `3` | Construction of the Paediatric Intensive Care Unit on the Fourth Floor at the new Paediatric Ward Complex at the Teaching Hospital - Ratnapura | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-003-en)
-- 2026-06-01 | `2` | Enhancing community access through Arogya Wellness Centres | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-002-en)
-- 2026-06-01 | `1` | Developing an appropriate programme to secure the unsafe and high risk areas on roads that are not under the purview of the National Road System | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-06-01-001-en)
-- 2026-05-25 | `9` | Appointment to the Post of Director General of the Department of Management Services | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-25-009-en)
-- 2026-05-25 | `8` | Amending the Promotion of Export Agriculture Act, No.46 of 1992 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-05-25-008-en)
 
 ---
 
