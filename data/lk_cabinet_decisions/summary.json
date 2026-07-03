@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-07-03 07:07:48",
-  "n_docs": 10935,
+  "time_updated": "2026-07-03 19:08:27",
+  "n_docs": 10950,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-06-22",
-  "dataset_size": 142143464,
+  "date_str_max": "2026-06-30",
+  "dataset_size": 142178910,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-06-22-016-en",
-    "num": "16",
-    "date_str": "2026-06-22",
-    "description": "Appointment of a Special Cabinet Sub-Committee and an Official\u2019s Committee to address the impact of the El Ni\u00f1o Climate Condition",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14029",
+    "doc_id": "2026-06-30-015-en",
+    "num": "15",
+    "date_str": "2026-06-30",
+    "description": "Obtaining financial assistance of the Government of India for the implementation effort of rehabilitation and reconstruction programmes in Sri Lanka in the aftermath of the Cyclone 'Ditwah'",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14044",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-06-22 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- As Sri Lanka is a country highly sensitive to climate change, the risk of occurring changes in rainfall patterns in the country, high temperature and disaster situations such as droughts and floods remain at a very high level due the global climate phenomenon known as El Ni\u00f1o. Consequently, there is a potential for adverse impacts on numerous economic and social sectors. The Government has identified the need to take urgent measures to address the intensity and impact of El Ni\u00f1o conditions, which are confirmed by scientific predictions to occur from the end of this year onwards with the impact of climate change. Therefore, it has been decided to implement a national-level action plan by strengthening coordination among Government institutions, Local Authorities, Non-governmental organizations, Private Sector and community organizations to minimize the possible impacts. Accordingly, the proposal made by the                        Hon. President to take the following steps, was approved by the Cabinet:\n\n(i)\tto appoint a Cabinet Sub Committee comprising of the following Ministers to take immediate action for formulating short term, medium term and annual action plans for the management of the water, electricity and food crisis arising due to the El Ni\u00f1o condition, to ensure integrated operations among all Government entities and minimize the disaster risk by making public awareness:\n\n\n*\tHon. (Dr.) Dammika Patabendi,\n\tMinister of Environment - (Chairman).\n\n*\tHon. K.D. Lal Kantha,\n\tMinister of Agriculture, Livestock, Land and Irrigation\n\n*\tHon. Samantha Viddyarathna,\n\tMinister of Plantation and Community Infrastructure.\n\n*\tHon. Anura Karunathilaka,\n\tMinister of Ports and Civil Aviation; and\n\tMinister of Energy.\n\n*\tHon. Wasantha Samarasinghe,\n\tMinister of Trade, Commerce, Food Security and Cooperative Development.\n\n*\tHon. (Dr.) Susil Ranasinghe,\n\tMinister of Housing, Construction and Water Supply.\n\n (ii)\tto appoint an Officials' Committee with the following composition to assist the above Cabinet Sub Committee:\n\n*\tChief of Staff to the President - (Chairman).\n\n*\tSecretary, Ministry of Environment.\n\n*\tSecretary, Ministry of Agriculture, Livestock, Land and Irrigation.\n\n*\tSecretary, Ministry of Plantation and Community Infrastructure.\n\n*\tSecretary, Ministry of Energy.\n\n*\tSecretary, Ministry of Trade, Commerce, Food Security and Cooperative Development.\n\n*\tSecretary, Ministry of Housing, Construction and Water Supply.\n\n*\tDirector General of Irrigation.\n\n*\tDirector General of Agriculture.\n\n*\tDirector General, Department of Wildlife Conservation.\n\n*\tDirector General, Department of Meteorology.\n\n*\tDirector General, Disaster Management Centre.\n\n*\tDirector General, Mahaweli Authority of Sri Lanka.\n\n*\tDirector, National Disaster Relief Services Centre.\n\n*\tGeneral Manager, National Water Supply and Drainage Board.\n\n*\tGeneral Management/Chief Executive Officer, Electricity Generation Lanka (Private) Limited."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-06-30 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The reconstruction needs of about US$ 3.5 billion have been identified for the physical damage of US$ 2.1 billion and economic damage of US$ 1.4 billion as a result of the impact caused to Sri Lanka in November 2025 by Cyclone 'Ditwah'. During the disaster period, the Government of India provided the necessary assistance for disaster relief and emergency response activities under 'Operation Sagar Bandhu'. At the discussion held during the visit of the Hon. Minister of Foreign Affairs of India to Sri Lanka on 2025-12-22, it was agreed to provide a disaster relief package to Sri Lanka under 'Operation Sagar Bandhu'. Under this, the Government of India has proposed a relief package of US$ 450 million in the form of a line of credit of US$ 350 million and a grant of US$ 100 million. It has further been agreed that the credit facility of US$ 350 million will be provided in the form of a long\u2011term line of credit of US$ 250 million and a short-term line of credit of US$ 100 million, and a grant of US$ 100 million will be provided so as to cover the areas of infrastructure, connectivity, health, education, housing, water supply and disaster management. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to enter into relevant agreements between the two parties to obtain the proposed credit facility, was approved by the Cabinet."
   }
 }
