@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-07-16 19:06:51",
-  "n_docs": 10960,
+  "time_updated": "2026-07-17 07:07:32",
+  "n_docs": 10969,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-07-06",
-  "dataset_size": 142291880,
+  "date_str_max": "2026-07-13",
+  "dataset_size": 142311504,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-07-06-010-en",
-    "num": "10",
-    "date_str": "2026-07-06",
-    "description": "Committee Stage amendments to the Financial Transactions Reporting (Amendment) Bill and the Prevention of Money Laundering (Amendment) Bill",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14054",
+    "doc_id": "2026-07-13-009-en",
+    "num": "9",
+    "date_str": "2026-07-13",
+    "description": "Appointment to the Post of Director General of the Department of Government Factory",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14064",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-06 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Cabinet approval has been granted on 2026-02-09 to publish the Financial Transactions Reporting (Amendment) Bill and the Prevention of Money Laundering (Amendment) Bill in the Government Gazette and thereafter submit the same to Parliament. The Legal Draftsman has drafted amendments proposed to be introduced at the Committee Stage of the said Bills in Parliament, incorporating the decisions of the Supreme Court pertaining to the cases filled challenging the said Amendment Bills and several essential amendments identified. The clearance of the Attorney General has been received for the said new amendments. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the said amendments at the Committee Stage of the said Bills in Parliament, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-13 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The post of Director General of the Department of Government Factory has fallen vacant since 2026-07-09 following the retirement of                                               Mr. A. Wijesinghe, who served as the Director General of the said Post. The proposal made by the Minister of Housing, Construction and Water Supply to appoint Eng. S.N.B.M. Padmasiri, Special Grade Officer of the Sri Lanka Engineering Service, who is presently serving as the Additional Director General of the Department of Government Factory, to the post of Director General of the Department of Government Factories, with immediate effect, was approved by the Cabinet."
   }
 }
