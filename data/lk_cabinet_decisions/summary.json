@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-07-22 07:07:06",
-  "n_docs": 10969,
+  "time_updated": "2026-07-22 19:07:10",
+  "n_docs": 10983,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-07-13",
-  "dataset_size": 142338890,
+  "date_str_max": "2026-07-20",
+  "dataset_size": 142371871,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-07-13-009-en",
-    "num": "9",
-    "date_str": "2026-07-13",
-    "description": "Appointment to the Post of Director General of the Department of Government Factory",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14064",
+    "doc_id": "2026-07-20-014-en",
+    "num": "14",
+    "date_str": "2026-07-20",
+    "description": "Appointment to the Post of Surveyor General",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14078",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-13 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The post of Director General of the Department of Government Factory has fallen vacant since 2026-07-09 following the retirement of                                               Mr. A. Wijesinghe, who served as the Director General of the said Post. The proposal made by the Minister of Housing, Construction and Water Supply to appoint Eng. S.N.B.M. Padmasiri, Special Grade Officer of the Sri Lanka Engineering Service, who is presently serving as the Additional Director General of the Department of Government Factory, to the post of Director General of the Department of Government Factories, with immediate effect, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-20 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Mrs. P.K.L.S. Panduwawala, who is currently serving as the Surveyor General of the Survey Department of Sri Lanka, is scheduled to retire from the public service on 2026-08-20 upon reaching the age of mandatory retirement. Accordingly, the Cabinet approved the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation, to appoint                            Mrs. O.T.M.I. Thilakaratne, the most senior officer in the Special Grade of the Sri Lanka Surveyors Service, who is serving as an Additional Surveyor General of the said Department, to the vacant post of Surveyor General with effect from 2026-08-20."
   }
 }
