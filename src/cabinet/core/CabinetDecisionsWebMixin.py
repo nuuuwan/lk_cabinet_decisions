@@ -122,10 +122,16 @@ class CabinetDecisionsWebMixin:
         cls, url_decision
     ) -> Generator[tuple[str, str], None, None]:
         www_home = WWW(url_decision)
-        soup = www_home.soup
-        if not soup:
-            log.error(f"[{www_home}] no soup.")
+
+        try:
+            soup = www_home.soup
+            if not soup:
+                log.error(f"[{www_home}] no soup.")
+                return
+        except Exception as e:
+            log.error(f"[{www_home}] error: {e}")
             return
+        
         ul = soup.find("ul", class_="menu")
         year_str_set = set()  # HACK to prevent duplicates
         for li in ul.find_all("li"):
