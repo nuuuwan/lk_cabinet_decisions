@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-07-30 07:07:10",
-  "n_docs": 10983,
+  "time_updated": "2026-07-30 19:06:57",
+  "n_docs": 10998,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-07-20",
-  "dataset_size": 142416088,
+  "date_str_max": "2026-07-27",
+  "dataset_size": 142463910,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-07-20-014-en",
-    "num": "14",
-    "date_str": "2026-07-20",
-    "description": "Appointment to the Post of Surveyor General",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14078",
+    "doc_id": "2026-07-27-015-en",
+    "num": "15",
+    "date_str": "2026-07-27",
+    "description": "Providing the President's Houses for the implementation of Tourism Investment Projects",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14093",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-20 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Mrs. P.K.L.S. Panduwawala, who is currently serving as the Surveyor General of the Survey Department of Sri Lanka, is scheduled to retire from the public service on 2026-08-20 upon reaching the age of mandatory retirement. Accordingly, the Cabinet approved the proposal made by the Minister of Agriculture, Livestock, Land and Irrigation, to appoint                            Mrs. O.T.M.I. Thilakaratne, the most senior officer in the Special Grade of the Sri Lanka Surveyors Service, who is serving as an Additional Surveyor General of the said Department, to the vacant post of Surveyor General with effect from 2026-08-20."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-27 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Although several President's Houses are maintained in various parts of Sri Lanka for the purpose of using the President for official functions and personal leisure, those houses are not used for the activities of the current President. Those houses, which have very high architectural and economic values, are equipped with complete facilities and attractive landscaping. The maintenance, security and other expenses of the houses currently under the control of the Presidential Secretariat require a significant expenditure of public funds. Therefore, taking into account the recommendations of the Committee appointed to introduce a suitable methodology for the economically productive utilization of State-Owned Bungalows, Houses and Presedent's Houses, the Cabinet approved the proposal made by the Hon. President to dispose of the President's Houses located in Bentota, Kataragama, Mahinyaganaya, Embilipitiya and Anuradhapura on a long-term lease basis to suitable investors by inviting proposals for the implementation of investment projects in the tourism sector, was approved by the Cabinet."
   }
 }
