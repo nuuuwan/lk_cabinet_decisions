@@ -1,18 +1,18 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **10,983** documents (**142.4 MB**).
+**1** datasets, with **10,998** documents (**142.5 MB**).
 
 ## 001 🏛️ Cabinet Decisions
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30_07:07:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30_19:06:57-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,983** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**142.4 MB**), from **2010-09-27** to **2026-07-20**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**10,998** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**142.5 MB**), from **2010-09-27** to **2026-07-27**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
-- In **JSON**, **TXT** (95%) & **🤗 Hugging Face** (95%)
+- In **JSON**, **TXT** (94%) & **🤗 Hugging Face** (94%)
 
 - In **සිංහල** & **English**
 
