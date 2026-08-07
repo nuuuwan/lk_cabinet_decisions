@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--07_07:15:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--07_19:04:04-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**10,998** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**142.5 MB**), from **2010-09-27** to **2026-07-27**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**11,013** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**142.6 MB**), from **2010-09-27** to **2026-08-03**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (94%) & **🤗 Hugging Face** (94%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-07-27-015-en",
+    "doc_id": "2026-08-03-015-en",
     "num": "15",
-    "date_str": "2026-07-27",
-    "description": "Providing the President's Houses for the implementation of Tourism Investment Projects",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14093",
+    "date_str": "2026-08-03",
+    "description": "Amendment of the Constitution and the Judicature Act to further strengthen the independence of the judiciary",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14108",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-07-27 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Although several President's Houses are maintained in various parts of Sri Lanka for the purpose of using the President for official functions and personal leisure, those houses are not used for the activities of the current President. Those houses, which have very high architectural and economic values, are equipped with complete facilities and attractive landscaping. The maintenance, security and other expenses of the houses currently under the control of the Presidential Secretariat require a significant expenditure of public funds. Therefore, taking into account the recommendations of the Committee appointed to introduce a suitable methodology for the economically productive utilization of State-Owned Bungalows, Houses and Presedent's Houses, the Cabinet approved the proposal made by the Hon. President to dispose of the President's Houses located in Bentota, Kataragama, Mahinyaganaya, Embilipitiya and Anuradhapura on a long-term lease basis to suitable investors by inviting proposals for the implementation of investment projects in the tourism sector, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-03 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Cabinet, at its meeting held on 2026-07-27, granted approval for the preparation of drafts to amend the Constitution and the Judicature Act with the aim of further strengthening the independence of the judiciary and efficient disposal of the backlog of pending court cases. The Attorney General has given the Certificates of Constitutionality to the Twenty Second Amendment to the Constitution Bill and the Judicature (Amendment) Bill prepared by the Legal Draftsman as per the said approval.  Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said amending Bills prepared by the Legal Draftsman in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet."
 }
 ```
 
@@ -41,26 +41,26 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-08-03 | `15` | Amendment of the Constitution and the Judicature Act to further strengthen the independence of the judiciary | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-015-en)
+- 2026-08-03 | `14` | House Detention as an alternative to Prison overcrowding | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-014-en)
+- 2026-08-03 | `13` | Repurposing of Support to Colombo Urban Regeneration Project funded by the Asian Infrastructure Investment Bank | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-013-en)
+- 2026-08-03 | `12` | Policy Based Lending by the Asian Development Bank | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-012-en)
+- 2026-08-03 | `11` | Drafting the Child Rights Act | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-011-en)
+- 2026-08-03 | `10` | Amendment of the Employees’ Provident Fund Act No.15 of 1958 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-010-en)
+- 2026-08-03 | `9` | Submission of the Motor Traffic (Examination) Regulations No.03 of 2026 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-009-en)
+- 2026-08-03 | `8` | Amendment of the Motor Traffic (Expressways) Regulations No.2 of 2011 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-008-en)
+- 2026-08-03 | `7` | Appointment of an Engineering Consultant Firm to implement the 'Arogya Wellness Centres' Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-007-en)
+- 2026-08-03 | `6` | Rehabilitation of infrastructure facilities in the Fisheries and Aquatic Resources Sector damaged and affected by the Cyclone 'Ditwah' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-006-en)
+- 2026-08-03 | `5` | Procurement of 50 Comfortable Low-Floor Buses for passenger transportation services in urban areas | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-005-en)
+- 2026-08-03 | `4` | Rehabilitation Project of the Sluice Tower, Sluice Barrel and remaining parts of the Senanayake Samudraya | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-004-en)
+- 2026-08-03 | `3` | Establishment of a Training Centre on Renewable Energy by the Ceylon German Technical Training Institute | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-003-en)
+- 2026-08-03 | `2` | Procedure for the disposal of lands for the resettlement of families displaced due to the impacts of the Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-002-en)
+- 2026-08-03 | `1` | Sri Lanka National Implementation Plan for the period 2026-2028 in accordance with the Global Compact for Safe, Orderly and Regular Migration | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-03-001-en)
 - 2026-07-27 | `15` | Providing the President's Houses for the implementation of Tourism Investment Projects | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-015-en)
 - 2026-07-27 | `14` | Amending the Poisons, Opium and Dangerous Drugs Ordinance (Chapter 218) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-014-en)
 - 2026-07-27 | `13` | Hosting the Green Climate Fund Regional Dialogue for East and South Asia, in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-013-en)
 - 2026-07-27 | `12` | Amending the Constitution and the Judicature Act to make judicial proceedings more efficient and streamlined | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-012-en)
 - 2026-07-27 | `11` | Merging the Department of Social Services, the National Secretariat for Elders and the National Secretariat for Persons with Disabilities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-011-en)
-- 2026-07-27 | `10` | Appointment to a Post of Additional Secretary of the Prime Minister’s Office | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-010-en)
-- 2026-07-27 | `9` | Amending the National Institute of Business Management Act, No.23 of 1976 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-009-en)
-- 2026-07-27 | `8` | Disposal of scrap metal of the Sri Lanka Transport Board | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-008-en)
-- 2026-07-27 | `7` | Renovation of the Sayurupura, Sahaspura and Sinhapura Stage I and Sinhapura Phase II Housing Schemes | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-007-en)
-- 2026-07-27 | `6` | Implementation of Phase 1 of the Ruwanpura Expressway Project including the System Interchange connecting to the Southern Expressway | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-006-en)
-- 2026-07-27 | `5` | Revision of payments made under the Government Scholarship Programme for pursuing Bachelor’s Degrees at Internationally Ranked Foreign Universities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-005-en)
-- 2026-07-27 | `4` | Allocation of Land blocks from Regional Industrial Estates to set up Industries | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-004-en)
-- 2026-07-27 | `3` | Restructuring the Gem and Jewellery Research and Training Institute as the Research and Training Division of the National Gem and Jewellery Authority | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-003-en)
-- 2026-07-27 | `2` | Management of the Multimodal Transport Terminals in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-002-en)
-- 2026-07-27 | `1` | Regulation of Virtual Assets and Virtual Asset Service Providers in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-27-001-en)
-- 2026-07-20 | `14` | Appointment to the Post of Surveyor General | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-20-014-en)
-- 2026-07-20 | `13` | Amending the Drug Dependent Persons (Treatment and Rehabilitation) Act, No.54 of 2007 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-20-013-en)
-- 2026-07-20 | `12` | Amending the National Dangerous Drugs Control Board Act, No.11 of 1984 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-20-012-en)
-- 2026-07-20 | `11` | Amendments to the Social Security Board Act, No.17 of 1996 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-20-011-en)
-- 2026-07-20 | `10` | Amending the Registration of Title Act, No.21 of 1998 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-07-20-010-en)
 
 ---
 
