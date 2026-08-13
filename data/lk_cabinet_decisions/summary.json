@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-08-13 06:54:11",
-  "n_docs": 11013,
+  "time_updated": "2026-08-13 19:04:03",
+  "n_docs": 11031,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-08-03",
-  "dataset_size": 142616642,
+  "date_str_max": "2026-08-10",
+  "dataset_size": 142681021,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-08-03-015-en",
-    "num": "15",
-    "date_str": "2026-08-03",
-    "description": "Amendment of the Constitution and the Judicature Act to further strengthen the independence of the judiciary",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14108",
+    "doc_id": "2026-08-10-018-en",
+    "num": "18",
+    "date_str": "2026-08-10",
+    "description": "Appointment to the Post of Director General of the Department of National Botanical Gardens",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14127",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-03 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The Cabinet, at its meeting held on 2026-07-27, granted approval for the preparation of drafts to amend the Constitution and the Judicature Act with the aim of further strengthening the independence of the judiciary and efficient disposal of the backlog of pending court cases. The Attorney General has given the Certificates of Constitutionality to the Twenty Second Amendment to the Constitution Bill and the Judicature (Amendment) Bill prepared by the Legal Draftsman as per the said approval.  Accordingly, the proposal made by the Minister of Justice and National Integration to publish the said amending Bills prepared by the Legal Draftsman in the Government Gazette and thereafter to submit the same to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-10 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2024-12-30 to appoint Mrs. H.C.P. Jayaweera, Grade I Officer of the Sri Lanka Scientific Service, to act full time in the Post of Director General of the Department of National Botanical Gardens and she has accordingly continued to serve in the said post to date. The Public Service Commission has promoted her to the Special Grade of the Sri Lanka Scientific Service with effect from 2026-01-31. The proposal made by the Minister of Environment to appoint Mrs. H.C.P. Jayaweera to the Post of Director General of the Department of National Botanical Gardens on permanent basis to be effective from the said date, was approved by the Cabinet."
   }
 }
