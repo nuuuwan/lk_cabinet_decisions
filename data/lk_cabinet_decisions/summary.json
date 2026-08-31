@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-08-31 07:00:33",
-  "n_docs": 11051,
+  "time_updated": "2026-08-31 18:40:25",
+  "n_docs": 11066,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-08-17",
-  "dataset_size": 142907048,
+  "date_str_max": "2026-08-24",
+  "dataset_size": 142956603,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-08-17-020-en",
-    "num": "20",
-    "date_str": "2026-08-17",
-    "description": "Submission of the Bill titled \u2018Protection of the State from Terrorism\u2019 to Parliament",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14147",
+    "doc_id": "2026-08-24-015-en",
+    "num": "15",
+    "date_str": "2026-08-24",
+    "description": "Drafting a Service Minute with regard to the establishment of a new Service category named \u2018Specialist Medical and Specialist Dental Service\u2019 in the Health Service of Sri Lanka",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14166",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-17 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- In view of the need to introduce a new law to cover the existing shortcomings of the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979, a Technical Expert Committee has been appointed to prepare a preliminary draft in relation to the said matter. Based on the preliminary draft prepared by the said Technical Expert Committee, policy approval has been granted at the Cabinet meeting held on 2026-08-10 to introduce a new Act titled 'Protection of the State from Terrorism'. Accordingly, the clearance of the Attorney General has been received for the Bill prepared by the Legal Draftsman. The proposal made by the Minister of Justice and National Integration to publish the said Bill in the Government Gazette and thereafter submit it to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-24 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-01-12 to appoint an Officials' Committee to submit recommendations with regard to the establishment of a Service category for Medical Specialists and Dental Specialists. The said Committee has submitted its Report after conducting an extensive review. Taking into account the recommendations of the said Report, the proposal made by the Minister of Health and Mass Media to establish a service category named Specialist Medical and Specialist Dental Service and to appoint an Officials' Committee under the Chairmanship of the Secretary, Ministry of Health and Mass Media to draft the service minute pertaining to the said service category, was approved by the Cabinet."
   }
 }
