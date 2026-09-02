@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-09-02 06:56:42",
-  "n_docs": 11066,
+  "time_updated": "2026-09-02 18:40:53",
+  "n_docs": 11079,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-08-24",
-  "dataset_size": 143008694,
+  "date_str_max": "2026-08-31",
+  "dataset_size": 143048375,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-08-24-015-en",
-    "num": "15",
-    "date_str": "2026-08-24",
-    "description": "Drafting a Service Minute with regard to the establishment of a new Service category named \u2018Specialist Medical and Specialist Dental Service\u2019 in the Health Service of Sri Lanka",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14166",
+    "doc_id": "2026-08-31-013-en",
+    "num": "13",
+    "date_str": "2026-08-31",
+    "description": "Memorandum of Understanding on Cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14198",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-24 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-01-12 to appoint an Officials' Committee to submit recommendations with regard to the establishment of a Service category for Medical Specialists and Dental Specialists. The said Committee has submitted its Report after conducting an extensive review. Taking into account the recommendations of the said Report, the proposal made by the Minister of Health and Mass Media to establish a service category named Specialist Medical and Specialist Dental Service and to appoint an Officials' Committee under the Chairmanship of the Secretary, Ministry of Health and Mass Media to draft the service minute pertaining to the said service category, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-31 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The ongoing youth exchange programmes between the cadet corps of Sri Lanka and India contribute to the expansion of friendly relations between the two countries, and it is proposed to sign a Memorandum of Understanding between the two organizations to further strengthen the said cooperation. The said Agreement envisages the implementation of exchange programmes between the cadet corps members of the two countries for the purpose of planning and implementing joint specialized training and leadership programmes. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence to enter into a Memorandum of Understanding for cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India, was approved by the Cabinet."
   }
 }

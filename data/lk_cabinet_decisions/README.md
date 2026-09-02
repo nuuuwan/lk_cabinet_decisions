@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_06:56:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--02_18:40:56-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**11,066** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**143.0 MB**), from **2010-09-27** to **2026-08-24**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**11,079** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**143.0 MB**), from **2010-09-27** to **2026-08-31**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (94%) & **🤗 Hugging Face** (94%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-08-24-015-en",
-    "num": "15",
-    "date_str": "2026-08-24",
-    "description": "Drafting a Service Minute with regard to the establishment of a new Service category named \u2018Specialist Medical and Specialist Dental Service\u2019 in the Health Service of Sri Lanka",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14166",
+    "doc_id": "2026-08-31-013-en",
+    "num": "13",
+    "date_str": "2026-08-31",
+    "description": "Memorandum of Understanding on Cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14198",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-24 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-01-12 to appoint an Officials' Committee to submit recommendations with regard to the establishment of a Service category for Medical Specialists and Dental Specialists. The said Committee has submitted its Report after conducting an extensive review. Taking into account the recommendations of the said Report, the proposal made by the Minister of Health and Mass Media to establish a service category named Specialist Medical and Specialist Dental Service and to appoint an Officials' Committee under the Chairmanship of the Secretary, Ministry of Health and Mass Media to draft the service minute pertaining to the said service category, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-31 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The ongoing youth exchange programmes between the cadet corps of Sri Lanka and India contribute to the expansion of friendly relations between the two countries, and it is proposed to sign a Memorandum of Understanding between the two organizations to further strengthen the said cooperation. The said Agreement envisages the implementation of exchange programmes between the cadet corps members of the two countries for the purpose of planning and implementing joint specialized training and leadership programmes. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence to enter into a Memorandum of Understanding for cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India, was approved by the Cabinet."
 }
 ```
 
@@ -41,6 +41,19 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-08-31 | `13` | Memorandum of Understanding on Cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-013-en)
+- 2026-08-31 | `12` | Donation of US Dollars One Million to the Government of Nepal | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-012-en)
+- 2026-08-31 | `11` | Re-engineering the Vidatha Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-011-en)
+- 2026-08-31 | `10` | Recruitment of Nursing Tutors on contract basis, for the Nursing Schools under the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-010-en)
+- 2026-08-31 | `9` | Amendment to the Community Based Corrections Act, No.46 of 1999 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-009-en)
+- 2026-08-31 | `8` | Amendment of the Quarantine and Prevention of Diseases Ordinance           No.3 of 1897 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-008-en)
+- 2026-08-31 | `7` | Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-007-en)
+- 2026-08-31 | `6` | Development of Road Facilities for the 'Tech City Project', Mahenawatta, Pitipana, Homagama | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-006-en)
+- 2026-08-31 | `5` | Continuation of the Humanitarian De-mining Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-005-en)
+- 2026-08-31 | `4` | Signing of the Host Country Agreement for establishing BIMSTEC Technology Transfer Facility in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-004-en)
+- 2026-08-31 | `3` | Entering into a Bilateral Memorandum of Understanding on Immigration Control Cooperation between the Department of Immigration and Emigration of Sri Lanka and the National Immigration Administration of the People’s Republic of China | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-003-en)
+- 2026-08-31 | `2` | Treaty between the Republic of Korea and the Democratic Socialist Republic of Sri Lanka on Mutual Legal Assistance in Criminal Matters | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-002-en)
+- 2026-08-31 | `1` | Signing of the Complementary Adjustment Agreement pertaining to the Technical Cooperation Agreement signed between the Government of Brazil and the Government of Sri Lanka for implementation of the 'Sugarcane Project in Sri Lanka' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-31-001-en)
 - 2026-08-24 | `15` | Drafting a Service Minute with regard to the establishment of a new Service category named ‘Specialist Medical and Specialist Dental Service’ in the Health Service of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-015-en)
 - 2026-08-24 | `14` | Appointment to the Post of Commissioner General of Motor Traffic | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-014-en)
 - 2026-08-24 | `13` | Civil Procedure Code (Amendment) Bill | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-013-en)
@@ -48,19 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2026-08-24 | `11` | Preparation of the ‘Tourism for Heritage, Resilience, Inclusion and Value-driven Employment (THRIVE) - Nature’ Project for World Bank Financing | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-011-en)
 - 2026-08-24 | `10` | Implementation of the proposed Smart Meters with Time-of-Use Billing System by Electricity Distribution Lanka (Private) Limited | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-010-en)
 - 2026-08-24 | `9` | Construction of the New Cardiology Unit Building of the District General Hospital, Trincomalee and the New Cardiology and Cardiothoracic Complex Building at the Teaching Hospital, Anuradhapura | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-009-en)
-- 2026-08-24 | `8` | Awarding Procurements for the operation of travel service counters at the Arrival Lobby of the Bandaranaike International Airport, Katuynayake | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-008-en)
-- 2026-08-24 | `7` | The Project for the Rehabilitation of 14 Bridges Damaged by the Cyclone 'Ditwah' | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-007-en)
-- 2026-08-24 | `6` | Construction of Connectivity Roads for the Central Expressway Sections I, III and IV | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-006-en)
-- 2026-08-24 | `5` | Procurement of Security Services for the National Savings Bank | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-005-en)
-- 2026-08-24 | `4` | Conduct of the World Health Organization Universal Health and Preparedness Review in Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-004-en)
-- 2026-08-24 | `3` | Implementation of the 'Janaridhma' (SL-PULSE) Project to strengthen Citizen-Centred Governance and Frontline Public Service Delivery through the Regional Administrative System | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-003-en)
-- 2026-08-24 | `2` | Strategic Framework for the Technical and Vocational Education & Training Sector 2026-2035 Skills Development System Transformation Programme - (Item No.08 and 09) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-002-en)
-- 2026-08-24 | `1` | Establishment of the National Business Facilitation Centre | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-24-001-en)
-- 2026-08-17 | `20` | Submission of the Bill titled ‘Protection of the State from Terrorism’ to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-17-020-en)
-- 2026-08-17 | `19` | Submission of the Orders issued under the Colombo Port City Economic Commission Act, to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-17-019-en)
-- 2026-08-17 | `18` | Commencement of tourism activities at the Nildiya Pokuna located in the Ravana Ella Sanctuary under the supervision and regulation of the Department of Wildlife Conservation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-17-018-en)
-- 2026-08-17 | `17` | Submission of the Orders published under the Companies Act, No.07 of 2007 and the Societies Ordinance, No.16 of 1891 (Chapter 123) to Parliament | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-17-017-en)
-- 2026-08-17 | `16` | Amending the Foreign Exchange Act, No.12 of 2017, to recognize the unauthorized transfer of funds outside Sri Lanka as a criminal offence | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-08-17-016-en)
 
 ---
 
