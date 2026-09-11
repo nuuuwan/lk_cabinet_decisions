@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-09-10 18:40:39",
-  "n_docs": 11079,
+  "time_updated": "2026-09-11 06:54:18",
+  "n_docs": 11090,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-08-31",
-  "dataset_size": 143090766,
+  "date_str_max": "2026-09-07",
+  "dataset_size": 143138333,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-08-31-013-en",
-    "num": "13",
-    "date_str": "2026-08-31",
-    "description": "Memorandum of Understanding on Cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14198",
+    "doc_id": "2026-09-07-011-en",
+    "num": "11",
+    "date_str": "2026-09-07",
+    "description": "Prevention of Organized Crimes Bill",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14209",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-08-31 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- The ongoing youth exchange programmes between the cadet corps of Sri Lanka and India contribute to the expansion of friendly relations between the two countries, and it is proposed to sign a Memorandum of Understanding between the two organizations to further strengthen the said cooperation. The said Agreement envisages the implementation of exchange programmes between the cadet corps members of the two countries for the purpose of planning and implementing joint specialized training and leadership programmes. Accordingly, the proposal made by the Hon. President in his capacity as the Minister of Defence to enter into a Memorandum of Understanding for cooperation between the National Cadet Corps of Sri Lanka and the National Cadet Corps of India, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-09-07 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-03-30 to prepare a new Bill for Prevention of Organized Crimes in Sri Lanka. Accordingly, the Legal Draftsman has prepared the Prevention of Organized Crimes Bill to provide legal provisions for the enforcement of the United Nations Convention against Transnational Organized Crime, to prevent and combat serious crimes through effective national and international cooperation, and also to protect society from the threats posed by organized crime groups. The clearance of the Attorney General has been received for the said Bill. Accordingly, the joint proposal made by the Minister of Justice and National Integration; and the Minister of Public Security and Parliamentary Affairs to publish the Bill in the Government Gazette and thereafter submit it to Parliament for approval, was approved by the Cabinet."
   }
 }
