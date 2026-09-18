@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-09-18 06:57:33",
-  "n_docs": 11090,
+  "time_updated": "2026-09-18 18:40:43",
+  "n_docs": 11104,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-09-07",
-  "dataset_size": 143183099,
+  "date_str_max": "2026-09-14",
+  "dataset_size": 142993383,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-09-07-011-en",
-    "num": "11",
-    "date_str": "2026-09-07",
-    "description": "Prevention of Organized Crimes Bill",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14209",
+    "doc_id": "2026-09-14-014-en",
+    "num": "14",
+    "date_str": "2026-09-14",
+    "description": "Submission of the Appropriation Bill for the Fiscal Year 2027 to Parliament",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14223",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-09-07 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-03-30 to prepare a new Bill for Prevention of Organized Crimes in Sri Lanka. Accordingly, the Legal Draftsman has prepared the Prevention of Organized Crimes Bill to provide legal provisions for the enforcement of the United Nations Convention against Transnational Organized Crime, to prevent and combat serious crimes through effective national and international cooperation, and also to protect society from the threats posed by organized crime groups. The clearance of the Attorney General has been received for the said Bill. Accordingly, the joint proposal made by the Minister of Justice and National Integration; and the Minister of Public Security and Parliamentary Affairs to publish the Bill in the Government Gazette and thereafter submit it to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-09-14 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval was granted at the Cabinet meeting held on 2026-06-30 to prepare the Appropriation Bill for the fiscal year 2027. Accordingly, clearance of the Attorney General has been received for the Appropriation Bill for the fiscal year 2027 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and submit the same, thereafter to Parliament for approval, was approved by the Cabinet."
   }
 }
