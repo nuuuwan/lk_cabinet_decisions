@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-09-25 06:57:22",
-  "n_docs": 11104,
+  "time_updated": "2026-09-25 18:42:32",
+  "n_docs": 11115,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-09-14",
-  "dataset_size": 143274272,
+  "date_str_max": "2026-09-21",
+  "dataset_size": 143309425,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-09-14-014-en",
-    "num": "14",
-    "date_str": "2026-09-14",
-    "description": "Submission of the Appropriation Bill for the Fiscal Year 2027 to Parliament",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14223",
+    "doc_id": "2026-09-21-011-en",
+    "num": "11",
+    "date_str": "2026-09-21",
+    "description": "Appointment to the Post of Director General of Irrigation",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14234",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-09-14 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval was granted at the Cabinet meeting held on 2026-06-30 to prepare the Appropriation Bill for the fiscal year 2027. Accordingly, clearance of the Attorney General has been received for the Appropriation Bill for the fiscal year 2027 prepared by the Legal Draftsman. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and submit the same, thereafter to Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-09-21 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Dr. (Eng.) K. Weligepolage, presently serving as the Director General of Irrigation, is scheduled to retire from the public service on 2026-10-06, upon reaching the mandatory age of retirement. Accordingly, the proposal made by the Minister of Agriculture, Livestock, Land, and Irrigation to appoint Eng. P.M. Jayadeera, Special Grade Officer of the Sri Lanka Engineering Service, presently serving as the Additional Secretary (Water Resources Development) of the Ministry of Agriculture, Livestock, Land, and Irrigation, to the vacant post of Director General of Irrigation, with effect from 2026-10-06, was approved by the Cabinet."
   }
 }
