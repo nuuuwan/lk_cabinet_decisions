@@ -2,33 +2,33 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-10-19 07:00:39",
-  "n_docs": 11142,
+  "time_updated": "2026-10-19 18:46:19",
+  "n_docs": 11160,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-10-05",
-  "dataset_size": 143549658,
+  "date_str_max": "2026-10-12",
+  "dataset_size": 143607607,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_cabinet_decisions/refs/heads/data/data/lk_cabinet_decisions/docs_by_year_and_lang.png",
   "langs": [
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-10-05-016-en",
-    "num": "16",
-    "date_str": "2026-10-05",
-    "description": "Appointment to act in the Post of Director General of the Department of National Botanic Gardens on full time basis",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14261",
+    "doc_id": "2026-10-12-018-en",
+    "num": "18",
+    "date_str": "2026-10-12",
+    "description": "Appointment to the Post of Director General of the Department of Technical Education and Training",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14279",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-10-05 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Ms. H.C.P. Jayaweera, who served as the Director General of the Department of National Botanic Gardens, retired from the public service upon reaching the age of 60 on 2026-09-14. Therefore, the proposal made by the Minister of Environment to appoint Mr. M.M.D.J. Senarathna, the senior most Officer in Grade I of the Sri Lanka Scientific Service currently serving in the said Department to act in the vacant post of Director General of the Department of National Botanic Gardens on a full-time basis, with immediate effect, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-10-12 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-01-26, to appoint Mrs. Dilki Wathsala Marambage, Grade I Officer of the Sri Lanka Administrative Service, to the post of Director General of the Department of Technical Education and Training on full-time acting basis. She has been promoted to the Special Grade of the Sri Lanka Administrative Service by the Public Service Commission, from 2026-01-01. Accordingly, the proposal made by the Hon. Prime Minister in her capacity as the Minister of Education, Higher Education, and Vocational Education to appoint Mrs. Dilki Wathsala Marambage to the post of Director General of the Department of Technical Education and Training on permanent basis, was approved by the Cabinet."
   }
 }
