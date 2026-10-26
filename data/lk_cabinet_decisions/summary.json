@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-10-26 07:00:32",
-  "n_docs": 11160,
+  "time_updated": "2026-10-26 20:18:37",
+  "n_docs": 11175,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-10-12",
-  "dataset_size": 143670677,
+  "date_str_max": "2026-10-19",
+  "dataset_size": 143718031,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-10-12-018-en",
-    "num": "18",
-    "date_str": "2026-10-12",
-    "description": "Appointment to the Post of Director General of the Department of Technical Education and Training",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14279",
+    "doc_id": "2026-10-19-015-en",
+    "num": "15",
+    "date_str": "2026-10-19",
+    "description": "Conducting the cremation ceremony of the late Anunayake Thero of the Sri Lanka Ramagngna Maha Nikaya, Chief Incumbant of the Gatambe Rajopawanaramaya, Most Venerable Kappitiyagoda Siriwimalabhidhana Anunayaka Thero, with State Partonage",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14294",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-10-12 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval has been granted at the Cabinet meeting held on 2026-01-26, to appoint Mrs. Dilki Wathsala Marambage, Grade I Officer of the Sri Lanka Administrative Service, to the post of Director General of the Department of Technical Education and Training on full-time acting basis. She has been promoted to the Special Grade of the Sri Lanka Administrative Service by the Public Service Commission, from 2026-01-01. Accordingly, the proposal made by the Hon. Prime Minister in her capacity as the Minister of Education, Higher Education, and Vocational Education to appoint Mrs. Dilki Wathsala Marambage to the post of Director General of the Department of Technical Education and Training on permanent basis, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-10-19 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The cremation ceremony of the Anunayake Thero of the Sri Lanka Ramagngna Maha Nikaya, Chief Incumbant of the Peradeniya Gatambe Rajopawanaramaya, Sri Chandawimala Wansalankara, Chandakeerthi Sri Amarawansa Saddarma Vagheswara shasanahobhaana Most Venerable Kappitiyagoda Siriwimalabhidhana Anunayaka Thero who passed away on 2026-10-18 is scheduled to be held on 2026-10-21, at the Gatambe Municipal Council Grounds. The joint proposal made by the Minister of Public Administration, Provincial Councils and Local Government; and the Minister of Buddhasasana, Religious and Cultural Affairs to conduct the said cremation ceremony under state patronage, was approved by the Cabinet."
   }
 }
