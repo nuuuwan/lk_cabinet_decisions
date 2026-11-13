@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-11-13 06:39:23",
-  "n_docs": 11202,
+  "time_updated": "2026-11-13 18:39:25",
+  "n_docs": 11212,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-11-02",
-  "dataset_size": 143938396,
+  "date_str_max": "2026-11-09",
+  "dataset_size": 143977554,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-11-02-014-en",
-    "num": "14",
-    "date_str": "2026-11-02",
-    "description": "Rehabilitation of road Infrastructure damaged due to the cyclone Ditwah",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14323",
+    "doc_id": "2026-11-09-010-en",
+    "num": "10",
+    "date_str": "2026-11-09",
+    "description": "Submission of the Veterinary Surgeons and Practitioners (Infamous Conduct) Regulations, No.1 of 2025, to Parliament for approval",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14334",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-02 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Bids have been invited, following the national competitive procurement method, for the selection of contractors to rehabilitate and improve several road sections damaged by the Cyclone 'Ditwah'. Based on the recommendations submitted by the High Level Procurement Committees following the evaluation of the bids so received, the Cabinet approved the proposals made by the Minister of Transport, Highways, and Urban Development to award the said contracts to the substantially responsive lowest bidders, as follows:"
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-09 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- The Veterinary Surgeons and Practitioners Act, No.46 of 1956 was introduced with a view to establishing a legal framework for the registration of veterinary surgeons and practitioners in Sri Lanka, defining their professional qualifications, and establishing the Sri Lanka Veterinary Council to regulate the veterinary profession. The Regulations published through the Gazette Extraordinary Notification No.2470/12 dated 2026-01-05, have been made with the objective of empowering the Sri Lanka Veterinary Council to define professional misconduct including acts or omissions constituting misuse of position falling under the category of 'Infamous Conduct'; establish a mechanism for appointing 'Inquiry Boards' to investigate such conduct; and impose penalties on offenders, including temporary suspension of registration, cancellation of registration and issuance of warnings. Accordingly, the Cabinet approved the proposal made by the Minister of Agriculture, Livestock, Land, and Irrigation to present the 'Veterinary Surgeons and Practitioners (Infamous Conduct) Regulations, No.1 of 2025 so published, to Parliament for approval."
   }
 }
