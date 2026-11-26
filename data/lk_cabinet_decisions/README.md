@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Cabinet Decisions `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_06:40:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_18:39:40-green)
 
 [https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions)
 
 A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.
 
-- [**11,228** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**144.1 MB**), from **2010-09-27** to **2026-11-16**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
+- [**11,236** documents](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions) (**144.2 MB**), from **2010-09-27** to **2026-11-23**, scraped from [https://www.cabinetoffice.gov.lk](https://www.cabinetoffice.gov.lk)
 
 - In **JSON**, **TXT** (92%) & **🤗 Hugging Face** (92%)
 
@@ -19,14 +19,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 ```json
 {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-11-16-016-en",
-    "num": "16",
-    "date_str": "2026-11-16",
-    "description": "Designating a Business as a Primary Business of Strategic Importance under the provisions of the Colombo Port City Economic Commission Act",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14350",
+    "doc_id": "2026-11-23-008-en",
+    "num": "8",
+    "date_str": "2026-11-23",
+    "description": "Amendment to the National Institute of Language Education and Training Act, No.26 of 2007",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14358",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-16 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval was granted at the Cabinet meeting held on 2026-09-14 to designate Prime Melwa (Private) Limited as a Primary Business of Strategic Importance, under the provisions of the Colombo Port City Economic Commission Act,                  No.11 of 2021. Accordingly, an Order has been published through the Gazette Extraordinary Notification No.2507/47 dated 2026-09-23, designating Prime Melwa (Private) Limited as a Primary Business of Strategic Importance, enabling to grant the relevant tax exemptions and incentives. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the said Order in Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-23 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- As per the provisions of the National Institute of Language Education and Training Act No.26 of 2007, the incumbent Secretaries of the Ministries in charge of the subjects of Education, Public Administration, Finance, and Constitutional Affairs and National Integration serve as ex-officio members of the Management Board of the National Institute of Language Education and Training. However, it has been observed that, due to the heavy workload of these officials, practical difficulties arise regarding their participation in the monthly meetings of the Management Board. Therefore, the Cabinet approved proposal made by the Minister of Justice and National Integration to instruct the Legal Draftsman to prepare a Bill to amend the relevant sections of the National Institute of Language Education and Training Act, No.26 of 2007, enabling to make provisions for the appointment of ex-officio members to the said Management Board in a manner that minimizes such difficulties."
 }
 ```
 
@@ -41,6 +41,14 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 
 ## 🆕 20 Latest documents
 
+- 2026-11-23 | `8` | Amendment to the National Institute of Language Education and Training Act, No.26 of 2007 | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-008-en)
+- 2026-11-23 | `7` | Construction of a new building complex for the Puttalam District Secretariat | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-007-en)
+- 2026-11-23 | `6` | Procurement for the supply of 2,700,000 vials of Biphasic Isophane Insulin Injection (Human) BP, 1000 IU in 10ml (30% soluble 70% Isophane) | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-006-en)
+- 2026-11-23 | `5` | Procurement for the supply of 920,000 prefilled syringes/vials of Enoxaparin Sodium Injection, 4000IU in 0.4ml | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-005-en)
+- 2026-11-23 | `4` | Construction of a Six-Storey Building for the Base Hospital, Puttalam | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-004-en)
+- 2026-11-23 | `3` | Awarding of the contract for the Construction Project of the Faculty of Medicine of the Uva Wellassa University of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-003-en)
+- 2026-11-23 | `2` | Memorandum of Understanding (MoU) on Cooperation in Capacity Building between His Majesty’s Revenue and Customs of the United Kingdom of Great Britain and Northern Ireland and the Sri Lanka Customs | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-002-en)
+- 2026-11-23 | `1` | Obtaining assistance of the OPEC Fund for International Development for the implementation of the Sri Lanka Reform for Growth, Resilience and Openness Development Policy Operation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-23-001-en)
 - 2026-11-16 | `16` | Designating a Business as a Primary Business of Strategic Importance under the provisions of the Colombo Port City Economic Commission Act | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-016-en)
 - 2026-11-16 | `15` | Implementation of the Climate-Resilient Sustainable Water Supply and Sanitation Project | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-015-en)
 - 2026-11-16 | `14` | Appointment to the Post of Director General of the Department of Government Factory | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-014-en)
@@ -53,14 +61,6 @@ A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabin
 - 2026-11-16 | `7` | Awarding contracts for the rehabilitation and improvement of roads under the Rural Road Programme | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-007-en)
 - 2026-11-16 | `6` | Execution of the Road Section from Kahathuduwa to Ingiriya, which is the Phase I of the Ruwanpura Expressway, under 11 contract packages | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-006-en)
 - 2026-11-16 | `5` | Strengthening meaningful youth participation in environmental processes and environmental education | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-005-en)
-- 2026-11-16 | `4` | Establishment of the National Nuclear Security Coordination Committee | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-004-en)
-- 2026-11-16 | `3` | Establishment of the Bangladesh-Sri Lanka Joint Consultative Commission for Comprehensive Cooperation between the Government of Bangladesh and the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-003-en)
-- 2026-11-16 | `2` | Entering into Memoranda of Understanding/Agreement between Sri Lankan Universities and Foreign Universities for the purpose of Educational Cooperation | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-002-en)
-- 2026-11-16 | `1` | Establishment of the National Commission on Research and Development and its affiliated Office | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-16-001-en)
-- 2026-11-09 | `10` | Submission of the Veterinary Surgeons and Practitioners (Infamous Conduct) Regulations, No.1 of 2025, to Parliament for approval | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-09-010-en)
-- 2026-11-09 | `9` | Construction of a new railway bridge across the Mahaweli River between Sarasavi Uyana and Peradeniya of the Matale railway line | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-09-009-en)
-- 2026-11-09 | `8` | Widening of National Highways and reconstruction of road infrastructure facilities | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-09-008-en)
-- 2026-11-09 | `7` | Obtaining financial assistance for the Sector Development Programme (Sub‑programme 1) on Building a Strong and Inclusive Financial Ecosystem for Micro, Small and Medium-Sized Enterprises | [data](https://github.com/nuuuwan/lk_cabinet_decisions/tree/data/data/lk_cabinet_decisions/2020s/2026/2026-11-09-007-en)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_cabinet_decisions",
   "doc_class_emoji": "\ud83c\udfdb\ufe0f",
   "doc_class_description": "A Sri Lanka Cabinet Decision is an official policy or action agreed by the Cabinet of Ministers, shaping governance, law, and national development in the country.",
-  "time_updated": "2026-11-26 06:40:34",
-  "n_docs": 11228,
+  "time_updated": "2026-11-26 18:39:34",
+  "n_docs": 11236,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 10385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-09-27",
-  "date_str_max": "2026-11-16",
-  "dataset_size": 144140306,
+  "date_str_max": "2026-11-23",
+  "dataset_size": 144162613,
   "url_source_list": [
     "https://www.cabinetoffice.gov.lk"
   ],
@@ -22,13 +22,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_cabinet_decisions",
-    "doc_id": "2026-11-16-016-en",
-    "num": "16",
-    "date_str": "2026-11-16",
-    "description": "Designating a Business as a Primary Business of Strategic Importance under the provisions of the Colombo Port City Economic Commission Act",
-    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14350",
+    "doc_id": "2026-11-23-008-en",
+    "num": "8",
+    "date_str": "2026-11-23",
+    "description": "Amendment to the National Institute of Language Education and Training Act, No.26 of 2007",
+    "url_metadata": "https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=14358",
     "lang": "en",
-    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-16 (Subject to Confirmation at the next Meeting)",
-    "decision_details_body": "- Approval was granted at the Cabinet meeting held on 2026-09-14 to designate Prime Melwa (Private) Limited as a Primary Business of Strategic Importance, under the provisions of the Colombo Port City Economic Commission Act,                  No.11 of 2021. Accordingly, an Order has been published through the Gazette Extraordinary Notification No.2507/47 dated 2026-09-23, designating Prime Melwa (Private) Limited as a Primary Business of Strategic Importance, enabling to grant the relevant tax exemptions and incentives. The proposal made by the Hon. President in his capacity as the Minister of Finance, Planning and Economic Development to present the said Order in Parliament for approval, was approved by the Cabinet."
+    "decision_details_title": "Press briefing of Cabinet Decision taken on 2026-11-23 (Subject to Confirmation at the next Meeting)",
+    "decision_details_body": "- As per the provisions of the National Institute of Language Education and Training Act No.26 of 2007, the incumbent Secretaries of the Ministries in charge of the subjects of Education, Public Administration, Finance, and Constitutional Affairs and National Integration serve as ex-officio members of the Management Board of the National Institute of Language Education and Training. However, it has been observed that, due to the heavy workload of these officials, practical difficulties arise regarding their participation in the monthly meetings of the Management Board. Therefore, the Cabinet approved proposal made by the Minister of Justice and National Integration to instruct the Legal Draftsman to prepare a Bill to amend the relevant sections of the National Institute of Language Education and Training Act, No.26 of 2007, enabling to make provisions for the appointment of ex-officio members to the said Management Board in a manner that minimizes such difficulties."
   }
 }
